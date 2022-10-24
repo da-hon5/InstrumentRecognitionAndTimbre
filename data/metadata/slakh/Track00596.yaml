@@ -1,0 +1,124 @@
+UUID: fdc11ab7be538c86c79accdf9405081e
+audio_dir: Track00596/stems
+lmd_midi_dir: lmd_matched/T/X/G/TRTXGLV128F92E3EA2/fdc11ab7be538c86c79accdf9405081e.mid
+midi_dir: Track00596/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17196382788854206
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.294145172622986
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.291807405074337
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.291824715081543
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 37
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.291824436839484
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.291917213452706
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.291187456581042
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 2
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -28.291933033079946
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: cello_ensemble.nkm
+    program_num: 42
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.29193299769391
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S08:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 2 (soundtrack)
+    midi_saved: false
+    plugin_name: None
+    program_num: 97
+  S09:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -28.29191298282471
+    is_drum: false
+    midi_program_name: Viola
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 41
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.291696214571324
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.291886835412516
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S12:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+target_peak: -1.0

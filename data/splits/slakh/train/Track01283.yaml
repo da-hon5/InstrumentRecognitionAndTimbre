@@ -1,0 +1,187 @@
+UUID: 8dd930fbc52d1f09941da596573f9097
+audio_dir: Track01283/stems
+lmd_midi_dir: lmd_matched/L/N/E/TRLNETB128F429215B/8dd930fbc52d1f09941da596573f9097.mid
+midi_dir: Track01283/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15980018909544796
+stems:
+  S00:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.914251028886815
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 74
+  S01:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.908661698327794
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S02:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.26602962812021
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S03:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.912115161668943
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S04:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.05945499765353
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 94
+  S05:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.638128640825496
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.666620797071
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S08:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.180895628012927
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S09:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.788666170615942
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S10:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.249823074037225
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S11:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Pipe
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 74
+  S12:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.679826088281844
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 74
+  S13:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.067056620208163
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 74
+  S14:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.396045157072676
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 74
+target_peak: -1.0

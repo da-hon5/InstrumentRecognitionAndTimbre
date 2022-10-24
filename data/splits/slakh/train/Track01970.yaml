@@ -1,0 +1,188 @@
+UUID: aa1ccd374f05329ac8eec459bc8ed76a
+audio_dir: Track01970/stems
+lmd_midi_dir: lmd_matched/B/P/E/TRBPETA128F92FDDA6/aa1ccd374f05329ac8eec459bc8ed76a.mid
+midi_dir: Track01970/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22949580232957312
+stems:
+  S00:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S01:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.786104292821594
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S02:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.78608767719072
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S03:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: clean
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.786112585544615
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S04:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.786190498285524
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S05:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.786104545906415
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.786074334132504
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S07:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -25.786081176156866
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 88
+  S08:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.786091213123346
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S09:
+    ++CLASS++: sax
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -25.786103179739225
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S10:
+    ++CLASS++: sax
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -25.786086818961405
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S11:
+    ++CLASS++: unknown
+    ++FAMILY++: brass
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -25.78609685757532
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S12:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.78605576976889
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S13:
+    ++CLASS++: other
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.786103109342644
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 22
+  S14:
+    ++CLASS++: other
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.78147253182588
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 22
+target_peak: -1.0

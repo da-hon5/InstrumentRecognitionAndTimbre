@@ -1,0 +1,188 @@
+UUID: bae0b77e929af390710b45269bcc0f38
+audio_dir: Track01028/stems
+lmd_midi_dir: lmd_matched/R/K/D/TRRKDBE128F427F3EF/bae0b77e929af390710b45269bcc0f38.mid
+midi_dir: Track01028/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15383706408339526
+stems:
+  S00:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.259214450270452
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 74
+  S01:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.25861277812767
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S02:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.257965532206775
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S03:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.262035990854972
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S04:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.257520140558636
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 94
+  S05:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.257917191306735
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.261244074518984
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S08:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.25925296771308
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S09:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.259209329238058
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S10:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.25920653496163
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S11:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.25758831241919
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 74
+  S12:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.25750983724465
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 74
+  S13:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.257379776374695
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 74
+  S14:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.259212847094776
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 74
+target_peak: -1.0

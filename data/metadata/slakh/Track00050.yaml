@@ -1,0 +1,116 @@
+UUID: 1f5f91329bbc8c07d36643a8b86db0ad
+audio_dir: Track00050/stems
+lmd_midi_dir: lmd_matched/V/R/Y/TRVRYKZ128E07922E3/1f5f91329bbc8c07d36643a8b86db0ad.mid
+midi_dir: Track00050/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20044469640982832
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.546040763631993
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.61180302150987
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.31564288073982
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 82
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.469605251030494
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.479154882078966
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.692531419093246
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.31717965181565
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.160310852530863
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.32949922028127
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.03252173357245
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 90
+  S10:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S11:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -14.47814218626054
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: glockenspiel_essential.nkm
+    program_num: 9
+target_peak: -1.0

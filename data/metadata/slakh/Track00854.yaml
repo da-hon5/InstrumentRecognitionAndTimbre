@@ -1,0 +1,144 @@
+UUID: 91b6c390ce754adfd5d2d18adc5787ca
+audio_dir: Track00854/stems
+lmd_midi_dir: lmd_matched/K/U/J/TRKUJXY128F4270F37/91b6c390ce754adfd5d2d18adc5787ca.mid
+midi_dir: Track00854/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14459591496474683
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.798057338059824
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 74
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.78714389303634
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.796590494035716
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.798338472154164
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.79593400156777
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 94
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.796209321792222
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.795132930852947
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.797615841684493
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.797430581518075
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.797904329659826
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.79553577845525
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.798095142950075
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 74
+  S12:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.79797487214735
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 74
+  S13:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.795763935163006
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 74
+  S14:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.795921249651226
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 74
+target_peak: -1.0

@@ -1,0 +1,132 @@
+UUID: ca458931889f870cfcbd9029254f16f2
+audio_dir: Track01036/stems
+lmd_midi_dir: lmd_matched/K/I/Q/TRKIQAJ128F92DF680/ca458931889f870cfcbd9029254f16f2.mid
+midi_dir: Track01036/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14729004763490827
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.638962900122785
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.639584685994077
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -29.638858165294184
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 81
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.637945345062608
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.638848654370268
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.639228921625936
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.639263231549393
+    is_drum: false
+    midi_program_name: Shakuhachi
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 77
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.622559672383442
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.622943712050432
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S12:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -29.639226058719526
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+  S13:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.638915519984952
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+target_peak: -1.0

@@ -1,0 +1,81 @@
+UUID: 768a15a791982ebc2ab976bfc7430dab
+audio_dir: Track01517/stems
+lmd_midi_dir: lmd_matched/K/F/Z/TRKFZSF12903CBB709/768a15a791982ebc2ab976bfc7430dab.mid
+midi_dir: Track01517/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21383990834539396
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.240317066154105
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.34599758704117
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.489568390804896
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.915318849112065
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.309406489662425
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.39187002117962
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.35189054414816
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.522462559558353
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+target_peak: -1.0

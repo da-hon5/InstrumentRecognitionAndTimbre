@@ -1,0 +1,96 @@
+UUID: 74ae51f2c7462c8be957d8866c7318b0
+audio_dir: Track01421/stems
+lmd_midi_dir: lmd_matched/N/K/W/TRNKWWC128F932FA78/74ae51f2c7462c8be957d8866c7318b0.mid
+midi_dir: Track01421/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1159543562671629
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.928331333484596
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.561443495830204
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 34
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.26371048646877
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.937762217844288
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.763361973929488
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S05:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S06:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.19019920038905
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.85379595537467
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+target_peak: -1.0

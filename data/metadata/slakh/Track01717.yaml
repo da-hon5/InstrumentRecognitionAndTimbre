@@ -1,0 +1,81 @@
+UUID: 60b638d18d5b351483c1c7d482703847
+audio_dir: Track01717/stems
+lmd_midi_dir: lmd_matched/Q/U/V/TRQUVBW128F1474E9A/60b638d18d5b351483c1c7d482703847.mid
+midi_dir: Track01717/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10595741853561959
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -32.499614778177815
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 18
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.49990620617957
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.49989871469662
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.49990317903385
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.49989057718759
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.499908043887544
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -32.49989205401369
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.493888003194755
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

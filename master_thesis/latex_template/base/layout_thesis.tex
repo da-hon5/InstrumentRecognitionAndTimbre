@@ -1,0 +1,186 @@
+% **************************************************************************************************
+% ** SPSC Report and Thesis Template
+% **************************************************************************************************
+%
+% ***** Authors *****
+% Daniel Arnitz, Paul Meissner, Stefan Petrik
+% Signal Processing and Speech Communication Laboratory (SPSC)
+% Graz University of Technology (TU Graz), Austria
+%
+% ***** Changelog *****
+% 0.2   2010-03-02   title in header now \ShortTitle (before: \DocumentTitle)
+% 0.3   2010-08      minor modifications to caption setup
+% 0.4   2010-09/10   removed changes of \thepart, modified font for \paragraph, minor mod. to captions,
+%                    removed \setlength\parindent{0cm}
+% 0.5   2011-01      caption: aboveskip=8pt,belowskip=8pt, slight modifications to listings
+% 0.6   2011-03-31   modified figure placement ruleset
+% 0.7   2011-04-28   added \emptypage, removed \raggedbottom, returned fig. placement to prev. state
+% 0.8   2011-08-31   fixed modification of \figurename
+% 0.9   2018-08-08   removed top/bottom header/footer lines
+%
+% ***** Todo *****
+%
+% **************************************************************************************************
+
+
+
+% **************************************************************************************************
+% * PAGE
+% **************************************************************************************************
+
+% pagestyle
+\pagestyle{scrheadings}%
+% \setlength\parindent{0cm}% no indentation for first line of new paragraph
+% \raggedbottom% do not try to fill pages
+
+% header and footer size
+\setheadwidth{text}% set header width to textwidth
+\setfootwidth{text}% set footer width to textwidth
+\setheadtopline[textwithmarginpar]{0.5pt}% set up separator lines (greater width than text)
+\setheadsepline[textwithmarginpar]{0.5pt}
+\setfootsepline[textwithmarginpar]{0.5pt}
+\setfootbotline[textwithmarginpar]{0.5pt}
+
+% remove top and bottom lines
+\setheadtopline{0pt}
+\setfootbotline{0pt}
+
+% redefine cleardoublepage...
+\makeatletter
+\renewcommand{\cleardoublepage}{\clearpage\if@twoside\ifodd\c@page\else\thispagestyle{plain}\hbox{}\newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+% ...and define empty double page (e.g., for title sheet)
+\newcommand{\emptydoublepage}{\clearpage\if@twoside\ifodd\c@page\else\thispagestyle{empty}\hbox{}\newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}%
+% ...and also an empty single page
+\newcommand{\emptypage}{\clearpage\thispagestyle{empty}\hbox{}\newpage\if@twocolumn\hbox{}\newpage\fi}%
+\makeatother
+
+% header and footer texts
+\clearscrheadfoot % clear everything
+\KOMAoptions{headlines=1} % header needs two lines here
+% [plain]{actual (scrheadings)}
+\ihead[]{}%
+\ohead[\ShortTitle]{\footnotesize\headmark}%
+\cfoot[\footnotesize\ConfidNote]{\footnotesize\ConfidNote}%
+\ofoot[--~~\pagemark~~--]{--~~\pagemark~~--}%
+
+
+
+% **************************************************************************************************
+% * TEXT
+% **************************************************************************************************
+
+% headlines / table-of-contents
+% \renewcommand{\thepart}{\Alph{part}}% workaround for table of contents (VIII too long)
+\setkomafont{paragraph}{\normalfont\bfseries}
+
+% footnotes
+\renewcommand{\footnotemargin}{1.3 em}% footnote marker to body (default 1.8 em)
+\renewcommand{\hangfootparindent}{0pt}% no indention for footnotes spanning more than one line
+
+% listof... (listoftables, listoffigures, ...)
+% tableof... (tableofcontents, ...)
+\makeatletter
+%\@dottedtocline{level}{indent}{numwidth}{text}{page}% standard
+%\renewcommand\l@part\@dottedtocline{-1}{1.5em}{2.3em}} % ??
+% \renewcommand\l@chapter{\@dottedtocline{0}{1.5em}{2.3em}} % ??
+% \renewcommand\l@section{\@dottedtocline{1}{1.5em}{3.3em}}% {1}{1.5em}{2.3em}
+% \renewcommand\l@subsection{\@dottedtocline{2}{3.8em}{4.2em}}% {2}{3.8em}{3.2em}
+% \renewcommand\l@subsubsection{\@dottedtocline{3}{7.0em}{5.1em}}% {3}{7.0em}{4.1em}
+% \renewcommand\l@paragraph{\@dottedtocline{4}{10em}{6em}}% {4}{10em}{5em}
+% \renewcommand\l@subparagraph{\@dottedtocline{5}{12em}{7em}}% {5}{12em}{6em}
+% \renewcommand\l@figure{\@dottedtocline{1}{1.5em}{3.3em}}% {1}{1.5em}{2.3em}
+\renewcommand\l@table{\l@figure}%
+\renewcommand\l@lstlisting{\l@figure}%
+\renewcommand{\@pnumwidth}{1.85em}% page number width (1.55em)
+\makeatother%
+
+% continuous footnote numbering
+\makeatletter%
+\@removefromreset{footnote}{chapter}%
+\makeatother%
+
+% label items
+\renewcommand{\labelitemi}{\textbullet}%
+\renewcommand{\labelitemii}{$\circ$}%
+\renewcommand{\labelitemiii}{--}%
+\renewcommand{\labelitemiv}{$\mathbf{\cdot}$}%
+
+
+% **************************************************************************************************
+% * FLOATS
+% **************************************************************************************************
+
+% placement
+%    Warning: setting floatpagefraction too high will lead to pictures and text '
+%    moving out of the page when floats HAVE TO be placed (e.g. FloatBarrier)
+\renewcommand{\topfraction}{0.9}% allow nearly full float pages for placement t
+\renewcommand{\bottomfraction}{0.9}% allow nearly full float pages for placement b
+\renewcommand{\floatpagefraction}{0.9}% do not allow half empty float pages for placement p
+\renewcommand{\textfraction}{0.1}% allow little text for h, t, and b placement
+\setcounter{topnumber}{10}% max. floats with placement t per page
+\setcounter{bottomnumber}{10}% max. floats with placement b per page
+\setcounter{totalnumber}{20}% max. floats per page
+\makeatletter%
+\renewcommand{\fps@figure}{hbtp}%
+\renewcommand{\fps@table}{hbtp}%
+\makeatother%
+
+% tables (generic)
+\setlength\minrowclearance{2pt}% for colortbl package
+
+% longtables
+\setlongtables% activate long tables
+\setlength{\LTleft}{\fill}% center longtables
+\setlength{\LTright}{\fill}%
+\setlength{\LTpre}{\medskipamount}%
+\setlength{\LTpost}{\bigskipamount}%
+
+% captions
+\addtokomafont{captionlabel}{\footnotesize\itshape}%
+\addtokomafont{caption}{\footnotesize\itshape}%
+\ifthenelse{\equal{\DocumentLanguage}{en}}{\renewcaptionname{USenglish}{\figurename}{Figure}}{}%
+\ifthenelse{\equal{\DocumentLanguage}{de}}{\renewcaptionname{ngerman}{\figurename}{Abbildung}}{}%
+\captionsetup{%
+format=hang,% hanging captions
+labelformat=simple,% just name and number
+labelsep=colon,% colon and space
+justification=justified,%
+singlelinecheck=true,% center single line captions
+font={footnotesize,it},% font style of label and text
+margin=0.025\textwidth,% margin left/right of the caption (to textwidth)
+indention=0pt,% no further indention (just hanging)
+hangindent=0pt,% no further indention (just hanging)}
+aboveskip=8pt,% same spacing above and...
+belowskip=8pt}% ...below the float (this way tables shouln't be a problem, either)
+
+% code listings
+\lstloadlanguages{VHDL,Matlab,[ANSI]C,Java,[LaTeX]TeX}
+\lstset{%
+%   general
+breaklines=true,% automatically break long lines
+breakatwhitespace=true,% break only at white spaces
+breakindent=1cm,% additional indentation for broken lines
+%   positioning
+linewidth=\linewidth,% set width of whole thing to \linewidth
+xleftmargin=0.1\linewidth,%
+%   frame and caption
+frame=tlrb,% frame the entire thing
+framexleftmargin=1cm,% to include linenumbering into frame
+captionpos=b,% caption at bottom
+%   format parameters
+basicstyle=\ttfamily\tiny,% small true type font
+keywordstyle=\color{black},%
+identifierstyle=\color{black},%
+commentstyle=\color[rgb]{0.45,0.45,0.45},% gray
+stringstyle=\color{black},%
+showstringspaces=false,%
+showtabs=false,%
+tabsize=2,%
+%   linenumbers
+numberstyle=\tiny,%
+numbers=left,%
+numbersep=3mm,%
+firstnumber=1,%
+stepnumber=1,% number every line (0: off)
+numberblanklines=true%
+}

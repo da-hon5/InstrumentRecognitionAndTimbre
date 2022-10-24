@@ -1,0 +1,116 @@
+UUID: 5db3e15bcdaf54d3335900d2aad30034
+audio_dir: Track00014/stems
+lmd_midi_dir: lmd_matched/V/P/R/TRVPRGC128F93241AE/5db3e15bcdaf54d3335900d2aad30034.mid
+midi_dir: Track00014/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15777900804248132
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.0392035574919
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_1.nkm
+    program_num: 56
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.040276335238136
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.039314378618588
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.041300737551207
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -29.038855117235027
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 22
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.039244198435295
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.03897119024511
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -29.04028986417821
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: organ_kh_floeten_1_manual.nkm
+    program_num: 18
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.039719265997476
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.039200001150416
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.040563160368276
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 3
+  S11:
+    audio_rendered: false
+    inst_class: Piano
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+target_peak: -1.0

@@ -1,0 +1,142 @@
+UUID: d619440d116ca9aea67c6470300e48b3
+audio_dir: Track00304/stems
+lmd_midi_dir: lmd_matched/G/Z/D/TRGZDAD128E078F2EC/d619440d116ca9aea67c6470300e48b3.mid
+midi_dir: Track00304/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1757760599779293
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.09910722865238
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 18
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.0994210979616
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 18
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.1002724614456
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.098849473127164
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.09907624333843
+    is_drum: false
+    midi_program_name: Reed Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 20
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.098346213104133
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: cheesy_lead.nkm
+    program_num: 81
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.0997077966775
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.102083793517405
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.09878333159387
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.099135508620034
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.1001166297254
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.099129874662122
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S13:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S14:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.098945908055402
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 90
+target_peak: -1.0

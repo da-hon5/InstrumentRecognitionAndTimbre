@@ -1,0 +1,107 @@
+UUID: 99d64f8d4626b7dbe48dddb2b56ff643
+audio_dir: Track00905/stems
+lmd_midi_dir: lmd_matched/B/C/M/TRBCMYF128F4298D4C/99d64f8d4626b7dbe48dddb2b56ff643.mid
+midi_dir: Track00905/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15878036152011848
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.985889749043107
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.984194773342086
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.984167624126062
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.984245566546363
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.98395904891729
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.984178363600172
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.984402062833194
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S07:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.98426260236514
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.987104808641526
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 82
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.9840779449639
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+target_peak: -1.0

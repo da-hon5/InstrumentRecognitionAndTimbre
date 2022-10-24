@@ -1,0 +1,116 @@
+UUID: 74aadf5236f79abf29aa4990f3069c8d
+audio_dir: Track01775/stems
+lmd_midi_dir: lmd_matched/B/V/R/TRBVRSF128F92D5D2F/74aadf5236f79abf29aa4990f3069c8d.mid
+midi_dir: Track01775/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20905948638692642
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.644084123179164
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.777314264716363
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.707995903221988
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -20.16753608709756
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -18.984829103595754
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 72
+  S05:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.340324396323442
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.616760990466934
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.085759878180305
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 64
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.90739565228871
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.393555542829713
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 67
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.995988909204
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+target_peak: -1.0

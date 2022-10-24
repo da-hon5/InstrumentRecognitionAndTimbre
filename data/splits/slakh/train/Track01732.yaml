@@ -1,0 +1,128 @@
+UUID: aaa6e86881d72743822acf296d22ed87
+audio_dir: Track01732/stems
+lmd_midi_dir: lmd_matched/Q/A/P/TRQAPMG128F9348E69/aaa6e86881d72743822acf296d22ed87.mid
+midi_dir: Track01732/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20160170091554705
+stems:
+  S00:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.175723946541403
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S01:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.943449396875906
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S02:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.16475694039495
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S03:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.35801730397989
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 90
+  S04:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S05:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.55462757452945
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S06:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.460610966870755
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S07:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.30794636720346
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S08:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.332765400575443
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S09:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.157347583198618
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 80
+target_peak: -1.0

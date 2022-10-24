@@ -1,0 +1,105 @@
+UUID: c594d6b01ba4c581d7e6eb8d564e3751
+audio_dir: Track02086/stems
+lmd_midi_dir: lmd_matched/X/O/L/TRXOLRL128F1459C5E/c594d6b01ba4c581d7e6eb8d564e3751.mid
+midi_dir: Track02086/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23128073166629096
+stems:
+  S00:
+    ++CLASS++: flute
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -25.71792310415025
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S01:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.717894423174325
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.71735345948949
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S03:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.71887843075824
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S04:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: clean
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.717365257173924
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.717507352607438
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S06:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: clean
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.71791217936379
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S07:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.717182561958477
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+target_peak: -1.0

@@ -1,0 +1,133 @@
+UUID: 0306611837b68382f634b12a4da422ac
+audio_dir: Track01384/stems
+lmd_midi_dir: lmd_matched/Z/N/S/TRZNSIB128F423A4F8/0306611837b68382f634b12a4da422ac.mid
+midi_dir: Track01384/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20939710892922514
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.57961760851732
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.579633801623327
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 7
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.579547388851434
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.579658917901714
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.5795546927995
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 3
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.579691697920303
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 34
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -26.57963625296545
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_ensemble.nkm
+    program_num: 40
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.579633585072205
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -26.556498281048675
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+  S09:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S10:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.579573622880087
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 34
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.57929400675778
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S13:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.57949527364783
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

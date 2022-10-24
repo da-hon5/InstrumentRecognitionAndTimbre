@@ -1,0 +1,129 @@
+UUID: c529d2171f3f662d47f018cf84aab672
+audio_dir: Track01511/stems
+lmd_midi_dir: lmd_matched/W/J/N/TRWJNAJ128F9340DFF/c529d2171f3f662d47f018cf84aab672.mid
+midi_dir: Track01511/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1921263211142893
+stems:
+  S00:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.32729062488253
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S01:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.327285579106125
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S02:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.326916742956907
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 3
+  S03:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.327290705255844
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S04:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.328660433377774
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S05:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.329130336739425
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S06:
+    ++CLASS++: unknown
+    ++FAMILY++: brass
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.327304434061727
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S07:
+    ++CLASS++: trumpet
+    ++FAMILY++: brass
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.327279699716783
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 56
+  S08:
+    ++CLASS++: sax
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.32869094547471
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: baritone_sax_vintage_solo.nkm
+    program_num: 67
+  S09:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.32775817023535
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

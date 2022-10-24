@@ -1,0 +1,72 @@
+UUID: 95b8509159528d9101bb1f020f01e939
+audio_dir: Track01555/stems
+lmd_midi_dir: lmd_matched/W/J/X/TRWJXNO128F42514CA/95b8509159528d9101bb1f020f01e939.mid
+midi_dir: Track01555/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23695605008771242
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.506907058192507
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 6
+  S01:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -25.507171744264888
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 72
+  S02:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -25.50714417627267
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 44
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.506848368906926
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.507487343995564
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 34
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.507604156131475
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.506836429826247
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+target_peak: -1.0

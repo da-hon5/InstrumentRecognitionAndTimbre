@@ -1,0 +1,123 @@
+UUID: d0850f50bfa792d80e1b8b28730cea03
+audio_dir: Track00823/stems
+lmd_midi_dir: lmd_matched/T/L/W/TRTLWWV128F92FA818/d0850f50bfa792d80e1b8b28730cea03.mid
+midi_dir: Track00823/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16321164338679267
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.74438964390605
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S01:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.744240733588274
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.74418776472943
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.746032556799726
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.74426949079934
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.74432135379689
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.74266357426411
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 22
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.744348040565917
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.744375952395764
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.744081074976535
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Applause
+    midi_saved: false
+    plugin_name: None
+    program_num: 126
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+target_peak: -1.0

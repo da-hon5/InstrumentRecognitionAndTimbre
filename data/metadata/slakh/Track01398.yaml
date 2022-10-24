@@ -1,0 +1,107 @@
+UUID: dcfb52b6167bdfd822a93d7d0cf2610f
+audio_dir: Track01398/stems
+lmd_midi_dir: lmd_matched/W/W/V/TRWWVGU128F932D8F3/dcfb52b6167bdfd822a93d7d0cf2610f.mid
+midi_dir: Track01398/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19186287390877999
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.591813078605702
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S01:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.836355139450273
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.816642997062242
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.87594664281173
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.709371835855666
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 34
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.130850980254095
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -15.3282429107915
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: celesta.nkm
+    program_num: 14
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.431254905455663
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 88
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.79590580011158
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 94
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.80694180533631
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+target_peak: -1.0

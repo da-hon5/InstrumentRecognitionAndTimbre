@@ -1,0 +1,63 @@
+UUID: 0fc7d28e941592d810efc61ae8c0691a
+audio_dir: Track00349/stems
+lmd_midi_dir: lmd_matched/J/K/T/TRJKTLA128F4278F47/0fc7d28e941592d810efc61ae8c0691a.mid
+midi_dir: Track00349/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17076975050856957
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.3533840270194
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.35216878793617
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.353094072240264
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.35324163832005
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.352961387314124
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.353170143365332
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+target_peak: -1.0

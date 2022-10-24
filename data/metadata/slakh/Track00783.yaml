@@ -1,0 +1,98 @@
+UUID: dabdc04c5da6722e74897bda8784c54a
+audio_dir: Track00783/stems
+lmd_midi_dir: lmd_matched/F/M/O/TRFMOOB128E078C52B/dabdc04c5da6722e74897bda8784c54a.mid
+midi_dir: Track00783/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13083099828108383
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.666705688388394
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.66281253004164
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.662018683485183
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.662824811239954
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.66260708408628
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S05:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.665115775094275
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -30.66512578004173
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -30.662252911206053
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.665200051345447
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+target_peak: -1.0

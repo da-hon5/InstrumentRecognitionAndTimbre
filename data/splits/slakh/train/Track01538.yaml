@@ -1,0 +1,117 @@
+UUID: 80766e19770d68ee8409c102a18b6d9a
+audio_dir: Track01538/stems
+lmd_midi_dir: lmd_matched/C/D/T/TRCDTIN128F92E9CD6/80766e19770d68ee8409c102a18b6d9a.mid
+midi_dir: Track01538/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18738367222884686
+stems:
+  S00:
+    ++CLASS++: clarinet
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -14.068046182809338
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet_essential.nkm
+    program_num: 71
+  S01:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.025506152858533
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S02:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.9276666081465
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S03:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.047766666655379
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S04:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.865692305948125
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    ++CLASS++: other
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -20.721081509295935
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 21
+  S06:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.877433612956
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S07:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.482178567363647
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S08:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.575501859517342
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

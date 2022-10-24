@@ -1,0 +1,57 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Training}{method:training}
+As our multi-track datasets are relatively small, we decided to adopt a two-step approach, often used by researchers if training data is not sufficient. First of all, the models are pre-trained on \textit{MTG-Jamendo}, a large-scale dataset for music tagging (see Section~\ref{sec:method:datasets:jamendo} for more details). After that, we experimented with different transfer learning techniques to adapt the pre-trained models to the target data. The method just presented is examined in more detail in the following sections. Hereafter, all hyperparameters are adopted from~\cite{won2020evaluation} unless specifically stated. As the authors of the aforementioned paper did not work with multi-track data, we have to optimize hyperparameters related to data loading, such as mixing strategy and settings of the digital audio effects (used for data augmentation), ourselves. Results of this hyperparameter optimization are reported in Chapter~\ref{chp:results}.\\
+
+Note that, since we use multi-tracks and the data loading procedure as described in Fig.~\ref{fig:data-loading}, new \textit{random} mixes -- training examples -- are generated on-the-fly. In \gls{ml}, one epoch is known as a complete pass of the training dataset through the neural network. However, in our case, every \enquote{epoch} is different. For this reason, we simply define the transit of 1920 samples (120 batches of size 16) as one epoch. After each epoch, the model is evaluated on the validation set and at the end of training, the model with the lowest validation loss is retained.
+
+\newsubsection{Pre-Training}{method:training:pretraining}
+Music tagging is highly related to multi-instrument recognition, since both tasks are multi-label classification problems. The only difference is, that in music tagging, labels are not limited to instrumentation. In this work, the 50 most popular tags from the music tagging dataset MTG-Jamendo are used for pre-training of the \glspl{cnn}, hence the output layers of our models are required to have 50 neurons. Prior to training, all audio data is downsampled to \SI{32}{\kilo\hertz} and converted to mono. After that, \glspl{cnn} are randomly initialized and trained on MTG-Jamendo for 200 epochs. Binary cross-entropy is utilized as a loss function. The optimization method, a combination of ADAM and SGD, as well as all hyperparameters are borrowed from~\cite{won2020evaluation}\footnote{We explored the hyperparameter space through a random search, but found out that the authors of the paper already optimized all hyperparameters sufficiently.}. Since parameter initialization can have a considerable effect on the final performance of a model, training is repeated several times with different seeds for the random number generator. Thereafter, all models are evaluated and the best performing one, regarding \gls{rocauc} and \gls{prauc}, is kept as a starting point for transfer learning.
+
+\newsubsection{Transfer Learning -- Training of the Classifier}{method:training:transfer-learning}
+Transfer Learning is the procedure of applying knowledge gained from solving one task to another, related task~\cite{tan2018survey}. \Glspl{cnn} typically learn general concepts -- like detecting edges or simple shapes -- in the earlier layers and increasingly more complex, task-specific concepts in the later layers. Therefore, the first convolutional layers can easily be reused for a similar task. If source and target task are very related, such as music tagging and multi-instrument recognition, even a complete transfer of all convolutional layers can be considered~\cite{ribani2019survey}. In order to train our classifier, we experimented with two transfer learning methods. For both approaches, we first replaced the fully connected layers of the pre-trained models with new, randomly initialized ones. Furthermore, the size of the output layer was adjusted to 15 to suit the target task of predicting eight instrument families and seven explicit instruments, according to the taxonomy proposed in Section~\ref{sec:method:taxonomy}. During training with the multi-track data, we either (1) froze the whole backbone network and only retrained the fully connected layers or (2) allowed the backbone to be learnable as well, but with a smaller learning rate than the fully connected layers. As a third method (3) the entire model is trained with the multi-track data from scratch, i.e. not utilizing the pre-trained weights at all. Strictly speaking, method (3) has nothing to do with transfer learning, nevertheless we use it as a reference to show the benefits of methods (1) and (2). The results of these three experiments are discussed in Section~\ref{sec:results:multi-inst_recognition:transfer-learning}. For all experiments, the ADAM optimizer in combination with a stepwise learning rate scheduler was employed. Binary cross-entropy served as a loss function.
+
+\newsubsection{Transfer Learning II -- Training of the Timbre Estimators}{method:training:feat-pred}
+Since the estimation of timbre descriptors is quite different from music tagging, we did not expect pre-training to be very useful for this task. However, since \glspl{cnn} for music tagging, as well as for timbre estimation, both have to be able to recognize basic patterns in mel-spectrograms, utilizing the pre-trained backbone as a starting point for transfer learning -- instead of random parameter initialization -- does not hurt. For this reason, we studied the three transfer learning methods described in the previous section for the timbre estimators as well (see Section~\ref{sec:results:feat_pred:transfer-learning} for the results). Besides that, we experimented with two different loss functions -- \gls{mse} and \gls{mae} -- and found out that the latter is superior for timbre estimation.\\ 
+
+A challenge when working with multi-output regression is the fact, that each target variable can have a different range of possible values. In our case, magnitudes of distinct timbre descriptors vary greatly. The spectral centroid, for example, is in the order of $10^3$, whereas the zero-crossing rate shows values less then zero. If this fact is ignored, the \gls{mae} would focus on minimizing larger outputs, since their contribution to the total loss predominates. As a consequence, the model's ability to predict smaller variables would be poor. In order to avoid that, all outputs should be approximately in the same order of magnitude. Therefore, standardized targets $\boldsymbol{\psi}^{(l)} = \{ \psi_1^{(l)},...,\psi_M^{(l)} \}$ are computed from the original targets $\boldsymbol{y}^{(l)} = \{ y_1^{(l)},...,y_M^{(l)} \}$ prior to training according to
+\begin{equation}
+\label{eqn:standardization}
+\boldsymbol{\psi}^{(l)} = \frac{\boldsymbol{y}^{(l)} - \boldsymbol{\mu}}{\boldsymbol{\sigma}}.
+\end{equation}
+The mean $\boldsymbol{\mu} = \{ \mu_1,...,\mu_M \}$ and standard deviation $\boldsymbol{\sigma} = \{ \sigma_1,...,\sigma_M \}$ of the training set are approximated as
+\begin{equation}
+\boldsymbol{\mu} \approx \frac{1}{L} \sum_{l=1}^{L} \boldsymbol{y}^{(l)}
+\end{equation}
+and
+\begin{equation}
+\boldsymbol{\sigma} \approx \sqrt{ \frac{1}{L} \sum_{l=1}^{L} (\boldsymbol{y}^{(l)} - \boldsymbol{\mu}})^2.
+\end{equation}
+Bear in mind that our training set is not fixed, because we randomly produce examples on-the-fly. As a consequence, true mean and standard deviation can only be approximated by taking a sufficient number of samples into account. We chose $L=6000$ for the calculation of $\boldsymbol{\mu}$ and $\boldsymbol{\sigma}$. Note that some timbre descriptors vary a lot across different instrument families or instruments. For instance, the zero-crossing rate tends to be way larger for percussive sounds than for harmonic ones, such as woodwinds. Therefore, $\boldsymbol{\mu}$ and $\boldsymbol{\sigma}$ have to be determined for each class separately. After the targets are standardized, the model's predictions $\boldsymbol{\hat{\psi}}^{(l)}$ will be in the same order of magnitude. Thus, the \gls{mae} loss, as introduced in Section~\ref{sec:method:metrics:regression}, can be computed without certain features being prioritized. In order to map the model's predictions $\boldsymbol{\hat{\psi}}^{(l)}$ back to their original magnitudes $\boldsymbol{\hat{y}}^{(l)}$, Equation~\ref{eqn:standardization} needs to be reversed at inference: 
+\begin{equation}
+\boldsymbol{\hat{y}}^{(l)} = \boldsymbol{\hat{\psi}}^{(l)} \cdot \boldsymbol{\sigma} + \boldsymbol{\mu}.
+\end{equation}
+
+Since each timbre estimator is solely trained with mixes which contain the respective target instrument or family, we end up with different numbers of available songs for each model. In other words, only songs containing the target instrument or family are used to produce mixes to train the respective timbre estimator. Tables~\ref{tab:numb-trainsongs-per-fam} and \ref{tab:numb-trainsongs-per-class} show the number of songs available to train each model. 
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|c|c}
+		& Voice & Perc & Pl-Str & Bow-Str & Wood & Brass & Key & Synth \\ \hline
+		MedleyDB	    & 51    & 76   & 74     & 26       & 18    & 17     & 41  & 28 \\ \hline
+		Mixing Secrets	& 71    & 77   & 69     & 17       & 0    & 3     & 36   & 41 \\ \hline
+		Slakh	        & 538   & 1366  & 1366    & 839     & 698  & 345   & 1366 & 804 \\
+	\end{tabular}
+	\caption{Number of available training songs per dataset for each instrument family.}
+	\label{tab:numb-trainsongs-per-fam}
+\end{table}
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|c}
+		& Singer & Drums & Violin & E-Guitar & A-Guitar & E-Bass & Piano \\ \hline
+		MedleyDB	   & 51     & 70    & 13      & 42       & 24        & 57     & 28 \\ \hline
+		Mixing Secrets & 71     & 72    & 7      & 57       & 28        & 52     & 22 \\ \hline
+		Slakh	       & 538    & 1366   & 56     & 1166      & 747      & 1265    & 847 \\
+	\end{tabular}
+	\caption{Number of available training songs per dataset for each instrument.}
+	\label{tab:numb-trainsongs-per-class}
+\end{table}

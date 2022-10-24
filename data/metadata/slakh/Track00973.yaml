@@ -1,0 +1,72 @@
+UUID: 24bc692b9f186b467e76cd68e913f519
+audio_dir: Track00973/stems
+lmd_midi_dir: lmd_matched/G/B/G/TRGBGVQ128F92CEAA2/24bc692b9f186b467e76cd68e913f519.mid
+midi_dir: Track00973/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.27501965910834786
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.60546118968323
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.826259667128117
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.857685070101372
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.030586251188996
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.463068463269176
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.39286663346376
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.72728186059627
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+target_peak: -1.0

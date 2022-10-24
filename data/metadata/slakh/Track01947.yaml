@@ -1,0 +1,117 @@
+UUID: 469369da1fcc1abca69a04dd4e212a47
+audio_dir: Track01947/stems
+lmd_midi_dir: lmd_matched/G/I/V/TRGIVOZ128F1468FA9/469369da1fcc1abca69a04dd4e212a47.mid
+midi_dir: Track01947/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18204663597200377
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.93592529567186
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.63005609854469
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.757823910433082
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.990939555001095
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 75
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.079965419314703
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.585995400678538
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 34
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.01994155999156
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.384964454738254
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.355621290075016
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.529561213917145
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.590438350436312
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.978901586359422
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 31
+target_peak: -1.0

@@ -1,0 +1,107 @@
+UUID: 6fb6162f23d8f4298d6774df8977ba78
+audio_dir: Track00325/stems
+lmd_midi_dir: lmd_matched/C/M/Q/TRCMQZH12903CC68E8/6fb6162f23d8f4298d6774df8977ba78.mid
+midi_dir: Track00325/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16886201279288016
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.45024163009705
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.450442884141093
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.45039185965714
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.450393490688906
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S04:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.450130082944327
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.45057941779427
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.45035238409621
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S08:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -28.450386474297783
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_hot_tropics.nkm
+    program_num: 11
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.450442823828613
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.450463095080845
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 3
+target_peak: -1.0

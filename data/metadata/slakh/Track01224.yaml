@@ -1,0 +1,89 @@
+UUID: 1279d0826bde3ffdf3723658b4442fd8
+audio_dir: Track01224/stems
+lmd_midi_dir: lmd_matched/T/K/J/TRTKJJS12903CDBBE0/1279d0826bde3ffdf3723658b4442fd8.mid
+midi_dir: Track01224/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22385802688993398
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.587822300388016
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.932219125921055
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.95302790583915
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.665834318114815
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 56
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.484000520987205
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 56
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.471279652667477
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Muted Trumpet
+    midi_saved: true
+    plugin_name: flugelhorn.nkm
+    program_num: 59
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.807787706338896
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.63540308355338
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+target_peak: -1.0

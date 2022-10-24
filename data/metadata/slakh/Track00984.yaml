@@ -1,0 +1,99 @@
+UUID: f0332ab57a2e4bc4885734b5f7a00aef
+audio_dir: Track00984/stems
+lmd_midi_dir: lmd_matched/Q/Q/X/TRQQXZB128E079247D/f0332ab57a2e4bc4885734b5f7a00aef.mid
+midi_dir: Track00984/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13941322829724836
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.114625836678893
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.114151574097203
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.118296116807556
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.11901070238076
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 34
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.11453456308982
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -30.114194529482774
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 85
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.114099353676007
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -30.11440074830796
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 81
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.114309657927624
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 89
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.11409112879995
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+target_peak: -1.0

@@ -1,0 +1,99 @@
+UUID: aab14a403b02ea384b7a5019042a4372
+audio_dir: Track00859/stems
+lmd_midi_dir: lmd_matched/S/L/O/TRSLOXF128F429F09C/aab14a403b02ea384b7a5019042a4372.mid
+midi_dir: Track00859/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1910093852249447
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.910321513270404
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 3
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.286406541571305
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.451818687732363
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -20.398628705835197
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 22
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.813009453179998
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.11011616549118
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.490033813388248
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.229796817285507
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S08:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.017813898832273
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 81
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.915307730381432
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

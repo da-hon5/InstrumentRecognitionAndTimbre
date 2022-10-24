@@ -1,0 +1,181 @@
+album: ''
+artist: MR0902
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR0902_JamesElder_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0902_JamesElder_RAW
+stem_dir: MR0902_JamesElder_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0902_JamesElder_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick.wav
+        instrument: Kick
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 07_Toms.wav
+        instrument: Toms
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: 04_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: MR0902_JamesElder_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 09_SynthPad1.wav
+        instrument: SynthPad
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 14_SynthFX2.wav
+        instrument: SynthFX
+      R03:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 11_SynthFuzz.wav
+        instrument: SynthFuzz
+      R04:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 12_SynthLead.wav
+        instrument: SynthLead
+      R05:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 10_SynthPad2.wav
+        instrument: SynthPad
+      R06:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 13_SynthFX1.wav
+        instrument: SynthFX
+  S03:
+    component: ''
+    filename: 17_ElecGtr3.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 17_ElecGtr3.wav
+        instrument: clean electric guitar
+  S04:
+    component: ''
+    filename: 18_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 18_LeadVox1.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 16_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 16_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 20_LeadVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 20_LeadVox3.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 19_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 19_LeadVox2.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 15_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 15_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 08_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 08_Bass.wav
+        instrument: electric bass
+title: JamesElder
+version: '3.0'
+website: ''

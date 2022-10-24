@@ -1,0 +1,176 @@
+UUID: 3aa69436bc21f4114a067a55c3e5b151
+audio_dir: Track01706/stems
+lmd_midi_dir: lmd_matched/Z/V/R/TRZVRUS128F145963D/3aa69436bc21f4114a067a55c3e5b151.mid
+midi_dir: Track01706/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1553734243837458
+stems:
+  S00:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.173738760500637
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.172909238815606
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S02:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.173777017960173
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 37
+  S03:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.174271575133613
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S04:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.17322488155581
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S05:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S06:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.173958154228224
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S07:
+    ++CLASS++: other
+    ++FAMILY++: percussion
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -29.173310037715293
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: hybrid_keys_hot_tropics.nkm
+    program_num: 14
+  S08:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -29.17256736814513
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 87
+  S09:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.1743133658504
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S10:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.174273186226944
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 89
+  S11:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.167132426837547
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S12:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.17322837872789
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S13:
+    ++CLASS++: flute
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.158536533592997
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+target_peak: -1.0

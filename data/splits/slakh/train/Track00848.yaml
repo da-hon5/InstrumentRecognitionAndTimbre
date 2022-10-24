@@ -1,0 +1,152 @@
+UUID: 0bc0ef6c1e6850f458f302325baf46fc
+audio_dir: Track00848/stems
+lmd_midi_dir: lmd_matched/H/N/D/TRHNDPK128F148C9FC/0bc0ef6c1e6850f458f302325baf46fc.mid
+midi_dir: Track00848/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1408082285499887
+stems:
+  S00:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.02552783539913
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S01:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.02604283019946
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S02:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -30.026363425768263
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 82
+  S03:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.02654059670261
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: clean
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.02436572355309
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.026578037659736
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S06:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.02635463272974
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.02437375626925
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S08:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.02473993044499
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.024454648180466
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 90
+  S10:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S11:
+    ++CLASS++: other
+    ++FAMILY++: percussion
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -30.02655126994093
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: xylophone.nkm
+    program_num: 9
+target_peak: -1.0

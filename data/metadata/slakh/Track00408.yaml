@@ -1,0 +1,125 @@
+UUID: 3085fdabc1038c3b1552f5ef4e31d228
+audio_dir: Track00408/stems
+lmd_midi_dir: lmd_matched/X/D/E/TRXDEDP12903CCEF05/3085fdabc1038c3b1552f5ef4e31d228.mid
+midi_dir: Track00408/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1925613025778045
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.742793429454867
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.280824153017157
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.837019916651247
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.418299532754343
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.1014197894557
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 17
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.5898098136367
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 7
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.926236756039774
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.03352027953008
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.47915641737484
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -23.683490079764155
+    is_drum: false
+    midi_program_name: Xylophone
+    midi_saved: true
+    plugin_name: hybrid_keys_tube_vibraphone.nkm
+    program_num: 13
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.185166136010213
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.248918509056793
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S12:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+target_peak: -1.0

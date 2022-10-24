@@ -1,0 +1,90 @@
+UUID: 108a7f66c778744a75ddec20f5b28f4f
+audio_dir: Track00466/stems
+lmd_midi_dir: lmd_matched/C/N/D/TRCNDOC128F426D498/108a7f66c778744a75ddec20f5b28f4f.mid
+midi_dir: Track00466/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21061212439081164
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.531046667094046
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.53128245989781
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.53135463441957
+    is_drum: false
+    midi_program_name: Church Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 19
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.532292911841257
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 6
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.531403539937063
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.530908769649397
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.531794202708
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.53203477651084
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.532304242623287
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+target_peak: -1.0

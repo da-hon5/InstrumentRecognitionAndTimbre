@@ -1,0 +1,177 @@
+UUID: e437760fbc0d95928f8f9ae4bebe4424
+audio_dir: Track01894/stems
+lmd_midi_dir: lmd_matched/A/I/N/TRAINSE128F14537B6/e437760fbc0d95928f8f9ae4bebe4424.mid
+midi_dir: Track01894/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18496862119440205
+stems:
+  S00:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.879776736679116
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S01:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.917918571000158
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S02:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.214987599187598
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    ++CLASS++: oboe
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.572258852513702
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_ensemble_essential.nkm
+    program_num: 68
+  S04:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.70216772689934
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S05:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.535878096368915
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S06:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.168176399282753
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S07:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.082187311309124
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S08:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.69643892340241
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S09:
+    ++CLASS++: organ
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -20.067111388407316
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 18
+  S10:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.303412418845026
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S11:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.44032245931125
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S12:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: clean
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.52545546468646
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S13:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.76884676130841
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

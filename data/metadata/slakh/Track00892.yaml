@@ -1,0 +1,99 @@
+UUID: 865764d3ef3bd5f3b60eb6a82cbe7dbe
+audio_dir: Track00892/stems
+lmd_midi_dir: lmd_matched/W/K/S/TRWKSUJ128F4277D48/865764d3ef3bd5f3b60eb6a82cbe7dbe.mid
+midi_dir: Track00892/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17996042065040024
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.897292985584432
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.897322979108395
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.89729276528279
+    is_drum: false
+    midi_program_name: Muted Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 59
+  S03:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.894608370149882
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 44
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.89729148180618
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 3
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.89729251765669
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 3
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.897294019655597
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_2.nkm
+    program_num: 56
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.89460760945031
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.897292771416264
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.897289681717492
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

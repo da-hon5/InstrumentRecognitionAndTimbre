@@ -1,0 +1,90 @@
+UUID: 054014c28b2ba33a95c03fbb9f7b95e7
+audio_dir: Track01975/stems
+lmd_midi_dir: lmd_matched/N/E/V/TRNEVHE128F92F273E/054014c28b2ba33a95c03fbb9f7b95e7.mid
+midi_dir: Track01975/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.161458911340631
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.83737962883982
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.83737538852206
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.83738386813458
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 87
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.83737091247227
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.83572013181929
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.837379045470588
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.83737173536652
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.837375255089366
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.824689985355164
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+target_peak: -1.0

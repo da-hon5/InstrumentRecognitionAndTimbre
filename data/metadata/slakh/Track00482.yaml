@@ -1,0 +1,107 @@
+UUID: 09d320dca52eb58000ba6d8f10b881c9
+audio_dir: Track00482/stems
+lmd_midi_dir: lmd_matched/L/Y/E/TRLYEBL128EF3420AD/09d320dca52eb58000ba6d8f10b881c9.mid
+midi_dir: Track00482/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.24154423021720503
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.30956731149744
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.8255411359989
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.370685715205568
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 16
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.638426887568295
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.297786396767524
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.969282929354774
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.140969390085859
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.856717240614776
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.068416073126937
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.659823766984756
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Koto
+    midi_saved: false
+    plugin_name: None
+    program_num: 107
+target_peak: -1.0

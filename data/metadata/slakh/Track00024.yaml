@@ -1,0 +1,107 @@
+UUID: 15581f43db5f2a3d1e942c99a889a34e
+audio_dir: Track00024/stems
+lmd_midi_dir: lmd_matched/S/L/M/TRSLMFQ128F146976B/15581f43db5f2a3d1e942c99a889a34e.mid
+midi_dir: Track00024/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18990838024805543
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.428092844536028
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.42934314422561
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.428834536362697
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.429488863624513
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.42896110013047
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.429191838789794
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 85
+  S06:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.429739923375813
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 18
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.42857871587274
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: upright_bass.nkm
+    program_num: 32
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.42916093736676
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 36
+  S09:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.42928981847292
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+target_peak: -1.0

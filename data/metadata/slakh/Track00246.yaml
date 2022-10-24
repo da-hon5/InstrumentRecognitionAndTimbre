@@ -1,0 +1,178 @@
+UUID: 29b35b3a57b9571d48a7b997c8905f70
+audio_dir: Track00246/stems
+lmd_midi_dir: lmd_matched/E/J/U/TREJUPW128F934B948/29b35b3a57b9571d48a7b997c8905f70.mid
+midi_dir: Track00246/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2089057002102722
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.246115209310455
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.930765933651623
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.565013511720393
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.74290191949398
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.01298455399986
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.575471249785345
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S06:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S07:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.800958315453205
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.67551724659901
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.355874801925365
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.21764168569933
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.66579999956276
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.944837340194354
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S14:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.577578721422274
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet_combi.nkm
+    program_num: 71
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.706127333453011
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S16:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.811841144112172
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S17:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.766775135838206
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet_combi.nkm
+    program_num: 71
+  S18:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -13.26311911786137
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet_combi.nkm
+    program_num: 71
+target_peak: -1.0

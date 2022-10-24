@@ -1,0 +1,204 @@
+UUID: 6401919097b0e6bb0c95a9e407ddda94
+audio_dir: Track00496/stems
+lmd_midi_dir: lmd_matched/X/G/F/TRXGFRE128F14B10AC/6401919097b0e6bb0c95a9e407ddda94.mid
+midi_dir: Track00496/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.230014698544531
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.358780417748582
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.445360127071332
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.39776647452087
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.72794485637538
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.135503642562192
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.13404201812388
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.474837312555312
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.080502284745164
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.655692197964605
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -13.13533969404958
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.51575579475645
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.90603832302169
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.111902757815265
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 31
+  S14:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.659396887552052
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 18
+  S15:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.27365809252566
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 36
+  S16:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.185620137603962
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S17:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S18:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.850319422684187
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S19:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S20:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.889049566628726
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 31
+  S21:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.422223382612717
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

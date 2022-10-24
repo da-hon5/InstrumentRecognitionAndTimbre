@@ -1,0 +1,81 @@
+UUID: a958cd6ac1f1abd158e3d3148241a250
+audio_dir: Track00639/stems
+lmd_midi_dir: lmd_matched/O/K/P/TROKPME128F42A2C77/a958cd6ac1f1abd158e3d3148241a250.mid
+midi_dir: Track00639/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13724449064855546
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.398178622099866
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.622157196778396
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.98642455245947
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 37
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.734575747739374
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.801179514743025
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.818630251683434
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.69707025614427
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 3
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.514131617986134
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+target_peak: -1.0

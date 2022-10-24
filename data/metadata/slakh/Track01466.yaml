@@ -1,0 +1,114 @@
+UUID: 27eafe5868523ea49f2da0fe4b7592ea
+audio_dir: Track01466/stems
+lmd_midi_dir: lmd_matched/O/A/M/TROAMVV128F14917EE/27eafe5868523ea49f2da0fe4b7592ea.mid
+midi_dir: Track01466/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.159082416338938
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.967312313127753
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 36
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.966396403277432
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.964348183732707
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S03:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.96415820534657
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 16
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.967993364946405
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.96399538600534
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S07:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.964081954572105
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.963941244835386
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.96399625763793
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Helicopter
+    midi_saved: false
+    plugin_name: None
+    program_num: 125
+target_peak: -1.0

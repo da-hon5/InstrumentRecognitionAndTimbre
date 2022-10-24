@@ -1,0 +1,72 @@
+UUID: be7bee2735f6c18a98b356e4828f0c26
+audio_dir: Track02095/stems
+lmd_midi_dir: lmd_matched/Z/I/G/TRZIGYO128F4245094/be7bee2735f6c18a98b356e4828f0c26.mid
+midi_dir: Track02095/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1672627961845997
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.533093649026494
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 75
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.53204197253104
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.534778750195105
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.533088967839106
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.531792779694204
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.53199219279049
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.533090905430445
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,599 @@
+album: ''
+artist: MR1103
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1103_Flags_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1103_Flags_RAW
+stem_dir: MR1103_Flags_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1103_Flags_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 08_Tom1.wav
+        instrument: Tom
+      R010:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 26_Cowbell1Near.wav
+        instrument: Cowbell
+      R02:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 17_HandDrum1Mic2.wav
+        instrument: HandDrum
+      R03:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 28_Cowbell2Near.wav
+        instrument: Cowbell
+      R04:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 18_HandDrum1Mic3.wav
+        instrument: HandDrum
+      R05:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 29_Cowbell2Far.wav
+        instrument: Cowbell
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R08:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 16_HandDrum1Mic1.wav
+        instrument: HandDrum
+      R09:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 04_SnareSample.wav
+        instrument: SnareSample
+      R11:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R12:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 19_HandDrum2.wav
+        instrument: HandDrum
+      R13:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick.wav
+        instrument: Kick
+      R14:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 09_Tom2.wav
+        instrument: Tom
+      R15:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 07_DrumsRoom.wav
+        instrument: DrumsRoom
+      R16:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 27_Cowbell1Far.wav
+        instrument: Cowbell
+      R17:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: 05_HiHat.wav
+        instrument: HiHat
+  S02:
+    component: ''
+    filename: MR1103_Flags_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 50_SynthReverse2.wav
+        instrument: SynthReverse
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 49_SynthReverse1.wav
+        instrument: SynthReverse
+      R03:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 53_Synth3.wav
+        instrument: Synth
+      R04:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 54_Synth4.wav
+        instrument: Synth
+      R05:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 52_Synth2.wav
+        instrument: Synth
+      R06:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 51_Synth1.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: MR1103_Flags_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 55_GlitchSFX.wav
+        instrument: GlitchSFX
+      R02:
+        ++CLASS++: trumpet
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 44_TrumpetSFX.wav
+        instrument: TrumpetSFX
+  S04:
+    component: ''
+    filename: 13_DjembeMic4.wav
+    instrument: djembe
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 13_DjembeMic4.wav
+        instrument: Djembe
+  S05:
+    component: ''
+    filename: 39_Trumpet.wav
+    instrument: trumpet
+    raw:
+      R01:
+        ++CLASS++: trumpet
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 39_Trumpet.wav
+        instrument: Trumpet
+  S06:
+    component: ''
+    filename: 46_ElecGtrReverse1.wav
+    instrument: clean electric guitar reverse
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 46_ElecGtrReverse1.wav
+        instrument: clean electric guitar reverse
+  S07:
+    component: ''
+    filename: 33_MarimbaNear.wav
+    instrument: marimba
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 33_MarimbaNear.wav
+        instrument: Marimba
+  S08:
+    component: ''
+    filename: 11_DjembeMic2.wav
+    instrument: djembe
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 11_DjembeMic2.wav
+        instrument: Djembe
+  S09:
+    component: ''
+    filename: 37_AcGtrMic2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        ++CLASS++: a-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 37_AcGtrMic2.wav
+        instrument: acoustic guitar
+  S10:
+    component: ''
+    filename: 40_Trumpet.wav
+    instrument: trumpet
+    raw:
+      R01:
+        ++CLASS++: trumpet
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 40_Trumpet.wav
+        instrument: Trumpet
+  S11:
+    component: ''
+    filename: 23_Claps2Far.wav
+    instrument: claps
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 23_Claps2Far.wav
+        instrument: Claps
+  S12:
+    component: ''
+    filename: 25_Claps3Far.wav
+    instrument: claps
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 25_Claps3Far.wav
+        instrument: Claps
+  S13:
+    component: ''
+    filename: 60_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 60_BackingVox4.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 56_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 56_LeadVox.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 42_Trumpet.wav
+    instrument: trumpet
+    raw:
+      R01:
+        ++CLASS++: trumpet
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 42_Trumpet.wav
+        instrument: Trumpet
+  S16:
+    component: ''
+    filename: 15_Shaker.wav
+    instrument: shaker
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 15_Shaker.wav
+        instrument: Shaker
+  S17:
+    component: ''
+    filename: 22_Claps2Near.wav
+    instrument: claps
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 22_Claps2Near.wav
+        instrument: Claps
+  S18:
+    component: ''
+    filename: 45_Tuba.wav
+    instrument: tub
+    raw:
+      R01:
+        ++CLASS++: tuba
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 45_Tuba.wav
+        instrument: Tub
+  S19:
+    component: ''
+    filename: 20_Claps1Near.wav
+    instrument: claps
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 20_Claps1Near.wav
+        instrument: Claps
+  S20:
+    component: ''
+    filename: 10_DjembeMic1.wav
+    instrument: djembe
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 10_DjembeMic1.wav
+        instrument: Djembe
+  S21:
+    component: ''
+    filename: 58_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 58_BackingVox2.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 21_Claps1Far.wav
+    instrument: claps
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 21_Claps1Far.wav
+        instrument: Claps
+  S23:
+    component: ''
+    filename: 24_Claps3Near.wav
+    instrument: claps
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 24_Claps3Near.wav
+        instrument: Claps
+  S24:
+    component: ''
+    filename: 35_Bass.wav
+    instrument: bass
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 35_Bass.wav
+        instrument: Bass
+  S25:
+    component: ''
+    filename: 14_Tambourine.wav
+    instrument: tambourine
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 14_Tambourine.wav
+        instrument: Tambourine
+  S26:
+    component: ''
+    filename: 57_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 57_BackingVox1.wav
+        instrument: male singer
+  S27:
+    component: ''
+    filename: 34_MarimbaFar.wav
+    instrument: marimba
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 34_MarimbaFar.wav
+        instrument: Marimba
+  S28:
+    component: ''
+    filename: 31_WoodblockClose.wav
+    instrument: woodblock
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 31_WoodblockClose.wav
+        instrument: Woodblock
+  S29:
+    component: ''
+    filename: 38_AcGtrMic3.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        ++CLASS++: a-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 38_AcGtrMic3.wav
+        instrument: acoustic guitar
+  S30:
+    component: ''
+    filename: 12_DjembeMic3.wav
+    instrument: djembe
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 12_DjembeMic3.wav
+        instrument: Djembe
+  S31:
+    component: ''
+    filename: 61_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 61_BackingVox5.wav
+        instrument: male singer
+  S32:
+    component: ''
+    filename: 47_ElecGtrReverse2.wav
+    instrument: clean electric guitar reverse
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 47_ElecGtrReverse2.wav
+        instrument: clean electric guitar reverse
+  S33:
+    component: ''
+    filename: 32_WoodblockFar.wav
+    instrument: woodblock
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 32_WoodblockFar.wav
+        instrument: Woodblock
+  S34:
+    component: ''
+    filename: 62_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 62_BackingVox6.wav
+        instrument: male singer
+  S35:
+    component: ''
+    filename: 59_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 59_BackingVox3.wav
+        instrument: male singer
+  S36:
+    component: ''
+    filename: 30_Anvil.wav
+    instrument: anvil
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 30_Anvil.wav
+        instrument: Anvil
+  S37:
+    component: ''
+    filename: 43_Trumpet.wav
+    instrument: trumpet
+    raw:
+      R01:
+        ++CLASS++: trumpet
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 43_Trumpet.wav
+        instrument: Trumpet
+  S38:
+    component: ''
+    filename: 41_Trumpet.wav
+    instrument: trumpet
+    raw:
+      R01:
+        ++CLASS++: trumpet
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 41_Trumpet.wav
+        instrument: Trumpet
+  S39:
+    component: ''
+    filename: 48_ElecGtrReverse3.wav
+    instrument: clean electric guitar reverse
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 48_ElecGtrReverse3.wav
+        instrument: clean electric guitar reverse
+  S40:
+    component: ''
+    filename: 36_AcGtrMic1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        ++CLASS++: a-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 36_AcGtrMic1.wav
+        instrument: acoustic guitar
+  S41:
+    component: ''
+    filename: 63_BackingVox7.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 63_BackingVox7.wav
+        instrument: male singer
+title: Flags
+version: '3.0'
+website: ''

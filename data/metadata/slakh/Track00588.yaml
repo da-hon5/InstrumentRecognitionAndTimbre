@@ -1,0 +1,97 @@
+UUID: 8d56b5defef6a984d10de38fa61a2cc9
+audio_dir: Track00588/stems
+lmd_midi_dir: lmd_matched/J/T/Z/TRJTZTU128E078F13F/8d56b5defef6a984d10de38fa61a2cc9.mid
+midi_dir: Track00588/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17544853528261503
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.85304515878367
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.12908594413612
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 3
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -22.47675108688184
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet.nkm
+    program_num: 71
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.39713734747921
+    is_drum: false
+    midi_program_name: Bassoon
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 70
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.811012119363262
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S05:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Steel Drums
+    midi_saved: false
+    plugin_name: None
+    program_num: 114
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.86957670550145
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.328376825258253
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.940166777095083
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S09:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Banjo
+    midi_saved: false
+    plugin_name: None
+    program_num: 105
+target_peak: -1.0

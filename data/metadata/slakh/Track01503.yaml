@@ -1,0 +1,63 @@
+UUID: 1bd084239585b50c48f58503d7ad607c
+audio_dir: Track01503/stems
+lmd_midi_dir: lmd_matched/W/Q/Q/TRWQQSA128F4259FB9/1bd084239585b50c48f58503d7ad607c.mid
+midi_dir: Track01503/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19759499829080712
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.085307150109664
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.085081980098476
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.0853950966356
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.086014623752483
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.087484579744682
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.0852550748669
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

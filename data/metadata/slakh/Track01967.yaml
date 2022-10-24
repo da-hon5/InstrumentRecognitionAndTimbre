@@ -1,0 +1,99 @@
+UUID: 70ccce47f9718ea6128ca1246471a428
+audio_dir: Track01967/stems
+lmd_midi_dir: lmd_matched/I/N/N/TRINNUB128F423CC63/70ccce47f9718ea6128ca1246471a428.mid
+midi_dir: Track01967/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19571512355346368
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.925607439290603
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.363524686959659
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -18.394329173396304
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.204249594503555
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.696177236855597
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -12.581375894159061
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -13.971218350883149
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.160836211261232
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.066224734934963
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S09:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.4946289783652
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 17
+target_peak: -1.0

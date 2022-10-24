@@ -1,0 +1,99 @@
+UUID: abe0853530b88d8bdaaefcf5dc790eaf
+audio_dir: Track00723/stems
+lmd_midi_dir: lmd_matched/S/L/O/TRSLOVO128F931BD0E/abe0853530b88d8bdaaefcf5dc790eaf.mid
+midi_dir: Track00723/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19490765699538892
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.20275415518341
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.20275390686737
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.20275521822839
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.202752827453203
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.202756653066384
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.202754144731454
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.200517429565974
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 56
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.195815897719918
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 56
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.202753955814096
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.202754885017953
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+target_peak: -1.0

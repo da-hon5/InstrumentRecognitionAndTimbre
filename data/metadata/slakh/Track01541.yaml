@@ -1,0 +1,90 @@
+UUID: a591e9edfa51b184979e98fdb75527fb
+audio_dir: Track01541/stems
+lmd_midi_dir: lmd_matched/C/E/B/TRCEBUE128F932FF4E/a591e9edfa51b184979e98fdb75527fb.mid
+midi_dir: Track01541/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1819587344059684
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.138480409065444
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.177905639674393
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.22115490652036
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -8.753567176400951
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.516688719394825
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.39472667715646
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.083852047443337
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.545174026412237
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 89
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.09772905865334
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+target_peak: -1.0

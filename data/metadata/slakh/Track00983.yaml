@@ -1,0 +1,144 @@
+UUID: e25a92d00e666f0e72523a81ef9508bb
+audio_dir: Track00983/stems
+lmd_midi_dir: lmd_matched/K/T/D/TRKTDBZ128F92F1268/e25a92d00e666f0e72523a81ef9508bb.mid
+midi_dir: Track00983/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13336492949024797
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.378504635446884
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.72164640618288
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.447264491936398
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -20.07547920225815
+    is_drum: false
+    midi_program_name: Muted Trumpet
+    midi_saved: true
+    plugin_name: trumpet.nkm
+    program_num: 59
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.165676717923475
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.46504780165685
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_section.nkm
+    program_num: 56
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -24.26130184612263
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -21.793835382654745
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_section.nkm
+    program_num: 56
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.652496628813815
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.85630012948937
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -20.812396011621143
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 11
+  S11:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -25.84527026753887
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: hybrid_keys_concert_marimba.nkm
+    program_num: 9
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.60203083515307
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S13:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.044422695141982
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S14:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -13.484948574764243
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 67
+target_peak: -1.0

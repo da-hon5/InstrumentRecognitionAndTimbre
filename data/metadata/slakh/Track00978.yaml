@@ -1,0 +1,89 @@
+UUID: f9c174b2f2c08f9c2794c4f0c5fddfba
+audio_dir: Track00978/stems
+lmd_midi_dir: lmd_matched/P/I/G/TRPIGJX128F427D3DC/f9c174b2f2c08f9c2794c4f0c5fddfba.mid
+midi_dir: Track00978/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15388719150976712
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.453472551375537
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.44052285539743
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 18
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.06589713283955
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S03:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.910893281130457
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.57393990758987
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.921323388370023
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.99594041376623
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.548257250417155
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+target_peak: -1.0

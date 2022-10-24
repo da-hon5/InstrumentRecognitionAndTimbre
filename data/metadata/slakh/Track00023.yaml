@@ -1,0 +1,90 @@
+UUID: a591e9edfa51b184979e98fdb75527fb
+audio_dir: Track00023/stems
+lmd_midi_dir: lmd_matched/C/A/Q/TRCAQXK128F92EB3DA/a591e9edfa51b184979e98fdb75527fb.mid
+midi_dir: Track00023/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20395828047463438
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.780695638130222
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -20.801006984148255
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.5035055696766
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.729797321328709
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.907278833641083
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.279209722592917
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.828014729404533
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.521874010224778
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 89
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.12590137661475
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+target_peak: -1.0

@@ -1,0 +1,144 @@
+album: ''
+artist: AngelsInAmplifiers
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AngelsInAmplifiers_ImAlright_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AngelsInAmplifiers_ImAlright_RAW
+stem_dir: AngelsInAmplifiers_ImAlright_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AngelsInAmplifiers_ImAlright_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 04_Toms.wav
+        instrument: Toms
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_Snare.wav
+        instrument: Snare
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick.wav
+        instrument: Kick
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 03_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 09_AcGtr1.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        ++CLASS++: a-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 09_AcGtr1.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 06_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 06_Bass.wav
+        instrument: electric bass
+  S04:
+    component: ''
+    filename: 07_Piano.wav
+    instrument: piano
+    raw:
+      R01:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 07_Piano.wav
+        instrument: piano
+  S05:
+    component: ''
+    filename: 11_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 11_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 05_Percussion.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 05_Percussion.wav
+        instrument: Percussion
+  S07:
+    component: ''
+    filename: 10_AcGtr2.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        ++CLASS++: a-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 10_AcGtr2.wav
+        instrument: acoustic guitar
+  S08:
+    component: ''
+    filename: 12_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 12_BackingVox1.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 13_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 13_BackingVox2.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 08_ElecGtr.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 08_ElecGtr.wav
+        instrument: distorted electric guitar
+title: ImAlright
+version: '3.0'
+website: ''

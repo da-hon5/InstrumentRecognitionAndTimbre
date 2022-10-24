@@ -1,0 +1,122 @@
+album: ''
+artist: AngelaThomasWade
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: AngelaThomasWade_MilkCowBlues_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: AngelaThomasWade_MilkCowBlues_RAW
+stem_dir: AngelaThomasWade_MilkCowBlues_STEMS
+stems:
+  S01:
+    component: ''
+    filename: AngelaThomasWade_MilkCowBlues_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 04_Overheads.wav
+        instrument: Overheads
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 03_Tom.wav
+        instrument: Tom
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 06_AcGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        ++CLASS++: a-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 06_AcGtr.wav
+        instrument: acoustic guitar
+  S03:
+    component: ''
+    filename: 09_Fiddle.wav
+    instrument: violin
+    raw:
+      R01:
+        ++CLASS++: violin
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 09_Fiddle.wav
+        instrument: violin
+  S04:
+    component: ''
+    filename: 08_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 08_ElecGtr.wav
+        instrument: clean electric guitar
+  S05:
+    component: ''
+    filename: 10_Piano.wav
+    instrument: piano
+    raw:
+      R01:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 10_Piano.wav
+        instrument: Piano
+  S06:
+    component: ''
+    filename: 11_LeadVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 11_LeadVox.wav
+        instrument: female singer
+  S07:
+    component: ''
+    filename: 05_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 05_Bass.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 07_Dobro.wav
+    instrument: dobro
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 07_Dobro.wav
+        instrument: Dobro
+title: MilkCowBlues
+version: '3.0'
+website: ''

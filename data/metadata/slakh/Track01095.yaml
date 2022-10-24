@@ -1,0 +1,89 @@
+UUID: 6e34c21d848ed46b9355f9e4dd17569f
+audio_dir: Track01095/stems
+lmd_midi_dir: lmd_matched/R/U/U/TRRUUCY128F145BFF0/6e34c21d848ed46b9355f9e4dd17569f.mid
+midi_dir: Track01095/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20829300268485448
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.6271692463484
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.627428385984462
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.627267091605596
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.62738759366692
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.627497406483364
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.626964288537252
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 18
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.627481631218455
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.627535814941268
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+target_peak: -1.0

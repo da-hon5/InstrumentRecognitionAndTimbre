@@ -1,0 +1,108 @@
+UUID: dc96f084b821e9d97dcf927d55d47219
+audio_dir: Track00979/stems
+lmd_midi_dir: lmd_matched/H/M/F/TRHMFWJ128EF34A2AB/dc96f084b821e9d97dcf927d55d47219.mid
+midi_dir: Track00979/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19806921808840566
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.063550390889947
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.060774233715065
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.062168303081176
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.06385940065588
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.062117128296293
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.063783493262317
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.06220549086129
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 84
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.063861789432007
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 51
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.06279854341058
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.063983077582694
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 78
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.063642119999873
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 31
+target_peak: -1.0

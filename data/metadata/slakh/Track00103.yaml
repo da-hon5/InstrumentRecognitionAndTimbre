@@ -1,0 +1,114 @@
+UUID: 2ce40905099dadbf3c25573b77e212c9
+audio_dir: Track00103/stems
+lmd_midi_dir: lmd_matched/O/Z/V/TROZVMC128F426C8B2/2ce40905099dadbf3c25573b77e212c9.mid
+midi_dir: Track00103/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.11227286800995868
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.99479531318679
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.993502837098557
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.992707901450895
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S03:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Taiko Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 116
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -31.995314736886343
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: cheesy_lead.nkm
+    program_num: 80
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.994223620147004
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -31.995238498274002
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S08:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Kalimba
+    midi_saved: false
+    plugin_name: None
+    program_num: 108
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.995238663846084
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S10:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -31.99535852350821
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 45
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -31.99219681214942
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 91
+target_peak: -1.0

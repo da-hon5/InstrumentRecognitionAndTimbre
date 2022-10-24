@@ -1,0 +1,125 @@
+UUID: a408639a0ffb84019562cec63fafe8f0
+audio_dir: Track01339/stems
+lmd_midi_dir: lmd_matched/A/A/V/TRAAVUT128F92F74F7/a408639a0ffb84019562cec63fafe8f0.mid
+midi_dir: Track01339/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1738846103863032
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.193087261105585
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.194541388557244
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.19086992998408
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboe_essential.nkm
+    program_num: 68
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.19315551766374
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.193093654709212
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.19281233442129
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.192932197525465
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.19310427022982
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.19309019724877
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.19302280402723
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.19323419504365
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S12:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.193092590533652
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+target_peak: -1.0

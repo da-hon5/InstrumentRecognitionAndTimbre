@@ -1,0 +1,135 @@
+UUID: eb4a853abb0a6be3c4277f79d54ad4ed
+audio_dir: Track01160/stems
+lmd_midi_dir: lmd_matched/F/B/Z/TRFBZDB128F148D7A4/eb4a853abb0a6be3c4277f79d54ad4ed.mid
+midi_dir: Track01160/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20550790838095281
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.645746619673645
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.35329952670851
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 22
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.660192093636486
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.810069103089006
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.85188327121526
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 22
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.59429915971933
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.07890310184938
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.91363263879043
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 18
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.953999077905053
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 17
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.957328631174178
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.30082907313833
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.335119142030265
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 64
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.616725530891053
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.579002371624828
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

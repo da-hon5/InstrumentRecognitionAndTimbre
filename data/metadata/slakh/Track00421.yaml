@@ -1,0 +1,80 @@
+UUID: a1d7522de053f6feae0e23c222084956
+audio_dir: Track00421/stems
+lmd_midi_dir: lmd_matched/J/Q/K/TRJQKMC128F422F7F5/a1d7522de053f6feae0e23c222084956.mid
+midi_dir: Track00421/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1272964118813459
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.514384558965777
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.01026348841096
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.937496159579243
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.22511896099888
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.415301159030808
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 89
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.757231934877673
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.997381779086954
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

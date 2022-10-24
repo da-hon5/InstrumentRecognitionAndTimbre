@@ -1,0 +1,577 @@
+# -------------------------------------------------------------------
+# hierarchical mapping for medleydb, mixing-secrets and slakh dataset
+# -------------------------------------------------------------------
+voice:
+    speaker:
+        female:
+          - female speaker
+        male:
+          - male speaker
+        unknown:
+    singer:
+        female:
+          - female singer
+          - female singer sample
+        male: 
+          - male rapper
+          - male singer
+          - male screamer
+        unknown:
+          - vocalists
+          - backingvox
+          - leadvox
+          - leadvoxdouble
+          - leadvoxdt
+          - Choir Aahs #?
+          - Voice Oohs #?
+          - LeadVoxDouble
+          - SFXVox
+          - LeadVoxDT
+          - SampleChoir
+          - Scream
+          - BackingVox
+          - LeadVox
+    other:
+    unknown:
+
+percussion:
+    drums:
+        kick:
+          - kick drum
+          - KickInside
+          - KickSample
+          - KickFront
+          - KickBack
+          - Drumkit_KickIn
+          - Kick
+          - KickFill
+          - KickOut
+          - Drumkit_KickSub
+          - KickIn
+          - Kicks
+          - KickSub
+          - KickTrigger
+          - Drumkit_KickOut
+        snare:
+          - snare drum
+          - Snare
+          - SnareSample
+          - SnareUp
+          - SnareBottom
+          - Snares
+          - ShareDown
+          - DrumSamples_Snare
+          - SnareTop
+          - SnareMic
+          - SnareRimOD
+          - SnareDown
+          - Sidestick
+          - RimShot
+          - 
+        hihat:
+          - high hat
+          - DrumSamples_HiHat
+          - HiHat
+          - HiHatPedal
+          - Hat
+          - Hihat
+          - HiHatOD_Overheads
+          - HatOpen
+          - HiHatOpen
+          - Drumkit_Hihat
+          - HiHatSample
+          - Hi-Hat
+          - HiHatOD
+          - HatClosed
+          - HatSample
+          - HiHatClosed
+        toms:
+          - toms
+          - Melodic Tom
+          - DrumSamples_Toms
+          - FloorTom
+          - TomHi
+          - Tom
+          - Drumkit_Tom
+          - LowTom
+          - Toms
+          - Tome
+          - TomSample
+          - RackTom
+          - TomLo
+        unknown:
+          - drum machine
+          - drum set
+          - ambience
+          - ambmono
+          - ambstereo
+          - amomono
+          - Drums
+          - DrumsSideR
+          - DrumRoom
+          - DrumsRoomLoFi
+          - SnareFX
+          - DrumsReverb
+          - DrumLoop
+          - CymbalsOD_Overheads
+          - Drumkit_Overheads
+          - KickBeater
+          - BrushKit
+          - DrumsOverhead
+          - DrumsRoom
+          - RoomLoFi
+          - AmoMono
+          - Ambience
+          - Drumkit_SnareMic
+          - SnareRimOD_Overheads
+          - DrumAmb
+          - OverheadsOH Stereo MK
+          - DrumsRoomStereo
+          - Break
+          - Breaks
+          - DrumsRoomMono
+          - Overheads
+          - DrumsSideL
+          - Drumkit_RoomStereo
+          - CymbalsOD_Room
+          - Drumkit_RoomMono
+          - AmbStereo
+          - AmbMono
+          - DrumsAmbience
+          - Rim
+          - 
+    other:
+      - bongo
+      - castanet
+      - chimes
+      - claps
+      - clap
+      - cymbal #?
+      - darbuka
+      - doumbek
+      - glockenspiel
+      - gong
+      - gu
+      - shaker
+      - shakers
+      - tabla
+      - tamb
+      - tambourine
+      - timpani
+      - vibraphone
+      - bells
+      - bombo
+      - bongo
+      - bongos
+      - conga
+      - congas
+      - cunono
+      - djembe
+      - electropercussion #?
+      - guasa
+      - handbells
+      - handclap
+      - malaysiandjembe
+      - maracas
+      - marimba
+      - paliteo
+      - rainstick
+      - rim #?
+      - rimshot #?
+      - roman wardrum
+      - taiko
+      - timbale
+      - triangle
+      - tubularbells
+      - woodblock
+      - Agogo
+      - Glockenspiel
+      - Kalimba
+      - Marimba
+      - Music Box #?
+      - Steel Drums
+      - Taiko Drum
+      - Timpani
+      - Tinkle Bell
+      - Tubular Bells
+      - Vibraphone
+      - Woodblock
+      - Xylophone
+      - guiro
+      - sleigh bells
+      - cowbell
+      - cabasa
+      - Handbells
+      - HandBells
+      - GongRoll
+      - CymbalSample
+      - Timbale
+      - Brushes
+      - Shaker
+      - Tambourine
+      - Tamb
+      - DjembeFX
+      - Handclap
+      - SnareRimOD_Room
+      - Cowbell
+      - Bongos
+      - Sticks
+      - Crash
+      - Congas
+      - DrumSamples_Cymbals
+      - Cymbals
+      - Ride
+      - Claps
+      - ShakerLoop
+      - Maracas
+      - Ride
+      - MalaysianDjembe
+      - Shakers
+      - CymbalRolls
+      - CymbalRoll
+      - ChinaCymbal
+      - Triangle
+      - Rainstick
+      - Clap
+      - Cymbal
+      - HandDrum
+      - Bells
+      - TomRim
+      - FingerCymbals
+      - TubularBells
+      - Bombo
+      - Bongo
+      - Djembe
+      - RomanWarDrum
+      - Sprinkles
+      - Taiko
+      - Daiko
+      - Guasa
+      - Cunono
+      - Paliteo
+    unknown:
+      - percussion
+      - auxiliary percussion
+      - anvil #?
+      - brushes #?
+      - brushkit #?
+      - Percussion
+      - Loop
+      - ElectroPercussion
+      - DrumMic
+      - bass drum
+
+bowed-str:
+    contrabass:
+      - double bass
+      - Contrabass
+    cello:
+    - cello
+    - cello section
+    - cello samples
+    - cellos
+    - Cello
+    - Cellos
+    - Cello samples
+    viola:
+      - viola
+      - viola section
+      - viola samples
+      - violas
+      - Viola
+      - Viola samples
+      - Violas
+    violin:
+      - violin
+      - violin section
+      - violin samples
+      - violins
+      - Violin
+      - Violin samples
+      - Violins
+    other:
+      - erhu
+      - fiddle
+      - Fiddle
+      - 
+    unknown:
+      - string section
+      - stringpad #?
+      - strings_ensemble
+      - strings_soli
+      - strings_staccato
+      - stringspizz
+      - Pizzicato Strings
+      - String Ensemble 1
+      - String Ensemble 2
+      - Tremolo Strings
+      - Spot_HighStrings
+      - Strings_Staccato
+      - Strings
+      - Strings_Soli
+      - Strings_Ensemble
+      - Spot_LowStrings
+      - StringsPizz
+      - StringPad
+
+plucked-str:
+    e-guitar:
+        clean:
+          - clean electric guitar
+          - clean electric guitar samples
+          - Electric Guitar (clean)
+          - Electric Guitar (jazz) #?
+        distorted:
+          - distorted electric guitar
+          - distorted electric guitar samples
+          - Distortion Guitar
+          - Overdriven Guitar
+          - ElecGtrLoop
+        unknown:
+          - gtr #?
+          - Electric Guitar (muted) #?
+          - Guitar harmonics #?
+          - Gtr
+    a-guitar:
+      - acoustic guitar
+      - acousticgtr
+      - Acoustic Guitar (nylon)
+      - Acoustic Guitar (steel)
+      - AcousticGtr
+    e-bass:
+      - electric bass
+      - bass
+      - bass samples
+      - bassdi
+      - basspod
+      - Electric Bass (finger)
+      - Electric Bass (pick)
+      - Fretless Bass
+      - Slap Bass 1
+      - Slap Bass 2
+      - BassPod
+      - Bass samples
+      - BassDI
+    other:
+      - banjo
+      - guzheng
+      - harp
+      - harp sample
+      - harpharmonics
+      - lap steel guitar
+      - liuqin
+      - mandolin
+      - Mandolin
+      - oud
+      - yangqin
+      - zhongruan
+      - dobro
+      - psaltery
+      - sitar
+      - ukelele
+      - Acoustic Bass
+      - Banjo
+      - Dulcimer
+      - Koto
+      - Orchestral Harp
+      - Shamisen
+      - Sitar
+      - Psaltery
+      - Ukelele
+      - Dobro
+      - HarpHarmonics
+      - Harp
+      - harp Sample
+    unknown:
+
+woodwind:
+    sax:
+      - saxophone
+      - alto saxophone
+      - baritone saxophone
+      - soprano saxophone
+      - tenor saxophone
+      - Alto Sax
+      - Baritone Sax
+      - Soprano Sax
+      - Tenor Sax
+      - Saxophone
+    clarinet:
+      - bass clarinet
+      - clarinet
+      - clarinet section
+      - Clarinet
+    flute:
+      - flute
+      - flute section
+      - piccolo
+      - Flute
+      - Piccolo
+    bassoon:
+     - bassoon
+     - Bassoon
+    oboe:
+      - oboe
+      - Oboe
+    other:
+      - bamboo flute
+      - dizi
+      - Bag pipe
+      - Blown Bottle
+      - English Horn
+      - Ocarina
+      - Pan Flute
+      - Recorder
+      - Shakuhachi
+      - Shanai
+      - Whistle
+    unknown:
+
+brass:
+    trumpet:
+      - trumpet
+      - trumpet section
+      - Muted Trumpet
+      - Trumpet
+      - TrumpetSFX
+    trombone:
+      - trombone
+      - trombone section
+      - Trombone
+    horn:
+      - frenchhorn
+      - french horn
+      - french horn section
+      - horn section
+      - horns
+      - French Horn
+      - FrenchHorn
+      - Horns
+    tuba:
+      - tuba
+      - tub
+      - tubas
+      - Tuba
+      - Tub
+      - Tubas
+    other:
+      - euphonium
+      - cornet
+    unknown:
+      - brass section
+      - Brass Section
+      - SampleBrass
+
+key:
+    piano:
+      - piano
+      - tack piano #?
+      - pianodry
+      - Acoustic Grand Piano
+      - Bright Acoustic Piano
+      - Honky-tonk Piano
+      - PianoSFX
+      - PianoDry
+      - Piano
+    e-piano:
+      - electric piano
+      - wurlitzer
+      - Wurlitzer
+      - clavinet
+      - clav
+      - Clavinet
+      - Clav
+      - Electric Grand Piano #?
+      - Electric Piano 1
+      - Electric Piano 2
+      - Rhodes
+    organ:
+      - electronic organ
+      - Church Organ
+      - Drawbar Organ
+      - Percussive Organ
+      - Reed Organ
+      - Rock Organ
+      - Organ
+      - Hammond
+    other: 
+      - accordion
+      - accordian
+      - Accordion
+      - Accordian
+      - harmonica
+      - melodica
+      - Celesta
+      - Harmonica
+      - Harpsichord
+      - Tango Accordion
+    unknown:
+      - keys #?
+      - Keys
+
+synth:
+    unknown:
+      - synthesizer
+      - bass synth
+      - basssub
+      - electrochoir #?
+      - noise #?
+      - pad
+      - subbass
+      - subdrop
+      - transition
+      - Lead 1 (square)
+      - Lead 2 (sawtooth)
+      - Lead 3 (calliope)
+      - Lead 4 (chiff)
+      - Lead 5 (charang)
+      - Lead 6 (voice)
+      - Lead 7 (fifths)
+      - Lead 8 (bass + lead)
+      - Pad 1 (new age)
+      - Pad 2 (warm)
+      - Pad 3 (polysynth)
+      - Pad 4 (choir)
+      - Pad 5 (bowed)
+      - Pad 6 (metallic)
+      - Pad 7 (halo)
+      - Pad 8 (sweep)
+      - Synth Strings 1 #?
+      - Synth Strings 2 #?
+      - Synth Voice #?
+      - SynthFuzz
+      - SynthFX
+      - SynthFill
+      - SynthS
+      - SynthPad
+      - SynthGtr
+      - SynthGtrDI
+      - SynthReverse
+      - SynthChoir
+      - ElectroChoir
+      - SynthsAndSFX
+      - SubDrop
+      - SynthSFX
+      - SynthMel
+      - PadSFX
+      - SynthArp
+      - Pad
+      - SynthStabs
+      - SynthLead
+      - Bass synth
+      - SynthBass
+      - SFXTransition
+      - SynthStrings
+      - SubBass
+      - Synth
+      - BassSub
+      - SynthRiff
+      - SynthLoop
+      - BassSynth
+      - SFXPad
+      - fx/processed sound
+      - SynthDT
+      - Noise
+      - Bass
+      - ElecNoise
+      - GlitchSFX

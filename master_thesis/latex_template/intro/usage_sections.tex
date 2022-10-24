@@ -1,0 +1,21 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Structure of Sections}{intro:sections}
+
+The template provides several pre-defined commands for parts, chapters, sections, subsections, and subsubsections. These commands contain a mandatory argument for the label, and prevent floats (images and tables) to cross part- chapter and section boundaries. \Fref{tab:intro:sections:commands} in \Fref{sec:intro:sections} lists these commands. This is a citation \cite{Mowlaee2016}. LOOL.
+
+\begin{longtable}{l|c|l}
+  \textbf{Command} & \textbf{FloatBarrier} & \textbf{Reference As} \\\hline
+  \verb|\newpart{Title}{label}| & yes & \verb|\fref{part:label}| \\
+  \verb|\newchapter{Title}{label}| & yes & \verb|\fref{chp:label}| \\
+  \verb|\newsection{Title}{label}| & yes & \verb|\fref{sec:label}| \\
+  \verb|\newsubsection{Title}{label}| & no & \verb|\fref{sec:label}| \\
+  \verb|\newsubsubsection{Title}{label}| & no & \verb|\fref{sec:label}| \\
+  \caption{Commands to start new parts, chapters, sections, \dots}
+  \label{tab:intro:sections:commands}
+\end{longtable}
+
+
+
+
+

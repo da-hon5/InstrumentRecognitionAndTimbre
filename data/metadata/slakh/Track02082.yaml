@@ -1,0 +1,98 @@
+UUID: e22e6ff8acad8f6e8f09e9ff4e3cb86a
+audio_dir: Track02082/stems
+lmd_midi_dir: lmd_matched/P/F/T/TRPFTDL128F423C0B8/e22e6ff8acad8f6e8f09e9ff4e3cb86a.mid
+midi_dir: Track02082/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20932473573899663
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.58509060265438
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.585072621085256
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.585059945134027
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.58511159695713
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 6
+  S04:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.586682403336564
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -26.584993422383892
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.582113022099783
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.585024565925856
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.58485811674376
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

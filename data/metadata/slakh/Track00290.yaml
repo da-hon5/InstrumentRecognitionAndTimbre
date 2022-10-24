@@ -1,0 +1,108 @@
+UUID: 9ff4894ed917d19266dab71d8e46bc8b
+audio_dir: Track00290/stems
+lmd_midi_dir: lmd_matched/I/I/U/TRIIUEF128EF35F95B/9ff4894ed917d19266dab71d8e46bc8b.mid
+midi_dir: Track00290/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1888912953499999
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.58675145463165
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.405960619769388
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 91
+  S02:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.472139490011216
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.725172400331587
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.22332551230222
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 34
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.76139590774545
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.566298798763498
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.563581214562525
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.433760949944075
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.828946475225292
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S10:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.967967368961334
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+target_peak: -1.0

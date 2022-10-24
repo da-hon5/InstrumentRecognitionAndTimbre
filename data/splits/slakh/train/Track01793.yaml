@@ -1,0 +1,117 @@
+UUID: 76fc55356fa76a8a7cc5e5e8622464bd
+audio_dir: Track01793/stems
+lmd_midi_dir: lmd_matched/K/U/M/TRKUMTN128F92E17AB/76fc55356fa76a8a7cc5e5e8622464bd.mid
+midi_dir: Track01793/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18521870908893526
+stems:
+  S00:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.357503976162185
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S01:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.02122999608305
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S02:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.851100503815605
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S03:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.56238021377888
+    is_drum: false
+    midi_program_name: Shakuhachi
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 77
+  S04:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -21.434904513070418
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 44
+  S05:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.848786467100954
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S06:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.713271914434984
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S07:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: clean
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.403154138917966
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S08:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.42379208482919
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+target_peak: -1.0

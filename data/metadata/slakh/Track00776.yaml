@@ -1,0 +1,117 @@
+UUID: 3a10e3f66a7fa8ac6a93cef59b8195fe
+audio_dir: Track00776/stems
+lmd_midi_dir: lmd_matched/V/T/Z/TRVTZRY128F92DF5DF/3a10e3f66a7fa8ac6a93cef59b8195fe.mid
+midi_dir: Track00776/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19694915391844792
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.835330445721784
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.33549014479549
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S02:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -22.457536356886198
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_1.nkm
+    program_num: 56
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.691167086505185
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.59041471492519
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.030940915476352
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.95910033761197
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.22571442153291
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.634639531696653
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.17976439981708
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.1826561134492
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.044773685652476
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+target_peak: -1.0

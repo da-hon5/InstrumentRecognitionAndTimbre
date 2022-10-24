@@ -1,0 +1,116 @@
+UUID: 8c4cd5d64d22e278f94e5d5cc1826b2a
+audio_dir: Track01302/stems
+lmd_midi_dir: lmd_matched/V/Y/W/TRVYWOA128F92F2293/8c4cd5d64d22e278f94e5d5cc1826b2a.mid
+midi_dir: Track01302/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19130048020388257
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.36671561349849
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.36682331081028
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.366747993626184
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.367889902062707
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 22
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.366741623059216
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.36744688397122
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.367242620414732
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S07:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.367442480896194
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.36729048094888
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.36744770636646
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.366578864669698
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+target_peak: -1.0

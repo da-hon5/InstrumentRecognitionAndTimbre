@@ -1,0 +1,161 @@
+UUID: 89dcaa541ad8fec48954d51d038b01ee
+audio_dir: Track00165/stems
+lmd_midi_dir: lmd_matched/E/K/F/TREKFNF128F425A033/89dcaa541ad8fec48954d51d038b01ee.mid
+midi_dir: Track00165/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19593180605240226
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.21382023573894
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.35954495475669
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.952627251770192
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.387941731944546
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.538906629546066
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 34
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.402929136438512
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.924553690607205
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.388537167601115
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.442246863452993
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 90
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.77935110886103
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.16842524155094
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 51
+  S11:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.784103241422633
+    is_drum: false
+    midi_program_name: Blown Bottle
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 76
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.9509482005385
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 81
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.17414808113446
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S14:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.07248718501821
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 6
+  S16:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.361329085756662
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+target_peak: -1.0

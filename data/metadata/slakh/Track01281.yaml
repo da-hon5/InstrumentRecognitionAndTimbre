@@ -1,0 +1,108 @@
+UUID: 9c9b8982a73fac394a5c86fb493e9043
+audio_dir: Track01281/stems
+lmd_midi_dir: lmd_matched/G/J/E/TRGJEWF12903CE3F6C/9c9b8982a73fac394a5c86fb493e9043.mid
+midi_dir: Track01281/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15132336594573575
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.047495035253302
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.12449386017069
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.29896636110174
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.522603028198397
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.224623300063776
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.26002780335606
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.32611515548945
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -21.035231465515917
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 94
+  S08:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -18.440605900731402
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: xylophone_essential.nkm
+    program_num: 11
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.16002595329834
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.888703229770062
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+target_peak: -1.0

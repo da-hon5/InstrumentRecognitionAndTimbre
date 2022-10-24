@@ -1,0 +1,108 @@
+UUID: 69193d1c3e5df54174f95ca7032bba6f
+audio_dir: Track00936/stems
+lmd_midi_dir: lmd_matched/G/E/B/TRGEBAL128F42558DC/69193d1c3e5df54174f95ca7032bba6f.mid
+midi_dir: Track00936/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18189105577346174
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.70889858209617
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.938621468483008
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -21.087086779327493
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.734317805003016
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -23.470065386871795
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_futurebells.nkm
+    program_num: 11
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.477629531821673
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.921351421456013
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.44556557355118
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.34328196973168
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.34522085824061
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 92
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.546735814835742
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 94
+target_peak: -1.0

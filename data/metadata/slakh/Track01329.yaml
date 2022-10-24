@@ -1,0 +1,141 @@
+UUID: 977359f676616b52dc5780f020900cee
+audio_dir: Track01329/stems
+lmd_midi_dir: lmd_matched/G/L/H/TRGLHLG12903CC6CF2/977359f676616b52dc5780f020900cee.mid
+midi_dir: Track01329/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2100003201268589
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.47122481071459
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.636262189580933
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 95
+  S02:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.399130129913342
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.28610932014117
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.513290365554358
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.196867324341717
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.396722811413557
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.55034442359411
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S09:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.31121148060942
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S11:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S12:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -12.863153736661767
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 22
+  S13:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.15424030100605
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 18
+  S14:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.478915257651105
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 87
+target_peak: -1.0

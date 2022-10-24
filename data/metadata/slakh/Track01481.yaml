@@ -1,0 +1,115 @@
+UUID: a19432819c37ba7e2f351f7da5bbce40
+audio_dir: Track01481/stems
+lmd_midi_dir: lmd_matched/R/X/D/TRRXDBG128F428CA1B/a19432819c37ba7e2f351f7da5bbce40.mid
+midi_dir: Track01481/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19188454754302267
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.337579108579597
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -27.338623758237336
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 12
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.338580681660023
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.33775170643489
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.33859396249707
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.338140823610622
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S06:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 6 (goblins)
+    midi_saved: false
+    plugin_name: None
+    program_num: 101
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.336758479594277
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.338899257142085
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.33885899950475
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S10:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.339200938109084
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 21
+target_peak: -1.0

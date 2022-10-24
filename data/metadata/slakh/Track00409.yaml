@@ -1,0 +1,117 @@
+UUID: 01188df4d1f3017240f432bfd0f814f2
+audio_dir: Track00409/stems
+lmd_midi_dir: lmd_matched/O/U/P/TROUPZL128F92D4DC5/01188df4d1f3017240f432bfd0f814f2.mid
+midi_dir: Track00409/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1791154214726471
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.691837886880826
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.576722416593885
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.621167438020024
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.645714754437172
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.903116880072485
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.458140897199025
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.525670972343725
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 85
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.426215243973562
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 22
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.352769176969627
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.55517719301945
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 6
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.65238359561919
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 3
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.125026085917412
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+target_peak: -1.0

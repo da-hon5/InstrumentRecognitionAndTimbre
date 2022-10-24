@@ -1,0 +1,152 @@
+UUID: dea5f988fd0ff4d1ca469384a1a9f350
+audio_dir: Track01205/stems
+lmd_midi_dir: lmd_matched/B/X/C/TRBXCSZ128F428AED4/dea5f988fd0ff4d1ca469384a1a9f350.mid
+midi_dir: Track01205/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23675924878051804
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.67031833096629
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.639347123104844
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.497725435100104
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.465483712928343
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.743956778602392
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.844057151629418
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S06:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.318983372426086
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.813428423792532
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.395954661565632
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.63565362247392
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.714093364275637
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 37
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.567910700966637
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S13:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -19.51894785543527
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.734614849318426
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S15:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.447017876684352
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+target_peak: -1.0

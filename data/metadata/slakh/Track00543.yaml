@@ -1,0 +1,135 @@
+UUID: b43dfac014b48ef13369d2f22fcc1af8
+audio_dir: Track00543/stems
+lmd_midi_dir: lmd_matched/J/V/M/TRJVMAY128EF341CE6/b43dfac014b48ef13369d2f22fcc1af8.mid
+midi_dir: Track00543/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17188559494234448
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.296534905089192
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.296555762217764
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.296554412898022
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 18
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.29634785820301
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 18
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.296557098661214
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.296529782576137
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 22
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.296556900123427
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.296544680423366
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.296558030207542
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.296550270561067
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.29656399396341
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: bass_trombone.nkm
+    program_num: 57
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.296560292862708
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.29658025065996
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.296549642723026
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+target_peak: -1.0

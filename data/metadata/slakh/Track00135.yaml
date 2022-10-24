@@ -1,0 +1,135 @@
+UUID: eee626113d86ce3238bef23a5a2a526e
+audio_dir: Track00135/stems
+lmd_midi_dir: lmd_matched/O/G/M/TROGMKV128F1481551/eee626113d86ce3238bef23a5a2a526e.mid
+midi_dir: Track00135/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1742868166367193
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.17573266634088
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.17591783329577
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.175928707005788
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 22
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.175914297259453
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.17591002886071
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 22
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.175917136189042
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.175921460395262
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.175917557598822
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 18
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.17591288072507
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 17
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.17591842996636
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.17591510760153
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.175920634170055
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 64
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.175914088529403
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.17591712833919
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+target_peak: -1.0

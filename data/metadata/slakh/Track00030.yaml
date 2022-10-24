@@ -1,0 +1,72 @@
+UUID: af38db37260ffcfbd07d309ab979eabe
+audio_dir: Track00030/stems
+lmd_midi_dir: lmd_matched/U/G/X/TRUGXWL128F92E226E/af38db37260ffcfbd07d309ab979eabe.mid
+midi_dir: Track00030/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21678268529076472
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.280355154923893
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.27955540693781
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.279525037011446
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.279589011680123
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.279746978222814
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.279443823553006
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.27941843197763
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+target_peak: -1.0

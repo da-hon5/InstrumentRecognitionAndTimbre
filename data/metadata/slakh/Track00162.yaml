@@ -1,0 +1,99 @@
+UUID: 6cc70d544327b4cebbd65d5ff73a90b7
+audio_dir: Track00162/stems
+lmd_midi_dir: lmd_matched/H/D/T/TRHDTPQ128F147733A/6cc70d544327b4cebbd65d5ff73a90b7.mid
+midi_dir: Track00162/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10303341965095492
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.74254160514498
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 7
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -32.73923482706533
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -32.741863982017875
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 17
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -32.73982159735368
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: guitar_lead.nkm
+    program_num: 87
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.74138848555589
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.740136044268176
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 7
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.74097202523431
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -32.74176323063337
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.741900970153765
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.739132218350626
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

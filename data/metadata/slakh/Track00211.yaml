@@ -1,0 +1,152 @@
+UUID: 6bd70a2cc666194d7d47d64b65c428ff
+audio_dir: Track00211/stems
+lmd_midi_dir: lmd_matched/G/V/I/TRGVIBV128F423971F/6bd70a2cc666194d7d47d64b65c428ff.mid
+midi_dir: Track00211/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13761497024277744
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.63657572043939
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.24659628612069
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.41135225787891
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S03:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.845724186211122
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.629350386216174
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.383936656053695
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.417580291194472
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 37
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.652189435515066
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 16
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.32619940123332
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.02993438735363
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.845251392784224
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.287895139981632
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S13:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.648419585442804
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboe_essential.nkm
+    program_num: 68
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.66829608885391
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.17526751856241
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+target_peak: -1.0

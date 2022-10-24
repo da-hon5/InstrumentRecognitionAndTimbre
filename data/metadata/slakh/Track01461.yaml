@@ -1,0 +1,90 @@
+UUID: 2e67e4c18a0cc8060e3f5e77c4a4ecc9
+audio_dir: Track01461/stems
+lmd_midi_dir: lmd_matched/D/E/N/TRDENGV128F4290306/2e67e4c18a0cc8060e3f5e77c4a4ecc9.mid
+midi_dir: Track01461/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19496274283509046
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -20.406413395260014
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: celesta.nkm
+    program_num: 11
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.247068381263038
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.45872363643031
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.783400231053536
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.31657916361246
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.368569122636835
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.28577659247844
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.748925837971218
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.241881472394308
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+target_peak: -1.0

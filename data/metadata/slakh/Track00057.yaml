@@ -1,0 +1,151 @@
+UUID: 467fc036a556a05c48383aca6456c962
+audio_dir: Track00057/stems
+lmd_midi_dir: lmd_matched/W/R/Z/TRWRZQH128F426C046/467fc036a556a05c48383aca6456c962.mid
+midi_dir: Track00057/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18242429342483713
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.779454227065543
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 80
+  S01:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.779412591423377
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.77932712081785
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S03:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.779469948963804
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 87
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.779429382421085
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.779373583982515
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S07:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 7 (echoes)
+    midi_saved: false
+    plugin_name: None
+    program_num: 102
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.77947609110873
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.77929087926795
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.779478768677922
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.779498196186292
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 17
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.77951010543537
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S13:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.779486888790053
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 18
+  S14:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.779469664814236
+    is_drum: false
+    midi_program_name: Lead 7 (fifths)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 86
+  S15:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -27.779370635378974
+    is_drum: false
+    midi_program_name: Dulcimer
+    midi_saved: true
+    plugin_name: xylophone_essential.nkm
+    program_num: 15
+target_peak: -1.0

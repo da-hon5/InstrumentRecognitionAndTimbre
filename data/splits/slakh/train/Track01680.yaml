@@ -1,0 +1,117 @@
+UUID: 2e67e4c18a0cc8060e3f5e77c4a4ecc9
+audio_dir: Track01680/stems
+lmd_midi_dir: lmd_matched/E/W/D/TREWDZJ128F92DC84F/2e67e4c18a0cc8060e3f5e77c4a4ecc9.mid
+midi_dir: Track01680/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.11788935365983272
+stems:
+  S00:
+    ++CLASS++: other
+    ++FAMILY++: percussion
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -18.8047641205683
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 11
+  S01:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -14.609247941359305
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S02:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.593143721533107
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S03:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.7611948766983
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S04:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.72458716169452
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.52130832343867
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S06:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.631443665247332
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S07:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.236837418769515
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S08:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.241881496112303
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+target_peak: -1.0

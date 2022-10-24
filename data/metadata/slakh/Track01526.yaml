@@ -1,0 +1,99 @@
+UUID: b4e649dac1f22d10298d36c76f3a1f7f
+audio_dir: Track01526/stems
+lmd_midi_dir: lmd_matched/Y/R/H/TRYRHUH128F427F0B8/b4e649dac1f22d10298d36c76f3a1f7f.mid
+midi_dir: Track01526/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17108347152835596
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.33475026516277
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.33166698870923
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.332383267971753
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.333630250953025
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.333699535557628
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.33366429456328
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.333638325137997
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.33367096908595
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.333640836249867
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S09:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.331597131434865
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 64
+target_peak: -1.0

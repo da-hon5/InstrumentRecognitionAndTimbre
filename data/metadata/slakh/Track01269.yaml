@@ -1,0 +1,117 @@
+UUID: 6b167a9445d1591ce2d2d32578674297
+audio_dir: Track01269/stems
+lmd_midi_dir: lmd_matched/Q/B/H/TRQBHMN128F148AD93/6b167a9445d1591ce2d2d32578674297.mid
+midi_dir: Track01269/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1645335571183737
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.23365655898203
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.643317047655074
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.76554769704541
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.691984479822
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.420576907029858
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -13.918676983267217
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.107884857574394
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.00074251958304
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.47174027118236
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 18
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.491720518537425
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.752398003021874
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.12099775556896
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+target_peak: -1.0

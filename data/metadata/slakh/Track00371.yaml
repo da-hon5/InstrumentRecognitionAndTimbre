@@ -1,0 +1,117 @@
+UUID: 3775ff02878ea8bd61e691bfe1831366
+audio_dir: Track00371/stems
+lmd_midi_dir: lmd_matched/J/Z/M/TRJZMIE128E0794201/3775ff02878ea8bd61e691bfe1831366.mid
+midi_dir: Track00371/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14355045432935692
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.859364218360167
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.859521186811968
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.861632371517448
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.859533356113786
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 6
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.86031478230449
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.859526339785734
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.859475766627224
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.859349168004282
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.85952319340038
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.849464830963775
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -29.859521843803122
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.859428301305275
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+target_peak: -1.0

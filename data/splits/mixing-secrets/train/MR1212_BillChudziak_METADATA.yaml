@@ -1,0 +1,235 @@
+album: ''
+artist: MR1212
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1212_BillChudziak_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1212_BillChudziak_RAW
+stem_dir: MR1212_BillChudziak_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1212_BillChudziak_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 07_Tom3.wav
+        instrument: Tom
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 05_Tom1.wav
+        instrument: Tom
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R08:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 08_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: MR1212_BillChudziak_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 21_SFXPad3.wav
+        instrument: SFXPad
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 20_SFXPad2.wav
+        instrument: SFXPad
+      R03:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 19_SFXPad1.wav
+        instrument: SFXPad
+  S03:
+    component: ''
+    filename: 12_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 12_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 23_LeadVoxDT.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 23_LeadVoxDT.wav
+        instrument: male singer
+  S05:
+    component: ''
+    filename: 22_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 22_LeadVox.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 17_Wurlitzer.wav
+    instrument: wurlitzer
+    raw:
+      R01:
+        ++CLASS++: e-piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 17_Wurlitzer.wav
+        instrument: Wurlitzer
+  S07:
+    component: ''
+    filename: 11_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 11_Bass.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 18_Hammond.wav
+    instrument: electronic organ
+    raw:
+      R01:
+        ++CLASS++: organ
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 18_Hammond.wav
+        instrument: Hammond
+  S09:
+    component: ''
+    filename: 13_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 13_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 09_Room1.wav
+    instrument: main system
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 09_Room1.wav
+        instrument: Main System
+  S11:
+    component: ''
+    filename: 15_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 15_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 24_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 24_BackingVox.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 14_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 14_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 16_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 16_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 10_Room2.wav
+    instrument: main system
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 10_Room2.wav
+        instrument: Main System
+title: BillChudziak
+version: '3.0'
+website: ''

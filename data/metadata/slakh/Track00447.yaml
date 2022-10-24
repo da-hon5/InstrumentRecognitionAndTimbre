@@ -1,0 +1,143 @@
+UUID: ce750e059ca87f8e1087a22a34298809
+audio_dir: Track00447/stems
+lmd_midi_dir: lmd_matched/U/G/Z/TRUGZDN128F932AD78/ce750e059ca87f8e1087a22a34298809.mid
+midi_dir: Track00447/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16545261195416627
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.628203416328855
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.625089287729292
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.62513145797193
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.625916727916287
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.62703767494691
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.625111359818238
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.62703885110464
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 90
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.625047333371725
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_ensemble_essential.nkm
+    program_num: 68
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.62512948677396
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.62522473311296
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.626003552660197
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.62703726080231
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.626388498524772
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.62498240878561
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S14:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 1 (rain)
+    midi_saved: false
+    plugin_name: None
+    program_num: 96
+target_peak: -1.0

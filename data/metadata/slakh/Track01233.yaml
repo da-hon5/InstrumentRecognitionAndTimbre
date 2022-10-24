@@ -1,0 +1,63 @@
+UUID: 31111bd208b6de36eecf377ff18915d3
+audio_dir: Track01233/stems
+lmd_midi_dir: lmd_matched/A/X/Y/TRAXYND128F1452E9F/31111bd208b6de36eecf377ff18915d3.mid
+midi_dir: Track01233/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1942765367118235
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.229833001990297
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.231679060460007
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.229528550261424
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.229394651551765
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.22940482885514
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.22954131754643
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+target_peak: -1.0

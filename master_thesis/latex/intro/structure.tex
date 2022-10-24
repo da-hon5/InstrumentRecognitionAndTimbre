@@ -1,0 +1,11 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Structure of the Thesis}{intro:structure}
+
+At the beginning of this thesis, in Chapter~\ref{chp:fundamentals}, basic concepts, which are a prerequisite and fundamental to understand the following work, are introduced. These fundamentals include an overview of the development of \gls{ir} systems over the last decades. While the earliest algorithms could only cope with single, isolated tones, today's systems can handle multi-instrument scenarios. The main reason for the immense increase of these systems' capability, is the recent advent of deep learning in \gls{mir}. For this reason, a brief introduction to \glspl{cnn}, a popular class of \glspl{dnn}, is given. Additionally, we discuss how timbre and loudness can be \enquote{measured} in an objective way. Therefore, some frequently used timbre descriptors and an algorithm to approximate the subjective loudness of digital audio signals are covered.\\
+
+Subsequently, Chapter~\ref{chp:method} presents the methods which were utilized in this work. In order to combine \gls{ir} and timbre estimation, a two-stage system is proposed. Since our datasets are highly unbalanced and for many classes insufficient training data is available, a hierarchical taxonomy is constructed. After introducing the datasets, we describe how the multi-tracks are used to create new training examples on-the-fly. Furthermore, metrics to evaluate the performance of the models are covered. Finally, our training method, which comprises pre-training followed by transfer learning, is explained.\\
+
+In Chapter~\ref{chp:results}, we report the results of all the experiments we conducted in the course of this work. Besides different transfer learning approaches, the effects of training mixes which are not synchronized in terms of key and tempo are investigated. Lastly, our final models are evaluated and the results are discussed.\\
+
+To conclude the thesis, a summary of the main findings is given and ideas for future research are provided in Chapter~\ref{chp:conclusion}.

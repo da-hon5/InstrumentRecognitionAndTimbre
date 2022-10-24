@@ -1,0 +1,143 @@
+UUID: 59738a5458abde4ef26c6038b1fc6cd8
+audio_dir: Track00763/stems
+lmd_midi_dir: lmd_matched/E/F/Y/TREFYUX128F42B08FE/59738a5458abde4ef26c6038b1fc6cd8.mid
+midi_dir: Track00763/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1855614479067494
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.07572571076865
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.01479949564219
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -14.68943782565974
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboe_essential.nkm
+    program_num: 68
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.724305321181456
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.108794367580396
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.152134765176097
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 34
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.487790481667208
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 36
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.158947769237868
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.080352423898816
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.501392760035253
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.081828205493734
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.62768242771138
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -8.579461871431405
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.723243182427463
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S14:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+target_peak: -1.0

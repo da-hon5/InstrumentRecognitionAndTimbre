@@ -1,0 +1,99 @@
+UUID: f101907faf53868f05170fabda5f535d
+audio_dir: Track00076/stems
+lmd_midi_dir: lmd_matched/A/R/N/TRARNFR12903CD9969/f101907faf53868f05170fabda5f535d.mid
+midi_dir: Track00076/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18814242266223108
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.754354850922308
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.643013457076403
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.741008176291956
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -23.450665378743178
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.465856274065374
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.625347206366257
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.88060958881734
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.04513709800141
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.766092081588118
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 16
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.282205587007358
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+target_peak: -1.0

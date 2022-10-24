@@ -1,0 +1,115 @@
+UUID: b4563ae367fb8d1533b789957794dd36
+audio_dir: Track02034/stems
+lmd_midi_dir: lmd_matched/I/V/S/TRIVSGU128F14592BB/b4563ae367fb8d1533b789957794dd36.mid
+midi_dir: Track02034/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.12744029938622564
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -15.317380961843494
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: tubular_bells_metal.nkm
+    program_num: 10
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.208074789529725
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.621809505071525
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.574361697854403
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.305957964805938
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.055264568640883
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 81
+  S06:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Woodblock
+    midi_saved: false
+    plugin_name: None
+    program_num: 115
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.977759027569622
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 88
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.81939682053043
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.004913915318234
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S10:
+    audio_rendered: false
+    inst_class: Strings (continued)
+    is_drum: false
+    midi_program_name: Orchestra Hit
+    midi_saved: false
+    plugin_name: None
+    program_num: 55
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.146210143281714
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+target_peak: -1.0

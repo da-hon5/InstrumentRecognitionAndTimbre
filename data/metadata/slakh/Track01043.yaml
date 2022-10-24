@@ -1,0 +1,108 @@
+UUID: 905e8173c74cf92b4c0894ff5e967f94
+audio_dir: Track01043/stems
+lmd_midi_dir: lmd_matched/M/E/X/TRMEXWF128F42605F3/905e8173c74cf92b4c0894ff5e967f94.mid
+midi_dir: Track01043/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13156949026320014
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.615861695030365
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.614059650994207
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.614580701767547
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.617151517792905
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.613622778538765
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.59968553813087
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -30.614711854022197
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 74
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.613999306722636
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -30.615601495250793
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_glockenspiel.nkm
+    program_num: 11
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.614579970659474
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 88
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -30.61314218188949
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+target_peak: -1.0

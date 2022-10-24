@@ -1,0 +1,133 @@
+UUID: 6ff034a639037db657026171126c8a8f
+audio_dir: Track00255/stems
+lmd_midi_dir: lmd_matched/J/L/A/TRJLAKC128F92CBA39/6ff034a639037db657026171126c8a8f.mid
+midi_dir: Track00255/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18167411168435257
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.407515636226103
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.331492385140514
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S02:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.370780696966168
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.22331389513948
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.748288813390115
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 82
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.466650333575025
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.11846520113105
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.526904781285214
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.939886122765664
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.576412011506314
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 94
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.01760064893468
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.494314028966985
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

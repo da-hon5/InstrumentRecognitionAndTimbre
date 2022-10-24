@@ -1,0 +1,117 @@
+UUID: 66c8bb3c8599791629824a4f4f45c812
+audio_dir: Track00079/stems
+lmd_midi_dir: lmd_matched/B/I/X/TRBIXDZ128F427E461/66c8bb3c8599791629824a4f4f45c812.mid
+midi_dir: Track00079/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.209215524737432
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.136111254164696
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.739751695237846
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.130938788201536
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 81
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.216121834870474
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.998294146390155
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 81
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.981366446035658
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.986776800086954
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.79264200870739
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.75928438867684
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -23.597263906132802
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S10:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.4412797013639
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 81
+  S11:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -20.585819766798355
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+target_peak: -1.0

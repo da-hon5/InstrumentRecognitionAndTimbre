@@ -1,0 +1,125 @@
+UUID: 0ec39094a923b20531bd0575ed67d943
+audio_dir: Track00832/stems
+lmd_midi_dir: lmd_matched/L/X/P/TRLXPMB128EF342C12/0ec39094a923b20531bd0575ed67d943.mid
+midi_dir: Track00832/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18906504869230922
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.405679782931376
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.314291507708063
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -23.20605334086838
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: cello_solo.nkm
+    program_num: 42
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.101901813593702
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 37
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.185599460101578
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.84302984643609
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.954501815929728
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -20.770441021713403
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 81
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.532147584111108
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.100864896443664
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S10:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.656940995574402
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -20.71802147451851
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 81
+target_peak: -1.0

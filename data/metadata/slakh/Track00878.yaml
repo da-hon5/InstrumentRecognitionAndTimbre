@@ -1,0 +1,116 @@
+UUID: a47598fd700b89caaad2c0157c2dce24
+audio_dir: Track00878/stems
+lmd_midi_dir: lmd_matched/Y/K/O/TRYKOHF128F92CFC62/a47598fd700b89caaad2c0157c2dce24.mid
+midi_dir: Track00878/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20692134930458012
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.683089914755676
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Tinkle Bell
+    midi_saved: false
+    plugin_name: None
+    program_num: 112
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.683150140443967
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.682920767635224
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.682907997076352
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.682232608827544
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.6816104735478
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.68369073725192
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 80
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.681875709238525
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.681757304521852
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 16
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.681989885074707
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.682251349370205
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: flugelhorn.nkm
+    program_num: 56
+target_peak: -1.0

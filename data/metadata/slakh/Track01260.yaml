@@ -1,0 +1,135 @@
+UUID: b0d7b4aadf89fb75cf6835a3d43f57ee
+audio_dir: Track01260/stems
+lmd_midi_dir: lmd_matched/W/G/E/TRWGEIM128EF342BB4/b0d7b4aadf89fb75cf6835a3d43f57ee.mid
+midi_dir: Track01260/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18529165718506055
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.643518236065095
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.643783323797766
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.64377506766045
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.643684792009296
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.64377899038645
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.643349465579607
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.64398743177507
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.64377962525989
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.643645273047365
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.643952592832633
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.64375415737393
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.643764778698092
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S12:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.635190850971828
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: cello_solo.nkm
+    program_num: 42
+  S13:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.64378860405512
+    is_drum: false
+    midi_program_name: Contrabass
+    midi_saved: true
+    plugin_name: double_bass_solo.nkm
+    program_num: 43
+target_peak: -1.0

@@ -1,0 +1,104 @@
+UUID: 47982536f22dbcf1121a8d2e96ec64f3
+audio_dir: Track01918/stems
+lmd_midi_dir: lmd_matched/G/A/K/TRGAKYM128F9306405/47982536f22dbcf1121a8d2e96ec64f3.mid
+midi_dir: Track01918/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.08671141786853664
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.440389884134767
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.79969612424275
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S03:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.91695061313052
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.748515440323466
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.52357558399433
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S08:
+    audio_rendered: false
+    inst_class: Strings
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.033822113123975
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.337397091544474
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 34
+target_peak: -1.0

@@ -1,0 +1,72 @@
+UUID: 2684fdd8f18c701f7ec88c41b14092b4
+audio_dir: Track01594/stems
+lmd_midi_dir: lmd_matched/N/R/X/TRNRXYR128F930497F/2684fdd8f18c701f7ec88c41b14092b4.mid
+midi_dir: Track01594/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21756678448698963
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.285821325439926
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.5505111078659
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.8429076741398
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.870545063473273
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.027884552265881
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.8623291120755
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone.nkm
+    program_num: 57
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.002092569751692
+    is_drum: false
+    midi_program_name: Tuba
+    midi_saved: true
+    plugin_name: tuba.nkm
+    program_num: 58
+target_peak: -1.0

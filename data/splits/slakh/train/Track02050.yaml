@@ -1,0 +1,139 @@
+UUID: 7814b9cbf7499bb40f443e9c8918a358
+audio_dir: Track02050/stems
+lmd_midi_dir: lmd_matched/F/V/R/TRFVRYY128F9305E81/7814b9cbf7499bb40f443e9c8918a358.mid
+midi_dir: Track02050/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22886033913378873
+stems:
+  S00:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.97284078301276
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    ++CLASS++: other
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.275508953672805
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 6
+  S02:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.865935183854788
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S04:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.421878594553148
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S05:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.969451506127985
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S06:
+    ++CLASS++: other
+    ++FAMILY++: percussion
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Strings
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+  S07:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -16.310482707214142
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 45
+  S08:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -14.013544070705882
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: cheesy_lead.nkm
+    program_num: 82
+  S09:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.48599818418803
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S10:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.39692044350193
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+target_peak: -1.0

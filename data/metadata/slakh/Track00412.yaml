@@ -1,0 +1,90 @@
+UUID: acea322fdf39009b496edcbe4bdc6de5
+audio_dir: Track00412/stems
+lmd_midi_dir: lmd_matched/L/C/Q/TRLCQWG128F423289B/acea322fdf39009b496edcbe4bdc6de5.mid
+midi_dir: Track00412/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1946992269894202
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.212194075726156
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.212674077388986
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.20907576090235
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.212538865776143
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.211389047291107
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.212681559214154
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.213340376127643
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.212763290412514
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 88
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.211974050444404
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+target_peak: -1.0

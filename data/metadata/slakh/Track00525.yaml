@@ -1,0 +1,107 @@
+UUID: ce11ec2e87578fd81f8d24783cb09dd4
+audio_dir: Track00525/stems
+lmd_midi_dir: lmd_matched/G/V/X/TRGVXEC128F148ABC4/ce11ec2e87578fd81f8d24783cb09dd4.mid
+midi_dir: Track00525/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18385129660930652
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.623259123323166
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.349974247157729
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.338711861860704
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.128158468059492
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -22.477867342217944
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.1699271437574
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.31449407818878
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.533652067693733
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.089433241224953
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.246865757269074
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+target_peak: -1.0

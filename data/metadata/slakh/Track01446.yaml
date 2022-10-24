@@ -1,0 +1,99 @@
+UUID: 99e3749518bf6f12d7432cf1f8ffbdca
+audio_dir: Track01446/stems
+lmd_midi_dir: lmd_matched/X/I/O/TRXIOCH128F9336EEB/99e3749518bf6f12d7432cf1f8ffbdca.mid
+midi_dir: Track01446/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22680128154091722
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.305004901001197
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.15006727993091
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_saxophone.nkm
+    program_num: 66
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.52113192802254
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.850711806625183
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.77542371522186
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.46198751195247
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -13.986382550380183
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_saxophone.nkm
+    program_num: 66
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.564391684941157
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.27304536975442
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 6
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.842509007975025
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+target_peak: -1.0

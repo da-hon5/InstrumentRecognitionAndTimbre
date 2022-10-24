@@ -1,0 +1,99 @@
+UUID: 400f20cb6d616e9f976de979bf79bb84
+audio_dir: Track00444/stems
+lmd_midi_dir: lmd_matched/G/U/G/TRGUGJR128F9312FC6/400f20cb6d616e9f976de979bf79bb84.mid
+midi_dir: Track00444/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14442867885798547
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -25.83895806590319
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_antique_toy.nkm
+    program_num: 11
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.51860674085912
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.069540615994885
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.62603213362015
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.247649822696467
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.853360586179196
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.322019115397673
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 89
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.608623816059737
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 72
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.44620345638588
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.468017056270593
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+target_peak: -1.0

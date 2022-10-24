@@ -1,0 +1,98 @@
+UUID: 38cbf6d7db4b7ab6acb70a7aad6c987c
+audio_dir: Track00094/stems
+lmd_midi_dir: lmd_matched/N/N/W/TRNNWPV128F4276260/38cbf6d7db4b7ab6acb70a7aad6c987c.mid
+midi_dir: Track00094/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16629173812524278
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.581955727125894
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.58364577569158
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.580675870594728
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.580066406328488
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.58087289709447
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 34
+  S05:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.580696030895187
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.581129246310365
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 37
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.58113227236058
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: upright_bass2.nkm
+    program_num: 32
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.58145856543253
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

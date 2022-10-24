@@ -1,0 +1,63 @@
+UUID: 8108d29e7c94bbea9215206a82b9ef68
+audio_dir: Track00906/stems
+lmd_midi_dir: lmd_matched/E/D/H/TREDHFN128F4263F07/8108d29e7c94bbea9215206a82b9ef68.mid
+midi_dir: Track00906/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.24377486040942242
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.26114567098048
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 18
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.26214413331288
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.260923393446564
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.26099866728428
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.263037397998726
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.261459604762404
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

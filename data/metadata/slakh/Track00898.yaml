@@ -1,0 +1,108 @@
+UUID: 986cbbf7bd841d8ae9a50a7904cfd6d4
+audio_dir: Track00898/stems
+lmd_midi_dir: lmd_matched/F/P/Z/TRFPZQF128F427B14B/986cbbf7bd841d8ae9a50a7904cfd6d4.mid
+midi_dir: Track00898/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14798854821340898
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.27893747130782
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.94945319608638
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -19.412783365559424
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 75
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.786597734865055
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.824722641786572
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -24.512997387125626
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: xylophone.nkm
+    program_num: 9
+  S06:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -25.693504977552653
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_futurebells.nkm
+    program_num: 11
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.939524277184024
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.710440434465077
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.547266716258868
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.04912223457039
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

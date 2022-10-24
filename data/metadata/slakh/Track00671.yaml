@@ -1,0 +1,98 @@
+UUID: c2db2803797491a19d4f31f8b5ec9259
+audio_dir: Track00671/stems
+lmd_midi_dir: lmd_matched/A/P/B/TRAPBPB128F933FAAA/c2db2803797491a19d4f31f8b5ec9259.mid
+midi_dir: Track00671/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16470293112905934
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.246904611009963
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.437213812619003
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.606657640467127
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.66787368313607
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.96505953172961
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.038334472946783
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.785358925280898
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -8.770398727199586
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.985326197255116
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+target_peak: -1.0

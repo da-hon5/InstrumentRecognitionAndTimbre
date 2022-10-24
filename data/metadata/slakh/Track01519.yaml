@@ -1,0 +1,152 @@
+UUID: de5297ebeae36c9d035cc8a8f4c19ba2
+audio_dir: Track01519/stems
+lmd_midi_dir: lmd_matched/X/T/I/TRXTIJR128F93243DA/de5297ebeae36c9d035cc8a8f4c19ba2.mid
+midi_dir: Track01519/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1872211150117533
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.551900067417822
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S01:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Shamisen
+    midi_saved: false
+    plugin_name: None
+    program_num: 106
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.55192838030091
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.550542793649324
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.551593538616917
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.550541941786292
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.552071764728144
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.550712887622282
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.551034531449666
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.551847227292015
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: bass_trombone.nkm
+    program_num: 57
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.55200794746729
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S11:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.550545508022868
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 40
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.551871902605935
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S13:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -27.552286092740705
+    is_drum: false
+    midi_program_name: Celesta
+    midi_saved: true
+    plugin_name: xylophone_essential.nkm
+    program_num: 8
+  S14:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.55211516481334
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S15:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.55202374399697
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+target_peak: -1.0

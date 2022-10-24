@@ -1,0 +1,98 @@
+UUID: bdb044da65056ef98bee1967f8dad2e2
+audio_dir: Track00585/stems
+lmd_midi_dir: lmd_matched/G/J/E/TRGJEWF12903CE3F6C/bdb044da65056ef98bee1967f8dad2e2.mid
+midi_dir: Track00585/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1778072257298659
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.00125945919992
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.001179547708656
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.00117348201054
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.99985766023906
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.9998089468284
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.000237962222382
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.999714656499258
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.999708294985034
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.00173363049706
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

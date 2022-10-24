@@ -1,0 +1,291 @@
+UUID: 62ecc920d414c8ae41d9b80242b743e4
+audio_dir: Track01750/stems
+lmd_midi_dir: lmd_matched/T/R/N/TRTRNHA128F9326B8E/62ecc920d414c8ae41d9b80242b743e4.mid
+midi_dir: Track01750/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.12821038911071422
+stems:
+  S00:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.46826940417012
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -21.28054907538863
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S02:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S03:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.24042077495868
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S04:
+    ++CLASS++: other
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.995988229557785
+    is_drum: false
+    midi_program_name: Tango Accordion
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 23
+  S05:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.27699054850963
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S06:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.940895732358637
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S07:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.154369982917812
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S08:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.181828149352587
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S09:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.396348594716594
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S10:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: clean
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.498127235363462
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S11:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.584468375913273
+    is_drum: false
+    midi_program_name: Lead 4 (chiff)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 83
+  S12:
+    ++CLASS++: contrabass
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -17.270186869454175
+    is_drum: false
+    midi_program_name: Contrabass
+    midi_saved: true
+    plugin_name: double_bass_solo.nkm
+    program_num: 43
+  S13:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -24.65933164295196
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S14:
+    ++CLASS++: other
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Pipe
+    is_drum: false
+    midi_program_name: Ocarina
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 79
+  S15:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.37192968566944
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 7
+  S16:
+    ++CLASS++: other
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.533538084428365
+    is_drum: false
+    midi_program_name: Tango Accordion
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 23
+  S17:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S18:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S19:
+    ++CLASS++: sax
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.425814681230428
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S20:
+    ++CLASS++: sax
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.513000755657238
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S21:
+    ++CLASS++: other
+    ++FAMILY++: percussion
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Tinkle Bell
+    midi_saved: false
+    plugin_name: None
+    program_num: 112
+  S22:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.67964433957795
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 31
+  S23:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Helicopter
+    midi_saved: false
+    plugin_name: None
+    program_num: 125
+target_peak: -1.0

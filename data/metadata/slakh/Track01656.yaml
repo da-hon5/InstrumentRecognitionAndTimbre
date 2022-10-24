@@ -1,0 +1,158 @@
+UUID: bdedecf30e5f60fa0ad4111f74485133
+audio_dir: Track01656/stems
+lmd_midi_dir: lmd_matched/U/W/V/TRUWVOL128F425D718/bdedecf30e5f60fa0ad4111f74485133.mid
+midi_dir: Track01656/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1997066564863787
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.99068083525904
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S01:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Woodblock
+    midi_saved: false
+    plugin_name: None
+    program_num: 115
+  S02:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.98386478901899
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 67
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.991259524489056
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.989653423470546
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.99201723481614
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.991917233003154
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 90
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.99192650131607
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S10:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.99193324368446
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 22
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.990040966639835
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 18
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.991955812575863
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S13:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.99033114757865
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 95
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.9919267703817
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S15:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.991929313207784
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S16:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+target_peak: -1.0

@@ -1,0 +1,15 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Building the template}{intro:building}
+
+To make the build process easier, you can use the provided bash script, i.e. \verb|bash build.sh|. It executes all commands needed for the standard template in the correct order:
+\begin{enumerate}
+	\item pdflatex
+	\item biber
+	\item makeglossaries
+	\item pdflatex ($2 \times$)
+\end{enumerate}
+
+Alternatively you can execute these commands manually or using your favourite tex editor. Note, that you need to rebuild \verb|biber| and \verb|makeglossaries| only after you modified the respective files, otherwise \verb|pdflatex| is sufficient.
+
+

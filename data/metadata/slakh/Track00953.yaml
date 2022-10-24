@@ -1,0 +1,108 @@
+UUID: c7f4cd873a5026a677768705a4b89648
+audio_dir: Track00953/stems
+lmd_midi_dir: lmd_matched/F/B/X/TRFBXEP12903CBB317/c7f4cd873a5026a677768705a4b89648.mid
+midi_dir: Track00953/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14195664790226845
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.85117706853114
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.68688075019656
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.489630413518732
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.873063368553378
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.875778721352344
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 88
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.938760402821924
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.36217620066983
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.182763886595723
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 94
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.922724406764
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.312778005112524
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.662514750849997
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+target_peak: -1.0

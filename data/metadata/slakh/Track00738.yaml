@@ -1,0 +1,123 @@
+UUID: 89cd057ece990aea400a3d19ddca99b8
+audio_dir: Track00738/stems
+lmd_midi_dir: lmd_matched/A/E/I/TRAEINL12903CBAC41/89cd057ece990aea400a3d19ddca99b8.mid
+midi_dir: Track00738/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1482350858210625
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -29.47084317544239
+    is_drum: false
+    midi_program_name: Celesta
+    midi_saved: true
+    plugin_name: hybrid_keys_glockenspiel.nkm
+    program_num: 8
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.208110543218915
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.314908926486943
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -21.12776291576505
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 91
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -22.735122412909323
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: guitar_lead.nkm
+    program_num: 82
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.450805637769323
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.146703309358852
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S07:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S08:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.428447742129404
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S10:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.242567077567383
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.51993261070931
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+target_peak: -1.0

@@ -1,0 +1,81 @@
+UUID: daddc806eec635bf898f32a4b5ce3462
+audio_dir: Track00801/stems
+lmd_midi_dir: lmd_matched/Y/N/C/TRYNCAR128F9312483/daddc806eec635bf898f32a4b5ce3462.mid
+midi_dir: Track00801/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10714763404121351
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -32.400204448945466
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.40034647929255
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -32.3982023062119
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.40304781688807
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.40024353175154
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.40299257263439
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.40077424319363
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.403001865110156
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+target_peak: -1.0

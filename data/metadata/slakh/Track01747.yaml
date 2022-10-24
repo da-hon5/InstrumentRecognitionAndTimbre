@@ -1,0 +1,72 @@
+UUID: b46c86ba4e4d6082c4af49f07e5e0472
+audio_dir: Track01747/stems
+lmd_midi_dir: lmd_matched/H/G/X/TRHGXET128F931E4AB/b46c86ba4e4d6082c4af49f07e5e0472.mid
+midi_dir: Track01747/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23860794855213924
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.445335416449574
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.4460188209056
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -25.44633223514098
+    is_drum: false
+    midi_program_name: Viola
+    midi_saved: true
+    plugin_name: viola_solo.nkm
+    program_num: 41
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.446093624107007
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 3
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.445321785280694
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.446350986309493
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.44666973401987
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+target_peak: -1.0

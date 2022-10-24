@@ -1,0 +1,74 @@
+# Spock Version: v2.4.2
+# Machine FQDN: aim-tmp.spsc.tugraz.at
+# Python Executable: /home/TUG/hbradl-tug/miniconda3/envs/cuda10/bin/python
+# Python Version: 3.7.11
+# Python Script: /srv/user/TUG/hbradl-tug/instrument-recognition/src/training/train.py
+# Run Date: 2022-07-30
+# Run Time: 03:45:16
+# Run w/ Docker: False
+# Run w/ Kubernetes: False
+# Git Branch: main
+# Git Commit: ee30dd5d182b47c8ea3731f1bf6e95348fd83f6b
+# Git Date: 2022-07-27 19:17:59+02:00
+# Git Status: DIRTY
+# Git Origin: git@git.spsc.tugraz.at:hbradl/instrument-recognition.git
+
+AugmentationConfig:
+  p_augment: 0.7
+  p_highshelf_filter: 0.6
+  p_imp_res: 0.0
+  p_lowshelf_filter: 0.6
+  p_peaking_filter: 0.6
+  p_pitch_shift: 0.7
+  p_rand_gain: 0.9
+  p_time_stretch: 0.3
+DataConfig:
+  data_path: /srv/ALL/datasets/preprocessed
+  dataset: combined
+  loudn_threshold: -50
+  max_num_sources: 10
+  model_input_length: 4
+  n_mfccs: 12
+  p_medleydb: 0.34
+  p_mixingsecrets: 0.33
+  p_multiple_songs: 0.4
+  p_single_source: 0.25
+  p_skip_percussion: 0.0
+  p_skip_plucked_str: 0.0
+  p_slakh: 0.33
+  predict_loudness: true
+  samplerate: 32000
+  target_class: key
+ModelConfig:
+  model_type: timbre-predictor
+  n_channels: 128
+  n_fft: 512
+  n_mels: 128
+TestConfig:
+  chunks_per_track: 16
+  model_load_path: ./../../models/feature-prediction/mae-loss/percussion/best_model.pth
+  num_workers: 16
+  p_tensorboard: 0.15
+  rand_seed: 1111
+  samples_per_epoch: 60
+  use_tensorboard: true
+TrainConfig:
+  backbone_lr: 0.0001
+  batch_size: 16
+  head_lr: 0.01
+  log_step: 10
+  lr_scheduler_gamma: 0.3
+  lr_scheduler_stepsize: 20
+  mode: finetuning
+  model_load_path: ./../../models/pretrained/shortchunkCNN/best_model.pth
+  model_save_path: ./../../models/feature-prediction/mae-loss/key
+  n_epochs: 100
+  num_workers: 16
+  rand_seed: 9999
+  samples_per_epoch: 1920
+  use_optim_schedule: false
+  weight_decay: 0.0001
+ValidConfig:
+  chunks_per_track: 16
+  num_workers: 16
+  samples_per_epoch: 60

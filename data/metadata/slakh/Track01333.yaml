@@ -1,0 +1,63 @@
+UUID: 8a73e2e56b31d66a7f83608887b369da
+audio_dir: Track01333/stems
+lmd_midi_dir: lmd_matched/J/P/C/TRJPCJI12903CC9C06/8a73e2e56b31d66a7f83608887b369da.mid
+midi_dir: Track01333/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1925352309489083
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.310546976553464
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.310546112361987
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.310548207930484
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.310551094530194
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 3
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.31058153215131
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.31050991523642
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

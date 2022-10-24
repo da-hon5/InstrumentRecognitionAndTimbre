@@ -1,0 +1,153 @@
+UUID: ccd6e89dd6ea3d96c2b05d71eb0fb0cf
+audio_dir: Track00704/stems
+lmd_midi_dir: lmd_matched/E/D/E/TREDEFZ128F92F744F/ccd6e89dd6ea3d96c2b05d71eb0fb0cf.mid
+midi_dir: Track00704/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1545171219365654
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -21.137114402824576
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 45
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.85951619113978
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.743314840993865
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.375826654446847
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 81
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.432193091589788
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.960008308074716
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.757659385836115
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.82379629554062
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 92
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.973150947471954
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.778100221624218
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.073465676495848
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.321407515648467
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.15969120850194
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.311466385402708
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.274956715009553
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.11955690532046
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+target_peak: -1.0

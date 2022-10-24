@@ -1,0 +1,117 @@
+UUID: 5b1f4b0631bbeb07041869eafad46a07
+audio_dir: Track00627/stems
+lmd_midi_dir: lmd_matched/N/K/I/TRNKIGB128F42A120D/5b1f4b0631bbeb07041869eafad46a07.mid
+midi_dir: Track00627/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18522812778304623
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.852778191579322
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.482853735636592
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.497420682075687
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 81
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.244964121854899
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.163591277508504
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.305522449206716
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.958557545702273
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.804057330277283
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -20.28905272755846
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: bass_trombone.nkm
+    program_num: 57
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.503779742440596
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -21.92350083595829
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: bass_trombone.nkm
+    program_num: 57
+  S11:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -16.163651879448345
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+target_peak: -1.0

@@ -1,0 +1,63 @@
+UUID: f478f7a62006a5b935cc05a103f11a44
+audio_dir: Track01280/stems
+lmd_midi_dir: lmd_matched/R/X/B/TRRXBSU12903CDDE1A/f478f7a62006a5b935cc05a103f11a44.mid
+midi_dir: Track01280/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22889193061582225
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.805811183865973
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.807526858710606
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.80738978821597
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.805160550579334
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.807100621340684
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.806853483343282
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

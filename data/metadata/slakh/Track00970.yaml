@@ -1,0 +1,126 @@
+UUID: 5dd29e99ed7bd3cc0c5177a6e9de22ea
+audio_dir: Track00970/stems
+lmd_midi_dir: lmd_matched/W/B/W/TRWBWJX128E078A918/5dd29e99ed7bd3cc0c5177a6e9de22ea.mid
+midi_dir: Track00970/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19304746227375344
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -18.38010585543108
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -16.115759885474795
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S02:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.340396938926563
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.98516079397258
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S04:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -24.8501079237784
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: hybrid_keys_glockenspiel.nkm
+    program_num: 12
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.10680219443622
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.51244005373043
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.717953491753367
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 6
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.363207538786714
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 91
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.801734219571106
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S10:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.749523761858436
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 21
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.406821777504227
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 17
+  S12:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -13.749621053098585
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+target_peak: -1.0

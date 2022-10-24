@@ -1,0 +1,115 @@
+UUID: 832967a6e40a9c905dd60f3baab16292
+audio_dir: Track01938/stems
+lmd_midi_dir: lmd_matched/T/C/P/TRTCPHC128F42938F2/832967a6e40a9c905dd60f3baab16292.mid
+midi_dir: Track01938/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19164387574542233
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.348685521527816
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.349220464332358
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.349177041569614
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.349163304076043
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 88
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.347660359108296
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.347319318963955
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.349377496583568
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.347329186200817
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_saxophone.nkm
+    program_num: 66
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.34936254163626
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.34916634156814
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S10:
+    audio_rendered: false
+    inst_class: Chromatic Percussion
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: glockenspiel.nkm
+    program_num: 11
+  S11:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+target_peak: -1.0

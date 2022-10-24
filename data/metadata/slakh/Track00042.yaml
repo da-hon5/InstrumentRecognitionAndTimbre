@@ -1,0 +1,117 @@
+UUID: 2962a1492415ae154e6214c07ea9950c
+audio_dir: Track00042/stems
+lmd_midi_dir: lmd_matched/S/M/E/TRSMEUG128F14856D2/2962a1492415ae154e6214c07ea9950c.mid
+midi_dir: Track00042/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18700250061643306
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.561261493502872
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.56126039359965
+    is_drum: false
+    midi_program_name: Bassoon
+    midi_saved: true
+    plugin_name: bassoon_combi.nkm
+    program_num: 70
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.561431310479897
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.56160110809795
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.561354055657763
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.562338563808517
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.562710351444203
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.56232608831598
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.56273833220767
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.562695455241666
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 16
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.562795966783657
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.56299453533433
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+target_peak: -1.0

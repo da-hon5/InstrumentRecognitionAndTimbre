@@ -1,0 +1,90 @@
+UUID: fca8294692b43692dcf64d6952bfe713
+audio_dir: Track02080/stems
+lmd_midi_dir: lmd_matched/Z/W/M/TRZWMSD128F92EE302/fca8294692b43692dcf64d6952bfe713.mid
+midi_dir: Track02080/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15428936710792052
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.22961258908958
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.23825431090516
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.23825160180237
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.2382574573944
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.238249276885643
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.23825606041409
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.238250787188758
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -29.23824682615434
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 45
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.238231776355317
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+target_peak: -1.0

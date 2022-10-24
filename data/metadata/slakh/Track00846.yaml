@@ -1,0 +1,170 @@
+UUID: 0c80ddbf81ee907818996992907330e9
+audio_dir: Track00846/stems
+lmd_midi_dir: lmd_matched/I/T/U/TRITUZY128F933BD52/0c80ddbf81ee907818996992907330e9.mid
+midi_dir: Track00846/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13764439503093437
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.221101737536696
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.2235667244849
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 89
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -30.22142461876913
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -30.22138412259943
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet.nkm
+    program_num: 56
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -30.223571115992545
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 67
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.223852046028174
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.225743137036535
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.220405425097677
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.223597609249012
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.221553636180893
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S10:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.222127222872313
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S11:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -30.220363821568228
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: celesta.nkm
+    program_num: 14
+  S12:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Kalimba
+    midi_saved: false
+    plugin_name: None
+    program_num: 108
+  S13:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -30.224497242750587
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S14:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -30.222152357796578
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: hybrid_keys_hot_tropics.nkm
+    program_num: 9
+  S15:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -30.22128466895603
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: celesta.nkm
+    program_num: 14
+  S16:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.22178032282482
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 91
+  S17:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.221755910951448
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 91
+target_peak: -1.0

@@ -1,0 +1,125 @@
+UUID: c811b61bbf0b8c4b704443c13620a5bc
+audio_dir: Track01392/stems
+lmd_midi_dir: lmd_matched/K/F/J/TRKFJXB128F42694A8/c811b61bbf0b8c4b704443c13620a5bc.mid
+midi_dir: Track01392/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1825966496708016
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.77326805670697
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.773106366839958
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 34
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.77320510933551
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.77317684381338
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 82
+  S04:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.76881492042902
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 72
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.773201954890474
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.773191717696708
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.773354223644734
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.7734291076071
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.773090240325516
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.773691509551416
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.773062070707663
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S12:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+target_peak: -1.0

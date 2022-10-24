@@ -1,0 +1,108 @@
+UUID: 6162b7f141fc3ce2325345cb057dee29
+audio_dir: Track00377/stems
+lmd_midi_dir: lmd_matched/U/S/R/TRUSRBH128F9340DC6/6162b7f141fc3ce2325345cb057dee29.mid
+midi_dir: Track00377/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.0910734644456912
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.313556725645647
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.81190989991206
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.656903891939322
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.12233003085623
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.260821127277076
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.304168633088912
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.42588618474154
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 90
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.816789531196346
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.843061991828739
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 67
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.230112508595877
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.166467462235207
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_section.nkm
+    program_num: 56
+target_peak: -1.0

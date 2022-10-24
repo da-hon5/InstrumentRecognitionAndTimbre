@@ -1,0 +1,115 @@
+UUID: add0865d6614f9c5e17fcda132ba5b1d
+audio_dir: Track01296/stems
+lmd_midi_dir: lmd_matched/I/V/S/TRIVSGU128F14592BB/add0865d6614f9c5e17fcda132ba5b1d.mid
+midi_dir: Track01296/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16351558136483058
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -21.971314252652366
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: hybrid_keys_antique_toy.nkm
+    program_num: 10
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.6719849467579
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.247317018924683
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 34
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.574359867957224
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.105013746312228
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.297606150603823
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 81
+  S06:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Woodblock
+    midi_saved: false
+    plugin_name: None
+    program_num: 115
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -22.340774687026272
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 88
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.95786475654897
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 7
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.378644152120884
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S10:
+    audio_rendered: false
+    inst_class: Strings (continued)
+    is_drum: false
+    midi_program_name: Orchestra Hit
+    midi_saved: false
+    plugin_name: None
+    program_num: 55
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.86049039930615
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+target_peak: -1.0

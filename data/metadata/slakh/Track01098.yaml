@@ -1,0 +1,90 @@
+UUID: d40ca640025765793925b872a8ae2df2
+audio_dir: Track01098/stems
+lmd_midi_dir: lmd_matched/O/P/A/TROPAHF128F9320186/d40ca640025765793925b872a8ae2df2.mid
+midi_dir: Track01098/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18056710000152337
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.752599110060526
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.152005551945578
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.90895108121965
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.79570035059433
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -23.45746990008618
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -13.36877099151376
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.896704410992237
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.426771072887227
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 22
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.47533423535434
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+target_peak: -1.0

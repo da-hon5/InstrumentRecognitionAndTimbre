@@ -1,0 +1,90 @@
+UUID: ba6f95afab174b2bb27ab31433f6ac40
+audio_dir: Track01122/stems
+lmd_midi_dir: lmd_matched/H/K/C/TRHKCCG128F9323272/ba6f95afab174b2bb27ab31433f6ac40.mid
+midi_dir: Track01122/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19241863271261478
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.3140838546485
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.314083621325285
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.314084054587543
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 18
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.31408700507262
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.316673553993304
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.314083888373748
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 90
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.31408846492022
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.314086700159617
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.314126252651498
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,123 @@
+UUID: 33384530066667a9e48107c5fa4b6533
+audio_dir: Track00297/stems
+lmd_midi_dir: lmd_matched/Y/Y/K/TRYYKWY128F425D7CF/33384530066667a9e48107c5fa4b6533.mid
+midi_dir: Track00297/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20066589563316775
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.949703159282013
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.949736206525408
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.950142029085374
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.95014271950671
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.949841023733395
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.949843616675583
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S08:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Helicopter
+    midi_saved: false
+    plugin_name: None
+    program_num: 125
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.949641094516508
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.950145378258785
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.950168311911003
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 37
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.950148222254594
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+target_peak: -1.0

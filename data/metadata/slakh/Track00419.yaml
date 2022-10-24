@@ -1,0 +1,108 @@
+UUID: 118337740caebec6da5f115461f85f2f
+audio_dir: Track00419/stems
+lmd_midi_dir: lmd_matched/I/S/W/TRISWPN12903CF28B9/118337740caebec6da5f115461f85f2f.mid
+midi_dir: Track00419/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17171668161092415
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.304837145537483
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.304838810608196
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.304725641762136
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.307277421851957
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.30484096461483
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.304780645089966
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.304789996782993
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 16
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.30458839523591
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.304801191287797
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_saxophone.nkm
+    program_num: 66
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.30486265698249
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S10:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.30482595969712
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 16
+target_peak: -1.0

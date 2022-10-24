@@ -1,0 +1,220 @@
+album: ''
+artist: MountaineeringClubOrchestra
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MountaineeringClubOrchestra_CruisingTheIce_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MountaineeringClubOrchestra_CruisingTheIce_RAW
+stem_dir: MountaineeringClubOrchestra_CruisingTheIce_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MountaineeringClubOrchestra_CruisingTheIce_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_Snare.wav
+        instrument: Snare
+  S02:
+    component: ''
+    filename: MountaineeringClubOrchestra_CruisingTheIce_STEM_loops.wav
+    instrument: drum machine
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 01_Loop.wav
+        instrument: Loop
+  S03:
+    component: ''
+    filename: MountaineeringClubOrchestra_CruisingTheIce_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 15_Synth.wav
+        instrument: Synth
+  S04:
+    component: ''
+    filename: MountaineeringClubOrchestra_CruisingTheIce_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 03_SFX1.wav
+        instrument: SFX
+      R02:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 04_SFX2.wav
+        instrument: SFX
+  S05:
+    component: ''
+    filename: 19_CelloMIDI.wav
+    instrument: cello samples
+    raw:
+      R01:
+        ++CLASS++: cello
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 19_CelloMIDI.wav
+        instrument: Cello samples
+  S06:
+    component: ''
+    filename: 14_ElecGtr8.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 14_ElecGtr8.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 18_ViolaMIDI.wav
+    instrument: viola samples
+    raw:
+      R01:
+        ++CLASS++: viola
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 18_ViolaMIDI.wav
+        instrument: Viola samples
+  S08:
+    component: ''
+    filename: 08_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 08_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 16_Strings.wav
+    instrument: string section
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 16_Strings.wav
+        instrument: Strings
+  S10:
+    component: ''
+    filename: 05_BassMIDI.wav
+    instrument: bass samples
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 05_BassMIDI.wav
+        instrument: Bass samples
+  S11:
+    component: ''
+    filename: 17_ViolinMIDI.wav
+    instrument: violin samples
+    raw:
+      R01:
+        ++CLASS++: violin
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 17_ViolinMIDI.wav
+        instrument: Violin samples
+  S12:
+    component: ''
+    filename: 07_ElecGtr1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 07_ElecGtr1.wav
+        instrument: clean electric guitar
+  S13:
+    component: ''
+    filename: 13_ElecGtr7.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 13_ElecGtr7.wav
+        instrument: distorted electric guitar
+  S14:
+    component: ''
+    filename: 10_ElecGtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 10_ElecGtr4.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 09_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 09_ElecGtr3.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 11_ElecGtr5.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 11_ElecGtr5.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 12_ElecGtr6.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 12_ElecGtr6.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 06_Piano.wav
+    instrument: piano
+    raw:
+      R01:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 06_Piano.wav
+        instrument: Piano
+title: CruisingTheIce
+version: '3.0'
+website: ''

@@ -1,0 +1,117 @@
+UUID: 7dd86cb7aeb4d19e1be503335ff712a0
+audio_dir: Track01375/stems
+lmd_midi_dir: lmd_matched/S/J/X/TRSJXRC128F42A4CDF/7dd86cb7aeb4d19e1be503335ff712a0.mid
+midi_dir: Track01375/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15489541153429828
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.198826179246847
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.139926814829636
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.200965569984653
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.201000647484726
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.198823063200948
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -29.198825604854388
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 81
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.198823730932045
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.198829737894147
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 64
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.20065837708584
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 64
+  S09:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.191717804962817
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 66
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.201178906753576
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 66
+  S11:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.19993434460336
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

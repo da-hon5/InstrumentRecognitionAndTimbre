@@ -1,0 +1,98 @@
+UUID: d82d8eb1396d48f30f4e319b25019800
+audio_dir: Track00384/stems
+lmd_midi_dir: lmd_matched/R/T/N/TRRTNRY128F42575FA/d82d8eb1396d48f30f4e319b25019800.mid
+midi_dir: Track00384/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21180836585297058
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -24.093577363264888
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.80875536547456
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.79182167505171
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.78737034788804
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.58569912361968
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.31195873305521
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -13.793878592736482
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_2.nkm
+    program_num: 56
+  S07:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.68661394399998
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.321837872977657
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

@@ -1,0 +1,116 @@
+UUID: 7a444a5db586610f9a1e23acdb530adc
+audio_dir: Track00360/stems
+lmd_midi_dir: lmd_matched/S/Q/I/TRSQIJW128F14A2CBF/7a444a5db586610f9a1e23acdb530adc.mid
+midi_dir: Track00360/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19495603109635365
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.202265510399553
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.202463079686797
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.20260194847199
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 74
+  S03:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -27.198825242535946
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: marimba.nkm
+    program_num: 11
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.19953342875695
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: mystic_lead.nkm
+    program_num: 87
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.201941109961957
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.202384149654726
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 7
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.202019466936736
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.201945206485323
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.202501733257595
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 95
+  S10:
+    audio_rendered: false
+    inst_class: Strings (continued)
+    is_drum: false
+    midi_program_name: Orchestra Hit
+    midi_saved: false
+    plugin_name: None
+    program_num: 55
+  S11:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.202050137758814
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 81
+target_peak: -1.0

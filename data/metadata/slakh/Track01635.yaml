@@ -1,0 +1,98 @@
+UUID: 52e83e097bd96975260b5f4c68c926ef
+audio_dir: Track01635/stems
+lmd_midi_dir: lmd_matched/H/S/E/TRHSEEA128F93075E5/52e83e097bd96975260b5f4c68c926ef.mid
+midi_dir: Track01635/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23021884450645663
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.14136559405895
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.500861258606747
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.633150294738998
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.815062020865938
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -24.7777928339135
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: guitar_lead.nkm
+    program_num: 84
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.291683926559713
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.45936530403682
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.592715528215727
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.774226682678824
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 18
+target_peak: -1.0

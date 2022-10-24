@@ -1,0 +1,90 @@
+UUID: 511c14f22e277b2b12e059515fd9775f
+audio_dir: Track01420/stems
+lmd_midi_dir: lmd_matched/Y/W/D/TRYWDQW12903D0CC69/511c14f22e277b2b12e059515fd9775f.mid
+midi_dir: Track01420/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22523785745979402
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.027869593217023
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.530166091506693
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.0800836462583
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.433126083510874
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.259847133008602
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.626288002836603
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.38001540828748
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.121546633913486
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.703050630101224
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+target_peak: -1.0

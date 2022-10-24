@@ -1,0 +1,88 @@
+UUID: e145d6d4673ceffd6b1510ac935c588e
+audio_dir: Track02019/stems
+lmd_midi_dir: lmd_matched/Q/H/H/TRQHHZR128F42718BF/e145d6d4673ceffd6b1510ac935c588e.mid
+midi_dir: Track02019/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18619147963783295
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.61106916320695
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.61119439285843
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.611169479488918
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.567626278554503
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.6112011292758
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 88
+  S06:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.61120316678012
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.611207819375274
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+target_peak: -1.0

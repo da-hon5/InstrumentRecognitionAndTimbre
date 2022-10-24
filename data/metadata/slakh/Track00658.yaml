@@ -1,0 +1,90 @@
+UUID: 002f27633d4cb0eda33bb7c612d5919b
+audio_dir: Track00658/stems
+lmd_midi_dir: lmd_matched/Y/C/S/TRYCSCZ128F931228F/002f27633d4cb0eda33bb7c612d5919b.mid
+midi_dir: Track00658/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19431786466981074
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.227531162131633
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.228655401817733
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.228232337391656
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.228260520855994
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.229645539311825
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 89
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.229912473153274
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.230076340937075
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.23014310425378
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.229047539284682
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

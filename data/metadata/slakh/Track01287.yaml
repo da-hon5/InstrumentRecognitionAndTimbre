@@ -1,0 +1,153 @@
+UUID: 383057b713c08bdeed10b499d2f064fe
+audio_dir: Track01287/stems
+lmd_midi_dir: lmd_matched/Y/E/V/TRYEVMW12903CC91BB/383057b713c08bdeed10b499d2f064fe.mid
+midi_dir: Track01287/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18000173988668267
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -19.160416409507313
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.01897357833759
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.061843504546825
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.73137637121497
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.926554870216183
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.73275539089442
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.67851820240067
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.031935653427855
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.933822391633463
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.162802781905043
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 94
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.18567467112579
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S11:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -15.723403592111051
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 42
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.642339087371536
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.435068579142825
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S14:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -12.572501596739587
+    is_drum: false
+    midi_program_name: Contrabass
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 43
+  S15:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -17.69262025536512
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 45
+target_peak: -1.0

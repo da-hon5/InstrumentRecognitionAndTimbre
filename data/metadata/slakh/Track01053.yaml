@@ -1,0 +1,152 @@
+UUID: 05c350dce8b9aa91a1440785bb6ab603
+audio_dir: Track01053/stems
+lmd_midi_dir: lmd_matched/E/L/G/TRELGIQ128F42901EB/05c350dce8b9aa91a1440785bb6ab603.mid
+midi_dir: Track01053/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16810946655175454
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.054338491621053
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.244039802500737
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.82276226241518
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -14.144600884372762
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S04:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.58903291568068
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.562941062532335
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.493177287618604
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.508003563620978
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.128974427104804
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.80263243133188
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.707076111893922
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.037769544352415
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S13:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.393725859729944
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone.nkm
+    program_num: 57
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.95641632789123
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 51
+  S15:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.174273710212738
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+target_peak: -1.0

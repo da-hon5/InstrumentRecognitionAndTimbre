@@ -1,0 +1,72 @@
+UUID: b9a3fbc393cf0935e0edf9f7e19adac3
+audio_dir: Track01853/stems
+lmd_midi_dir: lmd_matched/M/H/Z/TRMHZDA128F42950E1/b9a3fbc393cf0935e0edf9f7e19adac3.mid
+midi_dir: Track01853/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17149874550621938
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.276598375057517
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.767745884813166
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.413125655013523
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.27268517013681
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.180085757086122
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.506969038689007
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.546186349141383
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+target_peak: -1.0

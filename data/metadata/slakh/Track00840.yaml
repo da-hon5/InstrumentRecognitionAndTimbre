@@ -1,0 +1,144 @@
+UUID: d52ecdc2866afcca28a29d253d2ded9f
+audio_dir: Track00840/stems
+lmd_midi_dir: lmd_matched/G/A/G/TRGAGFY12903CB5416/d52ecdc2866afcca28a29d253d2ded9f.mid
+midi_dir: Track00840/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1915955630420069
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.356801381821015
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 78
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.356783224925902
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.35666112807218
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.356984527631674
+    is_drum: false
+    midi_program_name: Church Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 19
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.357004228968872
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.356868302167577
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.34485446626278
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 7
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.35683344436242
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.356914965973644
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.356893863501416
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.356638280773154
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.35671226643746
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.357002693736195
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 51
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.357027863506882
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.35678393633251
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

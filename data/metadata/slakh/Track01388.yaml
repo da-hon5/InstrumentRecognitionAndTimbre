@@ -1,0 +1,116 @@
+UUID: fe7190bb7c2b16be0248154b3466179f
+audio_dir: Track01388/stems
+lmd_midi_dir: lmd_matched/D/U/G/TRDUGLE128F426585A/fe7190bb7c2b16be0248154b3466179f.mid
+midi_dir: Track01388/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1831139496906357
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.875271298920214
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 89
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.039162360356524
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.010391022768397
+    is_drum: false
+    midi_program_name: Ocarina
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 79
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.525430958082207
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.61332850033258
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.291818831551373
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 6
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.657303830096007
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 75
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -23.129819658717874
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.189935309702202
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S09:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -20.346706417247137
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: tubular_bells_wood.nkm
+    program_num: 11
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.0068129529771
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S11:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 7 (echoes)
+    midi_saved: false
+    plugin_name: None
+    program_num: 102
+target_peak: -1.0

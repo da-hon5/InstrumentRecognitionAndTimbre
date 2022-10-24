@@ -1,0 +1,81 @@
+UUID: 450b91f41a856bfc3954312bcdcf5388
+audio_dir: Track00524/stems
+lmd_midi_dir: lmd_matched/G/R/C/TRGRCHN128F933DE2F/450b91f41a856bfc3954312bcdcf5388.mid
+midi_dir: Track00524/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22372130551836
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.663792392502064
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.918476617762625
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.489251417326198
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.4002425754504
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -20.11381425953565
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 66
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.357748247758984
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.183119065671615
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.253642363607664
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+target_peak: -1.0

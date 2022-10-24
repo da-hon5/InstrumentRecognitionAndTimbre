@@ -1,0 +1,161 @@
+UUID: 37ef8aea95f39888bd48e2da1af6fdfe
+audio_dir: Track01377/stems
+lmd_midi_dir: lmd_matched/I/M/Z/TRIMZJX128F4274235/37ef8aea95f39888bd48e2da1af6fdfe.mid
+midi_dir: Track01377/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14199188465295362
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.900532250622458
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.755985580757674
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.744434185075061
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 78
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.950823008014805
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.31108606626169
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.306537291446126
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 89
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.574413997075425
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.99332391884609
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.562420771953457
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -20.729834956632068
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -13.937852642182806
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.097678170983187
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.148240503485493
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.858541431068932
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S15:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.037597269737002
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 22
+  S16:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.578755720499498
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+target_peak: -1.0

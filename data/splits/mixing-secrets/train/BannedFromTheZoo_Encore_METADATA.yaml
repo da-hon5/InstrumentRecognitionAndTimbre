@@ -1,0 +1,157 @@
+album: ''
+artist: BannedFromTheZoo
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: BannedFromTheZoo_Encore_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: BannedFromTheZoo_Encore_RAW
+stem_dir: BannedFromTheZoo_Encore_STEMS
+stems:
+  S01:
+    component: ''
+    filename: BannedFromTheZoo_Encore_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 07_Tom1.wav
+        instrument: Tom
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: 05_HiHat.wav
+        instrument: HiHat
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 08_Tom2.wav
+        instrument: Tom
+      R08:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 06_Overheads.wav
+        instrument: Overheads
+  S02:
+    component: ''
+    filename: 10_RoomLoFi.wav
+    instrument: main system
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 10_RoomLoFi.wav
+        instrument: RoomLoFi
+  S03:
+    component: ''
+    filename: 14_Ukelele.wav
+    instrument: ukelele
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 14_Ukelele.wav
+        instrument: Ukelele
+  S04:
+    component: ''
+    filename: 09_Room.wav
+    instrument: main system
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 09_Room.wav
+        instrument: Main System
+  S05:
+    component: ''
+    filename: 12_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 12_BassAmp.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 11_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 11_BassDI.wav
+        instrument: electric bass
+  S07:
+    component: ''
+    filename: 13_ElecGtr.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 13_ElecGtr.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 16_BackingVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 16_BackingVox.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 15_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 15_LeadVox.wav
+        instrument: male singer
+title: Encore
+version: '3.0'
+website: ''

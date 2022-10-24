@@ -1,0 +1,143 @@
+UUID: d67e4488305193f286fd6789a87ecb33
+audio_dir: Track00937/stems
+lmd_midi_dir: lmd_matched/O/U/V/TROUVAU128F9344DAF/d67e4488305193f286fd6789a87ecb33.mid
+midi_dir: Track00937/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20982000935083864
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.56310858984398
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.56349574719456
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.563083628197802
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.563243421365435
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 89
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.563402351554807
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.563453891292063
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hard_n_dirty.nkm
+    program_num: 82
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.561617969995137
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -26.563072111629104
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 45
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.56160740100343
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.56310753354501
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.562772833047987
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.560384867634966
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.55687336623731
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.561684500657076
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S14:
+    audio_rendered: false
+    inst_class: Strings
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+target_peak: -1.0

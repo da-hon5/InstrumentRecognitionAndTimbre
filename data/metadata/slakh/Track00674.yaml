@@ -1,0 +1,132 @@
+UUID: 40df84a2f120cbc30903c66ad3f9c131
+audio_dir: Track00674/stems
+lmd_midi_dir: lmd_matched/R/U/J/TRRUJTD128F14555A1/40df84a2f120cbc30903c66ad3f9c131.mid
+midi_dir: Track00674/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2065255727386528
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.700938179863623
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.702610653514366
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.68334435904195
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 88
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.700828526362336
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.700929976150285
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S05:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 1 (rain)
+    midi_saved: false
+    plugin_name: None
+    program_num: 96
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.701832396278522
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.700158146429036
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 80
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.70076738071067
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S09:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.70137374393276
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.7008258177813
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S12:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.70261042569794
+    is_drum: false
+    midi_program_name: English Horn
+    midi_saved: true
+    plugin_name: english_horn.nkm
+    program_num: 69
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Applause
+    midi_saved: false
+    plugin_name: None
+    program_num: 126
+target_peak: -1.0

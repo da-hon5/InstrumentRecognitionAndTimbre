@@ -1,0 +1,144 @@
+UUID: 30061dffae7d61c339244400cd9273b3
+audio_dir: Track00483/stems
+lmd_midi_dir: lmd_matched/B/S/D/TRBSDTV128F92E2730/30061dffae7d61c339244400cd9273b3.mid
+midi_dir: Track00483/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2379523131359646
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -25.464219882451477
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S01:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -25.471173609092848
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.470698283076576
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.47049415945613
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.470500613162677
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.470635359420765
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.470390380268473
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.470860132766543
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.47118495874723
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.47019916424302
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.470527721007226
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.470758852253507
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S12:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.47081855114101
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S13:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.471200986529624
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S14:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.470649611470275
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+target_peak: -1.0

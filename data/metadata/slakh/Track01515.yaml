@@ -1,0 +1,107 @@
+UUID: c25d8ce10525907dc747dc8ec898ebbe
+audio_dir: Track01515/stems
+lmd_midi_dir: lmd_matched/P/Z/F/TRPZFNI128F9310BA7/c25d8ce10525907dc747dc8ec898ebbe.mid
+midi_dir: Track01515/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13528784846457304
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.376053166665148
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.37539002558671
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.375851057415968
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.3745683701577
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.376220353835794
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S05:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -30.376157857111576
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.3766119893022
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -30.376079577930827
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 68
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.37612870251912
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.376803372073816
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+target_peak: -1.0

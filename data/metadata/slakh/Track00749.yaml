@@ -1,0 +1,86 @@
+UUID: 9b225ac2bcdb9d36d725318f776165e3
+audio_dir: Track00749/stems
+lmd_midi_dir: lmd_matched/N/F/C/TRNFCOT128F426B1D7/9b225ac2bcdb9d36d725318f776165e3.mid
+midi_dir: Track00749/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10925567040025547
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.22886177729597
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -32.232146623907795
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: false
+    inst_class: Guitar
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.23283250349333
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.228985325293735
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 6
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.22954424801229
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S07:
+    audio_rendered: false
+    inst_class: Strings (continued)
+    is_drum: false
+    midi_program_name: Orchestra Hit
+    midi_saved: false
+    plugin_name: None
+    program_num: 55
+  S08:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 2 (soundtrack)
+    midi_saved: false
+    plugin_name: None
+    program_num: 97
+target_peak: -1.0

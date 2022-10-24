@@ -1,0 +1,89 @@
+UUID: 5e4ba475350a6383620a7228a2f7b609
+audio_dir: Track00245/stems
+lmd_midi_dir: lmd_matched/J/F/M/TRJFMKJ128F92D856E/5e4ba475350a6383620a7228a2f7b609.mid
+midi_dir: Track00245/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15482727375159777
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.20137697744628
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.206006029070345
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.19951940695066
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.19959204666684
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.199604113256072
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S05:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.20170919394325
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.199646693333193
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.199582760154847
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+target_peak: -1.0

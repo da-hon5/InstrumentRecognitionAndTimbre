@@ -1,0 +1,90 @@
+UUID: 2d70eb1d0bd7e75f3dfe75384c2e8260
+audio_dir: Track01497/stems
+lmd_midi_dir: lmd_matched/Q/P/P/TRQPPMV128F4269881/2d70eb1d0bd7e75f3dfe75384c2e8260.mid
+midi_dir: Track01497/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22701340706915138
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.674328100965397
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.420805407259271
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.694128622398512
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.85102901667622
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.480753704352992
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.189208698583712
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.55843523499365
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -21.007952536095775
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 75
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.953371607171068
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+target_peak: -1.0

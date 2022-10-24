@@ -1,0 +1,150 @@
+UUID: d40d7dc5e5c127e7d0c8f0565db17c0c
+audio_dir: Track00593/stems
+lmd_midi_dir: lmd_matched/K/B/M/TRKBMUL12903CE6E46/d40d7dc5e5c127e7d0c8f0565db17c0c.mid
+midi_dir: Track00593/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1898483933438275
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.430686778506754
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.430666916315364
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.431250421679845
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.43064242355332
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Tinkle Bell
+    midi_saved: false
+    plugin_name: None
+    program_num: 112
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.430631264745674
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.430661066450767
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.430654441679316
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.430609899735206
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.430160557161248
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.430577328340263
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.43067006769986
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.430494354464496
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.430666927602
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S15:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+target_peak: -1.0

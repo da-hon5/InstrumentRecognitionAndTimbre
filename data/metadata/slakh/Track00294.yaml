@@ -1,0 +1,114 @@
+UUID: 82e01f9bef66a8f6fa59a917d5b24bdd
+audio_dir: Track00294/stems
+lmd_midi_dir: lmd_matched/X/M/M/TRXMMJF128F9328238/82e01f9bef66a8f6fa59a917d5b24bdd.mid
+midi_dir: Track00294/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2331999073791993
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.64462906129756
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.644996434727883
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -25.645774176027896
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 95
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.644628825095882
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -25.64463643790209
+    is_drum: false
+    midi_program_name: Ocarina
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 79
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -25.645731120443138
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: guitar_lead.nkm
+    program_num: 81
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -25.64572383479768
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 89
+  S08:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.64492650056879
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.64535201379495
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S11:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 7 (echoes)
+    midi_saved: false
+    plugin_name: None
+    program_num: 102
+target_peak: -1.0

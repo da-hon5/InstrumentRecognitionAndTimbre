@@ -1,0 +1,98 @@
+UUID: 3d31d08f5561d428c8e8f00de9a7a9db
+audio_dir: Track00625/stems
+lmd_midi_dir: lmd_matched/V/W/N/TRVWNXO12903CF2A6D/3d31d08f5561d428c8e8f00de9a7a9db.mid
+midi_dir: Track00625/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20662436039414253
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.691233598543196
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.319863991236293
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.322225743732183
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.027565343636564
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S04:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.380793887950908
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: tenor_trombone.nkm
+    program_num: 57
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -20.45531466560549
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -19.949660630563297
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: glockenspiel.nkm
+    program_num: 11
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.094208899263432
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.20557185980096
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

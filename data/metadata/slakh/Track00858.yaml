@@ -1,0 +1,72 @@
+UUID: f6f0592aa1e5339fba58689008e3546f
+audio_dir: Track00858/stems
+lmd_midi_dir: lmd_matched/Y/I/P/TRYIPGB128F92DA1D7/f6f0592aa1e5339fba58689008e3546f.mid
+midi_dir: Track00858/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1666410935470756
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -22.52754462485394
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.095138093228773
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.941391914152437
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.58655547659234
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.65267808176093
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.114758455761297
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.106232140260126
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+target_peak: -1.0

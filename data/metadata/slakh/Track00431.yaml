@@ -1,0 +1,134 @@
+UUID: 77e2264c20b5a783da4c8d95a9c1cf2a
+audio_dir: Track00431/stems
+lmd_midi_dir: lmd_matched/L/O/G/TRLOGVZ128F4273920/77e2264c20b5a783da4c8d95a9c1cf2a.mid
+midi_dir: Track00431/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1712546274149805
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.32240707663684
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 22
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.324423569005514
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.32509361291852
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.325816739194483
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.324525376778077
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.326046206007366
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: organ_kh_floeten_1_manual.nkm
+    program_num: 16
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.32470148454936
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 82
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.325112580104214
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.32487070044585
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.32644997087747
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.32514318059762
+    is_drum: false
+    midi_program_name: Church Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 19
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.3248170401127
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.325870204699683
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+target_peak: -1.0

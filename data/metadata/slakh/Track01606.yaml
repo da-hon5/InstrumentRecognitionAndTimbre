@@ -1,0 +1,125 @@
+UUID: 5e81c1a6d299c33730ec9e91b788490d
+audio_dir: Track01606/stems
+lmd_midi_dir: lmd_matched/A/W/S/TRAWSDM12903CCAA3B/5e81c1a6d299c33730ec9e91b788490d.mid
+midi_dir: Track01606/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17966660645064164
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.501587758164636
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.298960476729055
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.5659692400271
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 22
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -11.12751418472223
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 21
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.1349566635421
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 2
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.883523863342266
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.20419718038376
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.30218240393608
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -15.190488434360615
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 44
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.383083545484272
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.759480577226824
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S11:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.59910179205534
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+target_peak: -1.0

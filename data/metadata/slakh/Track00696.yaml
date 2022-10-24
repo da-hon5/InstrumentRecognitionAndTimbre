@@ -1,0 +1,108 @@
+UUID: d4606e14f6a2171128c0f1178136730d
+audio_dir: Track00696/stems
+lmd_midi_dir: lmd_matched/U/F/E/TRUFEFR128F4280ACA/d4606e14f6a2171128c0f1178136730d.mid
+midi_dir: Track00696/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21256891243290282
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.527036630046585
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.207926985871207
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.4701281480261
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.489411037203356
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.69398242845377
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.548648841828822
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.14096908106292
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.614593367640712
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.526509531686592
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 16
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.765815042566851
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.652575357616826
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+target_peak: -1.0

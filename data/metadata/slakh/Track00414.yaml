@@ -1,0 +1,90 @@
+UUID: 94cb5dcb8f855afc57b2f0108d334059
+audio_dir: Track00414/stems
+lmd_midi_dir: lmd_matched/A/D/C/TRADCVS128F932D857/94cb5dcb8f855afc57b2f0108d334059.mid
+midi_dir: Track00414/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17757513929076962
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.011875451877966
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.01065643999926
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.010953981950074
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.0100606971843
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.010243209534597
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -28.011879860896627
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: hybrid_keys_antique_toy.nkm
+    program_num: 12
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -28.011891146216744
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 44
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.011199811411977
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.011873553819832
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+target_peak: -1.0

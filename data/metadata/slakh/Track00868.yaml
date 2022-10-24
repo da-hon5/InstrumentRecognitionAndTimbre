@@ -1,0 +1,108 @@
+UUID: d2ae14f282a66490b3e54b39e13cc131
+audio_dir: Track00868/stems
+lmd_midi_dir: lmd_matched/W/K/S/TRWKSNO128F9326746/d2ae14f282a66490b3e54b39e13cc131.mid
+midi_dir: Track00868/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13089103045982564
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.663344863456082
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.660366351550273
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -30.661125538547964
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -30.66109863705468
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.661231146341887
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.662981654670002
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.663327816992535
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.66110652193614
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.663307593186403
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.661662950317233
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.66106474890508
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+target_peak: -1.0

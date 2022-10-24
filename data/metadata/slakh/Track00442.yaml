@@ -1,0 +1,99 @@
+UUID: bb77974cfb11a5534a4a9ac05499bf88
+audio_dir: Track00442/stems
+lmd_midi_dir: lmd_matched/E/O/Q/TREOQZN128EF34C1F8/bb77974cfb11a5534a4a9ac05499bf88.mid
+midi_dir: Track00442/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18107878596535984
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -14.91698602628616
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 82
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.844880399999788
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.010196086485674
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: upright_bass.nkm
+    program_num: 32
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.727491935748226
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.787668690017917
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.419095081184194
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.20202021221941
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.956796434676356
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet.nkm
+    program_num: 56
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.08069271510703
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.225369909946732
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+target_peak: -1.0

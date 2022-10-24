@@ -1,0 +1,152 @@
+UUID: 2c6cf588ba2b3921b1eba4725b408aa4
+audio_dir: Track00502/stems
+lmd_midi_dir: lmd_matched/T/N/W/TRTNWXT128F42289DD/2c6cf588ba2b3921b1eba4725b408aa4.mid
+midi_dir: Track00502/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16565154403144836
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.544817176418377
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: organ_kh_floeten_1_manual.nkm
+    program_num: 17
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.085225927446015
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -14.91016759776217
+    is_drum: false
+    midi_program_name: Dulcimer
+    midi_saved: true
+    plugin_name: glockenspiel_essential.nkm
+    program_num: 15
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.70168886004818
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.91491125911369
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.529180528697584
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.19849056255835
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -11.71877997996112
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 16
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.1713326450724
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 64
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.71647375156469
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.334035273361522
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.332723589866047
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.35670232255511
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S13:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.527815529252498
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 18
+  S14:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.511966913191335
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+target_peak: -1.0

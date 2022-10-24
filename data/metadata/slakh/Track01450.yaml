@@ -1,0 +1,90 @@
+UUID: 9fc7d0b6541a335e4122d18776139dab
+audio_dir: Track01450/stems
+lmd_midi_dir: lmd_matched/O/H/T/TROHTQV128F427D979/9fc7d0b6541a335e4122d18776139dab.mid
+midi_dir: Track01450/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16876050969985934
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.452917533339395
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.452351530414354
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.448549485471556
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.452292910815483
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 82
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.452469718405776
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 89
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.451196236949748
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.45239187024533
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 94
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.45239243910076
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.453585715597633
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

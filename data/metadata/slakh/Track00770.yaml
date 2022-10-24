@@ -1,0 +1,168 @@
+UUID: 81d73395d7036da3b733dc1fb26f06ce
+audio_dir: Track00770/stems
+lmd_midi_dir: lmd_matched/W/F/N/TRWFNTV128F92E2350/81d73395d7036da3b733dc1fb26f06ce.mid
+midi_dir: Track00770/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18535062439879804
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.509738340383855
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.159611489457488
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 6
+  S02:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -14.994543703853724
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: celesta.nkm
+    program_num: 14
+  S03:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -22.456812715372426
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+  S04:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+  S05:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.181786254550534
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 81
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.854811697834094
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.666125709696535
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.205747648921994
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -21.156780255891338
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: cello_solo.nkm
+    program_num: 42
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.930217814567097
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.208394366719148
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 82
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.124137582991544
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.712390843304654
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+  S15:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.865755334608785
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S16:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -16.237334328663625
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 81
+  S17:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+target_peak: -1.0

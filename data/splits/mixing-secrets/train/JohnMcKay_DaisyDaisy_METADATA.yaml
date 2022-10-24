@@ -1,0 +1,128 @@
+album: ''
+artist: JohnMcKay
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: JohnMcKay_DaisyDaisy_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: JohnMcKay_DaisyDaisy_RAW
+stem_dir: JohnMcKay_DaisyDaisy_STEMS
+stems:
+  S01:
+    component: ''
+    filename: JohnMcKay_DaisyDaisy_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 04_Tom1.wav
+        instrument: Tom
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 05_Tom2.wav
+        instrument: Tom
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 03_Overheads.wav
+        instrument: Overheads
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_Snare.wav
+        instrument: Snare
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: 12_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 12_LeadVox2.wav
+        instrument: male singer
+  S03:
+    component: ''
+    filename: 08_ElecGtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 08_ElecGtr1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 06_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 06_BassDI.wav
+        instrument: electric bass
+  S05:
+    component: ''
+    filename: 11_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 11_LeadVox1.wav
+        instrument: male singer
+  S06:
+    component: ''
+    filename: 09_ElecGtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 09_ElecGtr2.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 07_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 07_BassAmp.wav
+        instrument: electric bass
+  S08:
+    component: ''
+    filename: 10_ElecGtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 10_ElecGtr3.wav
+        instrument: distorted electric guitar
+title: DaisyDaisy
+version: '3.0'
+website: ''

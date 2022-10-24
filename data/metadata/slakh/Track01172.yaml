@@ -1,0 +1,150 @@
+UUID: 68c0c3a64d643291e3cec0082ae034fa
+audio_dir: Track01172/stems
+lmd_midi_dir: lmd_matched/O/W/Q/TROWQGK128F4295ECB/68c0c3a64d643291e3cec0082ae034fa.mid
+midi_dir: Track01172/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19745622872536628
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.09100683253462
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.083603342825825
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.07443892356925
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.083581195409533
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S04:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Tinkle Bell
+    midi_saved: false
+    plugin_name: None
+    program_num: 112
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.083583043181044
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 66
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.0835807417749
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.083579987187743
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.083566090053452
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.083599885889644
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.083585028690575
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.083581177237253
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.083580370119822
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.08358225394018
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S15:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+target_peak: -1.0

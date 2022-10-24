@@ -1,0 +1,144 @@
+UUID: 1a0df14db4907570c68297595c5c8cf9
+audio_dir: Track00392/stems
+lmd_midi_dir: lmd_matched/D/U/I/TRDUIXP128F426415E/1a0df14db4907570c68297595c5c8cf9.mid
+midi_dir: Track00392/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14710827204894156
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.042794509410697
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.106806560367602
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.583737594362336
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.556382556483758
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.77609524964313
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -31.084091488019084
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: xylophone.nkm
+    program_num: 9
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -19.203280015135803
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 45
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -17.963715469029044
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -21.570995217033023
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 45
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.281777080954683
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.80806134082358
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.686873213018004
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 18
+  S12:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.452114431417183
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 88
+  S13:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.124667395552567
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 21
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -13.708037912926901
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 51
+target_peak: -1.0

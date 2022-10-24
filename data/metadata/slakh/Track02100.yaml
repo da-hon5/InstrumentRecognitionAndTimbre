@@ -1,0 +1,90 @@
+UUID: 88eaa77f8ddd3e9a1d8564d6b1e88cc3
+audio_dir: Track02100/stems
+lmd_midi_dir: lmd_matched/X/U/P/TRXUPQE128EF34FDF8/88eaa77f8ddd3e9a1d8564d6b1e88cc3.mid
+midi_dir: Track02100/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15571437510619476
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.79064903096504
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.01637059361916
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.942308238705518
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.034490295221214
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.853143682757132
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.72750444629692
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.674579214525604
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.74260096623575
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S08:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -20.104227787567154
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_hot_tropics.nkm
+    program_num: 11
+target_peak: -1.0

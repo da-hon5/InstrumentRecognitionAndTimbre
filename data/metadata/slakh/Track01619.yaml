@@ -1,0 +1,99 @@
+UUID: 04c878167ccd745033822cba947d4307
+audio_dir: Track01619/stems
+lmd_midi_dir: lmd_matched/G/E/U/TRGEUZM128F428284E/04c878167ccd745033822cba947d4307.mid
+midi_dir: Track01619/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10061738702140878
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.94302714256377
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -32.94800008802699
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -32.94801197783612
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboe.nkm
+    program_num: 68
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.94834955209789
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.94826802220338
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.9490145436106
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.94857895835739
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.948170950250706
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.94811696227772
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -32.94831384814677
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+target_peak: -1.0

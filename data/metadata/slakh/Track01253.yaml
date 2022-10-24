@@ -1,0 +1,117 @@
+UUID: feab3134554973a88a1af05bec20be65
+audio_dir: Track01253/stems
+lmd_midi_dir: lmd_matched/R/J/M/TRRJMEC128EF3563A1/feab3134554973a88a1af05bec20be65.mid
+midi_dir: Track01253/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2051050754506729
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.16167132689114
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.649878262153532
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -13.31338079277986
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 18
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.130720255888324
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 87
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.51034768402499
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.703438467468832
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -13.228362772368472
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 6
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.9674672555988
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.72401457768937
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 82
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.36055310724046
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.010679243665926
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.006453508335742
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+target_peak: -1.0

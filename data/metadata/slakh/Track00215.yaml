@@ -1,0 +1,98 @@
+UUID: 8118e4e315bc55d02087d63d8ab0186c
+audio_dir: Track00215/stems
+lmd_midi_dir: lmd_matched/V/M/H/TRVMHNC128F14697DD/8118e4e315bc55d02087d63d8ab0186c.mid
+midi_dir: Track00215/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17747077067117822
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.228082158784638
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.12188042118155
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.241284627499454
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.712764951618087
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.773351353926813
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 88
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.330104656175402
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.880887085861216
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.182623516213177
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S08:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.590782857358608
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,131 @@
+UUID: 1001e57b4f397c5e75e9e4b2429ddd4c
+audio_dir: Track00740/stems
+lmd_midi_dir: lmd_matched/P/S/G/TRPSGSZ128F148C495/1001e57b4f397c5e75e9e4b2429ddd4c.mid
+midi_dir: Track00740/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2434085693527644
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.14657397460139
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.399575755169085
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.829874403748153
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.242166771969472
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S04:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -14.671905373482188
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 78
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.743486550278302
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.347250470729573
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 17
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.80455042258369
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S10:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.08175694691047
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 85
+  S11:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.92965130553546
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 81
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S13:
+    audio_rendered: false
+    inst_class: Strings (continued)
+    is_drum: false
+    midi_program_name: Orchestra Hit
+    midi_saved: false
+    plugin_name: None
+    program_num: 55
+target_peak: -1.0

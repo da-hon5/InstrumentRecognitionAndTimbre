@@ -1,0 +1,153 @@
+UUID: 6813cb84732fda38042fe23d36347e08
+audio_dir: Track00225/stems
+lmd_midi_dir: lmd_matched/H/R/X/TRHRXCR12903CE8716/6813cb84732fda38042fe23d36347e08.mid
+midi_dir: Track00225/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16881050820247762
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -20.6881173914893
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.048458982433612
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.118995377467723
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 88
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.397788813805526
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 2
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.35357142626391
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.682685341439264
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.975670089214706
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.545952023732106
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.608320977509319
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.299290082497855
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.354403682024959
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 93
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -22.72969848767164
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 95
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.84729239419948
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S13:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.69152747845951
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S14:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -20.475520854819116
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 81
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.87819507287569
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+target_peak: -1.0

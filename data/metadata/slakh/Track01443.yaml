@@ -1,0 +1,89 @@
+UUID: 6c739f5b681b48a7ee8991cb87ade619
+audio_dir: Track01443/stems
+lmd_midi_dir: lmd_matched/V/O/C/TRVOCNJ128F9312232/6c739f5b681b48a7ee8991cb87ade619.mid
+midi_dir: Track01443/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19821658121227212
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.480855445853226
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.472561123146116
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.87536381792609
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.070785491707067
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.089275925990837
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.54061107140833
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.11670328371703
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 56
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.99644939177774
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 91
+  S08:
+    audio_rendered: false
+    inst_class: Strings (continued)
+    is_drum: false
+    midi_program_name: Orchestra Hit
+    midi_saved: false
+    plugin_name: None
+    program_num: 55
+target_peak: -1.0

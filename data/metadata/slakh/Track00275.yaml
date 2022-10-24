@@ -1,0 +1,133 @@
+UUID: bdf50dc6ee08393dc02a9f3cfc772cc5
+audio_dir: Track00275/stems
+lmd_midi_dir: lmd_matched/T/G/M/TRTGMOH128F42650AD/bdf50dc6ee08393dc02a9f3cfc772cc5.mid
+midi_dir: Track00275/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1849598206702794
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.19338433689981
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.663355143608005
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 94
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.7897337164291
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.475836513828302
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.045863762174815
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.745377680806154
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.038063831384697
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.873867727425317
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S08:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.39132012738325
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.99308634690935
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S11:
+    audio_rendered: false
+    inst_class: Strings (continued)
+    is_drum: false
+    midi_program_name: Orchestra Hit
+    midi_saved: false
+    plugin_name: None
+    program_num: 55
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.816050397423792
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S13:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.182842904198315
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 95
+target_peak: -1.0

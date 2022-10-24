@@ -1,0 +1,98 @@
+UUID: 56f271083f7586e8c8e83732ec6751a5
+audio_dir: Track00603/stems
+lmd_midi_dir: lmd_matched/C/I/R/TRCIRSK128F92FC58F/56f271083f7586e8c8e83732ec6751a5.mid
+midi_dir: Track00603/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1840039544718576
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -16.36824830063973
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 82
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.93924952639168
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.858714770090828
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.70469700475889
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 90
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.655228144093694
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 21
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.677866192080554
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S06:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Kalimba
+    midi_saved: false
+    plugin_name: None
+    program_num: 108
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -16.977075778757783
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 80
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -12.776895904293426
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 78
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.380997577803896
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

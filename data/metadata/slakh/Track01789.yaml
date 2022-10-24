@@ -1,0 +1,72 @@
+UUID: 10d945bcfa0fb6a1f52ab5d02be1b0fd
+audio_dir: Track01789/stems
+lmd_midi_dir: lmd_matched/B/U/E/TRBUEYU128F92F2AAC/10d945bcfa0fb6a1f52ab5d02be1b0fd.mid
+midi_dir: Track01789/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21595361054025866
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.314004188431266
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.313443192621346
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.313697879651567
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.313755896747818
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.313668700478264
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.31361365511
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.314001964961047
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

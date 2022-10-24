@@ -1,0 +1,99 @@
+UUID: c2e3fdeb89c79db5fd95b976c3e97894
+audio_dir: Track00727/stems
+lmd_midi_dir: lmd_matched/U/W/A/TRUWAUH128F9329702/c2e3fdeb89c79db5fd95b976c3e97894.mid
+midi_dir: Track00727/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19231403502503053
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.59060641132516
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.848275624398408
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.601554672536867
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.008433092134002
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.207238679828777
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.693915584569275
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -13.785244072117502
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: french_oboe.nkm
+    program_num: 68
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -21.436761683373447
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.853941277827907
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.779277194129907
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

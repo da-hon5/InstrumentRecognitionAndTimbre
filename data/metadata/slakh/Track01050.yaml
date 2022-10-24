@@ -1,0 +1,133 @@
+UUID: a11444d2dbf9407214b2dd95dee5ac2e
+audio_dir: Track01050/stems
+lmd_midi_dir: lmd_matched/X/J/D/TRXJDPK12903CCDAD1/a11444d2dbf9407214b2dd95dee5ac2e.mid
+midi_dir: Track01050/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18471078705709654
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.226637303939782
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.833931130503133
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.66848270446068
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.646183620632138
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -10.225315265848916
+    is_drum: false
+    midi_program_name: Tuba
+    midi_saved: true
+    plugin_name: tuba.nkm
+    program_num: 58
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.288706379961134
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.719499731570261
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S07:
+    audio_rendered: false
+    inst_class: Chromatic Percussion
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: tubular_bells_wood.nkm
+    program_num: 10
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.84789061107876
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 6
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.03672371428382
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.516055915465575
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.856067726913743
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S12:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -18.601053057879085
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: marimba.nkm
+    program_num: 14
+  S13:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+target_peak: -1.0

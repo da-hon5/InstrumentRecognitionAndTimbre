@@ -1,0 +1,151 @@
+UUID: 61c38b599f45441b9d2402ad5ffe4df0
+audio_dir: Track01354/stems
+lmd_midi_dir: lmd_matched/A/K/F/TRAKFNZ128F92F7CED/61c38b599f45441b9d2402ad5ffe4df0.mid
+midi_dir: Track01354/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15476934483305607
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.62553015664494
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.55393275823955
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.24451528724267
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.16458599682983
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.571505827487396
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.435965749500289
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.22339692097356
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -13.529939354498694
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 67
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.49226749505055
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -24.825287196854507
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: tenor_trombone.nkm
+    program_num: 57
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.949186272276899
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 22
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.860717213835752
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 2
+  S14:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.847147238567146
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 16
+  S15:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.535629038351095
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 78
+target_peak: -1.0

@@ -1,0 +1,135 @@
+UUID: af062befc8ee4bb7a3a2302b645895d9
+audio_dir: Track00168/stems
+lmd_midi_dir: lmd_matched/V/Q/C/TRVQCKY128F4233466/af062befc8ee4bb7a3a2302b645895d9.mid
+midi_dir: Track00168/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15317573798533873
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.29736648283806
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.295553728622263
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 92
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.297713153563723
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.299527113391978
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.29624364035018
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.297713553820437
+    is_drum: false
+    midi_program_name: Muted Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 59
+  S06:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -29.297732487187336
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: marimba.nkm
+    program_num: 11
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.298103672797925
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 94
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.295879483215945
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.29639653221837
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.297720569778406
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.296617693190758
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.29787212763773
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S13:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.296241124336724
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+target_peak: -1.0

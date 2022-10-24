@@ -1,0 +1,152 @@
+UUID: 37dac937c5778a7d1ca035eeed816ccd
+audio_dir: Track00182/stems
+lmd_midi_dir: lmd_matched/J/I/I/TRJIIXA128F1490FD8/37dac937c5778a7d1ca035eeed816ccd.mid
+midi_dir: Track00182/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14973280454113633
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.49408000703752
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.49394620193302
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.4941061605163
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.494117771311092
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.494077917643768
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -29.49407625809423
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: cello_solo.nkm
+    program_num: 42
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.493665045072866
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.494039748178416
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 89
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.49399287128401
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 95
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.493938311083514
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 1 (rain)
+    midi_saved: false
+    plugin_name: None
+    program_num: 96
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.49467068597485
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.493970880984087
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.495635173552067
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.494089979283455
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.492904862694253
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+target_peak: -1.0

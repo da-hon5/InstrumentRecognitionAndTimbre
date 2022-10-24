@@ -1,0 +1,72 @@
+UUID: 1e78ba5425bf51fbbf216d7bad4baed0
+audio_dir: Track01522/stems
+lmd_midi_dir: lmd_matched/Z/Q/Q/TRZQQLP128F92DD94E/1e78ba5425bf51fbbf216d7bad4baed0.mid
+midi_dir: Track01522/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1468164689042013
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -29.669656174458755
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: organ_kh_floeten_1_manual.nkm
+    program_num: 16
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.666400377277633
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.654373759116513
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.66542399960337
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.66567592012985
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.66598944395241
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.665894496379025
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

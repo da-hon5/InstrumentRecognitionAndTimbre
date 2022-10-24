@@ -1,0 +1,90 @@
+UUID: ffc0824de8596b735f9ac635e20897c2
+audio_dir: Track01514/stems
+lmd_midi_dir: lmd_matched/M/C/N/TRMCNTY12903CC9CE2/ffc0824de8596b735f9ac635e20897c2.mid
+midi_dir: Track01514/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13926097168685117
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.12254833580521
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.12254255538254
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.12254207992351
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -30.108550848150504
+    is_drum: false
+    midi_program_name: Bassoon
+    midi_saved: true
+    plugin_name: bassoon_essential.nkm
+    program_num: 70
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.1225525460072
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -30.122559067632963
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 40
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -30.120395088611073
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 40
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.122538437451652
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.122720175631127
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

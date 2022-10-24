@@ -1,0 +1,134 @@
+UUID: 9aaae5dd26a20121641a2989e4add41c
+audio_dir: Track00207/stems
+lmd_midi_dir: lmd_matched/C/Z/J/TRCZJAE128F42ADEAA/9aaae5dd26a20121641a2989e4add41c.mid
+midi_dir: Track00207/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18791096297781065
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.92642040232337
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.852554476665365
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.94959927555094
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.574065664867646
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.580635261
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.74453228758328
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 91
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.351123321111345
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 89
+  S07:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -17.52983004425655
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 9
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.72278536690659
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.022428164261118
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.667400936189818
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 91
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.90750996932551
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S12:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.031650940282596
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+target_peak: -1.0

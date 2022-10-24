@@ -1,0 +1,97 @@
+UUID: b4306fbf79fedf2bcdb060eac8df8406
+audio_dir: Track02040/stems
+lmd_midi_dir: lmd_matched/J/T/Z/TRJTZTU128E078F13F/b4306fbf79fedf2bcdb060eac8df8406.mid
+midi_dir: Track02040/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18421635111677567
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.472507949972538
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.657249483562676
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 3
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -22.47003344102955
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet.nkm
+    program_num: 71
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.05077150030709
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.383447824577193
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.176072917379543
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S06:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Banjo
+    midi_saved: false
+    plugin_name: None
+    program_num: 105
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.523897746286895
+    is_drum: false
+    midi_program_name: Bassoon
+    midi_saved: true
+    plugin_name: bassoons_essential.nkm
+    program_num: 70
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.78113913836617
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Steel Drums
+    midi_saved: false
+    plugin_name: None
+    program_num: 114
+target_peak: -1.0

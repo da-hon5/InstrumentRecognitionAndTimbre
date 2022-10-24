@@ -1,0 +1,92 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Timbre Estimators}{results:feat_pred}
+In this section, the timbre estimators are evaluated. Initially, we investigate the effect of different transfer learning approaches. After that, we report and discuss the performance of all 15 timbre estimators.
+
+\newsubsection{Transfer Learning -- Which Layers to train?}{results:feat_pred:transfer-learning}
+Since it turned out that utilizing pre-trained convolutional layers and fine-tuning them with the multi-track datasets yields the best results for multi-instrument recognition, we are curious whether this also applies to our timbre estimators. We consider the percussion family as an example and train three models using the transfer learning approaches described in Section~\ref{sec:results:multi-inst_recognition:transfer-learning}. The \glspl{mae} on the test data are shown in Table~\ref{tab:feat-pred-transfer-learning}. One can see, that the fine-tuned model performs best in predicting every single timbre descriptor. Therefore, the fine-tuning method is used for all 15 timbre estimators in the following experiments. More details on how the test sets are created can be found in Section~\ref{sec:results:feat_pred:performance}.\\
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c}
+		                & From Scratch  & Frozen Backbone   & Fine-tuned  \\ \hline
+		Loudn [LUFS]    & 4.63          & 3.26              & \textbf{2.81} \\ \hline
+		MFCC (Med) [ - ]& 9.24          & 8.76              & \textbf{7.36}  \\ \hline
+		MFCC (IQR) [ - ]& 5.39          & 5.29              & \textbf{5.01}  \\ \hline
+		SPC (Med) [Hz]	& 847.4         & 880.5             & \textbf{668.9}\\ \hline
+		SPC (IQR) [Hz]	& 676.6         & 632.6             & \textbf{611.1}\\ \hline
+		ZCR (Med) [ - ] & 0.0495        & 0.0526            & \textbf{0.0412}\\ \hline
+		ZCR (IQR) [ - ] & 0.0427        & 0.0426            & \textbf{0.0406} \\ \hline
+		SPF (Med) [ - ] & 0.0163        & 0.0174            & \textbf{0.0150} \\ \hline
+		SPF (IQR) [ - ] & 0.0226        & 0.0232            & \textbf{0.0202} \\
+	\end{tabular}
+	\caption{\Glspl{mae} of the percussion model obtained on the test set using different transfer learning methods.}
+	\label{tab:feat-pred-transfer-learning}
+\end{table}
+
+In Fig.~\ref{fig:feat-pred-learning-curves}, the learning curves of the percussion model are plotted. These curves show similar behavior to the curves in Fig.~\ref{fig:classifier-transfer-learning-exp}. When pre-trained convolutional layers are utilized, the model already knows how to recognize patterns in mel-spectrograms. This skill can be easily transferred from music tagging to timbre estimation. Thus, both training and validation loss are already relatively low at the beginning of the training, when a pre-trained backbone is used. Unsurprisingly, additional fine-tuning of the backbone yields further performance gains.
+\figc{width=0.9\textwidth}{\pwd/figs/feature-pred-transfer-learning-exp}{Learning curves of the percussion model using different transfer learning methods.}{feat-pred-learning-curves}
+
+\newsubsection{Performance of the Timbre Estimators}{results:feat_pred:performance}
+To get an impression of the timbre estimators' performance,  an oracle experiment was conducted. In other words, the instrument classifier is assumed to be ideal, hence each timbre estimator only has to deal with mixtures which actually contain the target instrument that the particular model was trained on. Considering that a single training epoch of one model already takes about six minutes\footnote{The reason for the long training time is the huge CPU utilization due to the complex data loading process. Computation time significantly increases even further when multiple models are trained in parallel on a single machine.}, it is infeasible to perform hyperparameter tuning of 15 models. For this reason, most hyperparameters are borrowed from our classifier. Although the task of timbre estimation is not as related to music tagging as multi-instrument recognition, we still utilized a model pre-trained on the MTG-Jamendo dataset as a starting point for transfer learning. We then trained the randomly initialized fully connected layers from scratch and fine-tuned the convolutional layers with a smaller learning rate, i.e. we \textit{fine-tuned} the model. This turned out to be the best approach (see Section~\ref{sec:results:feat_pred:transfer-learning}). Furthermore, we used the same mixing strategy that was found to be ideal for multi-instrument recognition in the experiments in Section~\ref{sec:results:multi-inst_recognition:mixing} for our timbre estimators as well.\\
+
+To evaluate the timbre estimators, we randomly generated mixes from individual sources, just as we did when testing the classifiers. However, we had to create separate test mixes for every timbre estimator, so that the respective target instrument or family appears in each mix. Therefore, only songs which contain the target are used to produce test mixes for a particular timbre estimator. For each instrument or family, Tables~\ref{tab:numb-songs-per-fam} and~\ref{tab:numb-songs-per-class} contain the number of available songs in the test sets of the three multi-track datasets. For every instrument or family, 60 mixes are generated from the individual tracks of those songs. We then measured how well the models can predict timbre descriptors and loudness of the respective target instruments or families from a mix. Therefore, the \gls{mae} between ground truth and prediction is computed per descriptor for each of the 60 test mixes. Thereafter, metrics are averaged over all test mixes and reported in Tables~\ref{tab:feat-pred-mae-fam} and~\ref{tab:feat-pred-mae-class}.\\
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|c|c}
+		                & Voice & Perc & Pl-Str & Bow-Str & Wood & Brass & Key & Synth \\ \hline
+		MedleyDB	    & 12    & 19   & 17     & 5       & 8    & 2     & 13  & 6 \\ \hline
+		Mixing Secrets	& 17    & 19   & 15     & 7       & 2    & 0     & 8   & 9 \\ \hline
+		Slakh	        & 153   & 367  & 367    & 225     & 169  & 100   & 367 & 221 \\
+	\end{tabular}
+	\caption{Number of available test songs per dataset for each instrument family.}
+	\label{tab:numb-songs-per-fam}
+\end{table}
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|c}
+		               & Singer & Drums & Violin & E-Guitar & A-Guitar & E-Bass & Piano \\ \hline
+		MedleyDB	   & 12     & 18    & 3      & 13       & 1        & 11     & 10 \\ \hline
+		Mixing Secrets & 17     & 19    & 2      & 11       & 7        & 14     & 4 \\ \hline
+		Slakh	       & 153    & 367   & 16     & 308      & 213      & 343    & 236 \\
+	\end{tabular}
+	\caption{Number of available test songs per dataset for each instrument.}
+	\label{tab:numb-songs-per-class}
+\end{table}
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|c|c}
+		                & Voice  & Perc   & Pl-Str & Bow-Str& Wood   & Brass  & Key    & Synth \\ \hline
+		Loudn [LUFS]    & 3.03   & \textbf{2.74}   & 3.03   & 3.94   & 3.34   & 4.93   & 4.28   & 6.15\\ \hline
+		MFCC (Med) [ - ]& 10.77  & \textbf{7.46}   & 9.94   & 11.85  & 10.86  & 10.98  & 12.03  & 14.24\\ \hline
+		MFCC (IQR) [ - ]& 6.73   & 4.95   & 5.37   & \textbf{4.60}   & 5.62   & 7.07   & 6.05   & 7.13\\ \hline
+		SPC (Med) [Hz]	& 300.8  & 660.3  & \textbf{281.3}  & 481.8  & 401.6  & 427.2  & 293.9  & 498.2\\ \hline
+		SPC (IQR) [Hz]	& 218.1  & 614.4  & 273.0  & 231.8  & \textbf{209.6}  & 277.6  & 232.6  & 305.4 \\ \hline
+		ZCR (Med) [ - ] & \textbf{0.0116} & 0.0419 & 0.0117 & 0.0217 & 0.0117 & 0.0234 & 0.0131 & 0.0260\\ \hline
+		ZCR (IQR) [ - ] & 0.0107 & 0.0395 & 0.0105 & 0.0119 & 0.0114 & 0.0125 & \textbf{0.0091} & 0.0096\\ \hline
+		SPF (Med) [ - ] & 0.0060 & 0.0151 & 0.0003 & 0.0027 & 0.0041 & 0.0327 & \textbf{0.0000} & 0.0009\\ \hline
+		SPF (IQR) [ - ] & 0.0086 & 0.0197 & 0.0021 & 0.0211 & 0.0181 & 0.0542 & \textbf{0.0006} & 0.0113\\
+	\end{tabular}
+	\caption{\Glspl{mae} for every timbre descriptor and instrument family averaged over all test mixes.}
+	\label{tab:feat-pred-mae-fam}
+\end{table}
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c|c}
+		                & Singer & Drums  & Violin & E-Guitar & A-Guitar & E-Bass & Piano \\ \hline
+		Loudn [LUFS]	& 3.06   & \textbf{2.39}   & 3.86   & 2.99     & 3.09     & 3.07   & 3.60 \\ \hline
+		MFCC (Med) [ - ]& 10.91  & 7.03   & 11.90  & 9.63     & \textbf{6.89}     & 9.83   & 10.12 \\ \hline
+		MFCC (IQR) [ - ]& 6.80   & 5.11   & 5.00   & 5.30     & \textbf{3.51}     & 5.76   & 5.32\\ \hline
+		SPC (Med) [Hz]	& 300.8  & 804.0  & 470.4  & 183.3    & 313.4    & \textbf{175.9}  & 215.4\\ \hline
+		SPC (IQR) [Hz]	& 220.6  & 805.2  & \textbf{140.4}  & 256.1    & 256.9    & 209.2  & 158.8\\ \hline
+		ZCR (Med) [ - ] & 0.0114 & 0.0382 & 0.0226 & 0.0095   & 0.0134   & \textbf{0.0040} & 0.0102\\ \hline
+		ZCR (IQR) [ - ] & 0.0109 & 0.0453 & 0.0123 & 0.0095   & 0.0100   & \textbf{0.0042} & 0.0068 \\ \hline
+		SPF (Med) [ - ] & 0.0060 & 0.0575 & 0.0007 & 0.0017   & 0.0025   & 0.0019 & \textbf{0.0001} \\ \hline
+		SPF (IQR) [ - ] & 0.0087 & 0.0655 & \textbf{0.0037} & 0.0226   & \textbf{0.0037}   & 0.0112 & 0.0102 \\
+	\end{tabular}
+	\caption{\Glspl{mae} for every timbre descriptor and instrument averaged over all test mixes.}
+	\label{tab:feat-pred-mae-class}
+\end{table}
+
+Since each timbre estimator is evaluated on different test data, it is hard to compare their performance. Furthermore, the number of available songs from the MedleyDB and Mixing Secrets datasets is very small for some classes. As datasets are used with the same probability while the mixes are generated -- to reduce the influence of the huge Slakh dataset -- we end up with many similar mixes if the number of available songs from a particular dataset is small. Moreover, there is no baseline for the prediction of timbre descriptors in the literature, which we could use to assess our models' performance. Despite all these obstacles, we try to interpret the results in Tables~\ref{tab:feat-pred-mae-fam} and~\ref{tab:feat-pred-mae-class} as good as possible in the following section. However, to get a better impression of the capability of our timbre estimators, we consider some specific audio examples and observe the models' predictions in Appendix A.\\
+
+The first thing we note is that, in general, the performance is better for classes which exhibit smaller within-class variance. However, if the variance within a class is large, the respective timbre estimator has to deal with all those sound variations. For instance, predictions of the synth model are quite poor because the synth class contains all sounds generated by analog or digital sound synthesis according to the taxonomy proposed in Section~\ref{sec:method:taxonomy}. Since theoretically every conceivable sound can be produced by digital sound synthesis, timbre possibilities within the synth class are endless. Likewise, the performance of the key model is relatively low, since the key class comprises all instruments played with a keyboard -- with the exception of synthesizers. Needless to say, the timbre of instruments within the key class can vary greatly; consider an organ, a piano and an accordion, for example. Furthermore, the relatively poor performance of the percussion and drums models in predicting the zero-crossing rate and the spectral flatness is probably also caused by the high variance within these classes. The bandwidth of percussion instruments is huge, ranging from pitched instruments, such as xylophone or marimba (small zero-crossing rate and spectral flatness), to noise-like instruments, e.g. cymbals or shakers (large zero-crossing rate and spectral flatness). Moreover, the \gls{mae} of the percussion and drums models for spectral centroid prediction is large as well. The reason for that might be similar to the one mentioned above; the high within-class variance of the spectral centroid. The spectrum of a high-pitched triangle and a bass drum could not be more different. Finally, estimation of loudness works best for classes with sufficient training data, such as percussion, plucked strings, voice or drums. With mean errors down to $2.39$ LUFS, the loudness estimation performance in general is more than satisfying.

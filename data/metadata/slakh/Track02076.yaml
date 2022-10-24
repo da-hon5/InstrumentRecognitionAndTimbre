@@ -1,0 +1,90 @@
+UUID: b66cea86a1719b4ca78650a9ac7e61b7
+audio_dir: Track02076/stems
+lmd_midi_dir: lmd_matched/L/S/M/TRLSMMW128F4244482/b66cea86a1719b4ca78650a9ac7e61b7.mid
+midi_dir: Track02076/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18060280508970414
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.86581026442361
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 16
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.865810819073875
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.865909011257468
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.866281434386828
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 3
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.865809869562437
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.86576570829188
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 75
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.865767775276357
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.865812255757408
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.868216307435073
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+target_peak: -1.0

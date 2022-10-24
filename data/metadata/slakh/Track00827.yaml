@@ -1,0 +1,144 @@
+UUID: c88bfa1275c60404e9f224b4667889a3
+audio_dir: Track00827/stems
+lmd_midi_dir: lmd_matched/W/K/S/TRWKSUJ128F4277D48/c88bfa1275c60404e9f224b4667889a3.mid
+midi_dir: Track00827/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1563541713259239
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.21606447079021
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.624983173829836
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.422772288226984
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -11.810864316259552
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.879005218985316
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 88
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.135408984676356
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.44742187037154
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.872427275545055
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.25993962704551
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.63434110824888
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.018186592855514
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.508227118261107
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S12:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -23.478470129036204
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 89
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.616976713145915
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.598054791295374
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

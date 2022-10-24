@@ -1,0 +1,134 @@
+UUID: ecda548334fd9ab77510536e75238bbd
+audio_dir: Track00005/stems
+lmd_midi_dir: lmd_matched/P/C/X/TRPCXKX128E078F146/ecda548334fd9ab77510536e75238bbd.mid
+midi_dir: Track00005/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10323714746297126
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.72708188194438
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.72954076739244
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.7256236515976
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -32.724970307512855
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 75
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -32.726617351170184
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -32.64042351781042
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: hybrid_keys_tube_vibraphone.nkm
+    program_num: 9
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.72630142830709
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -32.72845728709806
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.72464475764045
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S10:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -32.728422417807494
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 75
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.724374110244916
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S12:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -32.728423987798635
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 64
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.72917233391496
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

@@ -1,0 +1,90 @@
+UUID: 37a496f6cc4a591c2282a8796c752037
+audio_dir: Track01494/stems
+lmd_midi_dir: lmd_matched/U/U/R/TRUURUQ128E07990A3/37a496f6cc4a591c2282a8796c752037.mid
+midi_dir: Track01494/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1706822299978185
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.352866409532655
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.355473552538403
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 3
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.355970442072596
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.35421806997819
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.35421393151265
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.355696797128655
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.355957071557107
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 17
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.354252192955137
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.35420843676952
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+target_peak: -1.0

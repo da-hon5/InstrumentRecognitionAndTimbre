@@ -1,0 +1,150 @@
+UUID: aee4ebdbffa18983f1f715d375e85a7d
+audio_dir: Track01477/stems
+lmd_midi_dir: lmd_matched/O/N/X/TRONXXY128F92DD510/aee4ebdbffa18983f1f715d375e85a7d.mid
+midi_dir: Track01477/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17147043436884166
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.31444067060288
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.315381911108883
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.314200425801623
+    is_drum: false
+    midi_program_name: English Horn
+    midi_saved: true
+    plugin_name: english_horn.nkm
+    program_num: 69
+  S04:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Helicopter
+    midi_saved: false
+    plugin_name: None
+    program_num: 125
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.31670858016525
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.316570582190167
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.315230086352653
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 36
+  S08:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -28.314496668049944
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.316544857979462
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -28.31654640170224
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: glockenspiel.nkm
+    program_num: 10
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.31554148212972
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 37
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.315335259951308
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.314502360580136
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S14:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Shamisen
+    midi_saved: false
+    plugin_name: None
+    program_num: 106
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.310511627440025
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 3
+target_peak: -1.0

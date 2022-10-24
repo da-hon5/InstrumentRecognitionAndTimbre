@@ -1,0 +1,99 @@
+UUID: e4f8bcf2c0cc506308b231ccd77bea4a
+audio_dir: Track00853/stems
+lmd_midi_dir: lmd_matched/X/X/A/TRXXAMM128F92E0725/e4f8bcf2c0cc506308b231ccd77bea4a.mid
+midi_dir: Track00853/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21804657117176893
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.53774451589918
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.211116044884731
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 37
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.974615681502833
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.34323404265756
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 3
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -14.999977093136646
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -13.515186877129286
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 67
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.732806091886081
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.526635837730105
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 67
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.607135064847768
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.70113858426922
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

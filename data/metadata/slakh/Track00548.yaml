@@ -1,0 +1,80 @@
+UUID: 526916a53bd9927e5a2a86b3dee35148
+audio_dir: Track00548/stems
+lmd_midi_dir: lmd_matched/U/W/B/TRUWBTY12903D13087/526916a53bd9927e5a2a86b3dee35148.mid
+midi_dir: Track00548/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15508949228463687
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.19011396695689
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.190564976136933
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.19061108884625
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.186025770697395
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.191615008718543
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.189903435366606
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 51
+  S06:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -29.189307182844065
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 22
+  S07:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+target_peak: -1.0

@@ -1,0 +1,72 @@
+UUID: 80c41aa793c37809ff115874b233a7dc
+audio_dir: Track01722/stems
+lmd_midi_dir: lmd_matched/M/W/R/TRMWRUR128F92CB673/80c41aa793c37809ff115874b233a7dc.mid
+midi_dir: Track01722/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20920176463342394
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.589067212060403
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.58909745271885
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.58899557971219
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.588251831464614
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 72
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.588392010915058
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.589416993785477
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.589074945497153
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 68
+target_peak: -1.0

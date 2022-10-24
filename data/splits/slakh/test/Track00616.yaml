@@ -1,0 +1,187 @@
+UUID: f4305be97ef03fdd6b5e0a4bf8e928f8
+audio_dir: Track00616/stems
+lmd_midi_dir: lmd_matched/N/V/K/TRNVKWU128F425F3C2/f4305be97ef03fdd6b5e0a4bf8e928f8.mid
+midi_dir: Volumes/data/manilow/generated_data/dataset3_last_file/Track00001/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13956066724269642
+stems:
+  S00:
+    ++CLASS++: null
+    ++FAMILY++: null
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S01:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.69565626711765
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    plugin_preset_name: Nylon Guitar
+    program_num: 24
+  S02:
+    ++CLASS++: drums
+    ++FAMILY++: percussion
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.804245514531186
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    plugin_preset_name: Stadium Kit - Full
+    program_num: 128
+  S03:
+    ++CLASS++: e-piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.535765772377385
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    plugin_preset_name: Scarbee Pianet
+    program_num: 5
+  S04:
+    ++CLASS++: a-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.60353081470357
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    plugin_preset_name: Nylon Guitar
+    program_num: 25
+  S05:
+    ++CLASS++: e-bass
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.385336886514484
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    plugin_preset_name: Pop Bass
+    program_num: 33
+  S06:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.919544411177792
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    plugin_preset_name: April Pan
+    program_num: 89
+  S07:
+    ++CLASS++: flute
+    ++FAMILY++: woodwind
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -14.959357851327276
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    plugin_preset_name: Piccolo
+    program_num: 73
+  S08:
+    ++CLASS++: unknown
+    ++FAMILY++: synth
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.937182285041068
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    plugin_preset_name: Chrystal
+    program_num: 93
+  S09:
+    ++CLASS++: piano
+    ++FAMILY++: key
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.39117111771556
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    plugin_preset_name: August Foerster Grand
+    program_num: 0
+  S10:
+    ++CLASS++: e-guitar
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: distorted
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.49148523516407
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    plugin_preset_name: Harmonic Guitar
+    program_num: 30
+  S11:
+    ++CLASS++: unknown
+    ++FAMILY++: bowed-str
+    ++SUBCLASS++: null
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.488786042234025
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    plugin_preset_name: <unknown>
+    program_num: 49
+  S12:
+    ++CLASS++: singer
+    ++FAMILY++: voice
+    ++SUBCLASS++: unknown
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.370723183064943
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    plugin_preset_name: Choir [a]
+    program_num: 53
+  S13:
+    ++CLASS++: other
+    ++FAMILY++: plucked-str
+    ++SUBCLASS++: null
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Koto
+    midi_saved: false
+    plugin_name: None
+    program_num: 107
+target_peak: -1.0

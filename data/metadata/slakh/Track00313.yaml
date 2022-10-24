@@ -1,0 +1,97 @@
+UUID: f7ceb1c0b899d6f8ff9d3778087048d0
+audio_dir: Track00313/stems
+lmd_midi_dir: lmd_matched/P/V/T/TRPVTRG128F425AB3E/f7ceb1c0b899d6f8ff9d3778087048d0.mid
+midi_dir: Track00313/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.08627878074592277
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -34.293017956777476
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -34.29175149995058
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -34.29521309643437
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 51
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -34.289159287194146
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S05:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -34.291621994207325
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -34.29144402456237
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_2.nkm
+    program_num: 56
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -34.29165307487814
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -34.27999633032264
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+target_peak: -1.0

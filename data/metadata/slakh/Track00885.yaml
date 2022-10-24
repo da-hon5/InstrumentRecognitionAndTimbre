@@ -1,0 +1,150 @@
+UUID: e3faf3519cff20c3f9ebe6fa03027733
+audio_dir: Track00885/stems
+lmd_midi_dir: lmd_matched/T/G/T/TRTGTBI128F4214A8B/e3faf3519cff20c3f9ebe6fa03027733.mid
+midi_dir: Track00885/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16329195050259282
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.155705400124152
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.12505800863664
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.328621785367297
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.845850690107984
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.60117467530822
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.52176133168255
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S06:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.40840620097625
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 88
+  S08:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.532125882974979
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.451039145396688
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.8682123170903
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S12:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.143236689593305
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.663616563174594
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.317249395502254
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

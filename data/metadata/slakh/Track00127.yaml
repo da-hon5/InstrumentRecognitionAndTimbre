@@ -1,0 +1,114 @@
+UUID: 3937af6b42485ccf0106ab3edf004f32
+audio_dir: Track00127/stems
+lmd_midi_dir: lmd_matched/Q/H/V/TRQHVBK128E07928B6/3937af6b42485ccf0106ab3edf004f32.mid
+midi_dir: Track00127/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17235522681449827
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.975260093353175
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S01:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Koto
+    midi_saved: false
+    plugin_name: None
+    program_num: 107
+  S02:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S03:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -23.13657638265104
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_futurebells.nkm
+    program_num: 11
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.72006181414725
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.21051938785796
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.73961622363086
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.25073628079006
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S08:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.142881645824787
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.442781964055936
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.172822634012725
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+target_peak: -1.0

@@ -1,0 +1,72 @@
+UUID: 299aa45c4f60e5f4929085ca0660aba0
+audio_dir: Track01991/stems
+lmd_midi_dir: lmd_matched/E/I/J/TREIJKE12903CB1DB3/299aa45c4f60e5f4929085ca0660aba0.mid
+midi_dir: Track01991/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20926122708409242
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.347137365341005
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.432596736834274
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.08571483295931
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.700180481636343
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.768723521155643
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.716885555633226
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.7313017918932
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 22
+target_peak: -1.0

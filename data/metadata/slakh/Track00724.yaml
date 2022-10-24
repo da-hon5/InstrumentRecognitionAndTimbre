@@ -1,0 +1,125 @@
+UUID: 4e3d591865408355350d6c9b7f1cf5fd
+audio_dir: Track00724/stems
+lmd_midi_dir: lmd_matched/G/Y/S/TRGYSRM128F4271548/4e3d591865408355350d6c9b7f1cf5fd.mid
+midi_dir: Track00724/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18075395440884034
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.30958117604284
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.519197429057346
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.995996218496103
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.242493896326005
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -21.736701925273955
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 81
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.413348189853696
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.117483682723742
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.20285308470074
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -20.969767795005925
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.541480201610376
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.66645254721884
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 90
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.585781009288121
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S12:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+target_peak: -1.0

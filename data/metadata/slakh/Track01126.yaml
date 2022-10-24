@@ -1,0 +1,125 @@
+UUID: c10fdc524b8d5dc9ef1f066a3eff480e
+audio_dir: Track01126/stems
+lmd_midi_dir: lmd_matched/C/F/W/TRCFWIL128F92EDBEB/c10fdc524b8d5dc9ef1f066a3eff480e.mid
+midi_dir: Track01126/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1751430501401096
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.132192321468736
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -28.131796029431467
+    is_drum: false
+    midi_program_name: Viola
+    midi_saved: true
+    plugin_name: viola_ensemble.nkm
+    program_num: 41
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.133118251575276
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.13275130400805
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.13184412496192
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.12458396611803
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 56
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.131842311906688
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.133087661325334
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.131793246258095
+    is_drum: false
+    midi_program_name: Ocarina
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 79
+  S09:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.131786269934594
+    is_drum: false
+    midi_program_name: Ocarina
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 79
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.128651676876895
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+  S11:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Agogo
+    midi_saved: false
+    plugin_name: None
+    program_num: 113
+  S12:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.132225884697945
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+target_peak: -1.0

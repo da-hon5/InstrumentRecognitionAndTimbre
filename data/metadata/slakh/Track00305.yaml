@@ -1,0 +1,99 @@
+UUID: 6343601e756be3309240dfebf96419f5
+audio_dir: Track00305/stems
+lmd_midi_dir: lmd_matched/B/X/M/TRBXMIP128F14A37CD/6343601e756be3309240dfebf96419f5.mid
+midi_dir: Track00305/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.25261669237499473
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.9521261076479
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -24.952149490415934
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.95205270604446
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.95203979355251
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -24.952167013737647
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: tubular_bells_wood.nkm
+    program_num: 14
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.95217997208365
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -24.952147171715403
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 89
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -24.952058536049886
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -24.952085272035866
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.952082249256645
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,90 @@
+UUID: c613ddce3ded35d2e8cadf3511a1ffb9
+audio_dir: Track01939/stems
+lmd_midi_dir: lmd_matched/M/Z/T/TRMZTZJ128F145BA51/c613ddce3ded35d2e8cadf3511a1ffb9.mid
+midi_dir: Track01939/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1591539043853287
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.40415267699604
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 90
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.890095193458922
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.999747611760782
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -20.953540926537084
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 18
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.880461899631644
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.612191966588977
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.53414155016096
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 6
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.89282392243798
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.415867594049544
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+target_peak: -1.0

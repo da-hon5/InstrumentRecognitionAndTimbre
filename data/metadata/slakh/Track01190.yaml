@@ -1,0 +1,99 @@
+UUID: da31ab206106f9981bb5358fdbadd04f
+audio_dir: Track01190/stems
+lmd_midi_dir: lmd_matched/Y/Z/H/TRYZHTR12903CF9D2B/da31ab206106f9981bb5358fdbadd04f.mid
+midi_dir: Track01190/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10766291005053555
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -32.36167594875605
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: celesta.nkm
+    program_num: 14
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.360532699360476
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -32.36313108091237
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: baritone_sax_vintage_solo.nkm
+    program_num: 67
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.36033288852045
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -32.35983308015661
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 18
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -32.360185222738785
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -32.35931473338033
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: xylophone.nkm
+    program_num: 11
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.36020585875966
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -32.36280727282899
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S09:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -32.3617481655756
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 22
+target_peak: -1.0

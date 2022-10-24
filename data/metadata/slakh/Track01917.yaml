@@ -1,0 +1,116 @@
+UUID: 4a2145b6b91d0b4e0d29c901a3448704
+audio_dir: Track01917/stems
+lmd_midi_dir: lmd_matched/G/O/M/TRGOMQQ128F92E52C7/4a2145b6b91d0b4e0d29c901a3448704.mid
+midi_dir: Track01917/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20797266369468922
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.277824109157045
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.841156024069903
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.281206642337004
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 75
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.138158524434406
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 6
+  S04:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.857290168724422
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.51444915217162
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 51
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.312580196982296
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.388324632814726
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.451604669367835
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.741902645617975
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.218507506578604
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+target_peak: -1.0

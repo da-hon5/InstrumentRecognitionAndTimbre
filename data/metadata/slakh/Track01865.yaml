@@ -1,0 +1,125 @@
+UUID: beea331af3631542778128dca2139be3
+audio_dir: Track01865/stems
+lmd_midi_dir: lmd_matched/U/B/J/TRUBJUY128F14A2309/beea331af3631542778128dca2139be3.mid
+midi_dir: Track01865/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17440674296391623
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.699957290807923
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.17128790315193
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.651327554835948
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.602553358702334
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S04:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.411984038894715
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.12220363400771
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.494451539217348
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.10567830644581
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.04452604858918
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.454464788321514
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.173194642001954
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 89
+  S12:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -15.327694762499174
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_concert_marimba.nkm
+    program_num: 11
+target_peak: -1.0

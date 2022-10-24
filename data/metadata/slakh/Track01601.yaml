@@ -1,0 +1,72 @@
+UUID: e1bd62e6df2e878d2ad89a4a3832a877
+audio_dir: Track01601/stems
+lmd_midi_dir: lmd_matched/X/X/C/TRXXCNH128F1473CB4/e1bd62e6df2e878d2ad89a4a3832a877.mid
+midi_dir: Track01601/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21946618825066871
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.680959810946995
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.012149626574523
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.71907747440194
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -13.602906336203263
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.837671978675
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.549084956595163
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.811832818433388
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+target_peak: -1.0

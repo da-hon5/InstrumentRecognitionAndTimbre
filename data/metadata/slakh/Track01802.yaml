@@ -1,0 +1,72 @@
+UUID: df642b0c5048afc3b2a44721bd69a654
+audio_dir: Track01802/stems
+lmd_midi_dir: lmd_matched/N/E/C/TRNECGB128F92E425C/df642b0c5048afc3b2a44721bd69a654.mid
+midi_dir: Track01802/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1576833181310857
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.045436012553843
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.045441959076026
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.045438568257055
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.04543890279738
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.04544334314756
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: tenor_trombone.nkm
+    program_num: 57
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.024600337889975
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.045439715359183
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

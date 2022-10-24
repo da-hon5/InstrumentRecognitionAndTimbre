@@ -1,0 +1,72 @@
+UUID: 6e7c58694f8a37624ee4939be846b635
+audio_dir: Track01013/stems
+lmd_midi_dir: lmd_matched/Y/H/Z/TRYHZMO12903CA7E47/6e7c58694f8a37624ee4939be846b635.mid
+midi_dir: Track01013/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1834735092183303
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.729464983466887
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.72947528163663
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.730596078371878
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.729539314346393
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.729407785300634
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.729460721364788
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.72928177008692
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

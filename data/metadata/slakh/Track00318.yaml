@@ -1,0 +1,114 @@
+UUID: fbb11243cc2c3b5c64dcdce428dc7a4c
+audio_dir: Track00318/stems
+lmd_midi_dir: lmd_matched/E/R/Y/TRERYGN128F427FFE7/fbb11243cc2c3b5c64dcdce428dc7a4c.mid
+midi_dir: Track00318/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2822602067933248
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Melodic Tom
+    midi_saved: false
+    plugin_name: None
+    program_num: 117
+  S01:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.987024424646034
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -23.9872617409254
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 84
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -23.986827214460643
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 51
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -23.98707100554304
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.987619704098496
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -23.98809730111586
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 95
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -23.98747563017398
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S09:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S10:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.987541621175723
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.987343762275938
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+target_peak: -1.0

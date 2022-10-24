@@ -1,0 +1,177 @@
+UUID: 6664655c2be546ad76c0fb9531b6d89d
+audio_dir: Track02057/stems
+lmd_midi_dir: lmd_matched/J/A/J/TRJAJFZ128F427F224/6664655c2be546ad76c0fb9531b6d89d.mid
+midi_dir: Track02057/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1475613417747095
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.62193610948744
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Chromatic Percussion
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: celesta.nkm
+    program_num: 10
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.620931166478893
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.61614489622457
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.621018998358426
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.62251584905743
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.622518349724494
+    is_drum: false
+    midi_program_name: Muted Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 59
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.62077186709473
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 91
+  S08:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.621008190093686
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 92
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.62092039186618
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.621188293585494
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S12:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 8 (sci-fi)
+    midi_saved: false
+    plugin_name: None
+    program_num: 103
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.620846521236587
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 31
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.62035534222274
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S15:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.622517598642585
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboe.nkm
+    program_num: 68
+  S16:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.622518782026727
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S17:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.620973452549613
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S18:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.621003224725936
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+target_peak: -1.0

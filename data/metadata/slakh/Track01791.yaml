@@ -1,0 +1,99 @@
+UUID: 774aac103cf90ecaf6a3698dbe4eb1c7
+audio_dir: Track01791/stems
+lmd_midi_dir: lmd_matched/D/W/L/TRDWLFV128F1462F75/774aac103cf90ecaf6a3698dbe4eb1c7.mid
+midi_dir: Track01791/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19061321962214542
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.397510979149462
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.39763764539308
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.397531425656314
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.397538451793285
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.39755991560812
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.397528761226965
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.398956654317207
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.39929709537211
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.397533605371255
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.39754952352324
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+target_peak: -1.0

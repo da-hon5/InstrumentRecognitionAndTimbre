@@ -1,0 +1,72 @@
+UUID: 9351728d08e4f5ea505c0cbf05ad0faa
+audio_dir: Track01204/stems
+lmd_midi_dir: lmd_matched/T/W/B/TRTWBNZ128F92F3426/9351728d08e4f5ea505c0cbf05ad0faa.mid
+midi_dir: Track01204/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17281726438970132
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.249256680589234
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.24879080227772
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.24811196386742
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.24546271643123
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.249169372041028
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.249230762244917
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.249316607926612
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+target_peak: -1.0

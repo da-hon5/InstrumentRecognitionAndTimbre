@@ -1,0 +1,239 @@
+% **************************************************************************************************
+% ** SPSC Report and Thesis Template
+% **************************************************************************************************
+%
+% ***** Authors *****
+% Daniel Arnitz, Paul Meissner, Stefan Petrik, Dietmar Malli, Johanna Rock
+% Signal Processing and Speech Communication Laboratory (SPSC)
+% Graz University of Technology (TU Graz), Austria
+%
+% ***** Changelog *****
+% 0.1   2010-01-25   extracted from report template by Daniel Arnitz (not ready yet)
+% 0.2   2010-02-08   added thesis titlepage and modified layout (not ready yet)
+% 0.3   2010-02-18   added TUG logo and statutory declaration
+% 0.4   2010-02-18   moved the information fields below \input{./base/packages} (encoding...)
+% 0.5   2010-03-02   added \ShortTitle to fix problems with long thesis titles
+%                    added \ThesisType (makes the template suitable for MSc, BSc, PhD, ... Thesis)
+% 0.6   2010-06-05   added pagestyle and pagenumbering after frontmatter, packages has now type
+% 0.7   2010-09      \Advisors -> \Assessors, inserted frontmatter for thesis
+% 0.8   2010-11      added examples
+% 0.9   2011-04      \Twosided now {true,false}, scrbook for thesis (\front-, \main-, \backmatter)
+%                    added \SpecialNote for titlepage (funding, etc.), added type "homework"
+% 0.10  2011-10-18   fixed two typos in \bibliographystyle{} (bug reported by Michael Tauch)
+% 0.11  2011-11-09   fixed/modified preamble (bug reported by Michael Tauch)
+% 0.12  2012-07-20   added ./base/opt_macros to deal with optional macros
+% 0.13  2012-07-27   added \PaperSize
+% 0.14  2017-11-03   Fixed thispagestyle issue
+%                    Implemented automatic setting of correct page number after switching from
+%                    roman numbering back to normal numbering
+%                    Implemented \DraftText hack
+%                    Moved makeindex from external programm to newer stuff (package...)
+%                    Made confidential dependent from \DraftText
+%                    Made OptDraftMode and DisplayContentBoxes dependet from \DraftText
+%                    Included some syntax formatting definitions
+%                    Fixed wrong usage of scrbook class and \emptydoublepage mess... One should
+%                    NOT need to adjust/tweak the layout by hand. That's what latex is for...
+%                    Replaced bibtex with more modern biblatex (utf8 support in bibliography...)
+%                    Added \printbibliography, \listoffigures, \listoftables and 
+%                    \printglossary[type=\acronymtype]
+%                    Renewed and extended Introduction/Usage
+% 0.15  2018-03-20   Homework and report now compileable again. Fixed a missing if.
+% 0.16	2018-08-08	 fixed/modified title according to official TUG template
+% 0.17	2018-08-09	 updated placeholder commands for new title page
+%
+% ***** Todo *****
+%
+% **************************************************************************************************
+% basic setup
+\newcommand{\DocumentType}{thesis} % "thesis" / "report" / "homework"
+\newcommand{\DocumentLanguage}{en} % "en" / "de"
+\newcommand{\PaperSize}{a4paper} % "a4paper" / "letterpaper"
+\newcommand{\Twosided}{true} % "true" / "false" (=Duplex...)
+\newcommand{\FramedLinks}{false} %"true" / "false"
+
+% **************************************************************************************************
+% template setup -- do not change these unless you know what you are doing!
+\input{./base/documentclass_thesis}
+\input{./base/packages}
+\input{./base/layout_thesis}
+\input{./base/macros}
+
+% **************************************************************************************************
+
+% uncomment to get watermarks:
+% \usepackage[first,bottom,light,draft]{draftcopy}
+% \draftcopyName{ENTWURF}{160}
+
+% correct bad hyphenation
+\hyphenation{}
+
+% switches
+\newboolean{OptDraftMode}
+\newboolean{DisplayContentBoxes}
+% \setboolean{OptDraftMode}{true} % optional draft mode for pixel graphics (speed up generation; add \OptDraft to options)
+
+\ifthenelse{\boolean{OptDraftMode}}
+{
+	\setboolean{DisplayContentBoxes}{true}
+}
+{
+	\setboolean{DisplayContentBoxes}{false}
+}
+
+
+% **************************************************************************************************
+% information fields
+
+% general
+\newcommand{\DocumentTitle}{Deep Neural Networks for Multi-Instrument Recognition and Timbre Characterization}
+%\newcommand{\DocumentSubtitle}{Subtitle}
+\newcommand{\ShortTitle}{Multi-Instrument Recognition and Timbre Characterization} % used in headers (keep short!)
+% for thesis: Firstname Surename, current university degree (e.g. BSc)
+% for report, homework: Firstname Surename, Mat.Nr.
+\newcommand{\DocumentAuthor}{Hannes Bradl}
+\newcommand{\DocumentPlace}{Graz}
+
+% FOR THESIS ONLY
+% used for the title page and statutory declaration
+% one out of: "bachelor's thesis" / "Bachelorarbeit" /
+%			  "master's thesis" / "Masterarbeit" /
+%			  "diploma thesis" / "Diplomarbeit" /
+%			  "doctoral thesis" / "Dissertation"
+% ATTENTION: use correct language! Otherwise statutory declaration is faulty.
+\newcommand{\ThesisTitle}{master's thesis}
+\newcommand{\Institute}{Signal Processing and Speech Communication Laboratory}
+\newcommand{\OrganizationsAdditional}{in cooperation with \\[0.2cm] \par sonible GmbH \\ Graz, Austria \\[2.0cm] \par} 
+\newcommand{\Supervisors}{Univ.-Prof. Dipl.-Ing. Dr. mont. Franz Pernkopf} % Supervisor 1 \\ Supervisor 2 ...
+\newcommand{\SpecialNote}{This work was funded by the Austrian Research Promotion Agency (FFG) under grant \reminder{123456} \remq.}
+
+% FOR REPORT ONLY
+%revision numbers
+\newcommand{\RevPrefix}{alpha~}
+\newcommand{\RevLarge}{1}
+\newcommand{\RevSmall}{0}
+
+% confidential? (can of course also be used for other messages/notes)
+\newcommand{\ConfidNote}{\ifthenelse{\boolean{OptDraftMode}}{
+		\textbf{DRAFT}, \today,
+]}{
+		%\textbf{CONFIDENTIAL}
+}}
+
+
+\input{./base/opt_macros}
+
+% variable for page numbering
+\newcounter{mypageno}
+% **************************************************************************************************
+\begin{document}
+% **************************************************************************************************
+\input{./base/syntax_formatting}
+
+% for thesis: switch to frontmatter (Roman numbering, etc.)
+\ifthenelse{\equal{\DocumentType}{thesis}}
+{
+\frontmatter \pagestyle{plain} \pagenumbering{Roman}
+}{}
+
+%title
+\input{./base/titlepage_thesis}
+
+% for thesis: abstract, kurzfassung, affidavit and statutory declaration
+\ifthenelse{\equal{\DocumentType}{thesis}}
+{
+  \emptydoublepage
+  %\addcontentsline{toc}{chapter}{Statutory Declaration}
+  \input{./base/declaration}
+  \emptydoublepage
+  \input{thesis_preamble/acknowledgements}
+  \emptydoublepage
+  \input{thesis_preamble/abstract}
+  \emptydoublepage
+  \input{thesis_preamble/kurzfassung}
+  \emptydoublepage
+}{}
+
+\tableofcontents
+
+\ifthenelse{\equal{\DocumentType}{thesis}}
+{
+\emptydoublepage
+\setcounter{mypageno}{\value{page}}
+\mainmatter \pagestyle{scrheadings} \pagenumbering{arabic}
+\setcounter{page}{\value{mypageno}}
+}
+
+
+% **************************************************************************************************
+% mainmatter (=content)
+
+\newchapter{Introduction}{intro}
+\input{intro/intro}
+\input{intro/scope}
+\input{intro/structure}
+
+
+\newchapter{Fundamentals and Related Work}{fundamentals}
+\input{fundamentals/intro}
+\input{fundamentals/instrument_recognition}
+\input{fundamentals/timbre}
+\input{fundamentals/loudness}
+\input{fundamentals/deep-learning}
+
+
+\newchapter{Method}{method}
+\input{method/intro}
+\input{method/system}
+\input{method/taxonomy}
+\input{method/datasets}
+\input{method/preprocessing}
+\input{method/metrics}
+\input{method/training}
+
+
+\newchapter{Experiments and Results}{results}
+\input{results/intro}
+\input{results/multi-inst_recognition}
+\input{results/feature_prediction}
+
+
+\newchapter{Conclusion and Future Work}{conclusion}
+\input{conclusion/intro}
+\input{conclusion/conclusion}
+\input{conclusion/future-work}
+
+
+% end mainmatter
+% **************************************************************************************************
+
+\appendix
+\ifthenelse{\equal{\DocumentType}{thesis}}
+{
+\setcounter{mypageno}{\value{page}}
+\frontmatter \pagestyle{plain} \pagenumbering{Roman}
+\setcounter{page}{\value{mypageno}}
+}{}
+
+\printbibliography[title=References]
+\addcontentsline{toc}{chapter}{References}
+\listoffigures
+\addcontentsline{toc}{chapter}{List of Figures}
+\listoftables
+\addcontentsline{toc}{chapter}{List of Tables}
+\printglossary[type=\acronymtype]
+\addcontentsline{toc}{chapter}{Acronyms}
+
+\input{appendix/appendix}
+
+% \appendix
+% \bibliographystyle{./base/IEEEtran}
+% \bibliography{_bibliography}
+
+
+% **************************************************************************************************
+% **************************************************************************************************
+
+% place all floats and create label on last page
+\FloatBarrier\label{end-of-document}
+\end{document}
+

@@ -1,0 +1,115 @@
+UUID: 29d1763b4ef40a09a87b26989c79b0fe
+audio_dir: Track01427/stems
+lmd_midi_dir: lmd_matched/A/J/K/TRAJKQZ128F1465490/29d1763b4ef40a09a87b26989c79b0fe.mid
+midi_dir: Track01427/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18221752507823458
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.79627637874342
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.796275857338234
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.796276862852128
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.796273917212343
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.796276035609456
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 82
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.796276300755622
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.796280579415328
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 72
+  S07:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.79627551581988
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 44
+  S08:
+    audio_rendered: false
+    inst_class: Strings
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.781100258932344
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.796278835608074
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+target_peak: -1.0

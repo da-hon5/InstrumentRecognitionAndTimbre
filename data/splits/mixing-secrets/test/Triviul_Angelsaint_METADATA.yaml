@@ -1,0 +1,165 @@
+album: ''
+artist: Triviul
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Triviul_Angelsaint_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Triviul_Angelsaint_RAW
+stem_dir: Triviul_Angelsaint_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Triviul_Angelsaint_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 01_Drums.wav
+        instrument: Drums
+  S02:
+    component: ''
+    filename: Triviul_Angelsaint_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 09_Synth1.wav
+        instrument: Synth
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 10_Synth2.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: Triviul_Angelsaint_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 11_SFX.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 04_ViolinDI2.wav
+    instrument: violin
+    raw:
+      R01:
+        ++CLASS++: violin
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 04_ViolinDI2.wav
+        instrument: violin
+  S05:
+    component: ''
+    filename: 05_ViolinDI3.wav
+    instrument: violin
+    raw:
+      R01:
+        ++CLASS++: violin
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 05_ViolinDI3.wav
+        instrument: violin
+  S06:
+    component: ''
+    filename: 03_ViolinDI1.wav
+    instrument: violin
+    raw:
+      R01:
+        ++CLASS++: violin
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 03_ViolinDI1.wav
+        instrument: violin
+  S07:
+    component: ''
+    filename: 14_BackingVox.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 14_BackingVox.wav
+        instrument: female singer
+  S08:
+    component: ''
+    filename: 13_LeadDouble.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 13_LeadDouble.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 12_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 12_LeadVox.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 07_ViolaSoloRaw.wav
+    instrument: viola
+    raw:
+      R01:
+        ++CLASS++: viola
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 07_ViolaSoloRaw.wav
+        instrument: viola
+  S11:
+    component: ''
+    filename: 06_ViolinDI4.wav
+    instrument: violin
+    raw:
+      R01:
+        ++CLASS++: violin
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 06_ViolinDI4.wav
+        instrument: violin
+  S12:
+    component: ''
+    filename: 02_Bass.wav
+    instrument: bass synth
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 02_Bass.wav
+        instrument: bass synth
+  S13:
+    component: ''
+    filename: 08_ViolaSoloDist.wav
+    instrument: viola
+    raw:
+      R01:
+        ++CLASS++: viola
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 08_ViolaSoloDist.wav
+        instrument: viola
+title: Angelsaint
+version: '3.0'
+website: ''

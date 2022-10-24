@@ -1,0 +1,149 @@
+UUID: a720ee5b286d572854ef93cb9d59ef40
+audio_dir: Track01473/stems
+lmd_midi_dir: lmd_matched/V/A/E/TRVAEGV128F42A2C7D/a720ee5b286d572854ef93cb9d59ef40.mid
+midi_dir: Track01473/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.12087562580341338
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S01:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -31.351624389427048
+    is_drum: false
+    midi_program_name: Contrabass
+    midi_saved: true
+    plugin_name: double_bass_solo.nkm
+    program_num: 43
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.35222848194148
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 51
+  S03:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.353508763421477
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 7
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.353061120123417
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.352680865944464
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S07:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.352708085090978
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -31.35167214122034
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 90
+  S10:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -31.354213234901874
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 44
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.351648148623077
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.351691775536395
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S13:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -31.354098267774038
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S14:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -31.354037419222696
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_ensemble.nkm
+    program_num: 40
+  S15:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Applause
+    midi_saved: false
+    plugin_name: None
+    program_num: 126
+target_peak: -1.0

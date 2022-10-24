@@ -1,0 +1,80 @@
+UUID: a9a3005d2387ba43b5f6704ac731f6a0
+audio_dir: Track00769/stems
+lmd_midi_dir: lmd_matched/O/P/L/TROPLFQ128F14744B6/a9a3005d2387ba43b5f6704ac731f6a0.mid
+midi_dir: Track00769/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21020358639738285
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.5483362287335
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.547892621167353
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.548326702148724
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: false
+    inst_class: Piano
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.548243876323493
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 18
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.548338505642175
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.548349069473073
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.548247461806312
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 93
+target_peak: -1.0

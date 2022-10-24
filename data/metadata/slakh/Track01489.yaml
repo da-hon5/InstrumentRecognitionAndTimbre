@@ -1,0 +1,142 @@
+UUID: 1814760b8e6701c964b2f7c81aeffde8
+audio_dir: Track01489/stems
+lmd_midi_dir: lmd_matched/H/S/R/TRHSRZI128F42598CC/1814760b8e6701c964b2f7c81aeffde8.mid
+midi_dir: Track01489/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23136358726947995
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.861521574216846
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -22.331580559026566
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 37
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.491701382563914
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 72
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.520605990905395
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.57667599600142
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S05:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 7 (echoes)
+    midi_saved: false
+    plugin_name: None
+    program_num: 102
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.559177876457444
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.361127475855298
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.695374682748007
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.66532521129458
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.45849461861618
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S11:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -18.133919288155106
+    is_drum: false
+    midi_program_name: Blown Bottle
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 76
+  S12:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -11.680504500567805
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: hybrid_keys_tube_vibraphone.nkm
+    program_num: 12
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.45773115196031
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+target_peak: -1.0

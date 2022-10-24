@@ -1,0 +1,151 @@
+UUID: 7c9ff7d542521d3072a0ef91e93abd80
+audio_dir: Track01422/stems
+lmd_midi_dir: lmd_matched/I/O/U/TRIOUOP128F92EBEBD/7c9ff7d542521d3072a0ef91e93abd80.mid
+midi_dir: Track01422/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20152110062933226
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.307214950117245
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -20.367512082447202
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 75
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.773082744139618
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: french_oboe.nkm
+    program_num: 68
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -14.91372783254574
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 82
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.397100148751584
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.77669206025713
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.312957818206115
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.298649957927704
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.60276349142714
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S10:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.56523957018818
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.685557579397933
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S13:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.842357340859497
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 89
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.086105774991875
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.402889223743022
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+target_peak: -1.0

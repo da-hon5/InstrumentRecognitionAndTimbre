@@ -1,0 +1,107 @@
+UUID: da99ae118d2cc8cd4938b1d28627c136
+audio_dir: Track00122/stems
+lmd_midi_dir: lmd_matched/Q/J/A/TRQJACZ12903CF042F/da99ae118d2cc8cd4938b1d28627c136.mid
+midi_dir: Track00122/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17517282215267194
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.13437846000156
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.134372835512547
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.1343728601849
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S03:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.134373239961374
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.134374040809195
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 51
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.1343585556239
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.134360120699668
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.1304395040194
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.134433351868246
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.13437407610579
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+target_peak: -1.0

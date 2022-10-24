@@ -1,0 +1,81 @@
+UUID: d039c7673da0297a6d123b626e3d2c14
+audio_dir: Track00816/stems
+lmd_midi_dir: lmd_matched/X/T/O/TRXTOSU128F42791A4/d039c7673da0297a6d123b626e3d2c14.mid
+midi_dir: Track00816/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.12012511126168955
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.40677860072956
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.409748824122406
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.41123211144018
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.40810708572725
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.40644994529187
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -31.409564163079455
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -31.40921362633478
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.40678400004071
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+target_peak: -1.0

@@ -1,0 +1,89 @@
+UUID: 9c4d08728dd3a00710ac2f3bd7d2ef05
+audio_dir: Track00887/stems
+lmd_midi_dir: lmd_matched/X/W/W/TRXWWWB128F9305CAA/9c4d08728dd3a00710ac2f3bd7d2ef05.mid
+midi_dir: Track00887/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18504357564003926
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.652733838955445
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.653008653876185
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.65236418139632
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.652691321898196
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.65430065713257
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.653208283048546
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S06:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.654586582787363
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.652558656986532
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+target_peak: -1.0

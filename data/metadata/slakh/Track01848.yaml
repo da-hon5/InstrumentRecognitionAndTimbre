@@ -1,0 +1,141 @@
+UUID: 4ce65ca79a31e15e428e450e819a9173
+audio_dir: Track01848/stems
+lmd_midi_dir: lmd_matched/H/I/I/TRHIIGK128F931572C/4ce65ca79a31e15e428e450e819a9173.mid
+midi_dir: Track01848/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.11076973514121997
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -22.04395998953648
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 80
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.7992850911273
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S02:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.32901411707523
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.05600766512819
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 36
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.710218429736436
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S06:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.257662040617035
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 17
+  S07:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+  S08:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -16.534427578411304
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 45
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.052845558289432
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S10:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -32.943438690302955
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: xylophone.nkm
+    program_num: 11
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.285530039214965
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.539741459805496
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 80
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.738385425610534
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S14:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+target_peak: -1.0

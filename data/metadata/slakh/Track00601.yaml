@@ -1,0 +1,122 @@
+UUID: 81478eb9bb3ada2c0e507a1c5583ee72
+audio_dir: Track00601/stems
+lmd_midi_dir: lmd_matched/N/O/M/TRNOMFL12903CA7B74/81478eb9bb3ada2c0e507a1c5583ee72.mid
+midi_dir: Track00601/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1506325070471477
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -29.44088837027128
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: hard_n_dirty.nkm
+    program_num: 81
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.441539503313788
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.4410419544177
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.440950545223256
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S04:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Koto
+    midi_saved: false
+    plugin_name: None
+    program_num: 107
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.441193501286836
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.442673672989216
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.444461037855582
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.442031442412304
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 31
+  S09:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Bag pipe
+    midi_saved: false
+    plugin_name: None
+    program_num: 109
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.443169318621234
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 37
+  S11:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+  S12:
+    audio_rendered: false
+    inst_class: Strings
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+target_peak: -1.0

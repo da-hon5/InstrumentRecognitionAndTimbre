@@ -1,0 +1,160 @@
+UUID: 66c32d5e120dc93b9edc73a79d5c8dbb
+audio_dir: Track00506/stems
+lmd_midi_dir: lmd_matched/C/K/U/TRCKUTL128F42723F0/66c32d5e120dc93b9edc73a79d5c8dbb.mid
+midi_dir: Track00506/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.195739255394999
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.168075635197525
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.168115540059567
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.168122841607566
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 89
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.168023228561758
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: woodwind_ensemble_essential.nkm
+    program_num: 71
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.168024783341743
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 88
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.168131380622615
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 36
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.168057592229435
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S07:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.168107007054733
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.168129296191804
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.057747358813966
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.168100345192066
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.168099150095834
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.168102806233822
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S14:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Bird Tweet
+    midi_saved: false
+    plugin_name: None
+    program_num: 123
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.168205272698966
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S16:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.168033208049504
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 6
+target_peak: -1.0

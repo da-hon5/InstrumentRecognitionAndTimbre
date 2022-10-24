@@ -1,0 +1,143 @@
+UUID: cbb9575f90a38305316b576cc2158582
+audio_dir: Track00348/stems
+lmd_midi_dir: lmd_matched/F/G/V/TRFGVEO128F42636DF/cbb9575f90a38305316b576cc2158582.mid
+midi_dir: Track00348/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1752522096937407
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.880156346895976
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.374148344873793
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -14.763086951747637
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboe_essential.nkm
+    program_num: 68
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.780543733112903
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.965711848029045
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.94689415114434
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 34
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.911951056397948
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 36
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.2398888936161
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.67793060340214
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.258671179897739
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.294029209909803
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.24863270826133
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.068788019427155
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.5930001859603
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S14:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+target_peak: -1.0

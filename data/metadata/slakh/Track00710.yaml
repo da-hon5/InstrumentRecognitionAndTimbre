@@ -1,0 +1,81 @@
+UUID: 2c158185986fe7482ab094b0d2f08e77
+audio_dir: Track00710/stems
+lmd_midi_dir: lmd_matched/X/R/V/TRXRVJE128F931255F/2c158185986fe7482ab094b0d2f08e77.mid
+midi_dir: Track00710/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1781519927073209
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.779919614615643
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.32224250869138
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.230192401156913
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.437263997909138
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 84
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.499009532015354
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.9981069205884
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.97249781565795
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.956376612693735
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

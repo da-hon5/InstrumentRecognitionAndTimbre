@@ -1,0 +1,89 @@
+UUID: f27cef56a9e1f90c69d43b5c37a719fb
+audio_dir: Track00845/stems
+lmd_midi_dir: lmd_matched/Y/Z/G/TRYZGRR128F4246D6C/f27cef56a9e1f90c69d43b5c37a719fb.mid
+midi_dir: Track00845/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19027206567826016
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.41461348256838
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.40954595198446
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.41455711482008
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.414647332745695
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.414608831716333
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.414728281440187
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: flugelhorn.nkm
+    program_num: 56
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.414561035720066
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.41316218432309
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+target_peak: -1.0

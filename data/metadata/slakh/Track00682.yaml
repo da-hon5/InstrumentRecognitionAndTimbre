@@ -1,0 +1,232 @@
+UUID: 77326a426c15ddfdcd7f2330bc4dd91f
+audio_dir: Track00682/stems
+lmd_midi_dir: lmd_matched/I/T/U/TRITUZY128F933BD52/77326a426c15ddfdcd7f2330bc4dd91f.mid
+midi_dir: Track00682/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14794743723556394
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -29.843754199183532
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: hybrid_keys_hot_tropics.nkm
+    program_num: 9
+  S01:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -17.88405453341336
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 14
+  S02:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -20.179073101244114
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 14
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.780311485123338
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 89
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.89785117112951
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.755905640927969
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.759305429465712
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.40891842542534
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.632298169946655
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.14897284914778
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 91
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -21.246757393643993
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 91
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.352993498000433
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 64
+  S12:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.65610916432457
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S13:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.422047539389187
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S14:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -19.918979808163215
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S15:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.68687128986524
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S16:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Kalimba
+    midi_saved: false
+    plugin_name: None
+    program_num: 108
+  S17:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.40296305572482
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S18:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.23581184763533
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S19:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.997219523170617
+    is_drum: false
+    midi_program_name: Muted Trumpet
+    midi_saved: true
+    plugin_name: trumpet.nkm
+    program_num: 59
+  S20:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -8.441431001810804
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S21:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.990148708309684
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 31
+  S22:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+  S23:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.588899466347293
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 91
+  S24:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.649829403918163
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_saxophone.nkm
+    program_num: 66
+target_peak: -1.0

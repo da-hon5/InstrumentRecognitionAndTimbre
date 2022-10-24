@@ -1,0 +1,125 @@
+UUID: c579cd4b224b41a9489107fc0db20572
+audio_dir: Track00336/stems
+lmd_midi_dir: lmd_matched/H/A/S/TRHASWP128E078E8D6/c579cd4b224b41a9489107fc0db20572.mid
+midi_dir: Track00336/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19468568499544453
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.365026492652934
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 7
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.482496299639706
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.20867300144809
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -14.415933521345849
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 68
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.985106019486842
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -14.799391896553379
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S06:
+    audio_rendered: false
+    inst_class: Reed
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 67
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.77915833940787
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.754894158219937
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.105652300352588
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.756901342598068
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 94
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.665704411734913
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 18
+  S12:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.086696429812616
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 66
+target_peak: -1.0

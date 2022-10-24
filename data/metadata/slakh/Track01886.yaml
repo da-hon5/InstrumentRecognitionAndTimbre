@@ -1,0 +1,81 @@
+UUID: 7ff5093f1074c4ec55d6dd3da9b37f59
+audio_dir: Track01886/stems
+lmd_midi_dir: lmd_matched/D/W/K/TRDWKAW128E0787A2D/7ff5093f1074c4ec55d6dd3da9b37f59.mid
+midi_dir: Track01886/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19912193227997813
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.462285977488744
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.309180727863847
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.69140403760666
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.46352646113924
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -19.51369730375537
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 21
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.840904269640784
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.119983942135633
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.579828432950226
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

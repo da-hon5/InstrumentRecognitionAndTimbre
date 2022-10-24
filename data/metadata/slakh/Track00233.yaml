@@ -1,0 +1,117 @@
+UUID: 120e05030704ab38897093e62d6bceca
+audio_dir: Track00233/stems
+lmd_midi_dir: lmd_matched/K/G/U/TRKGUXD128F1460979/120e05030704ab38897093e62d6bceca.mid
+midi_dir: Track00233/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19466710812394736
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.215410347806575
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.215642572131166
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.215579025364548
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.215527011217457
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.21552907162457
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.2155315635325
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.215542501138014
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 81
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.21556364563701
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.21548434060284
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.215477116417418
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.215579238404285
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 82
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.21548974938428
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 17
+target_peak: -1.0

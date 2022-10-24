@@ -1,0 +1,99 @@
+UUID: cd39545d0df508aadcc0e840537e0a0b
+audio_dir: Track01960/stems
+lmd_midi_dir: lmd_matched/F/B/N/TRFBNQN128F92FFA5E/cd39545d0df508aadcc0e840537e0a0b.mid
+midi_dir: Track01960/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23383580958555125
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.00437174081373
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 88
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.411516286231127
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.728541542093758
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -14.530533947822624
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.17384918165294
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -19.645996175777316
+    is_drum: false
+    midi_program_name: Church Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 19
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.190171784947374
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.073939714266118
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -12.148683276385105
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.040595902804274
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

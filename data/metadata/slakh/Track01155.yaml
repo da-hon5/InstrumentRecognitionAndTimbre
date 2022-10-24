@@ -1,0 +1,116 @@
+UUID: 8205651dad911977baf973e2e42ce54c
+audio_dir: Track01155/stems
+lmd_midi_dir: lmd_matched/S/A/T/TRSATKV128F92D7993/8205651dad911977baf973e2e42ce54c.mid
+midi_dir: Track01155/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16541846075651148
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.655657164247494
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.080127687360513
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.055456959900365
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.248203146421309
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.585900704984297
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.328505054662152
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.7975626413979
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -8.109547581676386
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -15.414722682406442
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: glockenspiel_essential.nkm
+    program_num: 12
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.71432650838427
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Woodblock
+    midi_saved: false
+    plugin_name: None
+    program_num: 115
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.14878883027477
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+target_peak: -1.0

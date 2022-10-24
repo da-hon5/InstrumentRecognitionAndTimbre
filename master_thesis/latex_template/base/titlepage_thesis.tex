@@ -1,0 +1,52 @@
+% **************************************************************************************************
+% ** SPSC Report and Thesis Template
+% **************************************************************************************************
+%
+% ***** Authors *****
+% Johanna Rock
+%
+% ***** Changelog *****
+% 0.1  2018-08-09   New title page designed after TUGRAZ template for thesis (from https://tu4u.tugraz.at)
+%
+% ***** Todo *****
+%
+% **************************************************************************************************
+
+% **************************************************************************************************
+\begin{titlepage}
+	\begin{center}
+		\includegraphics[width=30mm]{./base/TUGlogo} \\[3.0cm] \par
+		
+		{\Large\DocumentAuthor} \\[2.0cm] \par
+		
+		{\scshape\huge\linespread{0.9}\selectfont\DocumentTitle} \\[0.5cm] \par
+		{\Large\DocumentSubtitle} \\[2.0cm] \par
+		{\scshape\huge\linespread{0.9}\selectfont\ThesisTitle} \\[0.5cm] \par
+		
+		  \ifthenelse{\equal{\DocumentLanguage}{en}}{
+		  	submitted to \\[0.2cm] \par
+		  	
+		    {\bfseries\large Graz University of Technology} \\[2.0cm] \par
+		  	
+		    Supervisors \\[0.2cm] \par
+		    
+		}{}
+		\ifthenelse{\equal{\DocumentLanguage}{de}}{
+			eingereicht an der \\[0.2cm] \par
+		
+			{\bfseries\large Technischen Universität Graz} \\[2.0cm] \par
+		
+			Betreuer \\[0.2cm] \par
+		
+		}{}
+		\Supervisors \\[0.5cm] \par
+	
+		{\bfseries\large \Institute} \\[2.0cm] \par
+	
+		\OrganizationsAdditional
+		
+		\vfill{\flushright \DocumentPlace, \monthyeardate\today}\\
+		{\scriptsize\vspace*{3mm}\SpecialNote\vspace*{-8mm}}
+		
+	\end{center}
+\end{titlepage}

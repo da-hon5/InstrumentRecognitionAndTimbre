@@ -1,0 +1,81 @@
+UUID: 7ba4a26e96f47774c1b96a0176b8798c
+audio_dir: Track01355/stems
+lmd_midi_dir: lmd_matched/W/T/R/TRWTRZC12903CEB8F3/7ba4a26e96f47774c1b96a0176b8798c.mid
+midi_dir: Track01355/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22682588591290379
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.381328790350274
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.447824343249573
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 56
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.548242207024717
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.778081660100042
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: tenor_trombone.nkm
+    program_num: 57
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.4296675530945
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: baritone_saxophone.nkm
+    program_num: 67
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.109360986987069
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -14.909094898116509
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.74679248693442
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,134 @@
+UUID: 8d03d113b9bccff23383e3d5c9141dd8
+audio_dir: Track00152/stems
+lmd_midi_dir: lmd_matched/V/I/I/TRVIIBN128F148C6F6/8d03d113b9bccff23383e3d5c9141dd8.mid
+midi_dir: Track00152/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2145278258622234
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.420606981897715
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.390558083966987
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -13.783120892575628
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.77203035507148
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.661816901583553
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.487838430981732
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.000861428408427
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.9449783786663
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -14.523414356657403
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 91
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.42699366365129
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -13.824641091813406
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 18
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.467632145298126
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S13:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -19.35675637186335
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+target_peak: -1.0

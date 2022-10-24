@@ -1,0 +1,97 @@
+UUID: b9b09894484a13e6d0b8cd618b08e333
+audio_dir: Track00689/stems
+lmd_midi_dir: lmd_matched/Y/C/H/TRYCHPC128F931408B/b9b09894484a13e6d0b8cd618b08e333.mid
+midi_dir: Track00689/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22554575107485825
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.59827332008558
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.02614018431282
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.857913480987595
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S04:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.987949373824721
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 85
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.880659833304588
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.414394809001761
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.824298550189454
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.54074665547522
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+target_peak: -1.0

@@ -1,0 +1,266 @@
+album: ''
+artist: DunningKruger
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'yes'
+instrumental: 'no'
+mix_filename: DunningKruger_EnDance_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: DunningKruger_EnDance_RAW
+stem_dir: DunningKruger_EnDance_STEMS
+stems:
+  S01:
+    component: ''
+    filename: DunningKruger_EnDance_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_Snare.wav
+        instrument: Snare
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 03_TomHi.wav
+        instrument: TomHi
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 04_TomLo.wav
+        instrument: TomLo
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: DunningKruger_EnDance_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 18_Synth1.wav
+        instrument: Synth
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 19_Synth2.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 15_Gtr6aDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 15_Gtr6aDI.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 07_Claps.wav
+    instrument: claps
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 07_Claps.wav
+        instrument: Claps
+  S05:
+    component: ''
+    filename: 23_BackingVox2.wav
+    instrument: backingvox
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: unknown
+        filename: 23_BackingVox2.wav
+        instrument: BackingVox
+  S06:
+    component: ''
+    filename: 25_BackingVox4.wav
+    instrument: backingvox
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: unknown
+        filename: 25_BackingVox4.wav
+        instrument: BackingVox
+  S07:
+    component: ''
+    filename: 22_BackingVox1.wav
+    instrument: backingvox
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: unknown
+        filename: 22_BackingVox1.wav
+        instrument: BackingVox
+  S08:
+    component: ''
+    filename: 16_Gtr6bAmp1.wav
+    instrument: gtr
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: unknown
+        filename: 16_Gtr6bAmp1.wav
+        instrument: Gtr
+  S09:
+    component: ''
+    filename: 12_Gtr4aDI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 12_Gtr4aDI.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 11_Gtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 11_Gtr3.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 08_BassDI.wav
+        instrument: electric bass
+  S12:
+    component: ''
+    filename: 17_Gtr6cAmp2.wav
+    instrument: gtr
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: unknown
+        filename: 17_Gtr6cAmp2.wav
+        instrument: Gtr
+  S13:
+    component: ''
+    filename: 06_Room.wav
+    instrument: main system
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 06_Room.wav
+        instrument: Main System
+  S14:
+    component: ''
+    filename: 09_Gtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 09_Gtr1.wav
+        instrument: distorted electric guitar
+  S15:
+    component: ''
+    filename: 13_Gtr4bAmp.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 13_Gtr4bAmp.wav
+        instrument: distorted electric guitar
+  S16:
+    component: ''
+    filename: 21_LeadVoxDT.wav
+    instrument: leadvoxdt
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: unknown
+        filename: 21_LeadVoxDT.wav
+        instrument: LeadVoxDT
+  S17:
+    component: ''
+    filename: 14_Gtr5DI.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 14_Gtr5DI.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 20_LeadVox.wav
+    instrument: leadvox
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: unknown
+        filename: 20_LeadVox.wav
+        instrument: LeadVox
+  S19:
+    component: ''
+    filename: 24_BackingVox3.wav
+    instrument: backingvox
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: unknown
+        filename: 24_BackingVox3.wav
+        instrument: BackingVox
+  S20:
+    component: ''
+    filename: 10_Gtr2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 10_Gtr2.wav
+        instrument: clean electric guitar
+title: EnDance
+version: '3.0'
+website: ''

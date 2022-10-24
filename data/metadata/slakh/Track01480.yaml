@@ -1,0 +1,63 @@
+UUID: 3c6fd32a3d82227332c719a759e347be
+audio_dir: Track01480/stems
+lmd_midi_dir: lmd_matched/Z/F/A/TRZFAMT12903C9AB54/3c6fd32a3d82227332c719a759e347be.mid
+midi_dir: Track01480/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2090157250543398
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.35185178918366
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.027977408705315
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.54994845372746
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -14.49304452849791
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.435731170186841
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.62866915575931
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

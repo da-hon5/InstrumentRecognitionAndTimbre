@@ -1,0 +1,108 @@
+UUID: 7139b6fdea04bdbdb33e1c3cb83f0b92
+audio_dir: Track00655/stems
+lmd_midi_dir: lmd_matched/H/D/T/TRHDTVU12903CF4811/7139b6fdea04bdbdb33e1c3cb83f0b92.mid
+midi_dir: Track00655/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1821078573891581
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.796293907692597
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.794376726401982
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.794703321939334
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.794893597526958
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.794742705239884
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.79479749570434
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.79569750293836
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.79451140215751
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.794750427190817
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S09:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.794448621682257
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 72
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.79471556986981
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+target_peak: -1.0

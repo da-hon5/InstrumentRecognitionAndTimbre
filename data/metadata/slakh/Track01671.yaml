@@ -1,0 +1,105 @@
+UUID: 3586aaf4b0440a98698a5c0b2a699bfb
+audio_dir: Track01671/stems
+lmd_midi_dir: lmd_matched/P/P/F/TRPPFJB128F14A538B/3586aaf4b0440a98698a5c0b2a699bfb.mid
+midi_dir: Track01671/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22133969949651036
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.353020348646435
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.19047971660803
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: false
+    inst_class: Reed
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.395507184121247
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.704958845743603
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.681424098176286
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 56
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.03699757837264
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S08:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.15833692071442
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.97501990422024
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+target_peak: -1.0

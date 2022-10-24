@@ -1,0 +1,107 @@
+UUID: 5b6049bc768b852a5d40e89298f319bb
+audio_dir: Track00531/stems
+lmd_midi_dir: lmd_matched/U/K/E/TRUKEIZ128EF34B6C4/5b6049bc768b852a5d40e89298f319bb.mid
+midi_dir: Track00531/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20597694585188392
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.73764697578876
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.73708580189371
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S02:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.73876928344783
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.73727096022421
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.737069960004458
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 81
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.7386031088604
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 68
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.738906161339607
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 80
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.737068713389878
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.73840487205217
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.720595942852277
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+target_peak: -1.0

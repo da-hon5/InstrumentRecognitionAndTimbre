@@ -1,0 +1,152 @@
+UUID: 56b01ce51bceac98b10e5a5603a7a137
+audio_dir: Track00989/stems
+lmd_midi_dir: lmd_matched/Q/P/N/TRQPNQH128F42971DD/56b01ce51bceac98b10e5a5603a7a137.mid
+midi_dir: Track00989/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1799357288746689
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.89871390438822
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.899112028203792
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.899423170315288
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.901777831080402
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.901512348860432
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.89872317279615
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.898460732195
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.898693354483218
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 7 (echoes)
+    midi_saved: false
+    plugin_name: None
+    program_num: 102
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.89948010950334
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.899282383043865
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 18
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.89859099800594
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.89898895637085
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.89907350646929
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.899176975374612
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S15:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.899261940761846
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+target_peak: -1.0

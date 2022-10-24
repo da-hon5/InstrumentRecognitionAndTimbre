@@ -1,0 +1,133 @@
+UUID: 59831ffe270e68d5e239116c83762764
+audio_dir: Track01031/stems
+lmd_midi_dir: lmd_matched/U/F/X/TRUFXTP128E0781C98/59831ffe270e68d5e239116c83762764.mid
+midi_dir: Track01031/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15857876033748058
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.979352119975296
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.146772682966503
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -20.954795758502744
+    is_drum: false
+    midi_program_name: Lead 4 (chiff)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 83
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.165716013279244
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 51
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.557174173064125
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.464986369699332
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.184430295539684
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.232454512360338
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -22.96844001529244
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 34
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.179535015630318
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.759824396632364
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.92028423222665
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S12:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S13:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Melodic Tom
+    midi_saved: false
+    plugin_name: None
+    program_num: 117
+target_peak: -1.0

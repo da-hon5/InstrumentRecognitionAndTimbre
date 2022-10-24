@@ -1,0 +1,99 @@
+UUID: 9150704e0059e88e1c13276e726c10d8
+audio_dir: Track00806/stems
+lmd_midi_dir: lmd_matched/R/B/V/TRRBVSR128E07915F8/9150704e0059e88e1c13276e726c10d8.mid
+midi_dir: Track00806/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17193762842699087
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.293470979882805
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.293905070361998
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.293956041324467
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.29273602082063
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.293954597148865
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -28.294275071995656
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: hybrid_keys_glockenspiel.nkm
+    program_num: 10
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.29392044866377
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 90
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.293947989557193
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.29380617706748
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.29390443218658
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+target_peak: -1.0

@@ -1,0 +1,125 @@
+UUID: 9cf2a762749973678b4c758266c3e531
+audio_dir: Track00490/stems
+lmd_midi_dir: lmd_matched/A/H/E/TRAHEQC128F42153D6/9cf2a762749973678b4c758266c3e531.mid
+midi_dir: Track00490/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19557835130938567
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.180401755540192
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.258675394133235
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.05920567014181
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.649672132918145
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.574917072068207
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S05:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -22.005395115985795
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.827443131859825
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.329238503651348
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.598841482311443
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S10:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.21149688914039
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.809594098854248
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S12:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.626586855695825
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 16
+target_peak: -1.0

@@ -1,0 +1,107 @@
+UUID: db23a53d3afd0d0f05a516c34a837b80
+audio_dir: Track00033/stems
+lmd_midi_dir: lmd_matched/L/G/Y/TRLGYSD128F930C099/db23a53d3afd0d0f05a516c34a837b80.mid
+midi_dir: Track00033/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18111026814419987
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.839008297125048
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.84132185800164
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.840575957186708
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.83945928032835
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.840584875100614
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.839488903457354
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.841008420919056
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 45
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.84057497277072
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S08:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.840059299370882
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.839151075484377
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 81
+target_peak: -1.0

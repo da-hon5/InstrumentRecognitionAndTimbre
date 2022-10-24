@@ -1,0 +1,99 @@
+UUID: 83d1bbb3cae2a292cc264df703795183
+audio_dir: Track00481/stems
+lmd_midi_dir: lmd_matched/T/C/L/TRTCLFS128E0799AD4/83d1bbb3cae2a292cc264df703795183.mid
+midi_dir: Track00481/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1578918968861891
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.913806092231884
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.151969156004252
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.514775677203147
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.764964294944306
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.64571687809084
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.83179545683378
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.02923947172866
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.28904173103847
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.947229156451645
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.944500420641788
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+target_peak: -1.0

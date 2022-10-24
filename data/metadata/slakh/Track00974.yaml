@@ -1,0 +1,88 @@
+UUID: ee52adde812ebcca0b1acff505b5a4d2
+audio_dir: Track00974/stems
+lmd_midi_dir: lmd_matched/Q/J/G/TRQJGEQ128E078DB89/ee52adde812ebcca0b1acff505b5a4d2.mid
+midi_dir: Track00974/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22883587839284933
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.35626785212583
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.710005675886215
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 81
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.790421098212436
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.91714888146213
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 3
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.78455976141871
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.14870044888604
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 95
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.952690389407273
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S08:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+target_peak: -1.0

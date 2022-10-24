@@ -1,0 +1,135 @@
+UUID: de2462daeb3a08664a2d241100fec2c5
+audio_dir: Track02054/stems
+lmd_midi_dir: lmd_matched/F/E/I/TRFEIPA128F145BCD6/de2462daeb3a08664a2d241100fec2c5.mid
+midi_dir: Track02054/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1890777979360432
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.24734271526575
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -20.44220318473541
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.466905676089725
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.94641441715902
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.575237936488413
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.048331493787135
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.572546039300589
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -16.44880411437987
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.766281225657952
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.273153368604405
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.672988409127075
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -22.244628454639415
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.27637800660753
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S13:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.165167599071735
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: hard_n_dirty.nkm
+    program_num: 81
+target_peak: -1.0

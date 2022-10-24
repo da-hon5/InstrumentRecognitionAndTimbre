@@ -1,0 +1,71 @@
+UUID: 063dc1da753ee00959418eb015766f33
+audio_dir: Track00924/stems
+lmd_midi_dir: lmd_matched/O/V/W/TROVWDC128F426EA9B/063dc1da753ee00959418eb015766f33.mid
+midi_dir: Track00924/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21813391340216462
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.983692555668426
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.87730773714011
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.224304657222016
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.796068610609689
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.912001997056258
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 18
+  S05:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.31950284108544
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

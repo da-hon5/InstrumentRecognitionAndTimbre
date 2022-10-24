@@ -1,0 +1,81 @@
+UUID: acc11215d1e447fc85deaa0ea0d1b79f
+audio_dir: Track00516/stems
+lmd_midi_dir: lmd_matched/P/G/M/TRPGMQE128F425ED73/acc11215d1e447fc85deaa0ea0d1b79f.mid
+midi_dir: Track00516/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1931012672777577
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.2859460130289
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.28594628983564
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.2859303150768
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.285922645022232
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 3
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.285926758318485
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.285940737084427
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.285936567960245
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.285946533950614
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+target_peak: -1.0

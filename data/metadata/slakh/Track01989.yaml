@@ -1,0 +1,81 @@
+UUID: 1a438ce2e05aa461f24f5f07dcca24a1
+audio_dir: Track01989/stems
+lmd_midi_dir: lmd_matched/H/K/O/TRHKOXX12903CAE28E/1a438ce2e05aa461f24f5f07dcca24a1.mid
+midi_dir: Track01989/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.09305357993293115
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -34.903421238481705
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.868472371543296
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.773883636572936
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.128806243012622
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.179220859311542
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.30611250799959
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.385952296463312
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.197745184478357
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_saxophone.nkm
+    program_num: 66
+target_peak: -1.0

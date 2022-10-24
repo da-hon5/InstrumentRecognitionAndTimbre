@@ -1,0 +1,126 @@
+UUID: 32db221ffb20eb4fd2421899f0742a82
+audio_dir: Track00624/stems
+lmd_midi_dir: lmd_matched/D/F/H/TRDFHEE12903CEBC80/32db221ffb20eb4fd2421899f0742a82.mid
+midi_dir: Track00624/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1598981369900764
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.307976548509316
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.685322616047305
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -20.000199431501873
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 87
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.515865563992527
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.027233494789126
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.173358138769245
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -19.932064758371236
+    is_drum: false
+    midi_program_name: Ocarina
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 79
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.85561475473587
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.306596758837305
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.40870714209595
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.977768814972094
+    is_drum: false
+    midi_program_name: Tuba
+    midi_saved: true
+    plugin_name: tuba.nkm
+    program_num: 58
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -14.814595331456202
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 88
+  S12:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.733946645480188
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 67
+target_peak: -1.0

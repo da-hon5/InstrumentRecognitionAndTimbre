@@ -1,0 +1,90 @@
+UUID: 03a43bb79b7b19f7b7bc1417722c424c
+audio_dir: Track01321/stems
+lmd_midi_dir: lmd_matched/H/A/V/TRHAVBB128F92EC11B/03a43bb79b7b19f7b7bc1417722c424c.mid
+midi_dir: Track01321/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21675731272760937
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.2825520043268
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 68
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.281613632581962
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.28161848136752
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.282547295328534
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.281385682966608
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.28255973886554
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.281662769266685
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.28148029126082
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.281635430765288
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+target_peak: -1.0

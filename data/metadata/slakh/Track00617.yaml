@@ -1,0 +1,115 @@
+UUID: 60c985e26bd09ee0ed81eef5f1cf5b6a
+audio_dir: Track00617/stems
+lmd_midi_dir: lmd_matched/L/F/P/TRLFPTS128F428A8E2/60c985e26bd09ee0ed81eef5f1cf5b6a.mid
+midi_dir: Track00617/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21388849948846095
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.41524214213068
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.115688911518712
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.418307693503884
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.501034485936874
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 81
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.226755972005385
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.3897951361795
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.27065362324672
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 87
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.877551276981254
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 51
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.74152269066431
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -15.989408307754482
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: cello_solo.nkm
+    program_num: 42
+  S11:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Applause
+    midi_saved: false
+    plugin_name: None
+    program_num: 126
+target_peak: -1.0

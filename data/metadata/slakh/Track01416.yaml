@@ -1,0 +1,157 @@
+UUID: 928121c7a5749d8590112db1d806b963
+audio_dir: Track01416/stems
+lmd_midi_dir: lmd_matched/N/S/Y/TRNSYON128F14A111A/928121c7a5749d8590112db1d806b963.mid
+midi_dir: Track01416/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19286071138643154
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -20.36719685223203
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -23.94765188010184
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 91
+  S02:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S03:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+  S04:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.116409971383856
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.144865031998803
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.374886087085418
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.89511588240436
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.54776682426541
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S10:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.92332328735427
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S12:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.091494959008397
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 78
+  S13:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.560217282959936
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 21
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.35259957239587
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 3
+  S15:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.6065233474611
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 18
+  S16:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+target_peak: -1.0

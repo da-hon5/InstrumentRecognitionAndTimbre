@@ -1,0 +1,144 @@
+UUID: a00e06f87d56aa1ce9ea4472b976383a
+audio_dir: Track00813/stems
+lmd_midi_dir: lmd_matched/L/J/Q/TRLJQOS128F426E16C/a00e06f87d56aa1ce9ea4472b976383a.mid
+midi_dir: Track00813/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16955491461173022
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.74106674961536
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.4861066319528
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.869008980379494
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -12.418486030952126
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 21
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.375942918898318
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -14.003333599194894
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_solo.nkm
+    program_num: 40
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -12.346012460373807
+    is_drum: false
+    midi_program_name: Ocarina
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 79
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.71902063791216
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 3
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.17315480022185
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -14.802333957629832
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.43944868966747
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.189301249042682
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S12:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -22.39073218928154
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 45
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.409834560524976
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.03044617948899
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 3
+target_peak: -1.0

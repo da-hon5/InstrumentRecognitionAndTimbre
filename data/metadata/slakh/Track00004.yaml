@@ -1,0 +1,90 @@
+UUID: c613ddce3ded35d2e8cadf3511a1ffb9
+audio_dir: Track00004/stems
+lmd_midi_dir: lmd_matched/T/V/C/TRTVCPO128F424B84C/c613ddce3ded35d2e8cadf3511a1ffb9.mid
+midi_dir: Track00004/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19364385304860737
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.2615896276226
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 90
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.2615833028503
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.261614135506722
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.261596512536638
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 18
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.26150370997215
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.26147312905888
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.256964288223987
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 6
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.2615431576113
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.261456208282244
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,99 @@
+UUID: e75b93d948c71fe452a04a3735cbb2cc
+audio_dir: Track00363/stems
+lmd_midi_dir: lmd_matched/A/W/C/TRAWCUK128F92DE15C/e75b93d948c71fe452a04a3735cbb2cc.mid
+midi_dir: Track00363/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18526897541295023
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.98127907131594
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.47802037502701
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.293883092310274
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -14.810580828595764
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.1816093118539
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.051296370564156
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.063690177652706
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.902709941385595
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.15201340788563
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 18
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.164073201810286
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

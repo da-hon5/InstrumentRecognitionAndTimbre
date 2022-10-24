@@ -1,0 +1,143 @@
+UUID: cbee0890559b407ff6b1df122e0e30bb
+audio_dir: Track00342/stems
+lmd_midi_dir: lmd_matched/O/M/R/TROMRMM128F429D482/cbee0890559b407ff6b1df122e0e30bb.mid
+midi_dir: Track00342/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21473297701396576
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.187792131250365
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.058321288606685
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S02:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.639971062454915
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 82
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.062157479183046
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.72464749663712
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.345977703186128
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.364624257848217
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 94
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.26040649108189
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.431046809440158
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.844926777781247
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.888002003163544
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.259828027572262
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -13.249527610930258
+    is_drum: false
+    midi_program_name: Reed Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 20
+  S14:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.074436098149716
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 93
+target_peak: -1.0

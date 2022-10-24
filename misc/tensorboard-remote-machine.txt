@@ -1,0 +1,13 @@
+how to use tensorboard on a remote machine
+------------------------------------------
+
+1) from your local machine, run: ssh -N -f -L localhost:16006:localhost:6006 <user@remote>
+
+2) on the remote machine (in a tmux session), run: tensorboard --logdir <path> --port 6006
+
+3) Then, navigate to (in this example) http://localhost:16006 on your local machine.
+
+  maybe the port numbers have to be changed.
+  
+  --> aim-tmp: http://localhost:16006
+  --> aim-tmp2: http://localhost:16007

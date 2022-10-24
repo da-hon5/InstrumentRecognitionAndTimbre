@@ -1,0 +1,108 @@
+UUID: c5196a65a4b56ad456c8c8fd61a2fd21
+audio_dir: Track01032/stems
+lmd_midi_dir: lmd_matched/G/Q/Q/TRGQQSQ128F934EB77/c5196a65a4b56ad456c8c8fd61a2fd21.mid
+midi_dir: Track01032/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21714744376979817
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.2663278655213
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.26614261508416
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.266668720777815
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.266126512625906
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 18
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.266052529127432
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone_section.nkm
+    program_num: 57
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.266182269210844
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.26611444596121
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.266168080175923
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.266571624812485
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.26608288807186
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.266570310334036
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+target_peak: -1.0

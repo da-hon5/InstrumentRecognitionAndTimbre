@@ -1,0 +1,153 @@
+UUID: cb82e179c5b8b8ee8aae6e4effd0b1a5
+audio_dir: Track01324/stems
+lmd_midi_dir: lmd_matched/V/Z/T/TRVZTWF128F14A2B5D/cb82e179c5b8b8ee8aae6e4effd0b1a5.mid
+midi_dir: Track01324/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.12194950632206951
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.489197501658825
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.94268396009695
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.65265676054783
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -14.75898674936
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 88
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.777078487416555
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.36274759291673
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.061501052693004
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -14.752078899974999
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 74
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.939648828376747
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.258491049087965
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.16773510895921
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.128330415163035
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.251034574045637
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.880061554471522
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.633157991013793
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.201165146595383
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+target_peak: -1.0

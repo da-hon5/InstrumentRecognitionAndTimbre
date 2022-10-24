@@ -1,0 +1,107 @@
+UUID: 84fe2a35d0393dbf3d7567813941bb43
+audio_dir: Track01054/stems
+lmd_midi_dir: lmd_matched/C/Q/C/TRCQCEG12903CA8E5D/84fe2a35d0393dbf3d7567813941bb43.mid
+midi_dir: Track01054/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15634719971689248
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.529948552058936
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.366215548577834
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 7
+  S02:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.98993995202166
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.64872751445735
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 16
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.625221619832619
+    is_drum: false
+    midi_program_name: Reed Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 20
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -14.982500183053997
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.523505699220063
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -23.69514127453161
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone.nkm
+    program_num: 57
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.089802853457808
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.4712285384462
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 7
+target_peak: -1.0

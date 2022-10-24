@@ -1,0 +1,124 @@
+UUID: 32626f94bee27908700f2fb621059e31
+audio_dir: Track00758/stems
+lmd_midi_dir: lmd_matched/U/W/Y/TRUWYSS12903CBB562/32626f94bee27908700f2fb621059e31.mid
+midi_dir: Track00758/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18254656575529937
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.462911158350984
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.548198676746697
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S02:
+    audio_rendered: false
+    inst_class: Reed
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.88655478779126
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.91971291385239
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.0984917934582
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.591195683926813
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.435333835528805
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.21538170168152
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 56
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.422066741210568
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.26131235856398
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S11:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Applause
+    midi_saved: false
+    plugin_name: None
+    program_num: 126
+  S12:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.325472323420122
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 16
+target_peak: -1.0

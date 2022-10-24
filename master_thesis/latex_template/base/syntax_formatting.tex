@@ -1,0 +1,202 @@
+% ====================================================================
+%    The author of this file licenses it to you under the Apache
+%    License, Version 2.0. You may obtain a copy of the License at
+%
+%      http://www.apache.org/licenses/LICENSE-2.0
+%
+%    Unless required by applicable law or agreed to in writing,
+%    software distributed under the License is distributed on an
+%    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+%    KIND, either express or implied.  See the License for the
+%    specific language governing permissions and limitations
+%    under the License.
+% ====================================================================
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% lstlisting syntax formatting (Dietmar Malli (2017-10-31)) %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Farbdefinitionen
+\definecolor{light-gray}{gray}{0.45}
+
+%Umlaute im source:
+\lstset{literate=%
+    {Ö}{{\"O}}1
+    {Ä}{{\"A}}1
+    {Ü}{{\"U}}1
+    {ß}{{\ss}}1
+    {ü}{{\"u}}1
+    {ä}{{\"a}}1
+    {ö}{{\"o}}1
+    {~}{{\textasciitilde}}1
+}
+
+%Aussehen für verschiedene Quellcodelistingsprachen definieren:
+\lstdefinestyle{styMatlab}{
+  language=Octave,
+  columns=flexible,                   %Schreibmaschinenschrift
+  basicstyle=\ttfamily,               %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt},                  %Zeilenabstand verringern
+  %identifierstyle=\color{SkyBlue},   %Identifier hellblau
+  %stepnumber=2                       %Nur alle 2 Zeilen Zeilennummerieren...
+  %breakautoindent=true               %Automatisches Einrücken nach Zeilenumbruch...
+  %backgroundcolor=\color{white}      %Hintergrundfarbe ändern
+  %showtabs=true,                     %Würde Tabulatorendarstellung aktivieren
+  %showspaces=false,                  %Würde Leerzeichendarstellung aktivieren
+  otherkeywords={repmat,mynorm2,mynorm2mm,rows,columns,complex,mod}%Zusätzliche Schlüsselwörter für Syntaxhighlighting angeben
+  %Mögliche Parameter für frame:      none|leftline|topline|bottomline|lines|single|shadowbox|L|R
+}
+\lstdefinestyle{styVerilog}{
+  language=Verilog,
+  columns=flexible,                   %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt}                   %Zeilenabstand verringern
+}
+\lstdefinestyle{styC}{
+  language=C,
+  columns=flexible,                   %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt}                   %Zeilenabstand verringern
+}
+\lstdefinestyle{styMakefile}{
+  language=make,
+  columns=flexible,                   %Schreibmaschinenschrift
+  basicstyle=\ttfamily,               %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  tabsize=4,                          %Tab=4Spaces
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt}                   %Zeilenabstand verringern
+}
+\lstdefinestyle{styBash}{
+  language=bash,
+  columns=flexible,                   %Schreibmaschinenschrift
+  basicstyle=\ttfamily,               %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  tabsize=4,                          %Tab=4Spaces
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt}                  %Zeilenabstand verringern
+}
+\lstdefinestyle{styTOYASM}{
+  language=[x86masm]Assembler,
+  columns=flexible,                   %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt},                  %Zeilenabstand verringern
+  morekeywords={LDI, LDA, STI, LD, BZ}%Zusätzliche Schlüsselwörter für Syntaxhighlighting angeben
+}
+\lstdefinestyle{styJava}{
+  language=Java,
+  columns=flexible,                   %Schreibmaschinenschrift
+  basicstyle=\ttfamily,               %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt}                   %Zeilenabstand verringern
+}
+\lstdefinestyle{styGnuplot}{
+  language=Gnuplot,
+  columns=flexible,                   %Schreibmaschinenschrift
+  basicstyle=\ttfamily,               %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt}                   %Zeilenabstand verringern
+}
+\lstdefinestyle{styPHP}{
+  language=PHP,
+  columns=flexible,                   %Schreibmaschinenschrift
+  basicstyle=\ttfamily,               %Schreibmaschinenschrift
+  fontadjust=true,                    %Schreibmaschinenschrift
+  showstringspaces=false,             %Leerzeichendarstellung in Strings deaktivieren
+  numbers=left,                       %Zeilennummerierung auf der Linken Seite
+  numberstyle=\tiny,                  %Kleinere Zeichen für Zeilennummerierung \ttfamily wäre für normale Schreibmasch.
+  numbersep=.5em,                     %Abstand der Zahlen vom Source
+  breaklines=true,                    %Zeilenumbruch im Code aktivieren
+  breakatwhitespace=false,            %Nur bei Leerzeichen Zeilen umbrechen
+  frame=single,                       %Umrandung
+  basicstyle=\ttfamily,               %Schriftart und Größe für Quellcode
+  keywordstyle=\color{blue},          %Schlüsselwörter blau
+  commentstyle=\color{light-gray},    %Kommentare hellgrau
+  stringstyle=\color{orange},         %Strings Orange
+  lineskip={-1.0pt}                   %Zeilenabstand verringern
+}

@@ -1,0 +1,72 @@
+UUID: f930203bafcd7e01a19e9c47825537cf
+audio_dir: Track01290/stems
+lmd_midi_dir: lmd_matched/L/D/H/TRLDHKB128F4268EFC/f930203bafcd7e01a19e9c47825537cf.mid
+midi_dir: Track01290/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.12544027203538533
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.031515932609064
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.031327281264144
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.028264266774098
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.03109149991916
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.02829359428198
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -31.03094430611618
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.028677787034294
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

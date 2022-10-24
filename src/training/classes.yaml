@@ -1,0 +1,26 @@
+# ---------------------------------------------------
+# specify the classes you want to use 
+# ---------------------------------------------------
+
+instr_families: ['voice', 'percussion', 'plucked-str', 'bowed-str', 'woodwind', 'brass', 'key', 'synth']
+
+# old classes
+#instr_classes:  ['drums', 'piano', 'a-guitar', 'e-guitar', 'e-bass', 'contrabass', 'sax', 'flute', 'organ']
+
+# all classes
+# instr_classes: ['speaker', 'singer', 'drums', 'contrabass', 'cello', 'viola', 'violin', 'e-guitar', 'a-guitar',
+#                 'e-bass', 'sax', 'clarinet', 'flute', 'bassoon', 'oboe', 'trumpet', 'trombone', 'horn', 'tuba', 
+#                 'piano', 'e-piano', 'organ']
+
+# maybe ignore classes with few samples ?
+instr_classes: ['singer', 'drums', 'violin', 'e-guitar', 'a-guitar', 'e-bass', 'piano']
+
+jamendo_classes: ['genre_downtempo', 'genre_ambient', 'genre_rock', 'instrument_synthesizer', 'genre_atmospheric',
+          'genre_indie', 'instrument_electricpiano', 'genre_newage', 'instrument_strings', 'instrument_drums',
+          'instrument_drummachine', 'genre_techno', 'instrument_guitar', 'genre_alternative', 'genre_easylistening',
+          'genre_instrumentalpop', 'genre_chillout', 'genre_metal', 'mood/theme_happy', 'genre_lounge', 'genre_reggae',
+          'genre_popfolk', 'genre_orchestral', 'instrument_acousticguitar', 'genre_poprock', 'instrument_piano', 'genre_trance',
+          'genre_dance', 'instrument_electricguitar', 'genre_soundtrack', 'genre_house', 'genre_hiphop', 'genre_classical',
+          'mood/theme_energetic', 'genre_electronic', 'genre_world', 'genre_experimental', 'instrument_violin', 'genre_folk',
+          'mood/theme_emotional', 'instrument_voice', 'instrument_keyboard', 'genre_pop', 'instrument_bass', 'instrument_computer',
+          'mood/theme_film', 'genre_triphop', 'genre_jazz', 'genre_funk', 'mood/theme_relaxing']

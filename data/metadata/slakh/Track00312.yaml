@@ -1,0 +1,81 @@
+UUID: c10c482468f5d1e6860e85b3f3db6d00
+audio_dir: Track00312/stems
+lmd_midi_dir: lmd_matched/Y/F/X/TRYFXSY12903CC3695/c10c482468f5d1e6860e85b3f3db6d00.mid
+midi_dir: Track00312/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18453843905191675
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.26565382058465
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.034322920305602
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.686486015752664
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.229357301260677
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet.nkm
+    program_num: 71
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.971051657883896
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.50441568443123
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 3
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.98988330140944
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.090396741710776
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+target_peak: -1.0

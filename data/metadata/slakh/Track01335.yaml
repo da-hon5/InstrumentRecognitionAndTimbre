@@ -1,0 +1,107 @@
+UUID: 6c051f0108d838f544e36d116e02ee74
+audio_dir: Track01335/stems
+lmd_midi_dir: lmd_matched/H/K/W/TRHKWTJ128F4263175/6c051f0108d838f544e36d116e02ee74.mid
+midi_dir: Track01335/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22495165377020493
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.95883847833133
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.958715034536134
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S02:
+    audio_rendered: false
+    inst_class: Chromatic Percussion
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: tubular_bells_metal.nkm
+    program_num: 11
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.958493932209745
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -25.95883719044221
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: baritone_saxophone.nkm
+    program_num: 67
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.95841399894815
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.959629217810278
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.958743805721962
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.95916382023422
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -25.958842854025807
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -25.958824130831182
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+target_peak: -1.0

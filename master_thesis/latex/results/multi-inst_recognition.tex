@@ -1,0 +1,79 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Classifier}{results:multi-inst_recognition}
+As already mentioned, most training and model related hyperparameters were adopted from~\cite{won2020evaluation} without performing any further optimization. However, the complex data loading process proposed in this work introduces various additional hyperparameters -- which should be tuned. Apart from that, we study how useful the features learned in pre-training are for multi-instrument recognition with our multi-track datasets. Therefore, different transfer learning methods are explored in Section~\ref{sec:results:multi-inst_recognition:transfer-learning}. Moreover, in Section~\ref{sec:results:multi-inst_recognition:mixing}, the two mixing strategies -- musical and non-musical mixing -- are studied. After determining a suitable classification threshold in Section~\ref{sec:results:multi-inst_recognition:threshold}, several remaining hyperparameters are tuned by random search and the performance of the final classifier is reported in Section~\ref{sec:results:multi-inst_recognition:hyperparameters}. To evaluate the classifier's performance, 120 mixes are created from the individual instrument tracks contained in the test splits of the three multi-track datasets. Mixes for testing (and validation) are produced on-the-fly using the musical mixing strategy -- i.e. only sources from the same song are combined -- as this strategy results in mixes, which are very close to real-world recordings. Since mixes are generated randomly, it is possible that some sources appear multiple times in different mixes in the testing data. In order to ensure reproducibility and enable the comparison of different models, the seeds of the random number generators are fixed.\\
+
+\newsubsection{Transfer Learning -- Which Layers to train?}{results:multi-inst_recognition:transfer-learning}
+Multiple approaches to transfer learning of \glspl{cnn} can be found in the literature; three of those have been discussed in Section~\ref{sec:method:training:transfer-learning}. The first method (1) is to freeze the convolutional layers, which are responsible for feature extraction, after pre-training and retrain only the fully connected layers. We refer to this practice as \textit{frozen backbone}. Another method (2) we would like to investigate works as follows: During transfer learning, the whole neural network is retrained, but the learning rate of the convolutional layers is significantly smaller than the learning rate of the fully connected layers. We call this approach \textit{fine-tuned}. Additionally, we train one model completely \textit{from scratch} (3), without utilizing the weights from pre-training at all. To evaluate which method works best for our use case, an experiment was conducted. Therefore, multiple models were trained applying the three different strategies as presented above. Each model was evaluated on the testing data and \gls{rocauc}, \gls{prauc} and test loss were computed. For all three transfer learning methods, $0.01$ was chosen as an initial learning rate for the fully connected layers. When training from scratch, the same learning rate was used for the backbone as well. For the fine-tuning approach, the learning rate of the backbone was initialized with $0.0001$. Keep in mind that a scheduler was applied, which reduces the learning rate every 20 epochs by a constant factor.\\
+
+Table~\ref{tab:transfer-learning-experiment} contains the results of the three transfer learning experiments. Unsurprisingly, the performance is worst when no pre-training is exploited and the model is trained from scratch on the multi-track data. Utilizing a pre-trained backbone with frozen parameters significantly increases the performance, indicating that pre-training on a large-scale dataset is beneficial indeed. However, fine-tuning the weights of the backbone to fit the needs of the target task yields additional performance gains. For this reason, the fine-tuning approach is used for all subsequent experiments.
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c}
+	& ROC-AUC & PR-AUC & Test loss\\ \hline
+		From scratch  & 0.8488 & 0.6812 & 0.4459\\ \hline
+		Frozen backbone  & 0.8908  & 0.7623 & 0.4160\\ \hline
+		Fine-tuned & 0.9429  & 0.8334 & 0.3618\\
+	\end{tabular}
+	\caption{ROC-AUC, PR-AUC and test loss for different transfer learning approaches.}
+	\label{tab:transfer-learning-experiment}
+\end{table}
+
+Fig.~\ref{fig:classifier-transfer-learning-exp} shows the learning curves for the three transfer learning methods, which have just been discussed. One can see that the loss is already relatively low at the beginning of training, when pre-trained parameters are used as initialization. Therefore, it is clear that many skills learned in music tagging can be applied to multi-instrument recognition. Moreover, freezing the convolutional layers prevents further improvement of the model after a certain number of epochs, while both training and validation loss continue to go down when the backbone is fine-tuned.
+\figc{width=0.9\textwidth}{\pwd/figs/classifier-transfer-learning-exp}{Learning curves of the classifier using different transfer learning methods.}{classifier-transfer-learning-exp}
+
+\newsubsection{Mixing Strategy}{results:multi-inst_recognition:mixing}
+As explained in Section~\ref{sec:method:preprocessing}, our main data augmentation technique is based on mixing of individual sources to create new examples for training. For this reason, the two mixing strategies musical mixing with probability $p_{musical}$ and non-musical mixing with probability $1 - p_{musical}$ are used. To determine the best ratio between these two methods, we experimented with different values for the hyperparameter $p_{musical}$. The experiment was repeated with four distinct seeds and the evaluation metrics were averaged. As depicted in Fig.~\ref{fig:p_mult_songs-experiment}, the best performance was obtained for $p_{musical}=0.4$. The result of this investigation suggests that neither mixing strategy is superior but rather a combination of both works best. Using only the non-musical mixing approach yields a larger number of training examples. However, the model does not get the chance to learn how to identify sources in \enquote{real} music where all instruments play in the same key and tempo. In this case, \gls{ir} is usually more difficult though, at least for humans, since masking of individual sources is more pronounced due to synchronous note onsets and overlapping partials. Although overlapping of partials results in consonant sounds, it is substantially harder to distinguish individual sources in this case. On the other hand, if only the musical mixing approach is utilized, fewer training examples can be created, as the number of possible combinations of sources from a single song is limited. Fewer training examples in turn can lead to poorer generalization of the model. We infer from this experiment that a blend of both mixing strategies yields best results for multi-instrument recognition.
+\figc{width=0.85\textwidth}{\pwd/figs/p_mult_songs-experiment}{ROC-AUC, PR-AUC and test loss for different values of $p_{musical}$.}{p_mult_songs-experiment}
+
+\newsubsection{Classification Threshold}{results:multi-inst_recognition:threshold}
+As the sigmoid activation in the last layer of our classifier outputs probabilities, a threshold has to be determined which decides whether a certain instrument is in the mix or not. We therefore evaluated the model for different thresholds in the range from $0.1$ to $0.7$ and reported precision, recall and F1-score averaged over all classes respectively. Fig.~\ref{fig:threshold-experiment} shows the result of this experiment. As expected, with increasing threshold, precision improves because the number of false positives goes down. On the other hand, false negatives occur more frequently, leading to a poorer recall. The F1-score is defined as the harmonic mean of precision and recall, hence it is a good measure to optimize if precision and recall are equally important for a specific task. In our case, thresholds in the range from approximately $0.2$ to $0.35$ yield the best F1-scores. Since the classifier should avoid identifying instruments not present in the mixture, we particularly care about a small number of false positives. Therefore, we prioritize a high precision and select a value of $0.35$ for the final classification threshold.
+\figc{width=0.85\textwidth}{\pwd/figs/threshold-experiment}{Precision, recall and F1-score averaged over all classes for different classification thresholds.}{threshold-experiment}
+
+\newsubsection{Performance of the Classifier}{results:multi-inst_recognition:hyperparameters}
+Apart from transfer learning method and mixing strategy, we tuned some additional hyperparameters using a random search. Table~\ref{tab:other-hyperparam} contains hyperparameters related to data loading and training. Table~\ref{tab:augmentation-hyperparam} contains the settings we used for the digital audio effects -- for more details on how these effects work and which parameters are available, we refer to the audiomentations~\cite{audiomentations} library. The rest of the hyperparameters were adopted from~\cite{won2020evaluation}.\\
+
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c}
+		&   \\ \hline
+		$p_{single-source}$  & 0.25 \\ \hline
+		$p_{skip-percussion}$  &  0.5 \\ \hline
+		$p_{skip-plucked-str}$  &  0.5  \\ \hline
+		Max \#sources &  10 \\ \hline
+		Batch size & 16 \\ \hline
+		Backbone LR	& 0.0001 \\ \hline
+		Head LR	&  0.01 \\ \hline
+		LR scheduler (step size) & 20 \\ \hline
+		LR scheduler (gamma) &  0.3  \\
+	\end{tabular}
+	\caption{Hyperparameters related to data loading and training.}
+	\label{tab:other-hyperparam}
+\end{table}
+
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c|c|c|c|c}
+		& Gain & Peak filter & Low shelf & High shelf & Pitch shift & Time stretch \\ \hline
+		Probability [\%]	& 90 & 60 & 60 & 60 & 70 & 30 \\ \hline
+		Min gain [dB] &   -12   &  -12  & -12 & -12 & - & - \\ \hline
+		Max gain [dB] &    0  & 12  & 12 & 12 & - & - \\ \hline
+		$f_{c,min}$ [Hz] &  -  &  50 & 50 & 300 & - & - \\ \hline
+		$f_{c,max}$	[Hz]&  -    & 8000 & 4000 & 7500 & - & - \\ \hline
+		$q_{min}$ 	&   -   &  0.5 & 0.1 & 0.1 & - &  -\\ \hline
+		$q_{max}$	&   -   &  5 & 0.999 & 0.999 & - & - \\ \hline
+		Min rate	&   -   &  - & - & - & - & 0.8 \\ \hline
+		Max rate	&   -   &   - & - & - & - & 1.5 \\ \hline
+		Min semitones	&   -   &  -  & - & - & -4 & - \\ \hline
+		Max semitones	&   -   &  - & - & - & 4 & - \\
+	\end{tabular}
+	\caption{Settings of the digital audio effects from the \textit{audiomentations}~\cite{audiomentations} library used for data augmentation.}
+	\label{tab:augmentation-hyperparam}
+\end{table}
+
+Fig.~\ref{fig:performance} shows the performance of our model per class. Unsurprisingly, classes with abundant training data, such as percussion, drums or plucked strings, exhibit the best F1-scores, while the identification of instruments or families with insufficient data, like brass, woodwind or violin, does not work well. Note that precision, recall and F1-score are zero for the brass class because the number of true positives is zero. In addition to those three evaluation metrics, we also report the class-wise accuracy, which measures the proportion of correctly predicted labels. However, accuracy has to be used with caution, since it is highly dependent on the distribution of the dataset. For example, a high accuracy for the brass class is obtained, completely hiding the fact that not a single brass instrument was identified correctly. Instead, the model always predicts the absence of the brass family, which is true most of the time, since the brass class is very poorly represented in the data. Apart from that, we obtained state-of-the-art performance for the majority of classes. With F1-scores above \SI{95}{\percent} for some classes, our classifier can easily compete with other recent multi-instrument recognition systems from the literature~\cite{gururani2019attention, seipel2018music, kadandale2018musical}.
+\figc{width=1.0\textwidth}{\pwd/figs/performance}{Class-wise performance of the classifier.}{performance}
+
+
+
+

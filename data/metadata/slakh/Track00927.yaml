@@ -1,0 +1,151 @@
+UUID: 90f421c7e80389bd91a3542d35f3959e
+audio_dir: Track00927/stems
+lmd_midi_dir: lmd_matched/V/W/U/TRVWUME128F92F23A5/90f421c7e80389bd91a3542d35f3959e.mid
+midi_dir: Track00927/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15148267159913775
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.85240154127093
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.332215668310962
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 51
+  S02:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -16.016896103389413
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.543944601365434
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.05517223512241
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.051766529636144
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.67984142420367
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 80
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.572931860133334
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.20162931632962
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.752863202025633
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.7089389085749
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S11:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -23.491258794807546
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 40
+  S12:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.571172030324739
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.371678476635735
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+target_peak: -1.0

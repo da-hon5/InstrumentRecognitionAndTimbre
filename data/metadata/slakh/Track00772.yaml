@@ -1,0 +1,71 @@
+UUID: 5223dda245c9ea09ecd18e2c105166ca
+audio_dir: Track00772/stems
+lmd_midi_dir: lmd_matched/Z/D/R/TRZDRAG128F426E426/5223dda245c9ea09ecd18e2c105166ca.mid
+midi_dir: Track00772/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2605598370443064
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.681211420675968
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.681179825753567
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -24.680780878606082
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 34
+  S03:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -24.681063538054556
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.68144406126952
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.681183195508048
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

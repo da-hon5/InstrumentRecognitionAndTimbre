@@ -1,0 +1,113 @@
+UUID: ab2541a713cf5addac57135f1ae6a197
+audio_dir: Track00248/stems
+lmd_midi_dir: lmd_matched/O/J/A/TROJAFA128F42B9B22/ab2541a713cf5addac57135f1ae6a197.mid
+midi_dir: Track00248/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20571300705554274
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.7355525963379
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.73537347667867
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.735081045526105
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S03:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S04:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.73591602162585
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S06:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.73570991533999
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.73534898863808
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 90
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.735344687460938
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S10:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -26.73545566192156
+    is_drum: false
+    midi_program_name: Celesta
+    midi_saved: true
+    plugin_name: hybrid_keys_hot_tropics.nkm
+    program_num: 8
+  S11:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+target_peak: -1.0

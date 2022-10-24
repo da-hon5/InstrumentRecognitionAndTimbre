@@ -1,0 +1,126 @@
+UUID: 68633561287b3aa6ec0051f80a045ae9
+audio_dir: Track01270/stems
+lmd_midi_dir: lmd_matched/X/V/O/TRXVOBX128F4243131/68633561287b3aa6ec0051f80a045ae9.mid
+midi_dir: Track01270/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21626321649055383
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.538684846886703
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 84
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.98548007363515
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.67566622748493
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.297388117699455
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.20700597175252
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.479806284049737
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.005017160207757
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.06890735800881
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 88
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.400572908775736
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.334322584545752
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.482685294488686
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.755481938060793
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 95
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.31955097834408
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+target_peak: -1.0

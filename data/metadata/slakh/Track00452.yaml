@@ -1,0 +1,90 @@
+UUID: f8ea7b59529bf0adae3ca08e91cf0bab
+audio_dir: Track00452/stems
+lmd_midi_dir: lmd_matched/G/C/E/TRGCEOI128F9300E64/f8ea7b59529bf0adae3ca08e91cf0bab.mid
+midi_dir: Track00452/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10338942139767522
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.41154928893111
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.89715429594594
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.143790740138673
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -13.990288363565229
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 17
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.14778673616775
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -22.170325528621674
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.331084010220785
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.40500239728148
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.882787027210254
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 17
+target_peak: -1.0

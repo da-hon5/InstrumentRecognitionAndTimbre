@@ -1,0 +1,81 @@
+UUID: 05c79287d48323127878e93c9e950f23
+audio_dir: Track00896/stems
+lmd_midi_dir: lmd_matched/T/K/S/TRTKSPA128F92E04CD/05c79287d48323127878e93c9e950f23.mid
+midi_dir: Track00896/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2369203658537614
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.50673613301211
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.50736559626254
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.50819969738583
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 17
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.507393186453356
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.506721488194025
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.507729264906377
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.50762063246008
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.507181757156772
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

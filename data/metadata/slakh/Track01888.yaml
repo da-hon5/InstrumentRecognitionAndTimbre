@@ -1,0 +1,99 @@
+UUID: 4723252d4bf0107285ecb9a0c923633b
+audio_dir: Track01888/stems
+lmd_midi_dir: lmd_matched/T/C/A/TRTCAXC128F149E398/4723252d4bf0107285ecb9a0c923633b.mid
+midi_dir: Track01888/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18110678678155095
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.838805034333642
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.841383994313638
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.84034539556319
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 22
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.841603844440375
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.841789635029063
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 89
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.840833783716953
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.84189335588306
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.840417850520257
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.840670366398818
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.833971789440145
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+target_peak: -1.0

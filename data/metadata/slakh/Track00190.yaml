@@ -1,0 +1,99 @@
+UUID: 98c2fe100102e853d293cec2353e35bc
+audio_dir: Track00190/stems
+lmd_midi_dir: lmd_matched/A/V/J/TRAVJMS128E078C527/98c2fe100102e853d293cec2353e35bc.mid
+midi_dir: Track00190/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1883486782375075
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.500488382933483
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.498475324398065
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.501186060526994
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.49983462286639
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.500913595358778
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.50124281902364
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 22
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.50111380733455
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.50115770926935
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.500730436821897
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S09:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.487590228346352
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 66
+target_peak: -1.0

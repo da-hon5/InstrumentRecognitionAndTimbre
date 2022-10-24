@@ -1,0 +1,97 @@
+UUID: 821efa45905b6b38ba12eb7b6d90042a
+audio_dir: Track02014/stems
+lmd_midi_dir: lmd_matched/Y/Z/H/TRYZHKD128F4284BBA/821efa45905b6b38ba12eb7b6d90042a.mid
+midi_dir: Track02014/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1820188215158629
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.314582484721615
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.6401804800653
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -22.137385741873064
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: upright_bass.nkm
+    program_num: 32
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.417984629410448
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: upright_bass.nkm
+    program_num: 32
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.76829855707128
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -19.62634566610628
+    is_drum: false
+    midi_program_name: Celesta
+    midi_saved: true
+    plugin_name: hybrid_keys_concert_marimba.nkm
+    program_num: 8
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -22.914667050945095
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 88
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.73874776612894
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S08:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Shamisen
+    midi_saved: false
+    plugin_name: None
+    program_num: 106
+  S09:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+target_peak: -1.0

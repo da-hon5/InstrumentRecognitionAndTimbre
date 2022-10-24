@@ -1,0 +1,115 @@
+UUID: a753876567fc9bdfc8d3b382ed6cc5c0
+audio_dir: Track01353/stems
+lmd_midi_dir: lmd_matched/U/S/W/TRUSWBQ12903CC224F/a753876567fc9bdfc8d3b382ed6cc5c0.mid
+midi_dir: Track01353/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22170358775234167
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.440714974161457
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.884924564087148
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.50221200099505
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 87
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.287331286207664
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 36
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -20.72222753654064
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.152980533494034
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.45628864390317
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.18387849561165
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 51
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.99689081519118
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -22.258291439491266
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone.nkm
+    program_num: 57
+target_peak: -1.0

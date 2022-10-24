@@ -1,0 +1,72 @@
+UUID: e85605b42ad20001430ce8a352d8976d
+audio_dir: Track01928/stems
+lmd_midi_dir: lmd_matched/Q/U/V/TRQUVBW128F1474E9A/e85605b42ad20001430ce8a352d8976d.mid
+midi_dir: Track01928/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1904346983184055
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.40582869829006
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 16
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.405880999805387
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.407409636984706
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.4058459864479
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.40579004211285
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.407628903161118
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.404998262592933
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

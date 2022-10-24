@@ -1,0 +1,72 @@
+UUID: fb4b28b604b738ce73e6b35661c0a9d1
+audio_dir: Track00160/stems
+lmd_midi_dir: lmd_matched/T/M/B/TRTMBBK128F1482ED3/fb4b28b604b738ce73e6b35661c0a9d1.mid
+midi_dir: Track00160/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20417429906725715
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.54197498970374
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.607645067676064
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.497907820090981
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.114491830100253
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.516083566319516
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.884097351075049
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -21.086984724071016
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 11
+target_peak: -1.0

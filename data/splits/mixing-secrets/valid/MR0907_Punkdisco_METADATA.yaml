@@ -1,0 +1,281 @@
+album: ''
+artist: MR0907
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR0907_Punkdisco_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR0907_Punkdisco_RAW
+stem_dir: MR0907_Punkdisco_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR0907_Punkdisco_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 04_Snare2.wav
+        instrument: Snare
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_Snare1.wav
+        instrument: Snare
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: 06_Hat.wav
+        instrument: Hat
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick1.wav
+        instrument: Kick
+  S02:
+    component: ''
+    filename: MR0907_Punkdisco_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 07_BassSynth1.wav
+        instrument: BassSynth
+      R010:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 17_Synth8.wav
+        instrument: Synth
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 12_Synth3.wav
+        instrument: Synth
+      R03:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 08_BassSynth2.wav
+        instrument: BassSynth
+      R04:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 10_Synth1.wav
+        instrument: Synth
+      R05:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 15_Synth6.wav
+        instrument: Synth
+      R06:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 11_Synth2.wav
+        instrument: Synth
+      R07:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 14_Synth5.wav
+        instrument: Synth
+      R08:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 16_Synth7.wav
+        instrument: Synth
+      R09:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 13_Synth4.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 20_Vox03.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 20_Vox03.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 30_Vox13.wav
+    instrument: female speaker
+    raw:
+      R01:
+        ++CLASS++: speaker
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 30_Vox13.wav
+        instrument: female speaker
+  S05:
+    component: ''
+    filename: 27_Vox10.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 27_Vox10.wav
+        instrument: female singer
+  S06:
+    component: ''
+    filename: 24_Vox07.wav
+    instrument: female speaker
+    raw:
+      R01:
+        ++CLASS++: speaker
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 24_Vox07.wav
+        instrument: female speaker
+  S07:
+    component: ''
+    filename: 26_Vox09.wav
+    instrument: female speaker
+    raw:
+      R01:
+        ++CLASS++: speaker
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 26_Vox09.wav
+        instrument: female speaker
+  S08:
+    component: ''
+    filename: 18_Vox01.wav
+    instrument: female speaker
+    raw:
+      R01:
+        ++CLASS++: speaker
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 18_Vox01.wav
+        instrument: female speaker
+  S09:
+    component: ''
+    filename: 25_Vox08.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 25_Vox08.wav
+        instrument: female singer
+  S10:
+    component: ''
+    filename: 05_Clap.wav
+    instrument: clap
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 05_Clap.wav
+        instrument: Clap
+  S11:
+    component: ''
+    filename: 19_Vox02.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 19_Vox02.wav
+        instrument: female singer
+  S12:
+    component: ''
+    filename: 29_Vox12.wav
+    instrument: female speaker
+    raw:
+      R01:
+        ++CLASS++: speaker
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 29_Vox12.wav
+        instrument: female speaker
+  S13:
+    component: ''
+    filename: 28_Vox11.wav
+    instrument: female speaker
+    raw:
+      R01:
+        ++CLASS++: speaker
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 28_Vox11.wav
+        instrument: female speaker
+  S14:
+    component: ''
+    filename: 23_Vox06.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 23_Vox06.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 21_Vox04.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 21_Vox04.wav
+        instrument: female singer
+  S16:
+    component: ''
+    filename: 09_BassSub.wav
+    instrument: basssub
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 09_BassSub.wav
+        instrument: BassSub
+  S17:
+    component: ''
+    filename: 22_Vox05.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 22_Vox05.wav
+        instrument: female singer
+title: Punkdisco
+version: '3.0'
+website: ''

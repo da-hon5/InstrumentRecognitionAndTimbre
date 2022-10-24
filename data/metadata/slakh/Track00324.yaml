@@ -1,0 +1,108 @@
+UUID: 083e802c9becd6510aedb072201b32ec
+audio_dir: Track00324/stems
+lmd_midi_dir: lmd_matched/Q/B/J/TRQBJYG12903CD2B03/083e802c9becd6510aedb072201b32ec.mid
+midi_dir: Track00324/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2029236790604996
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.85341139073308
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_section.nkm
+    program_num: 56
+  S01:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.846160207908206
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.853406774179152
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.853406148869798
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.853375844210056
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: tenor_trombone.nkm
+    program_num: 57
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.85340539775849
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.853406754947084
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.853356186584694
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.853396634845513
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.85341659289573
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.85343236278498
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+target_peak: -1.0

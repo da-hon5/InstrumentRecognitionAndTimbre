@@ -1,0 +1,63 @@
+UUID: d81f7293d18723c5c3d62de2353c5084
+audio_dir: Track01573/stems
+lmd_midi_dir: lmd_matched/W/K/S/TRWKSUJ128F4277D48/d81f7293d18723c5c3d62de2353c5084.mid
+midi_dir: Track01573/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16579318994958098
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.6094691703326
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.610413617122596
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.61039301639998
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.61038655538154
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.610336940509253
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.610379066481055
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+target_peak: -1.0

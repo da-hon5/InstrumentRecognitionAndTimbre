@@ -1,0 +1,125 @@
+UUID: 3feddcd5e8e82e92a2fcfeb2b71faa51
+audio_dir: Track01106/stems
+lmd_midi_dir: lmd_matched/P/C/W/TRPCWPE128F428EC55/3feddcd5e8e82e92a2fcfeb2b71faa51.mid
+midi_dir: Track01106/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18312604561228707
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.12517023047758
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.717058884021593
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 3
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.54561736314852
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.591684087127739
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 67
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.85752789164505
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.996041960111707
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.344512662682742
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.172931699563545
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 85
+  S08:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.435361426570164
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.065464976885224
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 88
+  S11:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.32706464349857
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 75
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.342344319323832
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

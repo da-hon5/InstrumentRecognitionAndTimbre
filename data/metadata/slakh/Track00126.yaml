@@ -1,0 +1,90 @@
+UUID: b03d78e61a611bdccd17757a30149d7b
+audio_dir: Track00126/stems
+lmd_midi_dir: lmd_matched/O/I/Y/TROIYKU128F42884D9/b03d78e61a611bdccd17757a30149d7b.mid
+midi_dir: Track00126/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16844979877535224
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.06830361171154
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.03036710850863
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.860406922436734
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.053282133414523
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.136740601850722
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 82
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.43771896551858
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -13.740017089038755
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.09662615466012
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 94
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.968399576290986
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 74
+target_peak: -1.0

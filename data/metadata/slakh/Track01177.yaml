@@ -1,0 +1,108 @@
+UUID: 323e4e9d8d936efa1ae0ab913fc0f606
+audio_dir: Track01177/stems
+lmd_midi_dir: lmd_matched/H/Y/E/TRHYECH128F145E5AF/323e4e9d8d936efa1ae0ab913fc0f606.mid
+midi_dir: Track01177/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19478801086078687
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.208622533711313
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.20684895056215
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 78
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.207427844567743
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 90
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.207310455340618
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 94
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.207262632559804
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.209062260369837
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.207551983901116
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.20710418623333
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.207432066640724
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.2072366740295
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.207345429470287
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

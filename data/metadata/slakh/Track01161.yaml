@@ -1,0 +1,80 @@
+UUID: 2a88b3639a2da6fbe1ef96db245b0a51
+audio_dir: Track01161/stems
+lmd_midi_dir: lmd_matched/N/N/M/TRNNMSA128F4292665/2a88b3639a2da6fbe1ef96db245b0a51.mid
+midi_dir: Track01161/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20993364208075527
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.3570222238382
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.006580824583672
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.404802049047204
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.76937474261213
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.32577144549316
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.44760639177747
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.92257365518505
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,124 @@
+UUID: 7f08db979df8c509644530e6a1a696cf
+audio_dir: Track00064/stems
+lmd_midi_dir: lmd_matched/T/X/E/TRTXEMZ128F42AE127/7f08db979df8c509644530e6a1a696cf.mid
+midi_dir: Track00064/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16143664532928456
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.838664369991353
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 89
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.840884015060187
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.839173517893332
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.839360850532923
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.839292343589324
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.839363628217694
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.839511389709738
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S07:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 6 (goblins)
+    midi_saved: false
+    plugin_name: None
+    program_num: 101
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.839127112088317
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.83868103037185
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S10:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.839294111716452
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.839076618167088
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 85
+target_peak: -1.0

@@ -1,0 +1,178 @@
+UUID: e1cae948cb1a378a3da2a2b53d39681c
+audio_dir: Track00683/stems
+lmd_midi_dir: lmd_matched/N/I/K/TRNIKJY128F9308A0C/e1cae948cb1a378a3da2a2b53d39681c.mid
+midi_dir: Track00683/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19332968543929885
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.39604754440245
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -23.538768890848598
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.518900953213253
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -18.095448311091612
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.693031112731303
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.021196902667953
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.244916442713194
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.089795918343833
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.427570336094576
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.561412757573196
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.58931085404525
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.304717144556506
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.03311148197143
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S13:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.909447013365018
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 18
+  S14:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S15:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -12.074328049617687
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S16:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -11.82975201097308
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S17:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -11.419324485681
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S18:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+target_peak: -1.0

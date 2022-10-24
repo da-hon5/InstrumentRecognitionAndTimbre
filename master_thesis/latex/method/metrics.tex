@@ -1,0 +1,56 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Evaluation Metrics}{method:metrics}
+In the following two sections, measures used to evaluate the classifier and the timbre estimators are introduced.
+
+\newsubsection{Metrics for Multi-Label Classification}{method:metrics:classification}
+Multi-instrument recognition is a multi-label classification problem, which means that each example can belong to more than one class. One way to deal with such problems is to learn a binary classifier for every category~\cite{tsoumakas2007multi}. A binary classifier divides examples into a positive class and a negative class. As the last layer of our classifier (see Fig.~\ref{fig:classifier}) uses sigmoid activation functions, it outputs values between zero and one, which can be interpreted as measures of certainty. For instance, \enquote{1} means that the model is completely confident that a label applies to a particular example (positive), \enquote{0} means that it is sure that a label does not apply to an example (negative) and if the output is \enquote{0.5}, the model is irresolute. Since the outputs are continuous values, a threshold to serve as a boundary between positive and negative class has to be determined. However, setting a threshold is always a trade-off between precision and recall. Therefore, we would like to take this step as late as possible in the development of the classifier. Luckily, we can make use of two popular threshold-independent evaluation metrics for binary classification -- \textit{\gls{rocauc}} and \textit{\gls{prauc}}. Nevertheless, threshold-dependent metrics -- such as \textit{accuracy}, \textit{precision}, \textit{recall} and \textit{F1-score} -- are prevalent in research papers. In order to compare our classifier with the state of the art, we determine a threshold and report these performance measures in Section~\ref{sec:results:multi-inst_recognition:hyperparameters}. Note that every metric can be either computed per class or averaged across all classes. In the following, it is shown how different performance measures for classifiers are obtained.\\
+
+\begin{table}[]
+	\centering
+	\begin{tabular}{c|c|c}
+		& Actual Positive & Actual Negative  \\ \hline
+		Predicted Positive	& True Positive (TP) & False Positive (FP)   \\ \hline
+		Predicted Negative &   False Negative (FN)   &  True Negative (TN)  
+	\end{tabular}
+	\caption{Confusion matrix for a binary classifier.}
+	\label{tab:confmatrix}
+\end{table}
+First and foremost, it is crucial to be familiar with the so-called \textit{confusion matrix}. In Table.~\ref{tab:confmatrix}, the confusion matrix for binary classification problems is defined. Each element of this matrix denotes the sample counts belonging to the respective class, i.e. TP, TN, FP, FN. From the confusion matrix, various performance metrics can be derived: Accuracy, precision, true positive rate (TPR), false positive rate (FPR) and F1-score. Note that TPR is often referred to as recall.
+\begin{equation}
+Accuracy = \frac{TP + TN}{TP + TN + FP + FN}
+\end{equation}
+\begin{equation}
+Precision = \frac{TP}{TP + FP}
+\end{equation}
+\begin{equation}
+TPR = \frac{TP}{TP + FN}
+\end{equation}
+\begin{equation}
+FPR = \frac{FP}{FP + TN}
+\end{equation}
+\begin{equation}
+F1 = \frac{2 \cdot Precision \cdot Recall}{Precision + Recall}
+\end{equation}
+To obtain the \gls{roc} curve, TPR and FPR are plotted for different thresholds. An example is shown in Fig.~\ref{fig:roc_and_pr_curve} on the left. The ideal classifier, with TPR of one and FPR of zero, lives in the top-left of the graph. A \enquote{random guessing} classifier, on the other hand, produces a diagonal line from the bottom-left to the top-right. In order to summarize the \gls{roc} curve into a single value, the area under the graph can be computed -- \gls{rocauc}. The higher this number, the better. An ideal classifier has a \gls{rocauc} of one.\\
+
+\Gls{pr} curves are similar to \gls{roc} curves, but instead of plotting TPR and FPR, we plot precision versus recall for distinct thresholds (see Fig.~\ref{fig:roc_and_pr_curve} on the right). Again, the area under the curve, \gls{prauc}, can be calculated to obtain a summarization of the classifier's performance for various thresholds. Since our datasets are highly imbalanced, we use \gls{prauc} in addition to \gls{rocauc} as evaluation metric for our classifier~\cite{davis2006relationship}.
+\figc{width=0.98\textwidth}{\pwd/figs/roc_and_pr_curve}{Example of a \gls{roc} curve (left) and a \gls{pr} curve (right) for two different classifiers. Image borrowed from~\cite{davis2006relationship}.}{roc_and_pr_curve}
+
+\newsubsection{Metrics for Multi-Output Regression}{method:metrics:regression}
+Our timbre estimators simultaneously predict several real-valued variables, a task commonly referred to as \textit{multi-output regression}~\cite{borchani2015survey}. A widely used evaluation metric for \enquote{normal} regression problems is the \gls{mse}, which is defined as
+\begin{equation}
+MSE = \frac{1}{N} \sum_{l=1}^{N} (y^{(l)} - \hat{y}^{(l)})^2,
+\end{equation}
+where $y^{(l)}$ is the ground truth, $\hat{y}^{(l)}$ is the predicted value and $N$ is the number of data samples.
+In case of multi-output regression, the outputs $\boldsymbol{y}^{(l)} = \{ y_1^{(l)},...,y_M^{(l)} \}$ and $\boldsymbol{\hat{y}}^{(l)} = \{ \hat{y_1}^{(l)},...,\hat{y_M}^{(l)} \}$ are vectors of size $M$. Therefore, the \gls{mse} becomes
+\begin{equation}
+MSE = \sum_{i=1}^{M} \frac{1}{N} \sum_{l=1}^{N} (y_i^{(l)} - \hat{y_i}^{(l)})^2.
+\end{equation}
+Since the output of the \gls{mse} is measured in squared units of its input variables, often the root of the \gls{mse} is calculated. The resulting metric -- the so-called \gls{rmse} -- is easier to interpret, as it is indicated in the same unit as the input.\\
+
+Another common performance measure for regression problems is the \gls{mae}. In the multi-output case, it is obtained according to
+\begin{equation}
+MAE = \sum_{i=1}^{M} \frac{1}{N} \sum_{l=1}^{N} |y_i^{(l)} - \hat{y_i}^{(l)}|.
+\end{equation}
+This metric does not penalize large differences between the model's predictions and the targets as much as the \gls{mse}. It turned out, that for our task the \gls{mae} works better as a loss function than the \gls{mse}. Therefore, we decided to use it as an evaluation metric as well.

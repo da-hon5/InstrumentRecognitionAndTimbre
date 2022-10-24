@@ -1,0 +1,63 @@
+UUID: ce794e9d1af574e0ed8303746b825ec8
+audio_dir: Track01362/stems
+lmd_midi_dir: lmd_matched/M/N/A/TRMNAEL128E0785820/ce794e9d1af574e0ed8303746b825ec8.mid
+midi_dir: Track01362/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16308045542563748
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.842163106624213
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.753687861973578
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.46979313371854
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.17839374307463
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 51
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.5910340463015
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.183543962771655
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,144 @@
+UUID: c7ca764df167e999ea53498240f2d797
+audio_dir: Track00449/stems
+lmd_midi_dir: lmd_matched/P/V/W/TRPVWRD12903C9647E/c7ca764df167e999ea53498240f2d797.mid
+midi_dir: Track00449/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14942150224742884
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.863071600272246
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.9156176637154
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.19527188785296
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.47783881722197
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 88
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.13738144097002
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.819065487740245
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.1894708157522
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 89
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.59201984326222
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.220844638031924
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 75
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.76262627601548
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.235366201273123
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.977613884170847
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.773678194115455
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S13:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -13.236257997732718
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 95
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.600277033214027
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

@@ -1,0 +1,134 @@
+UUID: 89b7fbcf9b84fe097f066dade78232e0
+audio_dir: Track00097/stems
+lmd_midi_dir: lmd_matched/N/X/T/TRNXTXH128F92FF599/89b7fbcf9b84fe097f066dade78232e0.mid
+midi_dir: Track00097/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18088532393105247
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.85612203088237
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.85613609461004
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.85613114971544
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 89
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.856131604322837
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.856130078346663
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.856124976093632
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.856131204103832
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.830008127974697
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.856132848347617
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.856133122167776
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.8561250823028
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S11:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S12:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.856131964017866
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 90
+  S13:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.85613054982507
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 81
+target_peak: -1.0

@@ -1,0 +1,108 @@
+UUID: fae3b961d4b0eed2196f83aa3f7b0272
+audio_dir: Track00111/stems
+lmd_midi_dir: lmd_matched/O/T/I/TROTIPO12903CCE92B/fae3b961d4b0eed2196f83aa3f7b0272.mid
+midi_dir: Track00111/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.11605824126352682
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -17.779831187295102
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: tubular_bells_metal.nkm
+    program_num: 11
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.110932048711167
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.109238908165317
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -32.29428036254448
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 90
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.872882463180842
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 87
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.81016389916379
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.900247758533734
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.96580359834221
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.26566581769005
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.962905130557187
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.942493293380988
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 56
+target_peak: -1.0

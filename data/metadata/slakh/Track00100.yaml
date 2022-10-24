@@ -1,0 +1,132 @@
+UUID: a3235841b048cd52cfe4a696def6c1d6
+audio_dir: Track00100/stems
+lmd_midi_dir: lmd_matched/B/B/Z/TRBBZAE128F92FDC05/a3235841b048cd52cfe4a696def6c1d6.mid
+midi_dir: Track00100/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2403471736957855
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.3813201680915
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.382141771162882
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.38257526781776
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -25.38256803323457
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_ensemble.nkm
+    program_num: 40
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.382364646524135
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S06:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.382119251820022
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.382045509539434
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.382039000738235
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 18
+  S10:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.381834603641323
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 16
+  S11:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.320308960160716
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 17
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.382034836033323
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+target_peak: -1.0

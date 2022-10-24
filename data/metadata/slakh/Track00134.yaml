@@ -1,0 +1,135 @@
+UUID: 9d704179d5239a564aaaa3b4343876ba
+audio_dir: Track00134/stems
+lmd_midi_dir: lmd_matched/I/Q/E/TRIQEMX128F930DDA3/9d704179d5239a564aaaa3b4343876ba.mid
+midi_dir: Track00134/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1650701218108963
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.25314075298053
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.556753874029974
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 84
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.73432158592164
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.661768140026187
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.384798256151324
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.95078805588675
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 36
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.969816885931202
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.68855934214939
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -14.167790546633071
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.406164272201423
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 37
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.538833552304
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.082792183551053
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S12:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -18.72123640917517
+    is_drum: false
+    midi_program_name: Xylophone
+    midi_saved: true
+    plugin_name: glockenspiel.nkm
+    program_num: 13
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.784926090650899
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 7
+target_peak: -1.0

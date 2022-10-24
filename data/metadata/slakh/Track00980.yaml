@@ -1,0 +1,132 @@
+UUID: fc9adb67801f5ae082f5a1359c23e645
+audio_dir: Track00980/stems
+lmd_midi_dir: lmd_matched/N/W/B/TRNWBDL128F92E0EE1/fc9adb67801f5ae082f5a1359c23e645.mid
+midi_dir: Track00980/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2530363531737648
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.572884027354018
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 6
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.506186033707024
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.380207002917576
+    is_drum: false
+    midi_program_name: Bassoon
+    midi_saved: true
+    plugin_name: bassoon_essential.nkm
+    program_num: 70
+  S04:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -14.375523143445694
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -16.687034180540838
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 72
+  S06:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S07:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.463528439138518
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.766790995770654
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.07625511825487
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.775409009466774
+    is_drum: false
+    midi_program_name: Tuba
+    midi_saved: true
+    plugin_name: tuba.nkm
+    program_num: 58
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.50478161312665
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.219916299026288
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+target_peak: -1.0

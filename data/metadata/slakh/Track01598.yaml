@@ -1,0 +1,144 @@
+UUID: 44618101814137e44e98c8f2d12b2521
+audio_dir: Track01598/stems
+lmd_midi_dir: lmd_matched/D/G/U/TRDGUPO128F9332CF6/44618101814137e44e98c8f2d12b2521.mid
+midi_dir: Track01598/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21380165068741974
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.39819091615662
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.398877147422187
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 64
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.399043447861448
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.398340933505015
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.398394606153207
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.398764918137744
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.39865380840475
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.398040346297826
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.39799927535944
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.39829368754079
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.398765810546966
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.398397699022457
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.39788533323429
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.398183456828953
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 90
+  S14:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.39837093058212
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+target_peak: -1.0

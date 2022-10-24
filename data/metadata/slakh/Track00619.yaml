@@ -1,0 +1,150 @@
+UUID: 3c502924b872ccaef534286dd56d5a7e
+audio_dir: Track00619/stems
+lmd_midi_dir: lmd_matched/J/D/A/TRJDAXH128F14A8752/3c502924b872ccaef534286dd56d5a7e.mid
+midi_dir: Track00619/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18497286275056313
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.68066274275893
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.48162847322789
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.370355493288457
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.579165437501835
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.057453114468416
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.218323459435624
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 92
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.028806901020257
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.923492528415714
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.524703552334913
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S10:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+  S11:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 7 (echoes)
+    midi_saved: false
+    plugin_name: None
+    program_num: 102
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.744836182026525
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: guitar_lead.nkm
+    program_num: 80
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.901175466034893
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+  S14:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -18.314741113613678
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S15:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.834611839898123
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+target_peak: -1.0

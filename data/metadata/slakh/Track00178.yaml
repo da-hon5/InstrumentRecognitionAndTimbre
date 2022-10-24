@@ -1,0 +1,116 @@
+UUID: 5fe382c93e8820a4bdf0d76d4bd682b4
+audio_dir: Track00178/stems
+lmd_midi_dir: lmd_matched/E/C/U/TRECUXT128F42A2C72/5fe382c93e8820a4bdf0d76d4bd682b4.mid
+midi_dir: Track00178/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17074249159282218
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.47740829046803
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -20.217290133202045
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 18
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.11440059650067
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 7
+  S03:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -28.77140740924859
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: hybrid_keys_tube_vibraphone.nkm
+    program_num: 10
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.871752202083176
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 88
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -14.745307576954206
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 75
+  S06:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S07:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -20.2750219130799
+    is_drum: false
+    midi_program_name: Dulcimer
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 15
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.66423568011188
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 51
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.09216516921213
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.200124027656727
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.899307942235795
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+target_peak: -1.0

@@ -1,0 +1,126 @@
+UUID: 71edda91e1677638557dd9cfae31e61f
+audio_dir: Track00836/stems
+lmd_midi_dir: lmd_matched/P/B/T/TRPBTQR128F4237692/71edda91e1677638557dd9cfae31e61f.mid
+midi_dir: Track00836/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1820932996953118
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.791751924425256
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.793582306936766
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.793495959597145
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.79533552558223
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.793335168415606
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.79291179448547
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 22
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.793456228094175
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.793350334238855
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.78694291159697
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.79344171279253
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.793504302380715
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S11:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.794158426372274
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 40
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.793418428902616
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+target_peak: -1.0

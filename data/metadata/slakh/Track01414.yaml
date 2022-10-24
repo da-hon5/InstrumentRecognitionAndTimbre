@@ -1,0 +1,72 @@
+UUID: 73439c7167d1e9882f716346bb001a58
+audio_dir: Track01414/stems
+lmd_midi_dir: lmd_matched/I/N/A/TRINAXO128F428CA20/73439c7167d1e9882f716346bb001a58.mid
+midi_dir: Track01414/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2141034744138971
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.333809828578616
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -13.65192861357412
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.267478485266103
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.960402736949987
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.10881696696863
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 88
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.00651910260832
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.94246832581344
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+target_peak: -1.0

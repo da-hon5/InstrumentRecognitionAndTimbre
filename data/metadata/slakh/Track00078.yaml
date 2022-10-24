@@ -1,0 +1,81 @@
+UUID: 3e84e49d92a44ebc552c6f798109496a
+audio_dir: Track00078/stems
+lmd_midi_dir: lmd_matched/M/H/Z/TRMHZDA128F42950E1/3e84e49d92a44ebc552c6f798109496a.mid
+midi_dir: Track00078/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13560380585555762
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.353150288477778
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.35332460913977
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.35325158508395
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.352570388352387
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.353153357329337
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -30.353153564621774
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.35030952043167
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.353071674558738
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,89 @@
+UUID: a11e5ed1bfbbda9b81b1505b6cbd06d3
+audio_dir: Track00828/stems
+lmd_midi_dir: lmd_matched/Q/T/Z/TRQTZCM12903CD6983/a11e5ed1bfbbda9b81b1505b6cbd06d3.mid
+midi_dir: Track00828/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1870098021534103
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.360960331179083
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.99918137342245
+    is_drum: false
+    midi_program_name: Bassoon
+    midi_saved: true
+    plugin_name: bassoons_essential.nkm
+    program_num: 70
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.667850631405024
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.003328523322903
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.607404186213017
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.417375333761957
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.905906171244975
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.857873612149895
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

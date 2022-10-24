@@ -1,0 +1,395 @@
+album: ''
+artist: MR1105
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1105_WeFellFromTheSky_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1105_WeFellFromTheSky_RAW
+stem_dir: MR1105_WeFellFromTheSky_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1105_WeFellFromTheSky_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 14_Tom1.wav
+        instrument: Tom
+      R010:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 05_ShareDown.wav
+        instrument: ShareDown
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 15_Tom2.wav
+        instrument: Tom
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: 07_HiHat.wav
+        instrument: HiHat
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 03_KickSub.wav
+        instrument: KickSub
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 16_Tom3.wav
+        instrument: Tom
+      R08:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 06_SnareFX.wav
+        instrument: SnareFX
+      R09:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 08_Overheads.wav
+        instrument: Overheads
+      R11:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 04_SnareUp.wav
+        instrument: SnareUp
+  S02:
+    component: ''
+    filename: MR1105_WeFellFromTheSky_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 27_Synth.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 29_LeadVox1DT1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 29_LeadVox1DT1.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 11_AmbStereo1.wav
+    instrument: ambstereo
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 11_AmbStereo1.wav
+        instrument: AmbStereo
+  S05:
+    component: ''
+    filename: 20_Gtr3.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 20_Gtr3.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 35_LeadVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 35_LeadVox4.wav
+        instrument: male singer
+  S07:
+    component: ''
+    filename: 22_Gtr5.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 22_Gtr5.wav
+        instrument: clean electric guitar
+  S08:
+    component: ''
+    filename: 25_GtrSolo2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 25_GtrSolo2.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 28_LeadVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 28_LeadVox1.wav
+        instrument: male singer
+  S10:
+    component: ''
+    filename: 17_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 17_Bass.wav
+        instrument: electric bass
+  S11:
+    component: ''
+    filename: 23_Gtr6.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 23_Gtr6.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 09_AmbMono1.wav
+    instrument: ambmono
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 09_AmbMono1.wav
+        instrument: AmbMono
+  S13:
+    component: ''
+    filename: 38_LeadVox5DT.wav
+    instrument: male screamer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 38_LeadVox5DT.wav
+        instrument: male screamer
+  S14:
+    component: ''
+    filename: 39_LeadVoxRevFX.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 39_LeadVoxRevFX.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 34_LeadVox3DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 34_LeadVox3DT.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 19_Gtr2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 19_Gtr2.wav
+        instrument: distorted electric guitar
+  S17:
+    component: ''
+    filename: 37_LeadVox5.wav
+    instrument: male screamer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 37_LeadVox5.wav
+        instrument: male screamer
+  S18:
+    component: ''
+    filename: 36_LeadVox4DT.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 36_LeadVox4DT.wav
+        instrument: male singer
+  S19:
+    component: ''
+    filename: 10_AmoMono2.wav
+    instrument: amomono
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 10_AmoMono2.wav
+        instrument: AmoMono
+  S20:
+    component: ''
+    filename: 32_LeadVox2DT2.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 32_LeadVox2DT2.wav
+        instrument: male singer
+  S21:
+    component: ''
+    filename: 30_LeadVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 30_LeadVox2.wav
+        instrument: male singer
+  S22:
+    component: ''
+    filename: 18_Gtr1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 18_Gtr1.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 31_LeadVox2DT1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 31_LeadVox2DT1.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 33_LeadVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 33_LeadVox3.wav
+        instrument: male singer
+  S25:
+    component: ''
+    filename: 12_AmbStereo2.wav
+    instrument: ambstereo
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 12_AmbStereo2.wav
+        instrument: AmbStereo
+  S26:
+    component: ''
+    filename: 13_AmbStereo3.wav
+    instrument: ambstereo
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 13_AmbStereo3.wav
+        instrument: AmbStereo
+  S27:
+    component: ''
+    filename: 24_GtrSolo1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 24_GtrSolo1.wav
+        instrument: distorted electric guitar
+  S28:
+    component: ''
+    filename: 26_GtrFX.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 26_GtrFX.wav
+        instrument: clean electric guitar
+  S29:
+    component: ''
+    filename: 21_Gtr4.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 21_Gtr4.wav
+        instrument: distorted electric guitar
+title: WeFellFromTheSky
+version: '3.0'
+website: ''

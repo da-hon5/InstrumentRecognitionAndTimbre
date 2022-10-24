@@ -1,0 +1,72 @@
+UUID: 95b8509159528d9101bb1f020f01e939
+audio_dir: Track02021/stems
+lmd_midi_dir: lmd_matched/L/D/L/TRLDLLG128F42514C1/95b8509159528d9101bb1f020f01e939.mid
+midi_dir: Track02021/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.25672260259062674
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -13.80609872077582
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 6
+  S01:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -12.722577851867348
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 72
+  S02:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -19.883047815867837
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 44
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.420464727326896
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.954960697014643
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 34
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.19149038648213
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.104159360182843
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

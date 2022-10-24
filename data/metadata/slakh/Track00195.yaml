@@ -1,0 +1,107 @@
+UUID: 72c2fed05482619a7af9c0d1aa6a24a4
+audio_dir: Track00195/stems
+lmd_midi_dir: lmd_matched/B/R/V/TRBRVXP128F92CA9F7/72c2fed05482619a7af9c0d1aa6a24a4.mid
+midi_dir: Track00195/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20450763346753556
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.808763329820064
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.92493388698743
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 6
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.039237423481527
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 51
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.032163632224632
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.38069379177089
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.497039877524625
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S06:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.679241005796854
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.941670959574775
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 90
+  S09:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -11.573754896475998
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 74
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.209477295071643
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

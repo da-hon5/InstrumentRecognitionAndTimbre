@@ -1,0 +1,108 @@
+UUID: 11bf103d26a885136133aa6e031ff3e9
+audio_dir: Track00118/stems
+lmd_midi_dir: lmd_matched/H/F/T/TRHFTXW128F42889EC/11bf103d26a885136133aa6e031ff3e9.mid
+midi_dir: Track00118/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16254497813565572
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.782582347788733
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.782029205836555
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.781975366956676
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.782586813339545
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.7818733975961
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 75
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.78259483545605
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 82
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.782593409184408
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.78239158260134
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.78254913133544
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.78172860432466
+    is_drum: false
+    midi_program_name: Lead 4 (chiff)
+    midi_saved: true
+    plugin_name: guitar_lead.nkm
+    program_num: 83
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.782148985188527
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+target_peak: -1.0

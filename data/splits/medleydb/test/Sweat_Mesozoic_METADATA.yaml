@@ -1,0 +1,496 @@
+album: Mike Mike Mike Mike
+artist: SWEAT
+composer: ''
+excerpt: 'no'
+genre: Jazz
+has_bleed: 'yes'
+instrumental: 'yes'
+mix_filename: Sweat_Mesozoic_MIX.wav
+origin: Dolan Studio
+producer: ''
+raw_dir: Sweat_Mesozoic_RAW
+song_length: 12337939
+stem_dir: Sweat_Mesozoic_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Sweat_Mesozoic_STEM_01.wav
+    instrument: Main System
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_01_01.wav
+        instrument: Main System
+      R02:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_01_02.wav
+        instrument: Main System
+      R03:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_01_03.wav
+        instrument: Main System
+      R04:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_01_04.wav
+        instrument: Main System
+  S02:
+    component: melody
+    filename: Sweat_Mesozoic_STEM_02.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: Sweat_Mesozoic_RAW_02_01.wav
+        instrument: clean electric guitar
+      R02:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: Sweat_Mesozoic_RAW_02_02.wav
+        instrument: clean electric guitar
+      R03:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: Sweat_Mesozoic_RAW_02_03.wav
+        instrument: clean electric guitar
+      R04:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: Sweat_Mesozoic_RAW_02_04.wav
+        instrument: clean electric guitar
+      R05:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: Sweat_Mesozoic_RAW_02_05.wav
+        instrument: clean electric guitar
+      R06:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: Sweat_Mesozoic_RAW_02_06.wav
+        instrument: clean electric guitar
+  S03:
+    component: ''
+    filename: Sweat_Mesozoic_STEM_03.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_01.wav
+        instrument: drum set
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_02.wav
+        instrument: drum set
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_03.wav
+        instrument: drum set
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_04.wav
+        instrument: drum set
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_05.wav
+        instrument: drum set
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_06.wav
+        instrument: drum set
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_07.wav
+        instrument: drum set
+      R08:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_08.wav
+        instrument: drum set
+      R09:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_09.wav
+        instrument: drum set
+      R10:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_10.wav
+        instrument: drum set
+      R11:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_11.wav
+        instrument: drum set
+      R12:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_12.wav
+        instrument: drum set
+      R13:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_13.wav
+        instrument: drum set
+      R14:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_14.wav
+        instrument: drum set
+      R15:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_15.wav
+        instrument: drum set
+      R16:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_16.wav
+        instrument: drum set
+      R17:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_17.wav
+        instrument: drum set
+      R18:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_18.wav
+        instrument: drum set
+      R19:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_19.wav
+        instrument: drum set
+      R20:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_20.wav
+        instrument: drum set
+      R21:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_21.wav
+        instrument: drum set
+      R22:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_22.wav
+        instrument: drum set
+      R23:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_23.wav
+        instrument: drum set
+      R24:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Mesozoic_RAW_03_24.wav
+        instrument: drum set
+  S04:
+    component: melody
+    filename: Sweat_Mesozoic_STEM_04.wav
+    instrument: piano
+    raw:
+      R01:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_04_01.wav
+        instrument: piano
+      R02:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_04_02.wav
+        instrument: piano
+      R03:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_04_03.wav
+        instrument: piano
+      R04:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_04_04.wav
+        instrument: piano
+      R05:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_04_05.wav
+        instrument: piano
+      R06:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_04_06.wav
+        instrument: piano
+      R07:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_04_07.wav
+        instrument: piano
+      R08:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_04_08.wav
+        instrument: piano
+  S05:
+    component: ''
+    filename: Sweat_Mesozoic_STEM_05.wav
+    instrument: Main System
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_01.wav
+        instrument: Main System
+      R02:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_02.wav
+        instrument: Main System
+      R03:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_03.wav
+        instrument: Main System
+      R04:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_04.wav
+        instrument: Main System
+      R05:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_05.wav
+        instrument: Main System
+      R06:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_06.wav
+        instrument: Main System
+      R07:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_07.wav
+        instrument: Main System
+      R08:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_08.wav
+        instrument: Main System
+      R09:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_09.wav
+        instrument: Main System
+      R10:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_10.wav
+        instrument: Main System
+      R11:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_11.wav
+        instrument: Main System
+      R12:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_12.wav
+        instrument: Main System
+      R13:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_13.wav
+        instrument: Main System
+      R14:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_14.wav
+        instrument: Main System
+      R15:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_15.wav
+        instrument: Main System
+      R16:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_16.wav
+        instrument: Main System
+      R17:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_17.wav
+        instrument: Main System
+      R18:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_18.wav
+        instrument: Main System
+      R19:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_19.wav
+        instrument: Main System
+      R20:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_20.wav
+        instrument: Main System
+      R21:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_21.wav
+        instrument: Main System
+      R22:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_22.wav
+        instrument: Main System
+      R23:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_23.wav
+        instrument: Main System
+      R24:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_05_24.wav
+        instrument: Main System
+  S06:
+    component: melody
+    filename: Sweat_Mesozoic_STEM_06.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_06_01.wav
+        instrument: synthesizer
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_06_02.wav
+        instrument: synthesizer
+  S07:
+    component: melody
+    filename: Sweat_Mesozoic_STEM_07.wav
+    instrument: tenor saxophone
+    raw:
+      R01:
+        ++CLASS++: sax
+        ++FAMILY++: woodwind
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_07_01.wav
+        instrument: tenor saxophone
+      R02:
+        ++CLASS++: sax
+        ++FAMILY++: woodwind
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_07_02.wav
+        instrument: tenor saxophone
+      R03:
+        ++CLASS++: sax
+        ++FAMILY++: woodwind
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_07_03.wav
+        instrument: tenor saxophone
+      R04:
+        ++CLASS++: sax
+        ++FAMILY++: woodwind
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_07_04.wav
+        instrument: tenor saxophone
+      R05:
+        ++CLASS++: sax
+        ++FAMILY++: woodwind
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_07_05.wav
+        instrument: tenor saxophone
+      R06:
+        ++CLASS++: sax
+        ++FAMILY++: woodwind
+        ++SUBCLASS++: null
+        filename: Sweat_Mesozoic_RAW_07_06.wav
+        instrument: tenor saxophone
+title: Mesozoic
+version: 1.2
+website: ''

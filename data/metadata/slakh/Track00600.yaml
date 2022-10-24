@@ -1,0 +1,132 @@
+UUID: 46968fa01b94dbfce1e620e385641292
+audio_dir: Track00600/stems
+lmd_midi_dir: lmd_matched/Z/N/G/TRZNGPM128F4281851/46968fa01b94dbfce1e620e385641292.mid
+midi_dir: Track00600/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.05596270660523575
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -38.04138874064594
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -38.04201427183897
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -38.042421661480994
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 51
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -38.04252856524525
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S04:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S05:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -38.03633847613367
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 90
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -38.03759906937919
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -38.03619719716628
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -38.03732774845401
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -38.04212795021098
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S11:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -38.03330864064957
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -38.046199718241645
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+target_peak: -1.0

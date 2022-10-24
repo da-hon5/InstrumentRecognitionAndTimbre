@@ -1,0 +1,107 @@
+UUID: e521c531608091b221ed508983a66463
+audio_dir: Track01358/stems
+lmd_midi_dir: lmd_matched/F/E/E/TRFEEKR128F92EFEF6/e521c531608091b221ed508983a66463.mid
+midi_dir: Track01358/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16494293411471345
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.651288516417527
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.648093945811215
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.65392481890061
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.651338032493637
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.652695277250416
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -28.61075259449472
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_tube_vibraphone.nkm
+    program_num: 11
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.65123187295628
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S07:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.652365291037352
+    is_drum: false
+    midi_program_name: Muted Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 59
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.651191215413878
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.652368632038442
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+target_peak: -1.0

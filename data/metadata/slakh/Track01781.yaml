@@ -1,0 +1,98 @@
+UUID: deb76e5e9f1bb77040aa160ac46f569a
+audio_dir: Track01781/stems
+lmd_midi_dir: lmd_matched/E/Z/A/TREZACO128F4231093/deb76e5e9f1bb77040aa160ac46f569a.mid
+midi_dir: Track01781/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1770744931292905
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.037211663338766
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.03701816778192
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.03700985280226
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.037789521169184
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 18
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.036575966368062
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.035470475263967
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.036777017688923
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 3
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.03717077203266
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.03572064424601
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

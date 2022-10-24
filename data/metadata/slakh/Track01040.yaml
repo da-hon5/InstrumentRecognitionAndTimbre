@@ -1,0 +1,90 @@
+UUID: 1dfc8d4d349148233bfae55176e95c29
+audio_dir: Track01040/stems
+lmd_midi_dir: lmd_matched/A/D/G/TRADGRA128F429B7A4/1dfc8d4d349148233bfae55176e95c29.mid
+midi_dir: Track01040/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19624694663894757
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.249641904901797
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.467707262930734
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 6
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.170627472501353
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 94
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.284761583859883
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.576693969176045
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.6315078494747
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.192848280533383
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.350493361688827
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.691872686165617
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+target_peak: -1.0

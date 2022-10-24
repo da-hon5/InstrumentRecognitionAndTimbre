@@ -1,0 +1,99 @@
+UUID: 75acb1062f5e8daac599d3e94860d65b
+audio_dir: Track00121/stems
+lmd_midi_dir: lmd_matched/L/L/I/TRLLIYR128F42A357E/75acb1062f5e8daac599d3e94860d65b.mid
+midi_dir: Track00121/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17216938152748693
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.280003490885694
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.28011016235094
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.279318872602285
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.27953548833745
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 22
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.279434946174867
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.279281178726666
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.28002150900741
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 3
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.279509293299135
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 3
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.27905706482893
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.28001247895266
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,134 @@
+UUID: ae1b9bed317cc5e017013792d1300e45
+audio_dir: Track00886/stems
+lmd_midi_dir: lmd_matched/V/I/I/TRVIIBN128F148C6F6/ae1b9bed317cc5e017013792d1300e45.mid
+midi_dir: Track00886/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18218600827546502
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.788398315348594
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.788395825825148
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S02:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.78840502518373
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.78840145000964
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.788424733888462
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.789872115638843
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.788429649015292
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 91
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.788378818103233
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.78837097772345
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.78848255711417
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.78838931684759
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.788418757945298
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 3
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.788419162477894
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+target_peak: -1.0

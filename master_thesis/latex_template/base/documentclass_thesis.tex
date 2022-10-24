@@ -1,0 +1,29 @@
+% **************************************************************************************************
+% ** SPSC Report and Thesis Template
+% **************************************************************************************************
+%
+% ***** Authors *****
+% Daniel Arnitz, Paul Meissner, Stefan Petrik, Dietmar Malli
+% Signal Processing and Speech Communication Laboratory (SPSC)
+% Graz University of Technology (TU Graz), Austria
+%
+% ***** Changelog *****
+% 0.1   2017-10-31   Copied from packages_thesis.tex rev 0.8
+%                    Used \openright and removed senseless usages of \emptydoublepage
+%
+% ***** Todo *****
+%
+%
+% **************************************************************************************************
+
+\documentclass[%
+a4paper,           % ATTENTION: geometry package in packages.tex
+twoside=\Twosided, % ATTENTION: geometry package in packages.tex
+openright,% begin chapters with new right page (openright) or don't care (openany)
+11pt,%
+fleqn,% equations not centered, but on the left side
+captions=tablesignature,% captions below tables
+numbers=noenddot,% do not generate point at the end of section numbers (e.g. 1.4.5 instead of 1.4.5.)
+headlines=2,% we need two lines in header plus some additional space
+final,%
+]{scrbook}% (KOMA)

@@ -1,0 +1,186 @@
+UUID: 4f8868217a79b93eabd5d6fd2133edaa
+audio_dir: Track01910/stems
+lmd_midi_dir: lmd_matched/S/T/H/TRSTHBE128F931B1BC/4f8868217a79b93eabd5d6fd2133edaa.mid
+midi_dir: Track01910/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.03695930866250828
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.083300364031835
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.140517293551827
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.957303981473167
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.176321518825393
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 95
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -41.78259043602691
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.417838426020467
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.682617073374473
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.074184207953014
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S08:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.716761576063945
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S10:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.916380378772415
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.623909918720928
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S14:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -20.603967814104838
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 64
+  S15:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -21.137943729290097
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 80
+  S16:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -20.90489017888805
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 64
+  S17:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.953873836366657
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 80
+  S18:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -20.459993724351772
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 64
+  S19:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -22.007712389396726
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 80
+target_peak: -1.0

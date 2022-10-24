@@ -1,0 +1,81 @@
+UUID: dc16bd297c21624b491f61a98ec46801
+audio_dir: Track00204/stems
+lmd_midi_dir: lmd_matched/B/Y/I/TRBYITP128F930933D/dc16bd297c21624b491f61a98ec46801.mid
+midi_dir: Track00204/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.151636240984976
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.38511396656268
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.385580536465532
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.385549791489936
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.384409694441114
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.384010006712987
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.384197798753956
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.38664827386359
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.38555584626735
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 66
+target_peak: -1.0

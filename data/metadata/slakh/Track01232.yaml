@@ -1,0 +1,133 @@
+UUID: 3be6cbef3aa0ca18ed427d94e8d3a555
+audio_dir: Track01232/stems
+lmd_midi_dir: lmd_matched/E/L/W/TRELWQR12903CF4A72/3be6cbef3aa0ca18ed427d94e8d3a555.mid
+midi_dir: Track01232/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15790923307591875
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -21.99105480534541
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 89
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.470899346798813
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.471248015019054
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.462949719361422
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.572749883700812
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -23.325503587023928
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.902282692363418
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -12.464697351400044
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S08:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 6 (goblins)
+    midi_saved: false
+    plugin_name: None
+    program_num: 101
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.16655652765166
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.17679358059411
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.929204502216827
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 85
+  S13:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.554707620303564
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+target_peak: -1.0

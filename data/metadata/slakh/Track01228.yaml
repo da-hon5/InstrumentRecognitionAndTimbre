@@ -1,0 +1,152 @@
+UUID: bb24fb1ad7bfef5d6a0149652a84a78b
+audio_dir: Track01228/stems
+lmd_midi_dir: lmd_matched/J/E/I/TRJEIKC128F145E71F/bb24fb1ad7bfef5d6a0149652a84a78b.mid
+midi_dir: Track01228/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.09508606482078345
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.02261854879789
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.98966326204595
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.522615421422486
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.401647794018928
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S04:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.39759800976142
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 89
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -20.919347469438353
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S07:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -21.40547193889558
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.226336975637295
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.304289008641785
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.834213088734007
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -13.553976151602049
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 93
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.377541399356335
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.841781758542787
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S14:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.298834042684263
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 17
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.424502490689655
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+target_peak: -1.0

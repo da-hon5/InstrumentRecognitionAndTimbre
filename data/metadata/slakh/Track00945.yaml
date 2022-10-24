@@ -1,0 +1,89 @@
+UUID: 1a366c7eb1aecc63c15759af193a65f5
+audio_dir: Track00945/stems
+lmd_midi_dir: lmd_matched/L/H/H/TRLHHCF12903CF3906/1a366c7eb1aecc63c15759af193a65f5.mid
+midi_dir: Track00945/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2682120225615787
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.373761988444215
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.469280002122263
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.64447631583587
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.476567421355213
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 34
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.44633521954277
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.373980054645937
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.297720368204093
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.921947164876403
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S08:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+target_peak: -1.0

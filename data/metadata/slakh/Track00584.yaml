@@ -1,0 +1,71 @@
+UUID: 6eb7a4c247e893b4e5600c43efa7a493
+audio_dir: Track00584/stems
+lmd_midi_dir: lmd_matched/Y/L/Q/TRYLQRQ128F1456F60/6eb7a4c247e893b4e5600c43efa7a493.mid
+midi_dir: Track00584/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1988979395062329
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.028146547774302
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.02803620651762
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.028106749900985
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.027947074520927
+    is_drum: false
+    midi_program_name: Reed Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 20
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.028154428786134
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.02815468892737
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+target_peak: -1.0

@@ -1,0 +1,116 @@
+UUID: d0c839d68e19b79ef355995c62dfd351
+audio_dir: Track00345/stems
+lmd_midi_dir: lmd_matched/U/P/Z/TRUPZDL12903D0872B/d0c839d68e19b79ef355995c62dfd351.mid
+midi_dir: Track00345/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22344096031832875
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.009275224225586
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 3
+  S01:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.017708022932997
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 94
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.016639584783743
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.017067174986664
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.016893840530795
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.016267947175383
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.01738087049814
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.01627589624695
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.007349019976754
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.017801940933914
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -25.99899863320647
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 90
+target_peak: -1.0

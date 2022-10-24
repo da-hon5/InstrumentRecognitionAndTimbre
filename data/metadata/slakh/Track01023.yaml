@@ -1,0 +1,90 @@
+UUID: 88eaa77f8ddd3e9a1d8564d6b1e88cc3
+audio_dir: Track01023/stems
+lmd_midi_dir: lmd_matched/W/L/D/TRWLDGT128F93552FE/88eaa77f8ddd3e9a1d8564d6b1e88cc3.mid
+midi_dir: Track01023/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16112633265810503
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.292682505740153
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.154447490265046
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.602459179224773
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.473426641085798
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.860678363289724
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.40996688938174
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.81566330761805
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.5803627072248
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S08:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -18.92112116372014
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_futurebells.nkm
+    program_num: 11
+target_peak: -1.0

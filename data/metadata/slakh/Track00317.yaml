@@ -1,0 +1,116 @@
+UUID: 8cd8af23cd2d6816ce5975081ce8092c
+audio_dir: Track00317/stems
+lmd_midi_dir: lmd_matched/Q/T/V/TRQTVEV128F14B1618/8cd8af23cd2d6816ce5975081ce8092c.mid
+midi_dir: Track00317/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1972441421528035
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.72472595424552
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 18
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.290993210005157
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.042813613633584
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 75
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.50355310964116
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.178325396992443
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.07646508267307
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.137985198537233
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.279743676082788
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 36
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.95634065232822
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 31
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.6176196023926
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.25107435309091
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+target_peak: -1.0

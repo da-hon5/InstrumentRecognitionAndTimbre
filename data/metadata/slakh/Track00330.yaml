@@ -1,0 +1,80 @@
+UUID: 9cc34f6fa9cae8832865339261856767
+audio_dir: Track00330/stems
+lmd_midi_dir: lmd_matched/N/H/M/TRNHMSX128F9311EAF/9cc34f6fa9cae8832865339261856767.mid
+midi_dir: Track00330/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20255573661832993
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.86996593348872
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.86982943046417
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.869827566092997
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.870141821510355
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.868371336903866
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.86980634085082
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -26.869756981678226
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: celesta.nkm
+    program_num: 11
+target_peak: -1.0

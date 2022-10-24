@@ -1,0 +1,117 @@
+UUID: d58cc2bee972dfed29ce1cb7eba5734f
+audio_dir: Track01045/stems
+lmd_midi_dir: lmd_matched/I/N/N/TRINNUB128F423CC63/d58cc2bee972dfed29ce1cb7eba5734f.mid
+midi_dir: Track01045/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17773570731848584
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.005888916759712
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.00588833527954
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.005884203972272
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -28.00588952431908
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.00591365273409
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.005895062771938
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.00589163971451
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.00585387300886
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 17
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.005871189036085
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.005808135776313
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.00589598652734
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.00582607508689
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+target_peak: -1.0

@@ -1,0 +1,122 @@
+UUID: 7291a1e3035581aacc3093d7befc0212
+audio_dir: Track00967/stems
+lmd_midi_dir: lmd_matched/W/D/E/TRWDEJO12903CE77A3/7291a1e3035581aacc3093d7befc0212.mid
+midi_dir: Track00967/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.12308019291075
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.071440882708085
+    is_drum: false
+    midi_program_name: Church Organ
+    midi_saved: true
+    plugin_name: organ_kh_floeten_1_manual.nkm
+    program_num: 19
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.046261097644337
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S03:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S04:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S05:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.898146653182447
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.028034712281936
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 18
+  S08:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.46600183051635
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 80
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -21.377330044541505
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 87
+  S10:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -27.901019983244243
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: hybrid_keys_antique_toy.nkm
+    program_num: 14
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -12.323148364301563
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.967040184392983
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

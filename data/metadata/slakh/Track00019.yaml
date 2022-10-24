@@ -1,0 +1,143 @@
+UUID: 97b8605f3e1d96872fcd3f9829cd13db
+audio_dir: Track00019/stems
+lmd_midi_dir: lmd_matched/X/X/K/TRXXKVD128F428C2DD/97b8605f3e1d96872fcd3f9829cd13db.mid
+midi_dir: Track00019/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19011966930598628
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.856405357125276
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.68767835048342
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.769574326024138
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -23.931241646333223
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_glockenspiel.nkm
+    program_num: 11
+  S04:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -18.280288736335297
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S05:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.65504874922864
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboes_essential.nkm
+    program_num: 68
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.437167029295175
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 51
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.80107069744097
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.29805944121218
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.3949243850853
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.616549712790068
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.164959325126826
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S13:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.70103166415935
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S14:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.446413198236737
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 88
+target_peak: -1.0

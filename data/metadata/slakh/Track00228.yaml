@@ -1,0 +1,99 @@
+UUID: b8e6c1e0628a2c7eeab24e15c60e1e03
+audio_dir: Track00228/stems
+lmd_midi_dir: lmd_matched/G/S/D/TRGSDLL128F9303452/b8e6c1e0628a2c7eeab24e15c60e1e03.mid
+midi_dir: Track00228/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20318756962716775
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.36678900055647
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.58199591600108
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -16.229428991103983
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 82
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.746001561324983
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.824399446628844
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -13.027958481435093
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.335716193763176
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.796866775758144
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 92
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.04861550895755
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.174392212594253
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+target_peak: -1.0

@@ -1,0 +1,141 @@
+UUID: 815cf2c9364bea5568d070c991c9592d
+audio_dir: Track01597/stems
+lmd_midi_dir: lmd_matched/N/C/O/TRNCOLG128F4249FE7/815cf2c9364bea5568d070c991c9592d.mid
+midi_dir: Track01597/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17487257260978317
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.67696724295789
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.641810758419904
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.741700541922086
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.064184631706336
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.174140432143528
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.757491671526775
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.25960419618
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.057716869463533
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: guitar_lead.nkm
+    program_num: 80
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.05757103768302
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S11:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.342036495900373
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 82
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.773696485282267
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.271167041418522
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S14:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+target_peak: -1.0

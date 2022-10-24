@@ -1,0 +1,117 @@
+UUID: ba9194359a4361c6fcaf9c3fbbdb0113
+audio_dir: Track00634/stems
+lmd_midi_dir: lmd_matched/S/H/X/TRSHXXB12903CCD5B1/ba9194359a4361c6fcaf9c3fbbdb0113.mid
+midi_dir: Track00634/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1976143937560181
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.082342406611268
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.08166825578976
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.08175634761366
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.081612017703335
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.08189187320421
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.08161366175533
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.08161131776441
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.081621363163574
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.08186229203982
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.082007739654376
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.08198182087773
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.08211987338261
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+target_peak: -1.0

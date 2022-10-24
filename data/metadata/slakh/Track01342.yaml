@@ -1,0 +1,99 @@
+UUID: 6d9610262815a618a93dc425f3c2ca9d
+audio_dir: Track01342/stems
+lmd_midi_dir: lmd_matched/Q/W/X/TRQWXZE128F92F68DB/6d9610262815a618a93dc425f3c2ca9d.mid
+midi_dir: Track01342/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21688699984237247
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.750817121497366
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.538889798070095
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.551694578187934
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.052390501629603
+    is_drum: false
+    midi_program_name: Lead 4 (chiff)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 83
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.651765718370687
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 81
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.571938589186026
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.634290048843466
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.164528145441796
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -20.276912130797403
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.979266170432535
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+target_peak: -1.0

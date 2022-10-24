@@ -1,0 +1,54 @@
+UUID: 548888d8bf096f8a4cfdf68baaf8eefc
+audio_dir: Track00889/stems
+lmd_midi_dir: lmd_matched/R/C/U/TRRCUSZ128F425A013/548888d8bf096f8a4cfdf68baaf8eefc.mid
+midi_dir: Track00889/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1436834556885959
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.915307244224834
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.838453132334976
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.810086075917686
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.78428117230718
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.513232927248257
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+target_peak: -1.0

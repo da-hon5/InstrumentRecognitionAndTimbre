@@ -1,0 +1,72 @@
+UUID: d2fb87c377a574baed606036457aa62a
+audio_dir: Track00194/stems
+lmd_midi_dir: lmd_matched/G/Q/K/TRGQKON128F42998BE/d2fb87c377a574baed606036457aa62a.mid
+midi_dir: Track00194/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21307173203961122
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.999539416400864
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.004868300404315
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.521106945936694
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.17435499055066
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.7893527360244
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.590416148152322
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.06448525235406
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

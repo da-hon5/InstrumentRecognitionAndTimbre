@@ -1,0 +1,125 @@
+UUID: 5ce396312842cc625319a0c101282a02
+audio_dir: Track01236/stems
+lmd_midi_dir: lmd_matched/L/Z/W/TRLZWLO128F933CA72/5ce396312842cc625319a0c101282a02.mid
+midi_dir: Track01236/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17889774784450607
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.94811389750212
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.947958647102116
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_1.nkm
+    program_num: 56
+  S02:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.948095086303145
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone_section.nkm
+    program_num: 57
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.94812518941956
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.95092205914467
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S05:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.94796706183857
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.948139961588286
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.948109479553796
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.94806752747746
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.9481061828595
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.94801852210075
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone_section.nkm
+    program_num: 57
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.94807956696382
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+target_peak: -1.0

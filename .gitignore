@@ -1,0 +1,14 @@
+*.out
+*.pyc 
+**/__pycache__/
+src/training/runs/
+src/other/runs
+.vscode/
+
+# just used for debugging
+src/training/*.wav    
+
+src/other/*.wav
+
+src/t-sne/*.json
+

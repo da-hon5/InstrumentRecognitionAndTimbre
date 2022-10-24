@@ -1,0 +1,71 @@
+UUID: 063dc1da753ee00959418eb015766f33
+audio_dir: Track01372/stems
+lmd_midi_dir: lmd_matched/B/N/T/TRBNTEQ128F92EF1C0/063dc1da753ee00959418eb015766f33.mid
+midi_dir: Track01372/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23837174009422504
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.45630741987274
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.455126181838153
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.456309406847875
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.45630805895947
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.456322240534305
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 18
+  S05:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.456282178836222
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,403 @@
+UUID: f843ebf362672f3984207fd2e2becd31
+audio_dir: Track00869/stems
+lmd_midi_dir: lmd_matched/F/J/M/TRFJMER128F9307520/f843ebf362672f3984207fd2e2becd31.mid
+midi_dir: Track00869/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14828255091427664
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.580345842344553
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.580336581454205
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.580346207732813
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.58032688432017
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.580344455910257
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 3
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580328634068508
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.580341044063424
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 6
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.58035457532335
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 6
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.580397527163814
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 6
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.580315929009167
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 66
+  S11:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.580266036708654
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S12:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.58036046758729
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 36
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.580328187596045
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.58033295684806
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.58033747562939
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S16:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.580357630533392
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S17:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.58010070763392
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S18:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.579850641260393
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S19:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.585038789722816
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S20:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.58035197820736
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S21:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580344468549658
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S22:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.580125199750174
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S23:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580283476437273
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S24:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S25:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580332588966964
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S26:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580330800023315
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S27:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.5803463120538
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S28:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.58063850659686
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S29:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580298422378068
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S30:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.58034030230915
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S31:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580283567308516
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S32:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580353592734994
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S33:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580378362884503
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S34:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.582247779491414
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S35:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.58030329668745
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S36:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580343750080903
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S37:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580351687333973
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S38:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580336168605545
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S39:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.579006756750182
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S40:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580349323062247
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 51
+  S41:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580346395281445
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S42:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.580330494094383
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S43:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.58025823360949
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+target_peak: -1.0

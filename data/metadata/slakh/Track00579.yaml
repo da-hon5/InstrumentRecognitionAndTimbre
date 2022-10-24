@@ -1,0 +1,108 @@
+UUID: 335bf0224bece0aed14a7647ec6fa898
+audio_dir: Track00579/stems
+lmd_midi_dir: lmd_matched/L/F/K/TRLFKEW128F429497D/335bf0224bece0aed14a7647ec6fa898.mid
+midi_dir: Track00579/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1649656815155791
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.584274908325696
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.16451049954009
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.589344696652475
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.64394406487945
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.018599897199138
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 90
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.79935852256967
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 36
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.948445695718565
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.52622179622425
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.652323032294344
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.534427108501998
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S10:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -20.702086205034927
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 85
+target_peak: -1.0

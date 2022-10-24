@@ -1,0 +1,72 @@
+UUID: 71fddd18c45d02a7659f23ab211449d7
+audio_dir: Track00455/stems
+lmd_midi_dir: lmd_matched/F/F/S/TRFFSTY128F427A400/71fddd18c45d02a7659f23ab211449d7.mid
+midi_dir: Track00455/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.32204388115646226
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -22.842463156909176
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S01:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -22.842516594312126
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: hybrid_keys_tube_vibraphone.nkm
+    program_num: 12
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.842565293828137
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 6
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.842504439413705
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.842823353842057
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -22.84244074072073
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.842429843648066
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

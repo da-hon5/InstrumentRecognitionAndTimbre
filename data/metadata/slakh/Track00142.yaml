@@ -1,0 +1,134 @@
+UUID: fb0cddcfd139aaca2e6fd28dbc7bb426
+audio_dir: Track00142/stems
+lmd_midi_dir: lmd_matched/H/O/R/TRHORSV128F148AF68/fb0cddcfd139aaca2e6fd28dbc7bb426.mid
+midi_dir: Track00142/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10588393111843791
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -32.50533523310572
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.50443123800517
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.505414751018435
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S03:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.50405358480954
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.5053267364533
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -32.50478216228815
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -32.50532343747468
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 95
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -32.507139101623785
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.49795668870348
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.505339891330294
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.50532388524813
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.50351215065502
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -32.50400284103656
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

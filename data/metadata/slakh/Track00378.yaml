@@ -1,0 +1,161 @@
+UUID: 1aee616d5fb32919ad70afa6e018ae7d
+audio_dir: Track00378/stems
+lmd_midi_dir: lmd_matched/T/G/A/TRTGAOS128F4271E72/1aee616d5fb32919ad70afa6e018ae7d.mid
+midi_dir: Track00378/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.11968845606147602
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -31.440720708534627
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S01:
+    audio_rendered: false
+    inst_class: Pipe
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.438449156321017
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -31.438841050421612
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 34
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -31.437686827122054
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 18
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -31.43800431523591
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -31.438534054351212
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 95
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.440537114081522
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.43849456154135
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 31
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.4394169361452
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S10:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.439988298830794
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.44054651234641
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.44051035119342
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 31
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.44054453191333
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.438531754827125
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 31
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.440507105960627
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 7
+  S16:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.440529695581226
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+target_peak: -1.0

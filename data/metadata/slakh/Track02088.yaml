@@ -1,0 +1,180 @@
+UUID: 1b9674fbce09a5b5046687df9e387f69
+audio_dir: Track02088/stems
+lmd_midi_dir: lmd_matched/S/X/A/TRSXAZT128F9304168/1b9674fbce09a5b5046687df9e387f69.mid
+midi_dir: Track02088/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13509061528088284
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.380732125274413
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -30.38969502276634
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 82
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.389747392128605
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 89
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.38974181591001
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.389736509524955
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.389719172299557
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.38974575050644
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.389725745547107
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.38972198647975
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -30.38975180549868
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 42
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.389640082995104
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.38973779529843
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -30.38970551342751
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 82
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.389742320565155
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.389740641805023
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.389742877394404
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S16:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -30.389735991275256
+    is_drum: false
+    midi_program_name: Tango Accordion
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 23
+  S17:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.39137568953669
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S18:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.390351937505148
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+target_peak: -1.0

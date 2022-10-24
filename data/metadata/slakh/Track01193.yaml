@@ -1,0 +1,117 @@
+UUID: 11de693e56a840b251fbe229459b04b7
+audio_dir: Track01193/stems
+lmd_midi_dir: lmd_matched/Y/V/C/TRYVCXZ128F1468C72/11de693e56a840b251fbe229459b04b7.mid
+midi_dir: Track01193/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2005818381353493
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.46194253979954
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.131074138133993
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.438157991027104
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 22
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.06077965987437
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.47379819929368
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.38652976456585
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.914984106895336
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -18.47207902535272
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: french_oboe.nkm
+    program_num: 68
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.867497322370824
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 6
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.312828992608427
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 92
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -13.153513419056528
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.412260304591708
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 51
+target_peak: -1.0

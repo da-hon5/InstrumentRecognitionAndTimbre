@@ -1,0 +1,116 @@
+UUID: 0c3de258f46bfbf1e1f4e55e82ad1924
+audio_dir: Track00271/stems
+lmd_midi_dir: lmd_matched/U/B/Y/TRUBYLP128F423DF63/0c3de258f46bfbf1e1f4e55e82ad1924.mid
+midi_dir: Track00271/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13066507586262502
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -19.68710879344263
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 75
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.13335770186202
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.62908265394351
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.2594399583352
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.576238281101336
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.558379522779767
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S06:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Steel Drums
+    midi_saved: false
+    plugin_name: None
+    program_num: 114
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.300929693423807
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -30.201711728909803
+    is_drum: false
+    midi_program_name: Celesta
+    midi_saved: true
+    plugin_name: hybrid_keys_concert_marimba.nkm
+    program_num: 8
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.06478031658672
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.67423785635117
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 6
+  S11:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -19.807680708946183
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 45
+target_peak: -1.0

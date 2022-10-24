@@ -1,0 +1,116 @@
+UUID: 00263b5a69674d9f89df481f4253772a
+audio_dir: Track01225/stems
+lmd_midi_dir: lmd_matched/X/Z/L/TRXZLQX128F4280381/00263b5a69674d9f89df481f4253772a.mid
+midi_dir: Track01225/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19808013055346127
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.312346573689748
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Strings
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_ensemble.nkm
+    program_num: 40
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.634681550202753
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.342964291627409
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.382328635177123
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.46483531023597
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.592924215771266
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.902253155262116
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 51
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.69711240791739
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S09:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -23.38480937405711
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: xylophone.nkm
+    program_num: 11
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -13.619330637323138
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.773125558253117
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+target_peak: -1.0

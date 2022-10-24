@@ -1,0 +1,107 @@
+UUID: 38dc4159b582a94f7e4cba408f4ce2bd
+audio_dir: Track00709/stems
+lmd_midi_dir: lmd_matched/C/D/T/TRCDTIC128F92E94DA/38dc4159b582a94f7e4cba408f4ce2bd.mid
+midi_dir: Track00709/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16351313812739882
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.725920000416902
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.728385771390098
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.7282456917025
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.728459708523715
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 22
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.72837153382964
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.728409745189516
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.728957634344415
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 66
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.72658578048536
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 91
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.728400219920736
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 17
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.727802958919977
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Strings
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+target_peak: -1.0

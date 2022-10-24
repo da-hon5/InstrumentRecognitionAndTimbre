@@ -1,0 +1,80 @@
+UUID: b64ad79b707bc5c2ad0c701c59224791
+audio_dir: Track00926/stems
+lmd_midi_dir: lmd_matched/V/X/E/TRVXEMH12903CB185D/b64ad79b707bc5c2ad0c701c59224791.mid
+midi_dir: Track00926/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21339656484340525
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.415458391701346
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.414696729041
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.41498787137489
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.41646613086335
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S04:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.414638575487206
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_saxophone.nkm
+    program_num: 66
+  S06:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.416643251456147
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 18
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.41446327981603
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+target_peak: -1.0

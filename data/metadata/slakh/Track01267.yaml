@@ -1,0 +1,153 @@
+UUID: 5156f83912e8e7cbaecaca47824d6fbe
+audio_dir: Track01267/stems
+lmd_midi_dir: lmd_matched/A/N/P/TRANPKC128F93486B9/5156f83912e8e7cbaecaca47824d6fbe.mid
+midi_dir: Track01267/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1608016575516981
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.872861450739485
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.87288832923983
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.872867941842763
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.86917109905096
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.87286029809738
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.866891940071838
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.8728629916167
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.87286165726578
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 89
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.872867028285146
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.872864968861382
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.872862857027407
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.872861641597982
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.87286054628212
+    is_drum: false
+    midi_program_name: Lead 4 (chiff)
+    midi_saved: true
+    plugin_name: hard_n_dirty.nkm
+    program_num: 83
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.872862307520204
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S14:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.872869040522954
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: cheesy_lead.nkm
+    program_num: 85
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.872859453955556
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+target_peak: -1.0

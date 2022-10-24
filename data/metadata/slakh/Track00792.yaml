@@ -1,0 +1,99 @@
+UUID: b7b435ece036934482b76158470c9045
+audio_dir: Track00792/stems
+lmd_midi_dir: lmd_matched/K/A/Y/TRKAYTV128F42AA60C/b7b435ece036934482b76158470c9045.mid
+midi_dir: Track00792/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.07094842138913655
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.13214031251876
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 6
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -33.36809992608109
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.043435165977087
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.736540620700715
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.685040350183957
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 88
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.613536456403974
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.187046152564939
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.956197889116147
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -19.14192986918488
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -32.93680877058082
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+target_peak: -1.0

@@ -1,0 +1,98 @@
+UUID: 92da4ae37e8b0793f7c82d780606e6a3
+audio_dir: Track01278/stems
+lmd_midi_dir: lmd_matched/D/Z/N/TRDZNBU128EF3435E4/92da4ae37e8b0793f7c82d780606e6a3.mid
+midi_dir: Track01278/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.10658344912143895
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.257116864491426
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.547621462777213
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.138312481920252
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.502191533853711
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.564790109115567
+    is_drum: false
+    midi_program_name: English Horn
+    midi_saved: true
+    plugin_name: english_horn.nkm
+    program_num: 69
+  S05:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -14.64627617495194
+    is_drum: false
+    midi_program_name: Contrabass
+    midi_saved: true
+    plugin_name: double_bass_ensemble.nkm
+    program_num: 43
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.67134561367234
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S07:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 6 (goblins)
+    midi_saved: false
+    plugin_name: None
+    program_num: 101
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.70394607075531
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -33.15372165534487
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

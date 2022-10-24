@@ -1,0 +1,80 @@
+UUID: 030c32d2f91c50ff93955e2fedbe0914
+audio_dir: Track00487/stems
+lmd_midi_dir: lmd_matched/Y/D/W/TRYDWCA12903CBA901/030c32d2f91c50ff93955e2fedbe0914.mid
+midi_dir: Track00487/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16532248704550137
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Piano
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.62846424322673
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.632362353754775
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.63342131235535
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.63312627976506
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.63298448476981
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.631875723815785
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.63368268041735
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 18
+target_peak: -1.0

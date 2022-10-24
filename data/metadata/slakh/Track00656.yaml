@@ -1,0 +1,152 @@
+UUID: ed9504c6737f0f06cea7743d6a3b878c
+audio_dir: Track00656/stems
+lmd_midi_dir: lmd_matched/B/C/X/TRBCXUA12903CEC596/ed9504c6737f0f06cea7743d6a3b878c.mid
+midi_dir: Track00656/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17312039259468018
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.680681109785723
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.22070935270894
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.70478546736418
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 36
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.141157096435272
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.824305384691446
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.284637793168294
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -23.084778729900936
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -17.483882278105543
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.68284331369819
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -21.068631959062614
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.20505873347866
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.30418159476289
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.017564705739945
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S14:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.322761916818902
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 18
+  S15:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.389164504060833
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 2
+target_peak: -1.0

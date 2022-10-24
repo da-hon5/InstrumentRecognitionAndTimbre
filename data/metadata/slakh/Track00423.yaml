@@ -1,0 +1,81 @@
+UUID: f25a905177b6f1377d7ebc26e8b73154
+audio_dir: Track00423/stems
+lmd_midi_dir: lmd_matched/K/Q/N/TRKQNQN128F9300A78/f25a905177b6f1377d7ebc26e8b73154.mid
+midi_dir: Track00423/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21225000428708057
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -23.09296180741266
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.764704336891075
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.340854759052261
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.170676422230848
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.808362763552836
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -8.331481002470799
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -20.363267094388558
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: xylophone_essential.nkm
+    program_num: 10
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.570560000239443
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

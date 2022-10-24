@@ -1,0 +1,63 @@
+UUID: 90e0129784df12c801c8ac7cd529d7e9
+audio_dir: Track00736/stems
+lmd_midi_dir: lmd_matched/N/D/Y/TRNDYRA128F14552B5/90e0129784df12c801c8ac7cd529d7e9.mid
+midi_dir: Track00736/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1898161465527425
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.435291355085926
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.43420954263252
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.43454868495477
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.43431219442028
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: cello_ensemble.nkm
+    program_num: 42
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.434583580956982
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.435590456726445
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_solo.nkm
+    program_num: 40
+target_peak: -1.0

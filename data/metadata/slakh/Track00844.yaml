@@ -1,0 +1,89 @@
+UUID: a0e16bee3d8730e88c773286224802dd
+audio_dir: Track00844/stems
+lmd_midi_dir: lmd_matched/A/N/J/TRANJYI128F931BC63/a0e16bee3d8730e88c773286224802dd.mid
+midi_dir: Track00844/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14570059392134452
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.730407583041803
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -29.728355333359293
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 82
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.730843882601505
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.731130738881273
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.73031753614647
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.730870782645653
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.730628045796166
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.72834398459878
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S08:
+    audio_rendered: false
+    inst_class: Piano
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 0
+target_peak: -1.0

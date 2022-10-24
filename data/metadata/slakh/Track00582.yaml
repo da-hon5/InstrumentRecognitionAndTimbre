@@ -1,0 +1,125 @@
+UUID: a6b5ecc516c4367d9ecd19287181d302
+audio_dir: Track00582/stems
+lmd_midi_dir: lmd_matched/C/F/X/TRCFXJB12903CBA7B6/a6b5ecc516c4367d9ecd19287181d302.mid
+midi_dir: Track00582/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19381686641912677
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.254225715078235
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -16.235219194622648
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 40
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.111138133379942
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.386093434479076
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S04:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -22.3389091759076
+    is_drum: false
+    midi_program_name: Dulcimer
+    midi_saved: true
+    plugin_name: marimba.nkm
+    program_num: 15
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.92403753323935
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.460406104831996
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 84
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.676305440300748
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.647625827438784
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.804092570569416
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.056424902481071
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S12:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -16.536676638869586
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+target_peak: -1.0

@@ -1,0 +1,144 @@
+UUID: 1dfc52ec3f46f010442217bf95f6a12b
+audio_dir: Track00879/stems
+lmd_midi_dir: lmd_matched/P/T/F/TRPTFGM128F428A15A/1dfc52ec3f46f010442217bf95f6a12b.mid
+midi_dir: Track00879/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20463745598312322
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.78157910917012
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.781503434573814
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.781630917233606
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.783373098722155
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.78146028350697
+    is_drum: false
+    midi_program_name: English Horn
+    midi_saved: true
+    plugin_name: english_horn.nkm
+    program_num: 69
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.78202683190499
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.781526723556592
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.78248183726691
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.782484151196794
+    is_drum: false
+    midi_program_name: English Horn
+    midi_saved: true
+    plugin_name: english_horn.nkm
+    program_num: 69
+  S09:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.782482539282373
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 68
+  S10:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.782481352184618
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S11:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.782216802439702
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S12:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.781614734076427
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.781752080892712
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S14:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.781630190408332
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 50
+target_peak: -1.0

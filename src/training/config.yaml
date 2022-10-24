@@ -1,0 +1,66 @@
+DataConfig:
+  data_path: /srv/ALL/datasets/preprocessed
+  dataset: combined   # medleydb / mixing-secrets / slakh / combined
+  samplerate: 32000
+  model_input_length: 4  # in sec
+  max_num_sources: 10   # when using multiple songs
+  p_single_source: 0.25   # also use single sources for timbre-prediction
+  p_multiple_songs: 0.4
+  p_skip_percussion: 0.0   # 0.5 for classification / 0.0 for timbre-prediction
+  p_skip_plucked_str: 0.0   # 0.5 for classification / 0.0 for timbre-prediction
+  p_medleydb: 0.34
+  p_mixingsecrets: 0.33
+  p_slakh: 0.33
+  loudn_threshold: -50  # in dB
+  n_mfccs: 12
+  predict_loudness: true
+  target_class: percussion   # only used for timbre-predictor! for class-predictor use 'all-classes'!
+         
+ModelConfig:
+#NOTE: target_class has to be specified in DataConfig!
+  model_type: timbre-predictor  # class-predictor or timbre-predictor
+  n_channels: 128
+  n_fft: 512
+  n_mels: 128
+  
+TrainConfig:
+  mode: finetuning   # from-scratch / finetuning / frozen-backbone / compute-stats
+  model_save_path: ./../../models/feature-prediction/test
+  model_load_path: ./../../models/pretrained/shortchunkCNN/best_model.pth
+  rand_seed: 9999
+  n_epochs: 100
+  batch_size: 16
+  backbone_lr: 1e-4    # when mode=from-scratch backbone_lr and head_lr should be equal (1e-4)
+  head_lr: 1e-2
+  lr_scheduler_stepsize: 20
+  lr_scheduler_gamma: 0.3
+  weight_decay: 1e-4
+  use_optim_schedule: false  # should be true when pretraining shortchunkCNN to reproduce results of paper
+  num_workers: 16 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  log_step: 10
+  samples_per_epoch: 1920
+
+ValidConfig:
+  num_workers: 16  #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  chunks_per_track: 16
+  samples_per_epoch: 60
+ 
+TestConfig:
+#NOTE: target_class has to be specified in DataConfig!
+  model_load_path: ./../../models/feature-prediction/mae-loss/e-bass/best_model.pth
+  rand_seed: 1111
+  num_workers: 16  #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  chunks_per_track: 16
+  samples_per_epoch: 60
+  use_tensorboard: true
+  p_tensorboard: 0.15
+
+AugmentationConfig:
+  p_augment: 0.7
+  p_imp_res: 0.0
+  p_time_stretch: 0.3
+  p_pitch_shift: 0.7
+  p_rand_gain: 0.9
+  p_peaking_filter: 0.6
+  p_lowshelf_filter: 0.6
+  p_highshelf_filter: 0.6

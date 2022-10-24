@@ -1,0 +1,143 @@
+UUID: 70e722cc8a1906d6b547768953dd519f
+audio_dir: Track00380/stems
+lmd_midi_dir: lmd_matched/E/V/P/TREVPIG128F147729C/70e722cc8a1906d6b547768953dd519f.mid
+midi_dir: Track00380/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21077692772606474
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.04151904868298
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -19.339762755228534
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: tubular_bells_metal.nkm
+    program_num: 12
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.288591059603785
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S03:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Kalimba
+    midi_saved: false
+    plugin_name: None
+    program_num: 108
+  S04:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -18.326463449847804
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 75
+  S05:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -20.480906130563163
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 45
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.999895938834104
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.081345961878874
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.320668165810734
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.998913986452468
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 84
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.586541444142343
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.925866671212987
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S12:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.213699420015123
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 93
+  S13:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -14.041761402693718
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 93
+  S14:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -12.412109629506768
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 93
+target_peak: -1.0

@@ -1,0 +1,106 @@
+UUID: 406d87403b7fdf07d3c7120a416dc48c
+audio_dir: Track00031/stems
+lmd_midi_dir: lmd_matched/A/J/R/TRAJRFW12903D0737E/406d87403b7fdf07d3c7120a416dc48c.mid
+midi_dir: Track00031/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2176026801379677
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.256342601148162
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.128330084794044
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.480478355680008
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.658872185829825
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.639732396097935
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 85
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.24064688392345
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.14715559021918
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 85
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -16.10701669545438
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 85
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.845285138326155
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S09:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S10:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+target_peak: -1.0

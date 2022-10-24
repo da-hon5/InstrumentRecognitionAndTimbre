@@ -1,0 +1,99 @@
+UUID: 2d6023f2c630587ba3236205271d93aa
+audio_dir: Track01584/stems
+lmd_midi_dir: lmd_matched/N/K/J/TRNKJPR128F4285066/2d6023f2c630587ba3236205271d93aa.mid
+midi_dir: Track01584/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21249854858801845
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.88951693187317
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.226237347485867
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.36452842681908
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 34
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.883449889326382
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.757257397621169
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 7
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.078863292917761
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 90
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.12456562574351
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.029117194545417
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -14.959781239160256
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.858689795187198
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

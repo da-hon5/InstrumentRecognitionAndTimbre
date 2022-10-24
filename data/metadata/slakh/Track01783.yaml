@@ -1,0 +1,134 @@
+UUID: 013e21873e0341d58a0bdb6131b56e92
+audio_dir: Track01783/stems
+lmd_midi_dir: lmd_matched/H/W/D/TRHWDNU128F4279A2F/013e21873e0341d58a0bdb6131b56e92.mid
+midi_dir: Track01783/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1871344220591838
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.003880602581813
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.804891010681143
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.875287057753756
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.440593194386445
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.316703602242455
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.778058212821183
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.183815570623784
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.150311208107546
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 87
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.498148325543855
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+  S09:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -12.767763314526974
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: glockenspiel_essential.nkm
+    program_num: 11
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.920730430146282
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 6
+  S11:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Banjo
+    midi_saved: false
+    plugin_name: None
+    program_num: 105
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.57244143606775
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.172899505459508
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+target_peak: -1.0

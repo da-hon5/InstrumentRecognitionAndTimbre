@@ -1,0 +1,124 @@
+UUID: 9026fbf191d196b4ea35ae725509d0ab
+audio_dir: Track01117/stems
+lmd_midi_dir: lmd_matched/C/X/U/TRCXUIE128E0787489/9026fbf191d196b4ea35ae725509d0ab.mid
+midi_dir: Track01117/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.23785080522926794
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.473467458456188
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.473466007082834
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -25.473443078027472
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.473462522826043
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 36
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -25.473468594969685
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.473463783253912
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S07:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Kalimba
+    midi_saved: false
+    plugin_name: None
+    program_num: 108
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.473456689653812
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.4734633947318
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S10:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -25.473471775647873
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 81
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -25.473466232062844
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.47345821091338
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

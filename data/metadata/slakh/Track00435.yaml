@@ -1,0 +1,90 @@
+UUID: 0a25ab24e525b169bab81b7e24867184
+audio_dir: Track00435/stems
+lmd_midi_dir: lmd_matched/T/F/I/TRTFIGY128F422FA92/0a25ab24e525b169bab81b7e24867184.mid
+midi_dir: Track00435/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1741851863973466
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.180125680740826
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.18135722137976
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.180923187515113
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.181363829312723
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.18218053163636
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.179921132564616
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.1815902151487
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.177652424440105
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.181493723827895
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+target_peak: -1.0

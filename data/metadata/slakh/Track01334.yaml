@@ -1,0 +1,134 @@
+UUID: 6d2ce168bbb6dee9d4baf792152abc55
+audio_dir: Track01334/stems
+lmd_midi_dir: lmd_matched/M/E/Z/TRMEZPD128F1463BE5/6d2ce168bbb6dee9d4baf792152abc55.mid
+midi_dir: Track01334/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17811921925326532
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.00737698459328
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -14.899120455986305
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.019499873254606
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.626648891167296
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.362249119407487
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 93
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.490188945553452
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.730487161710258
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -23.74017962139498
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.494766997272198
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.41868915333478
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.457900809644395
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.027380920838546
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.523866695385408
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+target_peak: -1.0

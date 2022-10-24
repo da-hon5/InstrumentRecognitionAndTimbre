@@ -1,0 +1,121 @@
+The metadata is provided in a YAML file, which is both dictionary-like and is (actually) human readable. The metadata contains the following fields:
+
+    album: the album the song was released on (optional)
+    artist: the artist's full name
+    composer: the composer of the song (optional)
+    excerpt: indicates if the song is an excerpt
+    genre: the genre of the song
+    has_bleed: indicates if the stems in the song have bleed
+    instrumental: indicates if the song is instrumental
+    mix_filename: the name of the song's mix file
+    origin: the source from which the song was obtained
+    producer: the song's producer (optional)
+    raw_dir: the name of the folder containing the raw audio
+    stem_dir: the name of the folder containing the stems
+    title: the full title of the song
+    website: the artist's website (optional)
+    stems: stem metadata (a list of dictionaries keyed by stem index)
+
+
+Each stem, for example "S01" has the following fields:
+
+    component: indicates if the stem contains melody or bass
+    filename: the name of the stem's audio file
+    instrument: the stem's instrument label
+    raw: raw audio metadata (a list of dictionaries keyed by raw index)
+
+
+Once again, each raw file, for example "R01" has the following fields:
+
+    filename: the name of the raw audio file
+    instrument: the raw audio file's instrument label
+
+
+We go into additional detail about some of these fields below.
+
+Excerpt
+Possible values:
+
+    yes
+    no
+
+Yes indicates that the song is an excerpt (does not contain a complete song structure). No indicates that the song is a full length song.
+
+Genre
+Possible values:
+
+    Singer/Songwriter
+    Classical
+    Rock
+    World/Folk
+    Fusion
+    Jazz
+    Pop
+    Musical Theatre
+    Rap
+
+
+Because the notion of genre is quite subjective, we use somewhat general genre labels. These labels should not be considered to be "precise" genre labels. There are many instances where a song could have fallen in multiple genres, and the choices were made so that each genre would be as acoustically homogenous as possible. That being said, our "pop" label (for example) may be quite different than the pop label in another dataset.
+
+Has Bleed
+Possible values:
+
+    yes
+    no
+
+Yes indicates that some or all of the stems/raw audio files contain bleed from other stems. No indicates that the stems and raw audio files are well isolated.
+
+Instrumental
+Possible values:
+
+    yes
+    no
+
+Yes indicates that the song does not contain predominant vocals. No indicates that the song contains predominant vocals. Yes does not necessarily mean there are no stems with vocals. For example, a song with for a choir that serves a harmonic purpose would be considered instrumental.
+
+Origin
+Possible values:
+
+    Dolan Studio
+    Weathervane Music
+    Music Delta
+    Independent Artist
+
+The label "Dolan Studio" indicates that the song was recorded in NYU's Dolan Recording Studio. "Weathervane Music" indicates that the track was obtained from Weathervane Music's "Shaking Through" series, and were recorded in the same studio. "Music Delta" indicates that the track was given to us by Music Delta. All of the Music Delta tracks were recorded in isolation booths and thus have no bleed. The label "Independent Artist" indicates that the track was given to us by an independent artist, or in other words, "none of the above".
+
+Component
+Possible values:
+
+    melody
+    bass
+    [none]
+
+Melody indicates that the stem contains melodic content at some point in the song. Bass indicates that the stem contains primarily bass line content. This field may also be blank, indicating that the stem contains neither melodic nor bass line content.
+
+Instrument
+The possible values for this label are based on this taxonomy, with the addition of the label "Main System". The label "Main System" indicates a stem representing a recording of an entire ensemble. For example, when recording classical music live, it is common to use a "main" microphone system to record the ensemble sound and also mic the instruments individually. The main system is often a primary contributor to the mix, and the individual instrument microphones are used for balance. 
+
+Some taxonomy labels of note:
+
+    violin section: more than one violin
+    viola section: more than one viola
+    cello section: more than one cello
+    string section: more than one string instrument (e.g. 2 violins and 1 viola)
+    tack piano: an intentionally out of tune or acoustically altered piano
+    flute section: more than one flute
+    clarinet section: more than one clarinet
+    trumpet section: more than one trumpet
+    french horn section: more than one french horn
+    trombone section: more than one trombone or bass trombone
+    brass section: more than one brass instrument (not including saxophones or other woodwinds)
+    horn section: more than one brass or woodwind instrument (must be a mixture of brass & woodwinds)
+    vocalists: more than one singer (may be a mixture of male and female)
+    auxiliary percussion: more than one percussion instrument (beyond drum set components)
+    drum machine: a computer generated drum track from drum set samples, time aligned to a grid
+    clean electric guitar: a non-distorted electric guitar
+    distorted electric guitar: an electric guitar with noticeable effects processing
+    electronic piano: a keyboard using a sound setting that is piano-like
+    synthesizer: a keyboard using a (melodic) sound setting that is not piano-like. 
+    fx/processed sound: sound effects or ambient noise
+    scratches: record scratches
+    sampler: similar to drum machine but with samples that are not drum set samples (eg. vocal snippets)

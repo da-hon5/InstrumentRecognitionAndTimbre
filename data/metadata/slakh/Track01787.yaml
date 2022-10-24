@@ -1,0 +1,99 @@
+UUID: 0ac9dd1c27a0363cf2672924cc3df47d
+audio_dir: Track01787/stems
+lmd_midi_dir: lmd_matched/N/K/J/TRNKJPR128F4285066/0ac9dd1c27a0363cf2672924cc3df47d.mid
+midi_dir: Track01787/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.204426578529977
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.789055775511738
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.787769978828653
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.78762025796751
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.789351850218758
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.787752176346743
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 34
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.786493171540375
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 78
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.789441894447435
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.789254169914358
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 90
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.78762500929368
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.788151231081592
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

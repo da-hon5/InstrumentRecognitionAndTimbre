@@ -1,0 +1,108 @@
+UUID: fadf8bd2738aae85ecfe9bb8ce4bfa01
+audio_dir: Track01315/stems
+lmd_midi_dir: lmd_matched/Q/B/W/TRQBWDR128F4230E29/fadf8bd2738aae85ecfe9bb8ce4bfa01.mid
+midi_dir: Track01315/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21148661017612902
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.48522105926653
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 92
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.48559193429249
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.487359853988238
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 75
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.48748245880182
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 89
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.48750949183748
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.49558024487679
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -26.485470766247037
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 10
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.485130839010655
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.48741967549106
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.485341571847425
+    is_drum: false
+    midi_program_name: Lead 4 (chiff)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 83
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.485406385087085
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+target_peak: -1.0

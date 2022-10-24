@@ -1,0 +1,125 @@
+UUID: 9a7619dcf9600daa7e5e7b72e33201a6
+audio_dir: Track01009/stems
+lmd_midi_dir: lmd_matched/L/M/P/TRLMPES128F427E551/9a7619dcf9600daa7e5e7b72e33201a6.mid
+midi_dir: Track01009/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.0665313117869745
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Piano
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -36.538648114784216
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -36.54309904169528
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -36.542665465264044
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -36.538010242588925
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -36.54250917127048
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -36.536998128018865
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -36.542154053645596
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S08:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -36.542148755828975
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -36.53934570478186
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -36.53808723134328
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -36.542919397328035
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -36.53717850155182
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+target_peak: -1.0

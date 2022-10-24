@@ -1,0 +1,72 @@
+UUID: 7a24800ee844960e7d71ce0991387c06
+audio_dir: Track01547/stems
+lmd_midi_dir: lmd_matched/X/A/B/TRXABFB128F42706A6/7a24800ee844960e7d71ce0991387c06.mid
+midi_dir: Track01547/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2137606888821909
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.400359810234495
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.400426159468136
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.40042374023598
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.40042989130949
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.40043189837616
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.400429022682573
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.40043841769274
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+target_peak: -1.0

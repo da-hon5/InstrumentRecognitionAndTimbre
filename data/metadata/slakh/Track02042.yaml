@@ -1,0 +1,126 @@
+UUID: c20771befb5e5d04495ef30f05cf4eed
+audio_dir: Track02042/stems
+lmd_midi_dir: lmd_matched/D/N/Z/TRDNZHK128F92DF3EB/c20771befb5e5d04495ef30f05cf4eed.mid
+midi_dir: Track02042/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19396198856926064
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.25623982329765
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.256224865522103
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.256238637242998
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.25623631601656
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.25623999554605
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.237470978688048
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.25623580671277
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.256239962869653
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.25623966980856
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: french_oboe.nkm
+    program_num: 68
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.24971395833771
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.25622867972999
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.25623591221795
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.256227398176655
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 31
+target_peak: -1.0

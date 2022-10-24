@@ -1,0 +1,133 @@
+UUID: 273f7394936e7432aaa606504f20baf2
+audio_dir: Track00863/stems
+lmd_midi_dir: lmd_matched/L/I/K/TRLIKGK12903CBA9D3/273f7394936e7432aaa606504f20baf2.mid
+midi_dir: Track00863/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2144004468229431
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.72727708269708
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.456957351894978
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboes_essential.nkm
+    program_num: 68
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.27915471348714
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 94
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.097961343637063
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.056840079474554
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: organ_kh_floeten_1_manual.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.47264911837571
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.239828802676616
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.203555565915238
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.056308438960965
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S10:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -21.258282929823576
+    is_drum: false
+    midi_program_name: Celesta
+    midi_saved: true
+    plugin_name: hybrid_keys_concert_marimba.nkm
+    program_num: 8
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.52109927224722
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 93
+  S12:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.207690688746979
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 95
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+target_peak: -1.0

@@ -1,0 +1,228 @@
+UUID: 15601707ce9628a6e9968de6a2a3b45f
+audio_dir: Track00478/stems
+lmd_midi_dir: lmd_matched/E/K/E/TREKEFB128F42631AA/15601707ce9628a6e9968de6a2a3b45f.mid
+midi_dir: Track00478/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17453423662934936
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.7668019007881
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.626816689408624
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.021120270641866
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.303942548245534
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.74237953397152
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -20.275219565523074
+    is_drum: false
+    midi_program_name: Viola
+    midi_saved: true
+    plugin_name: viola_ensemble.nkm
+    program_num: 41
+  S06:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S07:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S08:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.280010646085923
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.834021651208472
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.0909384292616
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 67
+  S12:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -14.66326301501085
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: glockenspiel_essential.nkm
+    program_num: 11
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.181439298625563
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S14:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Helicopter
+    midi_saved: false
+    plugin_name: None
+    program_num: 125
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.383827441061257
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S16:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.26238099194784
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S17:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -19.076002680057705
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: tubular_bells_wood.nkm
+    program_num: 9
+  S18:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S19:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.742226176787291
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S20:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.47575130679969
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S21:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.399250734880289
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S22:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.875692676872273
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S23:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -12.831383013832886
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: french_oboe.nkm
+    program_num: 68
+  S24:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+target_peak: -1.0

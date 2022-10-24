@@ -1,0 +1,252 @@
+album: ''
+artist: Leaf
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Leaf_Wicked_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Leaf_Wicked_RAW
+stem_dir: Leaf_Wicked_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Leaf_Wicked_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick.wav
+        instrument: Kick
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 06_Overheads.wav
+        instrument: Overheads
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 05_Toms.wav
+        instrument: Toms
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 02_SnareUp.wav
+        instrument: SnareUp
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 07_DrumsRoom.wav
+        instrument: DrumsRoom
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: 04_HiHat.wav
+        instrument: HiHat
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_SnareDown.wav
+        instrument: SnareDown
+  S02:
+    component: ''
+    filename: Leaf_Wicked_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 19_Synth02.wav
+        instrument: Synth
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 22_Synth05.wav
+        instrument: Synth
+      R03:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 18_Synth01.wav
+        instrument: Synth
+      R04:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 21_Synth04.wav
+        instrument: Synth
+      R05:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 20_Synth03.wav
+        instrument: Synth
+  S03:
+    component: ''
+    filename: 25_BackingVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 25_BackingVox1.wav
+        instrument: female singer
+  S04:
+    component: ''
+    filename: 16_ElecGtr07.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 16_ElecGtr07.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 08_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 08_BassDI.wav
+        instrument: electric bass
+  S06:
+    component: ''
+    filename: 14_ElecGtr05.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 14_ElecGtr05.wav
+        instrument: clean electric guitar
+  S07:
+    component: ''
+    filename: 15_ElecGtr06.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 15_ElecGtr06.wav
+        instrument: distorted electric guitar
+  S08:
+    component: ''
+    filename: 17_ElecGtr08.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 17_ElecGtr08.wav
+        instrument: distorted electric guitar
+  S09:
+    component: ''
+    filename: 13_ElecGtr04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 13_ElecGtr04.wav
+        instrument: distorted electric guitar
+  S10:
+    component: ''
+    filename: 12_ElecGtr03.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 12_ElecGtr03.wav
+        instrument: distorted electric guitar
+  S11:
+    component: ''
+    filename: 11_ElecGtr02.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 11_ElecGtr02.wav
+        instrument: distorted electric guitar
+  S12:
+    component: ''
+    filename: 24_LeadVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 24_LeadVox2.wav
+        instrument: female singer
+  S13:
+    component: ''
+    filename: 09_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 09_BassAmp.wav
+        instrument: electric bass
+  S14:
+    component: ''
+    filename: 23_LeadVox1.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 23_LeadVox1.wav
+        instrument: female singer
+  S15:
+    component: ''
+    filename: 10_ElecGtr01.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 10_ElecGtr01.wav
+        instrument: clean electric guitar
+  S16:
+    component: ''
+    filename: 26_BackingVox2.wav
+    instrument: female singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: female
+        filename: 26_BackingVox2.wav
+        instrument: female singer
+title: Wicked
+version: '3.0'
+website: ''

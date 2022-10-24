@@ -1,0 +1,72 @@
+UUID: c40ee072e93f0c70b50c4f96c69a0100
+audio_dir: Track00396/stems
+lmd_midi_dir: lmd_matched/T/H/K/TRTHKCI128F14892CC/c40ee072e93f0c70b50c4f96c69a0100.mid
+midi_dir: Track00396/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21047891376671973
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.492709346562545
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.932252746459064
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.547831623231652
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.873309936142977
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.583627638324925
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 18
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.03061131276445
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.822677741961623
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 51
+target_peak: -1.0

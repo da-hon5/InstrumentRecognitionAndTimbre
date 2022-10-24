@@ -1,0 +1,22 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Higher Mathematics}{fancy:math}
+
+Naturally, there are also several commands that should make life easier when dealing with equations. One of the central ideas is to be able to change the general style of something, for example vector/matrix highlighting ($\vm{\phi}$ vs. $\phi$), just by modifying the template command.
+
+\nxtpar\noindent
+Here are a few examples. Note that equations (\ref{eq:fancy:math:1}) and (\ref{eq:fancy:math:2}), but also (\ref{eq:fancy:math:3a}) and (\ref{eq:fancy:math:3b}) do not necessarily make sense...
+\begin{equation}
+  \var{a + b} \isreq \var{a} + \var{b} + 2 \cov{a,b}
+  \label{eq:fancy:math:1}
+\end{equation}
+\begin{equation}\begin{split}
+  \vm{H}
+  &\isdef \exp{\E{\vm{h}^T \vm{h}}} - \ln{\vm{h}^T \vm{h}} + \log{\vm{h}^T \vm{h}} - \frac{\ld{\vm{h}^T \vm{h}}}{\logb{3}{\vm{h}^T \vm{h}}} \\
+  &= \mtx{ccc}{h1 & h2 & \dots \\ 0 & h1 & \dots \\ \vdots & \vdots & \ddots}
+  \label{eq:fancy:math:2}
+\end{split}\end{equation}
+\begin{align}
+  \E{ a b\conj c d\conj} &= \E{a b\conj} \cdot \E{c d\conj} + \E{a d\conj} \cdot \E{c b\conj} \label{eq:fancy:math:3a}\\
+   \E{a b\conj} \cdot \E{c d\conj} &\neq  \E{a d\conj} \cdot \E{c b\conj} - \E{ a b\conj c d\conj}\label{eq:fancy:math:3b}
+\end{align}

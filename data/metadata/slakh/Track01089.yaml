@@ -1,0 +1,138 @@
+UUID: 994a09bf3db9b22f5e6fb7c8abb9ce42
+audio_dir: Track01089/stems
+lmd_midi_dir: lmd_matched/V/P/F/TRVPFYG128E0788793/994a09bf3db9b22f5e6fb7c8abb9ce42.mid
+midi_dir: Track01089/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21567939246882947
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.222125762766122
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -23.85452759290727
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -12.146146695515931
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.650687386300262
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.764581650599464
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 17
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.785218895034914
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.441909187761715
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 87
+  S08:
+    audio_rendered: false
+    inst_class: Strings (continued)
+    is_drum: false
+    midi_program_name: Orchestra Hit
+    midi_saved: false
+    plugin_name: None
+    program_num: 55
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.273956508209398
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.1182697857083
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S11:
+    audio_rendered: false
+    inst_class: Synth Lead
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: processor_lead.nkm
+    program_num: 87
+  S12:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+  S14:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+target_peak: -1.0

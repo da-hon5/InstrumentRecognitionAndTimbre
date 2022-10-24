@@ -1,0 +1,153 @@
+UUID: eb6a98337527425d87bcafeb2d78a242
+audio_dir: Track02063/stems
+lmd_midi_dir: lmd_matched/Q/X/U/TRQXUWS128F14B06ED/eb6a98337527425d87bcafeb2d78a242.mid
+midi_dir: Track02063/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18296844860728492
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.74857742693441
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.753188951564244
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.753258915648836
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 18
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.753207349590756
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 90
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.7532600756619
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.753264165422014
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.75325320076772
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.753235484283532
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.753249804284657
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.753253210981047
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: guitar_lead.nkm
+    program_num: 82
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.75325788310485
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.753258707667257
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.75325882591167
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.753263335449677
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.75321408585727
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S15:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.753227391153185
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+target_peak: -1.0

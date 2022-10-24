@@ -1,0 +1,108 @@
+UUID: 5f96f616ce20c72f009c89c4dcadf23f
+audio_dir: Track01851/stems
+lmd_midi_dir: lmd_matched/U/G/C/TRUGCVP128F93415BF/5f96f616ce20c72f009c89c4dcadf23f.mid
+midi_dir: Track01851/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1879945771586519
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.518354682486212
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.51882605150802
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.518873158568372
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 18
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.518886369083102
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 87
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.518889661512137
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.518890370649657
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.51885097954524
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.518795424691117
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.51880617081765
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 18
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.51904111622689
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.51888697887672
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+target_peak: -1.0

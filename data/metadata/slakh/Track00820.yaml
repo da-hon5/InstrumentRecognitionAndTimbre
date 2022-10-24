@@ -1,0 +1,107 @@
+UUID: 6af38a0119b18d22160466c75bc3c707
+audio_dir: Track00820/stems
+lmd_midi_dir: lmd_matched/M/V/T/TRMVTWF128F42ACDEC/6af38a0119b18d22160466c75bc3c707.mid
+midi_dir: Track00820/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17474468201427468
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.33170101442705
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.75909460888341
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.267003718172964
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.341667511811323
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.440832538713481
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.758371668805914
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S06:
+    audio_rendered: false
+    inst_class: Organ
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 18
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.82602864257822
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.245053152259056
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.1507869888266
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 3
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.945364301869391
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+target_peak: -1.0

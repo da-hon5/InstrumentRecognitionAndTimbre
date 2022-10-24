@@ -1,0 +1,107 @@
+UUID: 0a38c000398b9b61d80a7a9f64156fd3
+audio_dir: Track00252/stems
+lmd_midi_dir: lmd_matched/G/K/U/TRGKUCI128F4295705/0a38c000398b9b61d80a7a9f64156fd3.mid
+midi_dir: Track00252/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14223064909211128
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.943665789322594
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.943692640980277
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.945904191434295
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.94367291722688
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_saxophone.nkm
+    program_num: 66
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.943693205589287
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.943685051186048
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.943675570917968
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.94371027698119
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.93731505220956
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.94367243023182
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S10:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+target_peak: -1.0

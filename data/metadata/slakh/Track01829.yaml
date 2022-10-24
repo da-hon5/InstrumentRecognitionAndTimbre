@@ -1,0 +1,117 @@
+UUID: 08a82cf2f84529149a676e1f38f7a4c9
+audio_dir: Track01829/stems
+lmd_midi_dir: lmd_matched/A/W/D/TRAWDRR128F4285F57/08a82cf2f84529149a676e1f38f7a4c9.mid
+midi_dir: Track01829/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1852189323533522
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.20405587675406
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.933765964287588
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -20.771564659931396
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 73
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.95362465423831
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.886805676501236
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.242448294768824
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.91239321465151
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.96358747024279
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 24
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.20180701220068
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.740069265822102
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 81
+  S10:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.16234170985669
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 94
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.956561735792288
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+target_peak: -1.0

@@ -1,0 +1,90 @@
+UUID: 71164e7a941820234247b63c047c77d9
+audio_dir: Track00569/stems
+lmd_midi_dir: lmd_matched/V/L/F/TRVLFLP12903CFB892/71164e7a941820234247b63c047c77d9.mid
+midi_dir: Track00569/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1793339570375665
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.922872107505025
+    is_drum: false
+    midi_program_name: Piccolo
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 72
+  S01:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.899683998910813
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.92964829228813
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.929683602670796
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.927933451452763
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.927915144648654
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.927925021189356
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.927920594417312
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.927895967399397
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+target_peak: -1.0

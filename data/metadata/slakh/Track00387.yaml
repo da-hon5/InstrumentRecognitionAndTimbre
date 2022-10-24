@@ -1,0 +1,72 @@
+UUID: b5a33db6124e816219bc97dbd5a5db6b
+audio_dir: Track00387/stems
+lmd_midi_dir: lmd_matched/O/E/W/TROEWTY128F4248A30/b5a33db6124e816219bc97dbd5a5db6b.mid
+midi_dir: Track00387/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22263589748610518
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.04850867999317
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.04844849918757
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 7
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.04772180993618
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.048469900204736
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.046702511990855
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.046712529048587
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 82
+  S06:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.04683394791875
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 18
+target_peak: -1.0

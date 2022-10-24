@@ -1,0 +1,133 @@
+UUID: 69df935548e7b4d455db246f221f2fe2
+audio_dir: Track01858/stems
+lmd_midi_dir: lmd_matched/N/J/U/TRNJUBR128F92F7A7D/69df935548e7b4d455db246f221f2fe2.mid
+midi_dir: Track01858/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15800090776901504
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.025259342018938
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.025856724551538
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.026030595960467
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.0249182846927
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.02666148438485
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.02666080203891
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 75
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -29.02665247058722
+    is_drum: false
+    midi_program_name: Blown Bottle
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 76
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.02584366739141
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S08:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.026738530119324
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 64
+  S09:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.0248820768134
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_ensemble_essential.nkm
+    program_num: 68
+  S10:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S11:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -29.02673984444221
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 80
+  S13:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -29.0248532602211
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: hybrid_keys_concert_marimba.nkm
+    program_num: 12
+target_peak: -1.0

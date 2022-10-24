@@ -1,0 +1,106 @@
+UUID: b195ea965681bede2dd725ebe2cdfb8f
+audio_dir: Track01006/stems
+lmd_midi_dir: lmd_matched/I/U/G/TRIUGKW128F145D943/b195ea965681bede2dd725ebe2cdfb8f.mid
+midi_dir: Track01006/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2614150512355896
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -18.374601886064347
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.08722593730263
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.057396250018286
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.525329380944985
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.155348642002481
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 90
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.946214662556493
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.172295816557348
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -15.034002644373048
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S10:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -17.165906868215274
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: xylophone_essential.nkm
+    program_num: 12
+target_peak: -1.0

@@ -1,0 +1,31 @@
+----------------
+Thesis Structure
+----------------
+
+1) Introduction
+   (general introduction ... deep learning, MIR, ...)
+  - Scope of the Thesis (already show block diagram of system)
+  - Structure of the Thesis
+
+
+2) Fundamentals and Related Work
+  - Instrument Recognition (history: feature engineering, deep learning, ...)
+  - Timbre and Loudness (what is timbre/loudness, related work, ...)
+
+
+3) Method
+  - Two-Stage System (more detailed than in intro ... show architectures of classifier and timbre-predictor)
+  - Datasets
+  - Pre-Processing and Data Augmentation (Instrument Taxonomy, rand mixing, ...)
+  - Evaluation Metrics
+  - Pre-Training
+  - Finetuning
+  
+  
+4) Experiments and Results
+  - Multi-Instrument Recognition
+  - Feature Prediction (Oracle Experiment)
+  - Entire System ???
+  
+  
+5) Conclusion and Future Work

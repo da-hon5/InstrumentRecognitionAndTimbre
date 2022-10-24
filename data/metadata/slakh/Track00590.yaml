@@ -1,0 +1,88 @@
+UUID: 0c76c95341f183aef13ede4cbc48e789
+audio_dir: Track00590/stems
+lmd_midi_dir: lmd_matched/E/I/I/TREIIYT128F42A3421/0c76c95341f183aef13ede4cbc48e789.mid
+midi_dir: Track00590/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.11418200588715739
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Guitar
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.305994522677857
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 74
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.412427787094447
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.590181263462423
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.563032898970366
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S05:
+    audio_rendered: false
+    inst_class: Strings
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -32.510219271052954
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -27.19566632268642
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: hybrid_keys_antique_toy.nkm
+    program_num: 9
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.971161047072325
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+target_peak: -1.0

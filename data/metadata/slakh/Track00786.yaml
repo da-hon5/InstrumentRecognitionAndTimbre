@@ -1,0 +1,150 @@
+UUID: 65a89d915d127a7894e4929ee9659e7e
+audio_dir: Track00786/stems
+lmd_midi_dir: lmd_matched/E/L/O/TRELOER128F429E959/65a89d915d127a7894e4929ee9659e7e.mid
+midi_dir: Track00786/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17240904518670494
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.254457408744063
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.270072769688756
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.26999827544319
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 18
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.270005310509966
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_ensemble_essential.nkm
+    program_num: 68
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.270012239924984
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.270079001473515
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.270017164664885
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.270143651992772
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.270028308356224
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 74
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.26978356309242
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.270046421795545
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 89
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.27015834897432
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.27000046769108
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S15:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+target_peak: -1.0

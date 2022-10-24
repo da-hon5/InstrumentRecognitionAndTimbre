@@ -1,0 +1,54 @@
+UUID: 8ce1431d2c0c3d3642b31a283cc26ac4
+audio_dir: Track01544/stems
+lmd_midi_dir: lmd_matched/T/Q/M/TRTQMIL128F146E8C4/8ce1431d2c0c3d3642b31a283cc26ac4.mid
+midi_dir: Track01544/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2447099345075172
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.227774189550033
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.227255288401512
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 3
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.22766028134185
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.227370977629235
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.227820236438713
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+target_peak: -1.0

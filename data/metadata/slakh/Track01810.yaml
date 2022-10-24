@@ -1,0 +1,96 @@
+UUID: e6b60cc261a9dc38a951b63e92ee5b93
+audio_dir: Track01810/stems
+lmd_midi_dir: lmd_matched/H/A/F/TRHAFHY128F42833ED/e6b60cc261a9dc38a951b63e92ee5b93.mid
+midi_dir: Track01810/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20986777684874067
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.561050315261387
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 3
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S02:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.561618149946344
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet_combi.nkm
+    program_num: 71
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.561627062553146
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 31
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.563685723517466
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.561570881229343
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.563633525609948
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S08:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.561861940920235
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+target_peak: -1.0

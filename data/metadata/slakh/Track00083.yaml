@@ -1,0 +1,90 @@
+UUID: 09f0db50dc8ab1d53f6489737f6eb41f
+audio_dir: Track00083/stems
+lmd_midi_dir: lmd_matched/T/F/V/TRTFVFH12903CC1151/09f0db50dc8ab1d53f6489737f6eb41f.mid
+midi_dir: Track00083/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16162530800925884
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.923567106214515
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.357330761016103
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.578746296220253
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.09949450011558
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.44803303341803
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.710726127169023
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.43525049494423
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.069969347180395
+    is_drum: false
+    midi_program_name: Shakuhachi
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 77
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.79178738045319
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+target_peak: -1.0

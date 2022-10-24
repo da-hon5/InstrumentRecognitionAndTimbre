@@ -1,0 +1,115 @@
+UUID: ce036a79636d4041b963e25705196277
+audio_dir: Track00652/stems
+lmd_midi_dir: lmd_matched/I/W/Q/TRIWQUF128F14A2B5B/ce036a79636d4041b963e25705196277.mid
+midi_dir: Track00652/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1677540979892107
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.50687134365153
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.50882541609749
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.506834272005094
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.50685524780292
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.50673453064559
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.508334594350327
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.50479873767257
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.50613828881544
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 82
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.5069204506386
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.50687539044365
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S10:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+  S11:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+target_peak: -1.0

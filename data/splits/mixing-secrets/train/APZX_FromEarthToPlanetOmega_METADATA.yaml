@@ -1,0 +1,421 @@
+album: ''
+artist: APZX
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: APZX_FromEarthToPlanetOmega_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: APZX_FromEarthToPlanetOmega_RAW
+stem_dir: APZX_FromEarthToPlanetOmega_STEMS
+stems:
+  S01:
+    component: ''
+    filename: APZX_FromEarthToPlanetOmega_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 06_Ride.wav
+        instrument: Ride
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 04_Snare2.wav
+        instrument: Snare
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_Snare1.wav
+        instrument: Snare
+      R04:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 07_Crash.wav
+        instrument: Crash
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 02_Kick2.wav
+        instrument: Kick
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_Kick1.wav
+        instrument: Kick
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: 05_Hat.wav
+        instrument: Hat
+  S02:
+    component: ''
+    filename: APZX_FromEarthToPlanetOmega_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 13_SynthBass2.wav
+        instrument: SynthBass
+      R010:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 34_SynthMel9.wav
+        instrument: SynthMel
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 26_SynthMel1.wav
+        instrument: SynthMel
+      R03:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 23_SynthPad2.wav
+        instrument: SynthPad
+      R04:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 32_SynthMel7.wav
+        instrument: SynthMel
+      R05:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 30_SynthMel5.wav
+        instrument: SynthMel
+      R06:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 33_SynthMel8.wav
+        instrument: SynthMel
+      R07:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 19_SynthArp4.wav
+        instrument: SynthArp
+      R08:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 22_SynthPad1.wav
+        instrument: SynthPad
+      R09:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 18_SynthArp3.wav
+        instrument: SynthArp
+      R11:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 14_SynthBass3.wav
+        instrument: SynthBass
+      R12:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 20_SynthStabs1.wav
+        instrument: SynthStabs
+      R13:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 12_SynthBass1.wav
+        instrument: SynthBass
+      R14:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 21_SynthStabs2.wav
+        instrument: SynthStabs
+      R15:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 25_SynthPad4.wav
+        instrument: SynthPad
+      R16:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 29_SynthMel4.wav
+        instrument: SynthMel
+      R17:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 15_SynthBass4.wav
+        instrument: SynthBass
+      R18:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 24_SynthPad3.wav
+        instrument: SynthPad
+      R19:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 31_SynthMel6.wav
+        instrument: SynthMel
+      R20:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 17_SynthArp2.wav
+        instrument: SynthArp
+      R21:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 28_SynthMel3.wav
+        instrument: SynthMel
+      R22:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 16_SynthArp1.wav
+        instrument: SynthArp
+      R23:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 27_SynthMel2.wav
+        instrument: SynthMel
+  S03:
+    component: ''
+    filename: APZX_FromEarthToPlanetOmega_STEM_sfx.wav
+    instrument: fx/processed sound
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 47_SFX11.wav
+        instrument: SFX
+      R010:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 48_SFX12.wav
+        instrument: SFX
+      R02:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 55_SFX19.wav
+        instrument: SFX
+      R03:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 46_SFX10.wav
+        instrument: SFX
+      R04:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 43_SFX07.wav
+        instrument: SFX
+      R05:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 37_SFX01.wav
+        instrument: SFX
+      R06:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 52_SFX16.wav
+        instrument: SFX
+      R07:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 41_SFX05.wav
+        instrument: SFX
+      R08:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 50_SFX14.wav
+        instrument: SFX
+      R09:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 53_SFX17.wav
+        instrument: SFX
+      R11:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 57_SFX21.wav
+        instrument: SFX
+      R12:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 58_SFX22.wav
+        instrument: SFX
+      R13:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 54_SFX18.wav
+        instrument: SFX
+      R14:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 38_SFX02.wav
+        instrument: SFX
+      R15:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 59_SFX23.wav
+        instrument: SFX
+      R16:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 44_SFX08.wav
+        instrument: SFX
+      R17:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 60_SFX24.wav
+        instrument: SFX
+      R18:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 51_SFX15.wav
+        instrument: SFX
+      R19:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 42_SFX06.wav
+        instrument: SFX
+      R20:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 39_SFX03.wav
+        instrument: SFX
+      R21:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 40_SFX04.wav
+        instrument: SFX
+      R22:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 56_SFX20.wav
+        instrument: SFX
+      R23:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 49_SFX13.wav
+        instrument: SFX
+      R24:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: 45_SFX09.wav
+        instrument: SFX
+  S04:
+    component: ''
+    filename: 09_Percussion2.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 09_Percussion2.wav
+        instrument: Percussion
+  S05:
+    component: ''
+    filename: 11_Percussion4.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 11_Percussion4.wav
+        instrument: Percussion
+  S06:
+    component: ''
+    filename: 35_Organ1.wav
+    instrument: electronic organ
+    raw:
+      R01:
+        ++CLASS++: organ
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 35_Organ1.wav
+        instrument: Organ
+  S07:
+    component: ''
+    filename: 36_Organ2.wav
+    instrument: electronic organ
+    raw:
+      R01:
+        ++CLASS++: organ
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 36_Organ2.wav
+        instrument: Organ
+  S08:
+    component: ''
+    filename: 08_Percussion1.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 08_Percussion1.wav
+        instrument: Percussion
+  S09:
+    component: ''
+    filename: 10_Percussion3.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 10_Percussion3.wav
+        instrument: Percussion
+title: FromEarthToPlanetOmega
+version: '3.0'
+website: ''

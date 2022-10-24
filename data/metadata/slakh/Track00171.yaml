@@ -1,0 +1,135 @@
+UUID: 945826c02033d5ad1522be69fe1abe3a
+audio_dir: Track00171/stems
+lmd_midi_dir: lmd_matched/G/Z/S/TRGZSPR128F42771F9/945826c02033d5ad1522be69fe1abe3a.mid
+midi_dir: Track00171/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.11443577805328402
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.830101278740667
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.830170868699078
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 2
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -31.830139158728443
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -31.830201224948105
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.83014346738269
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -31.82918440853074
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.830220890282103
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -31.830053883425766
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -31.830204752678036
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: mute_trumpet.nkm
+    program_num: 56
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -31.830109450068893
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone.nkm
+    program_num: 57
+  S10:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -31.830072921875452
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 65
+  S11:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -31.830112376277032
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.83039425692181
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.830447369957263
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

@@ -1,0 +1,339 @@
+album: ''
+artist: MR1204
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MR1204_JokersJacksKings_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MR1204_JokersJacksKings_RAW
+stem_dir: MR1204_JokersJacksKings_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MR1204_JokersJacksKings_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 06_DrumsRoom.wav
+        instrument: DrumsRoom
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 08_Tom2.wav
+        instrument: Tom
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 05_Overheads.wav
+        instrument: Overheads
+      R08:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 07_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: MR1204_JokersJacksKings_STEM_synth.wav
+    instrument: synthesizer
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 27_SynthLead.wav
+        instrument: SynthLead
+      R02:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 26_SynthPad.wav
+        instrument: SynthPad
+  S03:
+    component: ''
+    filename: 19_ElecGtr5Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 19_ElecGtr5Mic1.wav
+        instrument: distorted electric guitar
+  S04:
+    component: ''
+    filename: 11_ElecGtr1Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 11_ElecGtr1Mic1.wav
+        instrument: distorted electric guitar
+  S05:
+    component: ''
+    filename: 20_ElecGtr5Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 20_ElecGtr5Mic2.wav
+        instrument: distorted electric guitar
+  S06:
+    component: ''
+    filename: 14_ElecGtr2Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 14_ElecGtr2Mic2.wav
+        instrument: distorted electric guitar
+  S07:
+    component: ''
+    filename: 28_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 28_LeadVox.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 29_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 29_BackingVox1.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 21_ElecGtr6Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 21_ElecGtr6Mic1.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 10_BassAmp.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 10_BassAmp.wav
+        instrument: electric bass
+  S11:
+    component: ''
+    filename: 24_ElecGtr7Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 24_ElecGtr7Mic2.wav
+        instrument: clean electric guitar
+  S12:
+    component: ''
+    filename: 18_ElecGtr4Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 18_ElecGtr4Mic2.wav
+        instrument: distorted electric guitar
+  S13:
+    component: ''
+    filename: 31_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 31_BackingVox3.wav
+        instrument: male singer
+  S14:
+    component: ''
+    filename: 32_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 32_BackingVox4.wav
+        instrument: male singer
+  S15:
+    component: ''
+    filename: 33_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 33_BackingVox5.wav
+        instrument: male singer
+  S16:
+    component: ''
+    filename: 09_BassDI.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 09_BassDI.wav
+        instrument: electric bass
+  S17:
+    component: ''
+    filename: 12_ElecGtr1Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 12_ElecGtr1Mic2.wav
+        instrument: distorted electric guitar
+  S18:
+    component: ''
+    filename: 16_ElecGtr3Mic2.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 16_ElecGtr3Mic2.wav
+        instrument: distorted electric guitar
+  S19:
+    component: ''
+    filename: 15_ElecGtr3Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 15_ElecGtr3Mic1.wav
+        instrument: distorted electric guitar
+  S20:
+    component: ''
+    filename: 22_ElecGtr6Mic2.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 22_ElecGtr6Mic2.wav
+        instrument: clean electric guitar
+  S21:
+    component: ''
+    filename: 25_ElecGtr8.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 25_ElecGtr8.wav
+        instrument: distorted electric guitar
+  S22:
+    component: ''
+    filename: 13_ElecGtr2Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 13_ElecGtr2Mic1.wav
+        instrument: distorted electric guitar
+  S23:
+    component: ''
+    filename: 30_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 30_BackingVox2.wav
+        instrument: male singer
+  S24:
+    component: ''
+    filename: 17_ElecGtr4Mic1.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: 17_ElecGtr4Mic1.wav
+        instrument: distorted electric guitar
+  S25:
+    component: ''
+    filename: 23_ElecGtr7Mic1.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 23_ElecGtr7Mic1.wav
+        instrument: clean electric guitar
+title: JokersJacksKings
+version: '3.0'
+website: ''

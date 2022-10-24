@@ -1,0 +1,99 @@
+UUID: ce3f07b8df962fbfa2b50525a3e25de7
+audio_dir: Track01984/stems
+lmd_midi_dir: lmd_matched/V/I/T/TRVITPU128F429D1B4/ce3f07b8df962fbfa2b50525a3e25de7.mid
+midi_dir: Track01984/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15675325701728626
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.17940878387325
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.546748747186285
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.20393467807374
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.07612783328965
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.077648414431803
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.261058295651154
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.211188891354062
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.902335386208037
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -15.165102330211623
+    is_drum: false
+    midi_program_name: Contrabass
+    midi_saved: true
+    plugin_name: solo_strings.nkm
+    program_num: 43
+  S09:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -22.31774520687243
+    is_drum: false
+    midi_program_name: Glockenspiel
+    midi_saved: true
+    plugin_name: hybrid_keys_futurebells.nkm
+    program_num: 9
+target_peak: -1.0

@@ -1,0 +1,108 @@
+UUID: d01549636553342f186a4bac52af3a44
+audio_dir: Track00991/stems
+lmd_midi_dir: lmd_matched/W/G/S/TRWGSUV128F4269EAA/d01549636553342f186a4bac52af3a44.mid
+midi_dir: Track00991/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17270751218290267
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.246574087081942
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.25682222739087
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.25385441177544
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 88
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.254470821603675
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.236811204481654
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.254500369111863
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.254232122697218
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.25388714249836
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.254215926593236
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.254473112913725
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.254018218141404
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+target_peak: -1.0

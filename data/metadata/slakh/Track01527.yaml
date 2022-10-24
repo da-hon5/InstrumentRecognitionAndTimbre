@@ -1,0 +1,99 @@
+UUID: abce63749316a2c003f7eba4ed103bc8
+audio_dir: Track01527/stems
+lmd_midi_dir: lmd_matched/T/C/E/TRTCERX128EF353933/abce63749316a2c003f7eba4ed103bc8.mid
+midi_dir: Track01527/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1693389748343098
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -19.99334451330107
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.210301054117657
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.56949826042589
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -12.190774679116155
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 16
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.198584249067814
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.138859842065386
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.29657003421371
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.339059996265094
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S08:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -14.894453588681257
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hard_n_dirty.nkm
+    program_num: 82
+  S09:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.087935156243438
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+target_peak: -1.0

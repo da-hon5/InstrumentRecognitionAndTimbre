@@ -1,0 +1,72 @@
+UUID: 187133376e456518a36be724f4c3f52c
+audio_dir: Track00880/stems
+lmd_midi_dir: lmd_matched/S/X/A/TRSXAVA12903CB93EA/187133376e456518a36be724f4c3f52c.mid
+midi_dir: Track00880/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19324350978460955
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.195068880369856
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 3
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.598635449990038
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.392066052049966
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.147002597791477
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.2771384433096
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.242753330617887
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.356159720384674
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

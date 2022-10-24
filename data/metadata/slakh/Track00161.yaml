@@ -1,0 +1,72 @@
+UUID: 702708bc27aea034cbe7f68cca2483e4
+audio_dir: Track00161/stems
+lmd_midi_dir: lmd_matched/H/H/Z/TRHHZRC128F4243455/702708bc27aea034cbe7f68cca2483e4.mid
+midi_dir: Track00161/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15928316975004078
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.959869993981663
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 71
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.95687482470732
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.958150762977006
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.956918186311373
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.956008038416968
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.95671679689685
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.95781064934207
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

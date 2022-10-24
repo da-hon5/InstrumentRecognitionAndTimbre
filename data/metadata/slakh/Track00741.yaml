@@ -1,0 +1,107 @@
+UUID: 26e82b06f7d58898ae263f4c9f333e00
+audio_dir: Track00741/stems
+lmd_midi_dir: lmd_matched/G/L/F/TRGLFOX128F4230A69/26e82b06f7d58898ae263f4c9f333e00.mid
+midi_dir: Track00741/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2217055686901987
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.083962146373995
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.08339568067108
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.08328534761456
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboe_essential.nkm
+    program_num: 68
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.069879849230816
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.08396826711025
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.08350515370229
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 5
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.083496532492823
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 80
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.083361454134636
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.083633322665886
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.08371576983348
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 81
+target_peak: -1.0

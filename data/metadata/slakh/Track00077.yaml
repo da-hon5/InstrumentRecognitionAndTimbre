@@ -1,0 +1,117 @@
+UUID: b94e2131c579f63e4ddadd415ca8354c
+audio_dir: Track00077/stems
+lmd_midi_dir: lmd_matched/S/U/D/TRSUDGY128F92E1728/b94e2131c579f63e4ddadd415ca8354c.mid
+midi_dir: Track00077/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18428840182637551
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.75022173890499
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.711582467612942
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.3315993899475
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.272373131931383
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -19.263208256518688
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 17
+  S05:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -24.19983228728405
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: xylophone.nkm
+    program_num: 12
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -17.875897380395966
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.758573028676988
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.59229333562405
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -19.790635845837695
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 17
+  S10:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -23.230749241083007
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: xylophone.nkm
+    program_num: 12
+  S11:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.827179274266193
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+target_peak: -1.0

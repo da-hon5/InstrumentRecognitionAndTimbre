@@ -1,0 +1,99 @@
+UUID: e1f8fba8ebc18873531acd40ada660d0
+audio_dir: Track00356/stems
+lmd_midi_dir: lmd_matched/J/F/G/TRJFGYO128F4259743/e1f8fba8ebc18873531acd40ada660d0.mid
+midi_dir: Track00356/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.25168962740039386
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.64108005237632
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.415649525125456
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.132677957500427
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.929702456217042
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.186175035395898
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.721614667548124
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_section.nkm
+    program_num: 56
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -21.464797865188547
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_ensemble.nkm
+    program_num: 40
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.703249709224366
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.894731055498465
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 53
+  S09:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.813563273595427
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 18
+target_peak: -1.0

@@ -1,0 +1,81 @@
+UUID: 8e1cb07297961c4dfb02915a9aecf458
+audio_dir: Track00109/stems
+lmd_midi_dir: lmd_matched/Y/Y/H/TRYYHOC128F931104E/8e1cb07297961c4dfb02915a9aecf458.mid
+midi_dir: Track00109/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17683892110281635
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.0497061590684
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.049278023606178
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.04962991287351
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.049574293215652
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.05112969159864
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.049357592675005
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.049543378602667
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.04955626318962
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+target_peak: -1.0

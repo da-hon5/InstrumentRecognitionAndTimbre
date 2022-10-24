@@ -1,0 +1,117 @@
+UUID: 91531181d85d2e62f2784a4761252350
+audio_dir: Track01284/stems
+lmd_midi_dir: lmd_matched/K/C/H/TRKCHUH128F4244F94/91531181d85d2e62f2784a4761252350.mid
+midi_dir: Track01284/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18221478229757454
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.790076536636644
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 3
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.78996695957463
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.790063285232716
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.789988193414413
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.79006204004533
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 94
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.789927465499925
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.78989768748878
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.790059088038493
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -27.78992375940992
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_hot_tropics.nkm
+    program_num: 11
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.78980883720176
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.79007003298301
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.790400561316318
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

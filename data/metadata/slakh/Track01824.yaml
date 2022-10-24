@@ -1,0 +1,99 @@
+UUID: 321841cb9f6327229fe14acbc6fbb874
+audio_dir: Track01824/stems
+lmd_midi_dir: lmd_matched/C/D/E/TRCDEFR12903CE7020/321841cb9f6327229fe14acbc6fbb874.mid
+midi_dir: Track01824/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19788611050255336
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.072733215426776
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.072227477733417
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.073296442196707
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.072239739573316
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.07186844924803
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_solo.nkm
+    program_num: 40
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.073160164143935
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.073161789208456
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.072060247692566
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.07218835276835
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone_section.nkm
+    program_num: 57
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.072353667593998
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 84
+target_peak: -1.0

@@ -1,0 +1,55 @@
+instrument    |           multi-mapping              |           single-mapping
+
+piano           -> keys, piano                                  -> piano
+drums           -> percussion, drums                            -> drums
+a-guitar        -> plucked-strings, guitar                      -> a-guitar
+e-guitar        -> plucked-strings, electro, guitar             -> e-guitar
+e-bass          -> plucked-strings, electro, bass               -> bass
+contrabass      -> plucked-strings, bowed-strings, bass         -> bass
+cello           -> bowed-strings                                -> bowed-strings
+viola           -> bowed-strings                                -> bowed-strings
+violin          -> bowed-strings                                -> bowed-strings
+vocals          -> voice                                        -> voice
+speech          -> voice                                        -> voice
+synth           -> electro                                      -> synth
+cembalo         -> keys, plucked-strings                        -> plucked-strings
+e-piano         -> keys, electro                                -> keys
+keyboard        -> keys, electro                                -> keys
+hammond         -> keys, electro                                -> organ
+orgel           -> keys, flute                                  -> organ
+querflöte       -> flute                                        -> flute
+blockflöte      -> flute                                        -> flute
+oboe            -> reed                                         -> reed
+fagott          -> reed                                         -> reed
+klarinette      -> reed                                         -> reed
+saxophon        -> reed                                         -> reed
+horn            -> brass                                        -> brass
+trompete        -> brass                                        -> brass
+tuba            -> brass, bass                                  -> brass
+xylophone       -> percussion                                   -> percussion
+marimba         -> percussion                                   -> percussion
+vibraphon       -> percussion                                   -> percussion
+gr trommel      -> percussion                                   -> percussion
+kl trommel      -> percussion                                   -> percussion
+pauken          -> percussion                                   -> percussion
+bongos          -> percussion                                   -> percussion
+becken          -> percussion                                   -> percussion
+gong            -> percussion                                   -> percussion
+triangel        -> percussion                                   -> percussion
+cowbell         -> percussion                                   -> percussion
+maracas         -> percussion                                   -> percussion
+banjo           -> plucked-strings                              -> plucked-strings
+laute           -> plucked-strings                              -> plucked-strings
+harfe           -> plucked-strings                              -> plucked-strings
+zither          -> plucked-strings                              -> plucked-strings
+akkordeon       -> keys, reed (?)                               -> free-reeds
+mundharmonika   -> reed (?)                                     -> free-reeds
+
+--------------------------------------------------------------------------------------
+tags:
+
+ * multi-mapping: [drums, piano, voice, guitar, bowed-strings, plucked-strings, 
+                  flute, reed, brass, percussion, electro, keys, bass]
+
+ * single-mapping: [drums, piano, voice, a-guitar, e-guitar, bass, bowed-strings, 
+                   plucked-strings, flute, reed, brass, percussion, keys, organ, free-reeds]

@@ -1,0 +1,108 @@
+UUID: 993efe15abba2d83f434c2b55e565cc1
+audio_dir: Track01115/stems
+lmd_midi_dir: lmd_matched/V/A/V/TRVAVXA128F932D864/993efe15abba2d83f434c2b55e565cc1.mid
+midi_dir: Track01115/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20912768256522513
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.410262719032886
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.9112668826619
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.062177419175232
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.914843188427309
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -18.04289766074317
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 75
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -20.00597374634208
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 82
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.31614625184782
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.05623049217864
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.030982043148
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S09:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.762526942758953
+    is_drum: false
+    midi_program_name: Lead 4 (chiff)
+    midi_saved: true
+    plugin_name: pimped_analog_saw.nkm
+    program_num: 83
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.562518835569128
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+target_peak: -1.0

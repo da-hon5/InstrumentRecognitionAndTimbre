@@ -1,0 +1,126 @@
+UUID: 1dc5fe0fc7dbe850b98ac7ef69c5bc33
+audio_dir: Track01243/stems
+lmd_midi_dir: lmd_matched/W/W/V/TRWWVGU128F932D8F3/1dc5fe0fc7dbe850b98ac7ef69c5bc33.mid
+midi_dir: Track01243/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15086494347849094
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -16.905324991078604
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 11
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.100696853551316
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.27447752753505
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.824759118658807
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.298752146886095
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -20.318609286694745
+    is_drum: false
+    midi_program_name: Orchestral Harp
+    midi_saved: true
+    plugin_name: harp.nkm
+    program_num: 46
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.424271697445132
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -23.537969438341694
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.613765734378614
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.99473359726621
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.148783642541225
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 6
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.79002737955077
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 0
+  S12:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -18.05485473030477
+    is_drum: false
+    midi_program_name: Tubular Bells
+    midi_saved: true
+    plugin_name: glockenspiel.nkm
+    program_num: 14
+target_peak: -1.0

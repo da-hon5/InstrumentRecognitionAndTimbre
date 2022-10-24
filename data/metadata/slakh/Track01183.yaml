@@ -1,0 +1,114 @@
+UUID: d0ff03b5b88b1ef806858e5a531b80ff
+audio_dir: Track01183/stems
+lmd_midi_dir: lmd_matched/B/T/F/TRBTFZY128E07922B1/d0ff03b5b88b1ef806858e5a531b80ff.mid
+midi_dir: Track01183/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17280000285550046
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.25002640574623
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.2500212304844
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.250028815561915
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.2500237153638
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 84
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.25002013582836
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -28.250024076320997
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: jazz_organ.nkm
+    program_num: 17
+  S06:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Fiddle
+    midi_saved: false
+    plugin_name: None
+    program_num: 110
+  S07:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 56
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.250047469908452
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.2502342918703
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Organ
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 16
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.253142931466023
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 66
+target_peak: -1.0

@@ -1,0 +1,150 @@
+UUID: 65a89d915d127a7894e4929ee9659e7e
+audio_dir: Track01352/stems
+lmd_midi_dir: lmd_matched/L/I/E/TRLIENS128F429B2C3/65a89d915d127a7894e4929ee9659e7e.mid
+midi_dir: Track01352/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18445461407765687
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.681124268307872
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.68195293750429
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.682388348528605
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: transistor_continental.nkm
+    program_num: 18
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.682517455826257
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: oboes_essential.nkm
+    program_num: 68
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.68226847291915
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.681205985021432
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.681115233491994
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 54
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.68218517552422
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.6826640873124
+    is_drum: false
+    midi_program_name: Recorder
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 74
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.681431911114778
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.682391765864406
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 89
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.682583596168417
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.68109852645682
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S15:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+target_peak: -1.0

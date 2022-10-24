@@ -1,0 +1,70 @@
+UUID: b1dc69e77320e3b474a1c0b34ac0de23
+audio_dir: Track00903/stems
+lmd_midi_dir: lmd_matched/C/D/E/TRCDEFR12903CE7020/b1dc69e77320e3b474a1c0b34ac0de23.mid
+midi_dir: Track00903/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.24888169242014624
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.079399125424867
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Piano
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S02:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Banjo
+    midi_saved: false
+    plugin_name: None
+    program_num: 105
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.079403039845968
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.079404866118534
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.07940490460133
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.07939520277768
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+target_peak: -1.0

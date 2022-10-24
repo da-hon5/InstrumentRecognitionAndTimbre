@@ -1,0 +1,81 @@
+UUID: 724e3e9eebe097fe268b6ce6261bf8d1
+audio_dir: Track01298/stems
+lmd_midi_dir: lmd_matched/Q/U/V/TRQUVBW128F1474E9A/724e3e9eebe097fe268b6ce6261bf8d1.mid
+midi_dir: Track01298/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17203763591146298
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.551512179242895
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.727419199527997
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.52163204247565
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 22
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.662440529855258
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.107064514883213
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.224792656381013
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.284884014941643
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.544940117735031
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+target_peak: -1.0

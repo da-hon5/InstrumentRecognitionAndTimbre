@@ -1,0 +1,98 @@
+UUID: 57c87f278ff71fc6d3b02fe8d23abd8a
+audio_dir: Track01567/stems
+lmd_midi_dir: lmd_matched/C/I/V/TRCIVPP12903CAB2F2/57c87f278ff71fc6d3b02fe8d23abd8a.mid
+midi_dir: Track01567/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18382743764681822
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.71278965349344
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.712793483523274
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 3
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.712732888604748
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 2
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.712252211447115
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.71249008397432
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.712506811872966
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.714083099418097
+    is_drum: false
+    midi_program_name: Cello
+    midi_saved: true
+    plugin_name: cello_solo.nkm
+    program_num: 42
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.712483339592715
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.712426720095255
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 45
+target_peak: -1.0

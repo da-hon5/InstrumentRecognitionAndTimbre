@@ -1,0 +1,125 @@
+UUID: a178d7e47a1c9b130ad53da42120ff4c
+audio_dir: Track01055/stems
+lmd_midi_dir: lmd_matched/R/I/H/TRRIHTD128F92DFF10/a178d7e47a1c9b130ad53da42120ff4c.mid
+midi_dir: Track01055/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14420409135019246
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.443675423704644
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.855351376941414
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 51
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.328671304545164
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -29.15120934610876
+    is_drum: false
+    midi_program_name: Xylophone
+    midi_saved: true
+    plugin_name: hybrid_keys_tube_vibraphone.nkm
+    program_num: 13
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.67559222220508
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.329696917403925
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.602893901503233
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.893995342643777
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.047714222985743
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 89
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.6359176525876
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.594896932287146
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 53
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.776889315527407
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+target_peak: -1.0

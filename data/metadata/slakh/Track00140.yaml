@@ -1,0 +1,72 @@
+UUID: 32a77aafb04ea1281a104e32f0e1718e
+audio_dir: Track00140/stems
+lmd_midi_dir: lmd_matched/P/F/E/TRPFEYG128F92FD84C/32a77aafb04ea1281a104e32f0e1718e.mid
+midi_dir: Track00140/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13716380905448403
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.658788559814194
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.58791538740052
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.255190269825412
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.93314548402549
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.963102606460343
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.697599999573594
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.319003306286895
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+target_peak: -1.0

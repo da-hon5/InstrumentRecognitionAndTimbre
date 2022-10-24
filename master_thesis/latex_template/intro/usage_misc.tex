@@ -1,0 +1,71 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Miscellaneous}{intro:misc}
+
+The template also provides several commands that make life easier. The ``reminder'' commands, for example, can be used to \reminder{mark something that should be revised}, but also as a placeholder for leftout parts of a \rem, if there is some open question \remq, or you have to look up some reference \remc. They can easily be found in the source code: Just search for \verb|\rem|. A second group of commands is used to create nice value-unit pairs, such as f=\SI{3}{\kilo\hertz}, \SI{2}{\permille}, or \SI{12.3(4)}{\kilo\gram}.
+
+\vspace{5mm}
+Some other examples of SI unit usage:
+\begin{itemize}
+\item \verb|\SI{1.7e2}{\pico\joule\per\kilo\gram\squared}| will be \SI{1.7e2}{\pico\joule\per\kilo\gram\squared}
+\item \verb|\SI{2.8}{\meter\tothe{5}}| to the example: \SI{2.8}{\meter\tothe{5}}
+\item \verb|\SI{2 x 3 x 4}{\milli\meter}| volume example: \SI{2 x 3 x 4}{\milli\meter}
+\item \verb|\num{12345678}| will be 12 345 678 in german and 12.345.678 in english without changing this source file
+\item \verb|\ang{13;14;15}| angle example: \ang{13;14;15}
+\item \verb|\SIrange{1}{10}{\m}| Range example: \SIrange{1}{10}{\m}
+\end{itemize}
+
+\nxtpar\noindent
+Oh, by the way: This section is \uc
+
+\newsection{Citation}{intro:cite}
+For citing a new reference, e.g. a book \autocite{Mowlaee2016} or URL \autocite{Example:Url}, you have to add an entry to \verb|./bib/bibliography.bib|.
+
+\newsection{Acronyms}{intro:acn}
+Generally, every acronym should be written in full at its first occurence including the short term which is used onwards. To make life easier, you can define acronyms using \verb|\newacronym| in the \verb|acronyms.tex| file and use it with \verb|\gls{label}| (singular) or \verb|\glspl{label}| (plural). So first you define the \gls{pcb} and then only the acronym is used, i.e. \gls{pcb} or \glspl{pcb}.
+
+\newsection{Good to know}{intro:gtk}
+\begin{itemize}
+\item \verb|There will be~no linebreak between no and be.|
+\item \verb|\hspace{10mm} and \vspace{10mm} can be used to create arbitrary amounts of space.|
+\item \verb|\hfill will use the rest of the horizontal space in a line.|
+\item \verb|- will create a hyphen (Bindestrich)|
+\item \verb|-- will create a dash (Gedankenstrich)|
+\item \verb|$-$ will create a minus (Mathematisches Minus)|
+\item \verb|\url{https://example.org/main.php?param=1&param2=1} (verlinkt)|
+\item \verb|\path{C:\Windows\system32\} (verlinkt)|
+\end{itemize}
+
+\vspace{5mm}
+Syllabification (Silbentrennung):
+\begin{itemize}
+\item \verb|Syl"-labification would tell Latex another breaking point after the l.| Note that the hyphen will not be printed.
+\item \verb|Syl""labification would tell Latex another breaking point after the l.| This time it will be broken without a hyphen. This makes sense for words which already include a hyphen.
+\item \verb|\mbox{midnightlunch} forbids latex to break the word completely.|
+\end{itemize}
+
+\vspace{5mm}
+Enumerations can be done using one of these environments:
+\begin{description}
+\item[enumerate] using numbers
+\item[itemize] using bullets
+\item[description] looks like this list
+\end{description}
+
+\vspace{5mm}
+Referencing prefix list supported by \verb|\fref|:
+\begin{description}
+\item[chp] chapter
+\item[sec] section
+\item[fig] figure
+\item[tab] table
+\item[eq] equation
+\item[lst] listing
+\item[enum] enumeration
+\end{description}
+
+\vspace{5mm}
+Enquoting \enquote{stuff} should be done with \verb|\enquote{stuff}|, because it \enquote{translates} the quotes into the style commonly used in the desired language.
+
+
+

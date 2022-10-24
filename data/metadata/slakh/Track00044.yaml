@@ -1,0 +1,143 @@
+UUID: eb125e4c8ddf36ff026a8fc8543a8d45
+audio_dir: Track00044/stems
+lmd_midi_dir: lmd_matched/R/A/H/TRRAHBV128F933D3A2/eb125e4c8ddf36ff026a8fc8543a8d45.mid
+midi_dir: Track00044/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21524423512945154
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.41335878912925
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 94
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -14.824829704531941
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 94
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.581616746002886
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 94
+  S03:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.525597535438305
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.753583781219685
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.639797382237383
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.955756243071075
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.96612630173818
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 95
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.86765202684979
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 7
+  S10:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.208181070376893
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 81
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.574181154796065
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.73151515962265
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.767584926456596
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -9.28854956891998
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+target_peak: -1.0

@@ -1,0 +1,107 @@
+UUID: 534a05b898f4f3e51f6a8f66e05fd84d
+audio_dir: Track00125/stems
+lmd_midi_dir: lmd_matched/K/N/I/TRKNINM128F92DF6E9/534a05b898f4f3e51f6a8f66e05fd84d.mid
+midi_dir: Track00125/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2210396052843761
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Gunshot
+    midi_saved: false
+    plugin_name: None
+    program_num: 127
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.111904556419653
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.11175261262404
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.077769808120742
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 6
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.111924878665015
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: hard_n_dirty.nkm
+    program_num: 80
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.111883935098398
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.11295576350805
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.11156918467586
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.111695442471767
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S09:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.111893323878288
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.11172643889753
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

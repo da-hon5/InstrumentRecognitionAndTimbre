@@ -1,0 +1,116 @@
+UUID: 79fd575b5bac7b6b7e55f1b146042daf
+audio_dir: Track00715/stems
+lmd_midi_dir: lmd_matched/K/L/W/TRKLWBY128F92D7A13/79fd575b5bac7b6b7e55f1b146042daf.mid
+midi_dir: Track00715/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18221573388656995
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.19219179923863
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.939421316727277
+    is_drum: false
+    midi_program_name: Pad 5 (bowed)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 92
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -20.944790896775498
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 89
+  S03:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.118533576204488
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.55968822415663
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.74441323220051
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.62237478232756
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.10965134470117
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.261655581327318
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.698740779294052
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S11:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.726073505662274
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 82
+target_peak: -1.0

@@ -1,0 +1,143 @@
+UUID: 8ec6b394d5c6e51153ec4eae484f4ba0
+audio_dir: Track00717/stems
+lmd_midi_dir: lmd_matched/D/K/S/TRDKSKE128F930A28A/8ec6b394d5c6e51153ec4eae484f4ba0.mid
+midi_dir: Track00717/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17149810803286752
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.316498443156288
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.315684234249787
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.315566525335246
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.316958793653665
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.317414534769846
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.315636476150257
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 84
+  S06:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -28.315584787580494
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: marimba.nkm
+    program_num: 12
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.315757119074977
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S08:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Kalimba
+    midi_saved: false
+    plugin_name: None
+    program_num: 108
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.31541600834398
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.31571501258577
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.315715437959643
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 93
+  S12:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.315707045522192
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 93
+  S13:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.315721584954428
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 93
+  S14:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -28.316994300572485
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 45
+target_peak: -1.0

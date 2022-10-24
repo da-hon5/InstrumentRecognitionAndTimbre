@@ -1,0 +1,63 @@
+UUID: 158b2bd230ec52158b8b7ae43664ea96
+audio_dir: Track01310/stems
+lmd_midi_dir: lmd_matched/Y/O/U/TRYOUXC128F92E7D9F/158b2bd230ec52158b8b7ae43664ea96.mid
+midi_dir: Track01310/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18979053363895207
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.434906889873847
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.433547044642868
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.4319830854158
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.432873749488948
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.43512999191508
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.43568195151848
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

@@ -1,0 +1,108 @@
+UUID: fa8fa03b16712a0e07201c98378200c7
+audio_dir: Track00359/stems
+lmd_midi_dir: lmd_matched/W/V/J/TRWVJPQ128F4254FD9/fa8fa03b16712a0e07201c98378200c7.mid
+midi_dir: Track00359/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1609038071612095
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.869719733882746
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.86971499717988
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.869719657911542
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.869714502016482
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.869721898708914
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.86971964561285
+    is_drum: false
+    midi_program_name: Lead 6 (voice)
+    midi_saved: true
+    plugin_name: mystic_lead.nkm
+    program_num: 85
+  S06:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.869713486810667
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 2
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.86972177477379
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 90
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.869719694792767
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.869715675752364
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 36
+  S10:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -28.86971332349621
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+target_peak: -1.0

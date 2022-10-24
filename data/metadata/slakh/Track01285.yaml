@@ -1,0 +1,125 @@
+UUID: 98e7c826651d2ad3c8019ad813af8215
+audio_dir: Track01285/stems
+lmd_midi_dir: lmd_matched/K/E/Z/TRKEZZH128E07859FD/98e7c826651d2ad3c8019ad813af8215.mid
+midi_dir: Track01285/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1790547171283507
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.944093506279142
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.940856328492487
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.944092141484937
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.94408795349598
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.942372522812885
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.93843605427684
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.94409657490779
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S08:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.94409047152151
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: musicology.nkm
+    program_num: 18
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.944107668589
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.94410260828444
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.944099140051723
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.944124156713677
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+target_peak: -1.0

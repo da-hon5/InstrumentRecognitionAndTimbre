@@ -1,0 +1,108 @@
+UUID: 186c69278bb43558704c5b6d19393af0
+audio_dir: Track01454/stems
+lmd_midi_dir: lmd_matched/Y/K/R/TRYKRAY128F9335BBE/186c69278bb43558704c5b6d19393af0.mid
+midi_dir: Track01454/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19991516789911581
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.982378338530097
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.982886133649192
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 7
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.982963975351517
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.966828101189368
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.982055981876325
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone_section.nkm
+    program_num: 57
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.981971462074274
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.98197315254205
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hard_n_dirty.nkm
+    program_num: 82
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.983976672649174
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.98302183637652
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.982015086100926
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.982626516237943
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+target_peak: -1.0

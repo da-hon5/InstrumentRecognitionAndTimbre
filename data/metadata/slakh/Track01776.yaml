@@ -1,0 +1,99 @@
+UUID: 3e40b706a6b7cc2b48fc8149dad7b929
+audio_dir: Track01776/stems
+lmd_midi_dir: lmd_matched/R/R/Y/TRRRYOS128F425D001/3e40b706a6b7cc2b48fc8149dad7b929.mid
+midi_dir: Track01776/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18770094311907923
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -18.73611970603533
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: marimba_essential.nkm
+    program_num: 10
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.290306371398945
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 3
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.939955128884574
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 6
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.47569014903671
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.489788877463017
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.818440917767465
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.306295382946853
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.7294547960958
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -23.168182633160267
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S09:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.978902058783971
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_quintet_essential.nkm
+    program_num: 68
+target_peak: -1.0

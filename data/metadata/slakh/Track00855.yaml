@@ -1,0 +1,98 @@
+UUID: 960a58b5db962bda92ca1773fda37656
+audio_dir: Track00855/stems
+lmd_midi_dir: lmd_matched/S/S/Z/TRSSZBQ128F426A883/960a58b5db962bda92ca1773fda37656.mid
+midi_dir: Track00855/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1874139078142841
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.53825246158036
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.546607100801232
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.546607139679416
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.542441449576344
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.548449738666324
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 88
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.548617590077658
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.546608827073992
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 66
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.5484150127638
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.543034992855954
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

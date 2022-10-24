@@ -1,0 +1,150 @@
+UUID: 9099067e56d202f19846eebe078c4076
+audio_dir: Track00561/stems
+lmd_midi_dir: lmd_matched/H/F/M/TRHFMOJ12903CC4D48/9099067e56d202f19846eebe078c4076.mid
+midi_dir: Track00561/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18104651926924953
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -27.845808405301213
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 75
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.845690779331274
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.845708950696196
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.845849428922207
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S04:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.845832799199474
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S06:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.84585846903007
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S08:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.845635139502317
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.845838580782843
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 45
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.845733166837945
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.84585311595852
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.84575890615645
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S14:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.847398845951513
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S15:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.845828888781725
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: jazz_upright.nkm
+    program_num: 32
+target_peak: -1.0

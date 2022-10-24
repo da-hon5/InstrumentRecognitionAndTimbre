@@ -1,0 +1,99 @@
+UUID: 001e636c9e719e108f1af82dce7aacf4
+audio_dir: Track00904/stems
+lmd_midi_dir: lmd_matched/G/P/A/TRGPAVL128F93390B7/001e636c9e719e108f1af82dce7aacf4.mid
+midi_dir: Track00904/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18656560516244874
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.584407068282808
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 66
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.58403955461444
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S02:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.584019686673543
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_2.nkm
+    program_num: 56
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.58403733951941
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.58404394220775
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.58404067765789
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.584044647590044
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.58398271568605
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.584047169073262
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.58406495947889
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 2
+target_peak: -1.0

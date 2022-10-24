@@ -1,0 +1,99 @@
+UUID: 82e9d7b593a585f76f47c7fe8823c4e3
+audio_dir: Track00364/stems
+lmd_midi_dir: lmd_matched/E/O/M/TREOMXZ128F42905E2/82e9d7b593a585f76f47c7fe8823c4e3.mid
+midi_dir: Track00364/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1726410037289639
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.123331063054724
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 0
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.01071287809635
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.736648241323316
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 18
+  S03:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.69271786331473
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 64
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.5326029984553
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 7
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.298950606510502
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.361751657699525
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.73009062938569
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.147032155247146
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 50
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -20.662311684307195
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+target_peak: -1.0

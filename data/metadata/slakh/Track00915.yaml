@@ -1,0 +1,72 @@
+UUID: 2e575e95ea11130c4c84b1bf299831df
+audio_dir: Track00915/stems
+lmd_midi_dir: lmd_matched/A/F/G/TRAFGCY128F92E5F6C/2e575e95ea11130c4c84b1bf299831df.mid
+midi_dir: Track00915/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.206592396822892
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.69772325476176
+    is_drum: false
+    midi_program_name: Honky-tonk Piano
+    midi_saved: true
+    plugin_name: august_foerster_grand.nkm
+    program_num: 3
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.69758285370379
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.69780843303253
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.69633128141032
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.69808263275692
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.698133864951597
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 89
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.696977405091125
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

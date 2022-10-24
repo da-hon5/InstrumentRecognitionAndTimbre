@@ -1,0 +1,107 @@
+UUID: d634880717b359cd555200365206322e
+audio_dir: Track00789/stems
+lmd_midi_dir: lmd_matched/V/R/T/TRVRTCQ128F4293569/d634880717b359cd555200365206322e.mid
+midi_dir: Track00789/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21425325958099792
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.38249472942643
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.382569663828892
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.38252571134041
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.382529062112404
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 34
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.38255484749794
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: crawling_lead.nkm
+    program_num: 81
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.382507567714793
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: cold_cave.nkm
+    program_num: 95
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.38246163915901
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S07:
+    audio_rendered: false
+    inst_class: Reed
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.38256819722268
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.382566802462236
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.3825501175457
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+target_peak: -1.0

@@ -1,0 +1,139 @@
+UUID: b68ff32e4d48d5c8821012e9ad2c9d65
+audio_dir: Track00834/stems
+lmd_midi_dir: lmd_matched/Z/U/M/TRZUMHK128F9334F40/b68ff32e4d48d5c8821012e9ad2c9d65.mid
+midi_dir: Track00834/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16268949948070183
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S01:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Agogo
+    midi_saved: false
+    plugin_name: None
+    program_num: 113
+  S02:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Taiko Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 116
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.77581122671582
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.769972242370162
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 80
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -28.770130498605656
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 89
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.77012773499281
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 35
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -28.77150299845915
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S08:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.770113757661623
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.770145753630104
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S11:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 63
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.77013084910044
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -28.773486090982853
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.77009715011201
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+target_peak: -1.0

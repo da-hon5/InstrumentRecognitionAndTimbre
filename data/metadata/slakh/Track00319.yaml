@@ -1,0 +1,108 @@
+UUID: 8bf685555e8029468be57462d13d7f91
+audio_dir: Track00319/stems
+lmd_midi_dir: lmd_matched/K/K/J/TRKKJHZ12903CF7C95/8bf685555e8029468be57462d13d7f91.mid
+midi_dir: Track00319/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1446821553711973
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.790461434078228
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.78950010810978
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 88
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.792777336273947
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -29.79218559054461
+    is_drum: false
+    midi_program_name: Tremolo Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 44
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.790051658166394
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.791951464771532
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.79379099371863
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -29.789692834849102
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 94
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.78932651018184
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.789522982514587
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.79012287256847
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+target_peak: -1.0

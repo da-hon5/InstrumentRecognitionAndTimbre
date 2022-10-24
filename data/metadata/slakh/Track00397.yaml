@@ -1,0 +1,72 @@
+UUID: ecf2e187c389d83c1596c74ef2826e62
+audio_dir: Track00397/stems
+lmd_midi_dir: lmd_matched/Q/D/P/TRQDPGX128F4265A77/ecf2e187c389d83c1596c74ef2826e62.mid
+midi_dir: Track00397/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17392560109470293
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -21.66277745179303
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.879762642108847
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.12011676903992
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -13.848307942804446
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.253238059967604
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.903475190309436
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 35
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -20.62119639440183
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+target_peak: -1.0

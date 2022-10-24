@@ -1,0 +1,81 @@
+UUID: bb597c9144c6f5c3e88ab2602dcca061
+audio_dir: Track00217/stems
+lmd_midi_dir: lmd_matched/D/K/S/TRDKSKE128F930A28A/bb597c9144c6f5c3e88ab2602dcca061.mid
+midi_dir: Track00217/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21507736538873162
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.344411044792015
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.348536247393405
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.34819580741803
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -26.34718713736596
+    is_drum: false
+    midi_program_name: Ocarina
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 79
+  S04:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.34773364973007
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.348725233784165
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.348087194394633
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.347191053650548
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+target_peak: -1.0

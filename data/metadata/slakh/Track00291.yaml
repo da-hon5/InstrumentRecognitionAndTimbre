@@ -1,0 +1,143 @@
+UUID: 3bfa242844b2a473e63d7e7c507e5e80
+audio_dir: Track00291/stems
+lmd_midi_dir: lmd_matched/H/E/X/TRHEXYE128F427BD29/3bfa242844b2a473e63d7e7c507e5e80.mid
+midi_dir: Track00291/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17955759010665018
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.214903897627018
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 26
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.92395527097071
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.798996919248463
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.318567990804635
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: trombone.nkm
+    program_num: 57
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.373615987544937
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -15.704334675981093
+    is_drum: false
+    midi_program_name: Tuba
+    midi_saved: true
+    plugin_name: tuba.nkm
+    program_num: 58
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.057179655964056
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.6931480794298
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 1
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.054549339900678
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -16.128439887238738
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 90
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.40502200577544
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.76745730950071
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S12:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S13:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -19.71851227375656
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S14:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -13.453760071783856
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+target_peak: -1.0

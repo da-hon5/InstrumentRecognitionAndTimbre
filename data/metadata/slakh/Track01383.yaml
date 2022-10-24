@@ -1,0 +1,99 @@
+UUID: c1f99b443d95da234edad6619c054386
+audio_dir: Track01383/stems
+lmd_midi_dir: lmd_matched/P/P/I/TRPPIYD128F145F3E2/c1f99b443d95da234edad6619c054386.mid
+midi_dir: Track01383/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1768695374234082
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.913272982715977
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.23782899649056
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.52992030668325
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.462433181217914
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.031391550529754
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.235354062346065
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 84
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -23.709225600203023
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 84
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.71202499774005
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -17.734476342855178
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 94
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -21.34297046195874
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+target_peak: -1.0

@@ -1,0 +1,133 @@
+UUID: fd1665b49947b09c00468f4c1890775f
+audio_dir: Track00399/stems
+lmd_midi_dir: lmd_matched/A/N/Q/TRANQNC12903CB0F2D/fd1665b49947b09c00468f4c1890775f.mid
+midi_dir: Track00399/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2138224008090875
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.397586525246705
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.398649694225146
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.397792194429353
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.398231533906976
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.397886137573007
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.39758426696205
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 66
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.398744706758055
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.38762350889843
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: muted_trumpet.nkm
+    program_num: 56
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.397601916572995
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: tenor_trombone.nkm
+    program_num: 57
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.3975887623396
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.39765769045288
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.398628811141947
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S12:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Breath Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 121
+  S13:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+target_peak: -1.0

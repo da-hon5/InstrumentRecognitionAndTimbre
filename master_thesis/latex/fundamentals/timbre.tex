@@ -1,0 +1,91 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Timbre Descriptors}{fundamentals:timbre}
+Timbre is a vague and complex concept, hence there is no consistent definition in the literature. Commonly, timbre is described as the attribute which allows the distinction of two different musical tones of the same duration, loudness and pitch~\cite[p. 284]{moore2012introduction}. In contrast to other musical attributes, timbre is multidimensional and therefore cannot be ordered on a scale. To enable objective measurement of certain properties related to timbre of a sound, countless audio features have been designed by \gls{mir} researchers. Timbre descriptors can be roughly classified into temporal, spectral and harmonic features. In the following sections, we will introduce some common timbre descriptors and show how they are computed. As an input, the audio signal $s(n)$ of length $N$ is considered. This signal can also be expressed in seconds as $s(t_n)$ with $t_n = \frac{n}{f_s}$, where $f_s$ is the sample rate. An extensive description and implementation (unfortunately only for MATLAB) of many audio features is provided in the \textit{Timbre Toolbox}~\cite{peeters2011timbre}.
+
+\newsubsection{Temporal Features}{fundamentals:timbre:temporal}
+These features, except for the zero-crossing rate, are computed on the energy envelope $e(t_n)$ of a time-domain signal $s(t_n)$. There are multiple ways to obtain $e(t_n)$, for instance by computing the \gls{rms} over short time intervals. It must be emphasized that features such as attack time or temporal centroid are best suited for single isolated instrument tones. When working with continuous recordings, i.e. musical phrases, onset detection is necessary, which implies its own problems especially if two or more notes overlap~\cite{david2004efficient}.\\~\\
+
+%\newsubsubsection{Zero-Crossing Rate}{fundamentals:timbre:temporal:zcr}
+The \textbf{\gls{zcr}} is computed directly from the audio signal $s(t_n)$. It measures the rate of sign changes and can be used to determine the noisiness of a signal. Periodic sounds usually have a small \gls{zcr} while noisy sounds  exhibit high \glspl{zcr}.\\~\\
+
+%\newsubsubsection{Attack Time}{fundamentals:timbre:temporal:attack-time}
+The \textbf{attack time} is the time between the start $t_{start}$ of a signal and its maximum value $t_{end}$. Often, $t_{start}$ is defined as the point in time where the energy envelope $e(t_n)$ reaches \SI{10}{\percent} of the signal's maximum for the first time. Usually, the logarithm of the attack time -- \textbf{log-attack time (LAT)} -- is used. As already mentioned, this feature is hard to compute for continuous real-world recordings, however, it plays an important role in the perception of isolated musical notes. Formally, the log-attack time is defined as:
+\begin{equation}
+LAT = \logb{10}{t_{end} - t_{start}}.
+\end{equation}\\
+
+%\newsubsubsection{Temporal Centroid}{fundamentals:timbre:temporal:centroid}
+The \textbf{temporal centroid (TC)} is the center of mass of $e(t_n)$ and can be calculated according to:
+\begin{equation}
+	TC = \frac{\displaystyle \sum_{n=1}^{N} t_n \cdot e(t_n)}{\displaystyle \sum_{n=1}^{N} e(t_n)}.
+\end{equation}
+\newsubsection{Spectral Features}{fundamentals:timbre:spectral}
+Spectral features describe the shape of a spectrum. All spectral features are computed from a \gls{stft} representation, hence the outputs are multidimensional vectors (one entry for each frame). In order to summarize these vectors as single scalar values, various statistics are applied. For that purpose, mean and standard deviation are often used. However, median and interquartile range are better suited as they are more robust to outliers caused by silent parts in the audio signal~\cite{peeters2011timbre}. We denote the time in seconds of frame $m$ of the \gls{stft} as $t_m$. Further, we label the frequency of the $k^{th}$ bin as $f_k$ and the corresponding amplitude at frame $t_m$ as $a_k(t_m)$ or $a_f(t_m)$ respectively.\\~\\
+
+%\newsubsubsection{Spectral Centroid}{fundamentals:timbre:spectral:centroid}
+Highly correlated with the perceived brightness of a sound, the \textbf{spectral centroid (SPC)} is considered an important timbre descriptor. It is defined as the center of gravity of a magnitude spectrum. With $K$ being the number of \gls{dft} points, the spectral centroid at time $t_m$ is defined as
+\begin{equation}
+SPC(t_m) = \frac{\displaystyle \sum_{k=1}^{K} f_k \cdot a_k(t_m)}{\displaystyle \sum_{k=1}^{K} a_k(t_m)}.
+\end{equation}\\
+
+%\newsubsubsection{Spectral Roll-Off}{fundamentals:timbre:spectral:roll-off}
+The frequency below which a certain percentage of the spectrum's energy is contained, for example \SI{85}{\percent}, is termed \textbf{spectral roll-off (SPR)} and can be computed as
+\begin{equation}
+ \displaystyle \sum_{f=0}^{SPR(t_m)} a_f^{2}(t_m) = 0.85 \displaystyle \sum_{f=0}^{f_s/2} a_f^{2}(t_m)
+\end{equation}
+where $SPR(t_m)$ is the spectral roll-off at time $t_m$ and $f_s$ is the sample rate.\\~\\
+
+%\newsubsubsection{Spectral Flatness}{fundamentals:timbre:spectral:flatness}
+The \textbf{spectral flatness (SPF)} is the ratio between the geometrical and the arithmetical mean of a spectrum. Noisy signals exhibit a flat spectrum and therefore SPF close to one, whereas SPF for tonal signals goes towards zero, i.e.
+\begin{equation}
+SPF(t_m) = \frac{\left(\displaystyle \prod_{k=1}^{K}a_k(t_m) \right)^{\frac{1}{K}}}{\displaystyle \frac{1}{K}\displaystyle \sum_{k=1}^{K} a_k(t_m)}.
+\end{equation}\\
+
+%\newsubsubsection{Mel-Frequency Cepstral Coefficients (MFCCs)}{fundamentals:timbre:spectral:mfcc}
+Popular in speech processing since the 1970s, \textbf{mel-frequency cepstral coefficients (MFCCs)} are useful for \gls{mir} tasks such as \gls{ir} as well~\cite{david2004efficient}. \Glspl{mfcc} are able to describe magnitude spectra in a very compact form, usually with about 10-20 coefficients. Multiple steps are required to compute \glspl{mfcc}~\cite{logan2000mfcc}: 
+\begin{itemize}
+	\item divide the audio signal into frames
+	\item compute the magnitude spectrum
+	\item take the logarithm
+	\item apply a mel-filter bank
+	\item compute the \gls{dct}
+\end{itemize}
+First of all, the signal is partitioned into small frames and each frame is multiplied with a window function to minimize the effect of leakage. The following steps are performed for every frame. Initially, the magnitude spectrum is computed using a \gls{dft}. Subsequently, since humans perceive the amplitude of sound on a logarithmic scale, the logarithm of this magnitude spectrum is taken. Afterwards, the spectrum is processed by a mel-scaled filter bank. The center frequencies of the individual triangular band pass filters follow the mel scale, which describes the relation of physical frequency in Hz to perceived frequency in \textit{mel}~\cite{stevens1937melscale}. The scale is approximately linear below \SI{1}{\kilo\hertz} and logarithmic above, as shown in Fig.~\ref{fig:mel-scale}. After filtering the spectrum with the mel-filter bank, we apply the \gls{dct} as a final compression step to obtain \glspl{mfcc}. The $0^{th}$ coefficient is proportional to the spectral energy, hence it contains no useful information and is therefore often discarded. Typically, the first 10 to 20 coefficients are sufficient to describe the overall shape of the spectrum. Additionally, the first and second order time derivatives, so-called \textit{Delta-MFCCs} and \textit{Delta-Delta-MFCCs}, are also frequently used as timbre descriptors.
+\figc{width=0.9\textwidth}{\pwd/figs/mel-scale}{Plot of the mel scale.}{mel-scale}
+
+\newsubsection{Harmonic Features}{fundamentals:timbre:harmonic}
+Harmonic features are computed using a sinusoidal harmonic partials representation as input~\cite[p. 306]{siedenburg2019timbre}. This representation is based on the fact that an audio signal $s(t_n)$ can be approximated by a sum of $H$ partials according to
+\begin{equation}
+	s(t_n) \approx \sum_{h=1}^{H} a_h(t_n) \cos(2\pi f_h(t_n) + \phi_{h,0}(t_n)).
+\end{equation}
+Assuming that $f_h(t_n)$ and $a_h(t_n)$ are only changing slowly over time, both can be estimated per frame $t_m$ in the frequency domain. Frequencies $f_h(t_m)$ close to integer multiples of the fundamental frequency $f_0(t_m)$ of each frame are used to describe the harmonic content of the audio signal. Unfortunately, F0 estimation is a challenging and error-prone task in the case of continuous recordings because several notes can overlap~\cite{david2004efficient}. Since harmonic features are time-varying, the same statistics as already introduced for spectral features can be applied to aggregate all frames into a single scalar.\\~\\
+
+%\newsubsubsection{Harmonic and Noise Energy}{fundamentals:timbre:harmonic:energy}
+After estimating the partials' frequencies and amplitudes, we can divide them into harmonic and inharmonic partials. The \textbf{harmonic energy (EH)} at time $t_m$ is the sum of the energy of all harmonic partials
+\begin{equation}
+   EH(t_m) = \sum_{h=1}^{H} a_h^{2}(t_m)
+\end{equation}
+whereas the \textbf{noise energy (EN)} represents the remaining spectrum
+ \begin{equation}
+ EN(t_m) = E_{total}(t_m) - EH(t_m).
+ \end{equation}\\
+ 
+%\newsubsubsection{Tristimulus}{fundamentals:timbre:harmonic:tristimulus}
+The \textbf{tristimulus} originates from the visual domain. The basic idea is that every possible color can be obtained by combining the three primary colors red, green and blue. Inspired by the visual domain, a tristimulus was proposed for the description of musical timbre as well~\cite{pollard1982tristimulus}. Therefore, the spectrum is first divided into multiple bands. After that, three different ratios between those bands are defined, resulting in the three tristimulus values
+\begin{equation}
+T1(t_m) = \frac{a_1(t_m)}{\displaystyle \sum_{h=1}^{H} a_h(t_m)},
+\end{equation}
+\begin{equation}
+T2(t_m) = \frac{a_2(t_m)+a_3(t_m)+a_4(t_m)}{\displaystyle \sum_{h=1}^{H} a_h(t_m)} \qquad \text{and}
+\end{equation}
+\begin{equation}
+T3(t_m) = \frac{\displaystyle \sum_{h=5}^{H} a_h(t_m)}{\displaystyle \sum_{h=1}^{H} a_h(t_m)}.
+\end{equation}\\
+
+%\newsubsubsection{Odd-to-Even Harmonic Energy Ratio}{fundamentals:timbre:harmonic:odd-to-even}
+In order to distinguish sounds which contain mainly odd harmonics from sounds with a more balanced distribution of partials, the \textbf{odd-to-even harmonic energy ratio (OER)} can be computed according to
+\begin{equation}
+OER(t_m) = \frac{\displaystyle \sum_{h=1}^{H/2} a_{2h-1}^{2}(t_m)}{\displaystyle \sum_{h=1}^{H/2} a_{2h}^{2}(t_m)}.
+\end{equation}
+The clarinet is a popular example of an instrument with predominantly odd harmonics.

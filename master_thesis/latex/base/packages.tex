@@ -1,0 +1,228 @@
+% **************************************************************************************************
+% ** SPSC Report and Thesis Template
+% **************************************************************************************************
+%
+% ***** Authors *****
+% Daniel Arnitz, Paul Meissner, Stefan Petrik, Dietmar Malli
+% Signal Processing and Speech Communication Laboratory (SPSC)
+% Graz University of Technology (TU Graz), Austria
+%
+% ***** Changelog *****
+% 0.1   2010-05-30   some option updates for scrreprt (newer versions)
+% 0.2   2010-06-05   split in packages for thesis and report; removed old scrreprt options,
+%                    set header to two lines plus adapted geometry
+% 0.3   2010-09-13   cite, fixltx2e, [latin1]{inputenc} only for DE, fixed scrreprt options,
+%                    paralist, calc, setspace, wrapfig
+% 0.4   2011-01-18   scrartcl->scrbook, \Twosided now {true,false}, T1 fontenc for de (hyphenation)
+% 0.5   2011-03-31   removed flafter (for top placement)
+% 0.6   2011-04-29   added option noadjust to cite (do not set space before \cite automatically)
+%                    hmarginratio=3:2 (before: 2:1), voffset=2mm (3mm), added quotchap
+% 0.7   2011-12-17   varioref now also works for german text (bug reported by Angelika Kern)
+% 0.8   2012-07-27   added option to control paper size (via \PaperSize)
+% 0.9   2017-10-31   Removed doubled/copied code which does the same
+%                    Added usage of imakeindex with index style file supplied in this template
+%                    and removed warning from main.tex
+%                    Added enabling of KOMA-Script draft mode if desired by user
+%                    fontenc should be loaded before inputenc, because it generates a list parsed by
+%                    inputenc [1].
+%                    Only load utf8 characters which also can be displayed. (inputenc utf8 instead
+%                    of utf8x [2])
+%                    Removed cite
+%                    Moved hyperref into my package list.. Should always be nearly the last
+%                    package called/imported to avoid problems.
+%                    Moved documentclass into separate file to have global packages list.
+% 1.0   2018-05-01   Added parameter for framed links in hyperref.
+%                    
+%                    
+%
+% ***** Todo *****
+%
+%
+% ***** Knowledge sources *****
+% [1]https://tex.stackexchange.com/questions/97252/in-which-order-should-i-load-inputenc-and-fontenc
+% [2]https://tex.stackexchange.com/questions/13067/utf8x-vs-utf8-inputenc
+% **************************************************************************************************
+
+% master
+\usepackage{fixltx2e}% LaTeX 2e bugfixes
+\usepackage{ifthen}% for optional parts
+\ifthenelse{\equal{\PaperSize}{a4paper}}{
+\usepackage[paper=\PaperSize,twoside=\Twosided,%
+textheight=246mm,%
+textwidth=160mm,%
+heightrounded=true,% round textheight to multiple of lines (avoids overfull vboxes)
+ignoreall=true,% do not include header, footer, and margins in calculations
+marginparsep=5pt,% marginpar only used for signs (centered), thus only small sep. needed
+marginparwidth=10mm,% prevent margin notes to be out of page
+hmarginratio=2:1,% set margin ration (inner:outer for twoside) - (2:3 is default)
+]{geometry}}{}%
+\ifthenelse{\equal{\PaperSize}{letterpaper}}{
+\usepackage[paper=\PaperSize,twoside=\Twosided,%
+textheight=9in,%
+textwidth=6.5in,%
+heightrounded=true,% round textheight to multiple of lines (avoids overfull vboxes)
+ignoreheadfoot=false,% do not include header and footer in calculations
+marginparsep=5pt,% marginpar only used for signs (centered), thus only small sep. needed
+marginparwidth=10mm,% prevent margin notes to be out of page
+hmarginratio=3:2,% set margin ration (inner:outer for twoside) - (2:3 is default)
+]{geometry}}{}%
+\ifthenelse{\equal{\DocumentLanguage}{en}}{\usepackage[T1]{fontenc}\usepackage[utf8]{inputenc}\usepackage[USenglish]{babel}}{}%
+\ifthenelse{\equal{\DocumentLanguage}{de}}{\usepackage[T1]{fontenc}\usepackage[utf8]{inputenc}\usepackage[ngerman]{babel}}{}%
+\usepackage[%
+headtopline,plainheadtopline,% activate all lines (header and footer)
+headsepline,plainheadsepline,%
+footsepline,plainfootsepline,%
+footbotline,plainfootbotline,%
+automark% auto update \..mark
+]{scrlayer-scrpage}% (KOMA)
+\usepackage{imakeidx}
+\usepackage[]{caption}% customize captions
+%\usepackage{subcaption}
+\usepackage{multicol}% multi-column layout
+\usepackage{setspace}% (properly) set linespreads
+\usepackage[stable,bottom,hang,splitrule,multiple]{footmisc}% customize footnotes
+
+% text
+\ifthenelse{\equal{\DocumentLanguage}{en}}{\usepackage{varioref}}{}% improved references
+\ifthenelse{\equal{\DocumentLanguage}{de}}{\usepackage[german]{varioref}}{}% improved references
+\usepackage{xcolor}% e.g., for color boxes
+\usepackage{rotating}% to rotate objects
+\usepackage{gensymb}% symbols (perthousand, Celsius, ...)
+\usepackage[right]{eurosym}% euro symbol on the right side (51 EUR)
+\usepackage[normalem]{ulem}% cross-out, strike-out, underlines (normalem: keep \emph italic)
+%\usepackage[safe]{textcomp}% loading in safe mode to avoid problems (see LaTeX companion)
+%\usepackage[geometry,misc]{ifsym}% technical symbols
+\usepackage{remreset}%\@removefromreset commands (e.g., for continuous footnote numbering)
+\usepackage{paralist}% extended list environments
+% \usepackage[Sonny]{fncychap}
+\usepackage[avantgarde]{quotchap}
+
+% math
+\usepackage{amsmath,amssymb,amstext,bm}% math packages
+\usepackage{mathcomp}% symbols (perthousand, ...) in math mode
+
+
+% graphics
+\usepackage{graphicx}% use simple graphics
+\usepackage{subfigure}% subfigures (a),(b),(c)... within figures
+% \usepackage{flafter}% place floats always after reference
+\usepackage{placeins}% preventing floats from crossing a barrier
+\usepackage{float}% to place floats !HERE!
+\usepackage{psfrag}% replace text in eps figures
+\usepackage{wrapfig}% inline graphics
+\usepackage[export]{adjustbox}
+
+
+% tables
+\usepackage{hhline}% hline doesn't work with colored columns, so using hhline
+\usepackage{longtable}% for tables longer than one page
+\usepackage{dcolumn}% for number alignment in tables
+\usepackage{colortbl}% color in tables
+
+
+% listings
+%\usepackage{alltt}% verbatim environment with commands available
+\usepackage{listings}% program code listings
+
+
+% other
+\usepackage{layout}% graphical page layout (spacings)
+\usepackage{xspace}% add space after macros if not followed by punctuation character
+\usepackage{calc}% online calculations
+\makeindex[options=-s ./base/index.sty]% used for index creation
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% additions by Dietmar Malli 2017 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{scrhack}              %Fix for: Koma Warning: \float@addtolists detected!
+\usepackage{lmodern}              %use modern font
+\usepackage{tabularx}             %Special table environment (Table over whole \textwidth)
+\usepackage{rotating}             %landscape (also landscape tables combined with tabularx)
+\usepackage[hyphens]{url}         %\url command
+\usepackage{mdwlist}              %list extensions
+\ifthenelse{\equal{\DocumentLanguage}{de}}
+{
+  \usepackage[german]{fancyref}   %Bessere Querverweise
+  \usepackage[locale=DE,          %Zahlen und SI Einheiten
+  binary-units=true]{siunitx}     %Zahlen und SI Einheiten => Binary units aktivieren...
+  \usepackage[autostyle=true,     %Anführungszeichen und Übersetzung der Literaturverweise
+  german=quotes]{csquotes}        %Anführungszeichen und Übersetzung der Literaturverweise
+}
+{
+  \usepackage[english]{fancyref}  %Bessere Querverweise
+  \usepackage[locale=USA,         %Zahlen und SI Einheiten
+  binary-units=true]{siunitx}     %Zahlen und SI Einheiten => Binary units aktivieren...
+  \usepackage[autostyle=true]     %Anführungszeichen und Übersetzung der Literaturverweise
+  {csquotes}
+}
+\sisetup{detect-weight=true, detect-family=true} %format like surrounding environment
+%extending fancyref for listings in both languages:
+\newcommand*{\fancyreflstlabelprefix}{lst}
+\fancyrefaddcaptions{english}{%
+  \providecommand*{\freflstname}{listing}%
+  \providecommand*{\Freflstname}{Listing}%
+}
+\fancyrefaddcaptions{german}{%
+  \providecommand*{\freflstname}{Listing}%
+  \providecommand*{\Freflstname}{Listing}%
+}
+\frefformat{plain}{\fancyreflstlabelprefix}{\freflstname\fancyrefdefaultspacing#1}
+\Frefformat{plain}{\fancyreflstlabelprefix}{\Freflstname\fancyrefdefaultspacing#1}
+\frefformat{vario}{\fancyreflstlabelprefix}{%
+  \freflstname\fancyrefdefaultspacing#1#3%
+}
+\Frefformat{vario}{\fancyreflstlabelprefix}{%
+  \Freflstname\fancyrefdefaultspacing#1#3%
+}
+
+\sisetup{separate-uncertainty}    %enable uncertainity for siunitx
+\sisetup{multi-part-units=single} %uncertainity formatting (single, brackets, repeat)
+\DeclareSIUnit\permille{\text{\textperthousand}} %add \permille to siunitx
+\usepackage{xfrac}                %Schönere brüche für SI Einheiten
+\sisetup{per-mode=fraction,       %Bruchstriche bei SI Einheiten aktivieren
+fraction-function=\sfrac}         %xfrac als Bruchstrichfunktion verwenden
+\usepackage[scaled=0.78]{inconsolata}%Schreibmaschinenschrift für Quellcode
+
+\usepackage[backend=biber,        %Literaturverweiserweiterung Backend auswählen
+bibencoding=utf8,                 %.bib-File ist utf8-codiert...
+maxbibnames=99,                   %Immer alle Authoren in der Bibliographie darstellen...
+style=ieee
+]{biblatex}
+%\bibliography{bib/bibliography.bib}  %veraltet --> use \addbibresource instead
+\addbibresource{bib/bibliography.bib}
+
+\ifthenelse{\equal{\FramedLinks}{true}}
+{
+  \usepackage[%
+  breaklinks=true,% allow line break in links
+  colorlinks=false,% if false: framed link
+  linkcolor=black,anchorcolor=black,citecolor=black,filecolor=black,%
+  menucolor=black,urlcolor=black,bookmarksnumbered=true]{hyperref}% hyperlinks for references
+}
+{
+  \usepackage[%
+  breaklinks=true,% allow line break in links
+  colorlinks=true,% if false: framed link
+  linkcolor=black,anchorcolor=black,citecolor=black,filecolor=black,%
+  menucolor=black,urlcolor=black,bookmarksnumbered=true]{hyperref}% hyperlinks for references
+}
+
+\setcounter{biburlnumpenalty}{100}%Urls in Bibliographie Zeilenbrechbar machen
+\setcounter{biburlucpenalty}{100} %Urls in Bibliographie Zeilenbrechbar machen
+\setcounter{biburllcpenalty}{100} %Urls in Bibliographie Zeilenbrechbar machen
+
+\usepackage[acronym,nomain]{glossaries}%Abkürzungsverzeichnis ohne Glossar
+\makeglossaries                   %Paket verwenden
+
+\input{acronyms}                  %Acronyme laden
+
+\ifthenelse{\equal{\DocumentLanguage}{de}}
+{
+  \deftranslation[to=ngerman]       %Dem Paket babel den deutschen Abkürzungsverzeichnis-Kapitelnamen
+  {Acronyms}{Abkürzungsverzeichnis} %beibringen
+}{}
+
+% misc
+\usepackage{datetime}
+\newdateformat{monthyeardate}{%
+	\monthname[\THEMONTH], \THEYEAR}

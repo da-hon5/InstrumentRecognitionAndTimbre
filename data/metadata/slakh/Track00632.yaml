@@ -1,0 +1,108 @@
+UUID: ea3c299addf9b94ff4ff3322397697ff
+audio_dir: Track00632/stems
+lmd_midi_dir: lmd_matched/J/X/Y/TRJXYBF128F930EDA8/ea3c299addf9b94ff4ff3322397697ff.mid
+midi_dir: Track00632/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.0877059706335794
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.194504036968308
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.97348635788971
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.728716882384326
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -22.170622617749505
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -17.596221792089192
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_ensemble.nkm
+    program_num: 40
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.650587406666148
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet.nkm
+    program_num: 56
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.484493601068067
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.751186389767575
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet.nkm
+    program_num: 56
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.715186070461908
+    is_drum: false
+    midi_program_name: Trombone
+    midi_saved: true
+    plugin_name: bass_trombone.nkm
+    program_num: 57
+  S09:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -16.536826906818703
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.610755936094503
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 36
+target_peak: -1.0

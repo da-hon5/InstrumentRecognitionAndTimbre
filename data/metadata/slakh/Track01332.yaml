@@ -1,0 +1,89 @@
+UUID: 7ce4889188b51ebd6a5243dc81ace607
+audio_dir: Track01332/stems
+lmd_midi_dir: lmd_matched/B/S/Z/TRBSZXW128F92E2347/7ce4889188b51ebd6a5243dc81ace607.mid
+midi_dir: Track01332/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14841026618610761
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.57211686948912
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.572219409569957
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.572245934608688
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 26
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -29.570551315967933
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 18
+  S04:
+    audio_rendered: false
+    inst_class: Pipe
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.5727390714475
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.572174092822713
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.572173845734373
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.57202605506011
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

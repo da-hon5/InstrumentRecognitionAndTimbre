@@ -1,0 +1,105 @@
+UUID: d2864dca2e1047da8383864b9bc4b396
+audio_dir: Track00888/stems
+lmd_midi_dir: lmd_matched/E/U/L/TREULAR128F147FC87/d2864dca2e1047da8383864b9bc4b396.mid
+midi_dir: Track00888/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1448629460747595
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.317432968409836
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 51
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.589110816802364
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 82
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.975183364485815
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.127954960936364
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 89
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.810618825837702
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 88
+  S06:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 4 (atmosphere)
+    midi_saved: false
+    plugin_name: None
+    program_num: 99
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.581048159093818
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.581183120486454
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.843727251983335
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+target_peak: -1.0

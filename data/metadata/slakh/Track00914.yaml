@@ -1,0 +1,89 @@
+UUID: fbb22ff3ee5e2751a82d0c93dcccf72c
+audio_dir: Track00914/stems
+lmd_midi_dir: lmd_matched/D/B/B/TRDBBMB128F427C53B/fbb22ff3ee5e2751a82d0c93dcccf72c.mid
+midi_dir: Track00914/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13862593182825075
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.155232041009423
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_grandeur.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.158436954360038
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.161870823883174
+    is_drum: false
+    midi_program_name: Acoustic Bass
+    midi_saved: true
+    plugin_name: upright_bass2.nkm
+    program_num: 32
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.16554153526003
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: false
+    inst_class: Pipe
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.16149314886833
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.16146041540043
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 94
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.160525004475677
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.161499573698432
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+target_peak: -1.0

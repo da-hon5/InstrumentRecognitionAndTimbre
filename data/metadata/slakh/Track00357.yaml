@@ -1,0 +1,72 @@
+UUID: 2dfc2e66f4cace81c83f18e2d2f12f74
+audio_dir: Track00357/stems
+lmd_midi_dir: lmd_matched/O/C/Z/TROCZTE128F42886BE/2dfc2e66f4cace81c83f18e2d2f12f74.mid
+midi_dir: Track00357/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.09127542437198073
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.25861948221377
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 90
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.542973726154408
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.984382360613754
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -31.97804064791674
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.760584589480494
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.151299229954866
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.380732816936899
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+target_peak: -1.0

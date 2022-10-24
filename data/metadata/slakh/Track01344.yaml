@@ -1,0 +1,81 @@
+UUID: fbf567d39dc7c46b4988af4b4fbd42d2
+audio_dir: Track01344/stems
+lmd_midi_dir: lmd_matched/B/A/Z/TRBAZCA128F4236C86/fbf567d39dc7c46b4988af4b4fbd42d2.mid
+midi_dir: Track01344/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19988059088936447
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.982938088161397
+    is_drum: false
+    midi_program_name: Electric Grand Piano
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 2
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.983422772720356
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -26.982731617126603
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 17
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.98454327824046
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.982059527067012
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.98297083506757
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 7
+  S06:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.984552894341004
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: percussive_lead.nkm
+    program_num: 87
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.983788743998836
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+target_peak: -1.0

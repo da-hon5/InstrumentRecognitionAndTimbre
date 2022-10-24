@@ -1,0 +1,70 @@
+UUID: 68a5d15dd579ea53d63eca2c8cdd81bb
+audio_dir: Track01634/stems
+lmd_midi_dir: lmd_matched/U/X/Z/TRUXZSL128F427D534/68a5d15dd579ea53d63eca2c8cdd81bb.mid
+midi_dir: Track01634/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1666804337947421
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.800979565168877
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.952415702004622
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.44993675278343
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 35
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.804112390793748
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S04:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Shamisen
+    midi_saved: false
+    plugin_name: None
+    program_num: 106
+  S05:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 2
+    midi_saved: false
+    plugin_name: None
+    program_num: 39
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.94985825031016
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

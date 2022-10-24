@@ -1,0 +1,125 @@
+UUID: c11ddc1103a245a9f95c20763eff75b2
+audio_dir: Track00912/stems
+lmd_midi_dir: lmd_matched/Q/M/T/TRQMTNV128F429F7BA/c11ddc1103a245a9f95c20763eff75b2.mid
+midi_dir: Track00912/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.08989993422967317
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.48503107551158
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Koto
+    midi_saved: false
+    plugin_name: None
+    program_num: 107
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.95979443874275
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -33.44056088966223
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -23.514926899394272
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.215782155077353
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.218456842537122
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.907914202411646
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass_palm_muted.nkm
+    program_num: 33
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.79924418296556
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 34
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -21.493212865090563
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 89
+  S10:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -16.621719409134986
+    is_drum: false
+    midi_program_name: Pizzicato Strings
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 45
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -16.35040837158027
+    is_drum: false
+    midi_program_name: Clarinet
+    midi_saved: true
+    plugin_name: clarinet.nkm
+    program_num: 71
+  S12:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.829602845588147
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flute.nkm
+    program_num: 73
+target_peak: -1.0

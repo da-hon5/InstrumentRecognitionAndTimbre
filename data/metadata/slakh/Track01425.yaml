@@ -1,0 +1,99 @@
+UUID: 2077456af444d348c6e4c241710ff187
+audio_dir: Track01425/stems
+lmd_midi_dir: lmd_matched/Q/Q/J/TRQQJNH12903C96FED/2077456af444d348c6e4c241710ff187.mid
+midi_dir: Track01425/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.15375509716532915
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -22.891877870784867
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.506926755362706
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.27292667710774
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.336074231306217
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -17.318011091453528
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.4033814302698
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -18.60081228965911
+    is_drum: false
+    midi_program_name: Timpani
+    midi_saved: true
+    plugin_name: timpani.nkm
+    program_num: 47
+  S07:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -17.789735266676814
+    is_drum: false
+    midi_program_name: Celesta
+    midi_saved: true
+    plugin_name: marimba.nkm
+    program_num: 8
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.953641731707112
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.62216983481668
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+target_peak: -1.0

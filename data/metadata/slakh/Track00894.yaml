@@ -1,0 +1,134 @@
+UUID: 850729fd6cb815f1cc1c62615ae137fe
+audio_dir: Track00894/stems
+lmd_midi_dir: lmd_matched/U/U/D/TRUUDAM128F93422B7/850729fd6cb815f1cc1c62615ae137fe.mid
+midi_dir: Track00894/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19350662570787977
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.895971371008454
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.111125753709294
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S02:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 5 (brightness)
+    midi_saved: false
+    plugin_name: None
+    program_num: 100
+  S03:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -18.988396951618405
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: daft.nkm
+    program_num: 91
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.982890135819595
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S05:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.202913830295337
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.62680464267957
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.980457548245182
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.734623904438667
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -16.59274466426599
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.18512404284825
+    is_drum: false
+    midi_program_name: Slap Bass 1
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 36
+  S11:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -19.257250156218007
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 87
+  S12:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.228785844056397
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 50
+  S13:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.50267937215233
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 0
+target_peak: -1.0

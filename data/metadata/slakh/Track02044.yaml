@@ -1,0 +1,107 @@
+UUID: f8a38c3ea41622a6b112333a0a10b8ca
+audio_dir: Track02044/stems
+lmd_midi_dir: lmd_matched/U/Z/J/TRUZJUT128EF34141E/f8a38c3ea41622a6b112333a0a10b8ca.mid
+midi_dir: Track02044/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.12703796711208604
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -30.923689002059856
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 87
+  S01:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.92239056717931
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.922265623298625
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: grand_piano.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.92257588166354
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 7
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.92238497555271
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.922626781505993
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 28
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.926685064232434
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S08:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -30.923168077951058
+    is_drum: false
+    midi_program_name: Viola
+    midi_saved: true
+    plugin_name: viola_ensemble.nkm
+    program_num: 41
+  S09:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -30.923030405345383
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S10:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.922826549267914
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

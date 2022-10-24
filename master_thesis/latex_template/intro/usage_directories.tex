@@ -1,0 +1,14 @@
+% **************************************************************************************************
+% **************************************************************************************************
+\newsection{Layout of Files/Directories}{intro:directories}
+
+Bringing order to the chaos of a thesis is always a problem. Especially the file/directory structure can become somewhat huge and make later changes difficult. The command \verb|\pwd| (print working directory) can be used to divide the thesis into smaller parts and make absolute paths (from the main file) unnecessary.
+
+By starting a new chapter with \verb|\newchapter{Introduction}{intro}|, the working directory is set to the subdirectory \verb|intro|. The command \verb|\pwd| can then be used in all file paths (e.g., \verb|\input| or \verb|\includegraphics|) to make sure all files can be loaded without having to define a path. For example, this file is loaded via \verb|\input{\pwd/intro_basics}|.
+
+Consider creating one directory per chapter, and one file per section. This will make it easier to identify the correct file, and also to shift chapters and especially sections. External files (figures, code, \dots) can for example be placed in subdirectories for each chapter.
+
+
+
+
+

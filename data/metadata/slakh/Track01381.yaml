@@ -1,0 +1,132 @@
+UUID: 8989708ae123e824b2b258840c12df9d
+audio_dir: Track01381/stems
+lmd_midi_dir: lmd_matched/V/K/J/TRVKJFR128F14876D3/8989708ae123e824b2b258840c12df9d.mid
+midi_dir: Track01381/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16983393425169477
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.572521594982142
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.51091465792871
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.44944936848411
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: /Library/Audio/Plug-Ins/Components/AGML2.component
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -20.41345513198019
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -20.8595897464205
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 18
+  S05:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 8 (sci-fi)
+    midi_saved: false
+    plugin_name: None
+    program_num: 103
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.701852551745278
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.27423638120801
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.860256648544064
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -19.632321729138816
+    is_drum: false
+    midi_program_name: Pad 8 (sweep)
+    midi_saved: true
+    plugin_name: drifting_apart.nkm
+    program_num: 95
+  S10:
+    audio_rendered: false
+    inst_class: Sound Effects
+    is_drum: false
+    midi_program_name: FX 3 (crystal)
+    midi_saved: false
+    plugin_name: None
+    program_num: 98
+  S11:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.012808814032343
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S12:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Bag pipe
+    midi_saved: false
+    plugin_name: None
+    program_num: 109
+  S13:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -11.81764450465622
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 64
+target_peak: -1.0

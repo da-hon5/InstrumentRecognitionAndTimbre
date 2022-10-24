@@ -1,0 +1,134 @@
+UUID: 842d193d523082dbf4a6759fb308e3a7
+audio_dir: Track01786/stems
+lmd_midi_dir: lmd_matched/M/Y/T/TRMYTTC128F4298066/842d193d523082dbf4a6759fb308e3a7.mid
+midi_dir: Track01786/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1806767136405554
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.75402753217698
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -18.44373373025112
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -20.412838446571897
+    is_drum: false
+    midi_program_name: Lead 3 (calliope)
+    midi_saved: true
+    plugin_name: december_saw.nkm
+    program_num: 82
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.106349527247882
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -14.341458220360172
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: cheesy_lead.nkm
+    program_num: 80
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.795327945836192
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 17
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.609565682102277
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S07:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -22.664959080418253
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.017059140384923
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_hard_and_tough.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.529982580471028
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_clavinet_full.nkm
+    program_num: 4
+  S11:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -23.607658060447076
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 91
+  S12:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -15.739583791413969
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: april_pan.nkm
+    program_num: 88
+  S13:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -21.76952368896493
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 54
+target_peak: -1.0

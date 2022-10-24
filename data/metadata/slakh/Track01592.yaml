@@ -1,0 +1,72 @@
+UUID: a198d0bb38082a486eecb1b7269bc14c
+audio_dir: Track01592/stems
+lmd_midi_dir: lmd_matched/Q/F/M/TRQFMOM12903CC4977/a198d0bb38082a486eecb1b7269bc14c.mid
+midi_dir: Track01592/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19659724385191074
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -27.128299188074347
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_1.nkm
+    program_num: 56
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.128831720637102
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.12828519079929
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.129736658297368
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.12819191254724
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.12809879133692
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.13132740888171
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: pop_kit.nkm
+    program_num: 128
+target_peak: -1.0

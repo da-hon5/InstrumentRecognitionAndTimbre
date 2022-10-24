@@ -1,0 +1,318 @@
+album: ' '
+artist: Sweat
+composer: ''
+excerpt: 'no'
+genre: Jazz
+has_bleed: 'yes'
+instrumental: 'yes'
+mix_filename: Sweat_Sn1572_MIX.wav
+origin: Independent Artist
+producer: ''
+raw_dir: Sweat_Sn1572_RAW
+song_length: 4580859
+stem_dir: Sweat_Sn1572_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Sweat_Sn1572_STEM_01.wav
+    instrument: Main System
+    raw:
+      R01:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_01_01.wav
+        instrument: Main System
+      R02:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_01_02.wav
+        instrument: Main System
+      R03:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_01_03.wav
+        instrument: Main System
+      R04:
+        ++CLASS++: null
+        ++FAMILY++: null
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_01_04.wav
+        instrument: Main System
+  S02:
+    component: ''
+    filename: Sweat_Sn1572_STEM_02.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: Sweat_Sn1572_RAW_02_01.wav
+        instrument: kick drum
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Sn1572_RAW_02_02.wav
+        instrument: drum set
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Sn1572_RAW_02_03.wav
+        instrument: drum set
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: Sweat_Sn1572_RAW_02_04.wav
+        instrument: toms
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: Sweat_Sn1572_RAW_02_05.wav
+        instrument: snare drum
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Sn1572_RAW_02_06.wav
+        instrument: drum set
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: Sweat_Sn1572_RAW_02_07.wav
+        instrument: toms
+      R08:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: Sweat_Sn1572_RAW_02_08.wav
+        instrument: high hat
+      R09:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_02_09.wav
+        instrument: cymbal
+      R10:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: Sweat_Sn1572_RAW_02_10.wav
+        instrument: kick drum
+      R11:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: Sweat_Sn1572_RAW_02_11.wav
+        instrument: kick drum
+      R12:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: Sweat_Sn1572_RAW_02_12.wav
+        instrument: toms
+      R13:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: Sweat_Sn1572_RAW_02_13.wav
+        instrument: drum set
+      R14:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: Sweat_Sn1572_RAW_02_14.wav
+        instrument: kick drum
+      R15:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_02_15.wav
+        instrument: cymbal
+      R16:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_02_16.wav
+        instrument: cymbal
+      R17:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: Sweat_Sn1572_RAW_02_17.wav
+        instrument: snare drum
+      R18:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_02_18.wav
+        instrument: cymbal
+      R19:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: Sweat_Sn1572_RAW_02_19.wav
+        instrument: snare drum
+      R20:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: Sweat_Sn1572_RAW_02_20.wav
+        instrument: toms
+      R21:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: hihat
+        filename: Sweat_Sn1572_RAW_02_21.wav
+        instrument: high hat
+      R22:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: Sweat_Sn1572_RAW_02_22.wav
+        instrument: snare drum
+  S03:
+    component: bass
+    filename: Sweat_Sn1572_STEM_03.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_03_01.wav
+        instrument: electric bass
+      R02:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_03_02.wav
+        instrument: electric bass
+      R03:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_03_03.wav
+        instrument: electric bass
+      R04:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_03_04.wav
+        instrument: electric bass
+  S04:
+    component: melody
+    filename: Sweat_Sn1572_STEM_04.wav
+    instrument: distorted electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_01.wav
+        instrument: distorted electric guitar
+      R02:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_02.wav
+        instrument: distorted electric guitar
+      R03:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_03.wav
+        instrument: distorted electric guitar
+      R04:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_04.wav
+        instrument: distorted electric guitar
+      R05:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_05.wav
+        instrument: distorted electric guitar
+      R06:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_06.wav
+        instrument: distorted electric guitar
+      R07:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_07.wav
+        instrument: distorted electric guitar
+      R08:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_08.wav
+        instrument: distorted electric guitar
+      R09:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_09.wav
+        instrument: distorted electric guitar
+      R10:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_10.wav
+        instrument: distorted electric guitar
+      R11:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_11.wav
+        instrument: distorted electric guitar
+      R12:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: distorted
+        filename: Sweat_Sn1572_RAW_04_12.wav
+        instrument: distorted electric guitar
+  S05:
+    component: melody
+    filename: Sweat_Sn1572_STEM_05.wav
+    instrument: electric piano
+    raw:
+      R01:
+        ++CLASS++: e-piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_05_01.wav
+        instrument: electric piano
+      R02:
+        ++CLASS++: e-piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_05_02.wav
+        instrument: electric piano
+      R03:
+        ++CLASS++: e-piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_05_03.wav
+        instrument: electric piano
+      R04:
+        ++CLASS++: e-piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: Sweat_Sn1572_RAW_05_04.wav
+        instrument: electric piano
+title: SN 1572
+version: 1.2
+website: ''

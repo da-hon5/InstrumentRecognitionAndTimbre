@@ -1,0 +1,143 @@
+UUID: bf97a4fd680593d9a7c2403d7f15d01b
+audio_dir: Track00167/stems
+lmd_midi_dir: lmd_matched/B/P/E/TRBPETA128F92FDDA6/bf97a4fd680593d9a7c2403d7f15d01b.mid
+midi_dir: Track00167/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.13135533842684113
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -30.632350188318235
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.63243937324172
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -30.632977013497584
+    is_drum: false
+    midi_program_name: Harmonica
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 22
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.632439739115444
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -30.632333250149927
+    is_drum: false
+    midi_program_name: Pad 1 (new age)
+    midi_saved: true
+    plugin_name: cerulean.nkm
+    program_num: 88
+  S05:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -30.632671054872805
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 75
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.632678452486612
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -30.632837367597258
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 28
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.63378980644929
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -30.63020540603854
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 0
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -30.632422928709563
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S12:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -30.632661473731623
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_60s_horns.nkm
+    program_num: 61
+  S13:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -30.632315118564325
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S14:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -30.63233234089995
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+target_peak: -1.0

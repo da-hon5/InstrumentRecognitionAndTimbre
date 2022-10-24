@@ -1,0 +1,98 @@
+UUID: b22c9043309f6ae20cc99514f1d2d25b
+audio_dir: Track01073/stems
+lmd_midi_dir: lmd_matched/B/W/M/TRBWMXD128F92DCF1A/b22c9043309f6ae20cc99514f1d2d25b.mid
+midi_dir: Track01073/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22549546435847304
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.482621290937654
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.01850567799187
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.794437350093222
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.831909796872765
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -15.973834759282061
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_m3.nkm
+    program_num: 17
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -14.803093817088392
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_modern_studio.nkm
+    program_num: 1
+  S06:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -18.135533576050033
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S07:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -11.715978132254833
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 78
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.25513151584826
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S09:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+target_peak: -1.0

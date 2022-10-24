@@ -1,0 +1,225 @@
+album: ''
+artist: MikeSkalandunas
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: MikeSkalandunas_SunDrenched_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: MikeSkalandunas_SunDrenched_RAW
+stem_dir: MikeSkalandunas_SunDrenched_STEMS
+stems:
+  S01:
+    component: ''
+    filename: MikeSkalandunas_SunDrenched_STEM_drums.wav
+    instrument: roman wardrum
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 02_RomanWarDrum.wav
+        instrument: RomanWarDrum
+  S02:
+    component: ''
+    filename: 01_Daiko.wav
+    instrument: daiko
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 01_Daiko.wav
+        instrument: Daiko
+  S03:
+    component: ''
+    filename: 04_Percussion1.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 04_Percussion1.wav
+        instrument: Percussion
+  S04:
+    component: ''
+    filename: 07_Harp.wav
+    instrument: harp
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 07_Harp.wav
+        instrument: Harp
+  S05:
+    component: ''
+    filename: 15_Violas.wav
+    instrument: violas
+    raw:
+      R01:
+        ++CLASS++: viola
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 15_Violas.wav
+        instrument: Violas
+  S06:
+    component: ''
+    filename: 12_Pad2.wav
+    instrument: pad
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 12_Pad2.wav
+        instrument: Pad
+  S07:
+    component: ''
+    filename: 14_Violins2.wav
+    instrument: violins
+    raw:
+      R01:
+        ++CLASS++: violin
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 14_Violins2.wav
+        instrument: Violins
+  S08:
+    component: ''
+    filename: 10_Psaltery.wav
+    instrument: psaltery
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 10_Psaltery.wav
+        instrument: Psaltery
+  S09:
+    component: ''
+    filename: 06_Percussion3.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 06_Percussion3.wav
+        instrument: Percussion
+  S10:
+    component: ''
+    filename: 13_Violins1.wav
+    instrument: violins
+    raw:
+      R01:
+        ++CLASS++: violin
+        ++FAMILY++: bowed-str
+        ++SUBCLASS++: null
+        filename: 13_Violins1.wav
+        instrument: Violins
+  S11:
+    component: ''
+    filename: 09_Piano.wav
+    instrument: piano
+    raw:
+      R01:
+        ++CLASS++: piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 09_Piano.wav
+        instrument: Piano
+  S12:
+    component: ''
+    filename: 08_HarpHarmonics.wav
+    instrument: harpharmonics
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 08_HarpHarmonics.wav
+        instrument: HarpHarmonics
+  S13:
+    component: ''
+    filename: 17_Tuba.wav
+    instrument: tuba
+    raw:
+      R01:
+        ++CLASS++: tuba
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 17_Tuba.wav
+        instrument: Tuba
+  S14:
+    component: ''
+    filename: 11_Pad1.wav
+    instrument: pad
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: synth
+        ++SUBCLASS++: null
+        filename: 11_Pad1.wav
+        instrument: Pad
+  S15:
+    component: ''
+    filename: 05_Percussion2.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 05_Percussion2.wav
+        instrument: Percussion
+  S16:
+    component: ''
+    filename: 03_MalaysianDjembe.wav
+    instrument: malaysiandjembe
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 03_MalaysianDjembe.wav
+        instrument: MalaysianDjembe
+  S17:
+    component: ''
+    filename: 18_FrenchHorn1.wav
+    instrument: frenchhorn
+    raw:
+      R01:
+        ++CLASS++: horn
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 18_FrenchHorn1.wav
+        instrument: FrenchHorn
+  S18:
+    component: ''
+    filename: 16_Trombone.wav
+    instrument: trombone
+    raw:
+      R01:
+        ++CLASS++: trombone
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 16_Trombone.wav
+        instrument: Trombone
+  S19:
+    component: ''
+    filename: 19_FrenchHorn2.wav
+    instrument: frenchhorn
+    raw:
+      R01:
+        ++CLASS++: horn
+        ++FAMILY++: brass
+        ++SUBCLASS++: null
+        filename: 19_FrenchHorn2.wav
+        instrument: FrenchHorn
+title: SunDrenched
+version: '3.0'
+website: ''

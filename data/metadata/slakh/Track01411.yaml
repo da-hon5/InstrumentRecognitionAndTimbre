@@ -1,0 +1,90 @@
+UUID: e3f3d7eb6e96d6c69af4d2efc1417f68
+audio_dir: Track01411/stems
+lmd_midi_dir: lmd_matched/L/A/L/TRLALIA128F9320569/e3f3d7eb6e96d6c69af4d2efc1417f68.mid
+midi_dir: Track01411/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22227304515432447
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -14.916291340309629
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -15.31138260688944
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S02:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -16.62804117586785
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -19.658751877761816
+    is_drum: false
+    midi_program_name: Trumpet
+    midi_saved: true
+    plugin_name: trumpet_2.nkm
+    program_num: 56
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.004631921645778
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -16.141871342796776
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_a_200.nkm
+    program_num: 4
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.903249945978477
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -23.311418446037464
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.109060160830403
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+target_peak: -1.0

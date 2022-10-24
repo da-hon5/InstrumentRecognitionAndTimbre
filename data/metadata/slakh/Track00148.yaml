@@ -1,0 +1,81 @@
+UUID: 896d0a524ad589c35c3b00dddbd02b1e
+audio_dir: Track00148/stems
+lmd_midi_dir: lmd_matched/U/A/M/TRUAMNM12903CACCC2/896d0a524ad589c35c3b00dddbd02b1e.mid
+midi_dir: Track00148/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18058430248733404
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.867694198615204
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.867691394785165
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.868574850136547
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.867934105185846
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.868141532060868
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.867601297016297
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar3.nkm
+    program_num: 28
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.866551377471374
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophones_essential.nkm
+    program_num: 65
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.867035892927365
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

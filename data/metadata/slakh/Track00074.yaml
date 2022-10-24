@@ -1,0 +1,161 @@
+UUID: 984755b92fd3770b21b12e17731f3609
+audio_dir: Track00074/stems
+lmd_midi_dir: lmd_matched/V/X/E/TRVXEHW128F92E271C/984755b92fd3770b21b12e17731f3609.mid
+midi_dir: Track00074/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.17657986683170182
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.060617505835022
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.05957070133597
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.059460733878627
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.060617021807992
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.059545974435053
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.060045627480907
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.059474902964695
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.059403903082373
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -28.059397999864448
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 0
+  S09:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.05945215679984
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_ensemble_essential.nkm
+    program_num: 68
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.060607810157034
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -28.060618715708028
+    is_drum: false
+    midi_program_name: Oboe
+    midi_saved: true
+    plugin_name: woodwind_ensemble_essential.nkm
+    program_num: 68
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -28.059588678955752
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: downforce_saw.nkm
+    program_num: 80
+  S13:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Guitar Fret Noise
+    midi_saved: false
+    plugin_name: None
+    program_num: 120
+  S14:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -28.060410507714113
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 34
+  S15:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.0597672730625
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: session_kit_full.nkm
+    program_num: 128
+  S16:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.059412767816678
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+target_peak: -1.0

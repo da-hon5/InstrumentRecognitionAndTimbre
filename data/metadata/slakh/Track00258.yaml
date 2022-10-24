@@ -1,0 +1,133 @@
+UUID: a6c94b6d74750d0499f43e5893654c38
+audio_dir: Track00258/stems
+lmd_midi_dir: lmd_matched/S/N/N/TRSNNDF128F42915ED/a6c94b6d74750d0499f43e5893654c38.mid
+midi_dir: Track00258/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.22395494242280237
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.997586045848788
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S01:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.997583972436377
+    is_drum: false
+    midi_program_name: Synth Voice
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 54
+  S02:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Seashore
+    midi_saved: false
+    plugin_name: None
+    program_num: 122
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.997675261457786
+    is_drum: false
+    midi_program_name: Clavinet
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 7
+  S04:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Steel Drums
+    midi_saved: false
+    plugin_name: None
+    program_num: 114
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.99838176768473
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: alicias_keys.nkm
+    program_num: 6
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -25.997735141365943
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S07:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.998119553538483
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.99794170259407
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 35
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.997385330918892
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.99740706473171
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S11:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -25.997683911199946
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S12:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -25.99735192030516
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: hybrid_keys_antique_toy.nkm
+    program_num: 12
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.998391248065335
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+target_peak: -1.0

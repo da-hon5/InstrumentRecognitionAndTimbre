@@ -1,0 +1,150 @@
+UUID: 9722c18aeb9eee0e49e11b388ddbeb1e
+audio_dir: Track01022/stems
+lmd_midi_dir: lmd_matched/M/T/W/TRMTWOQ128F145F6F0/9722c18aeb9eee0e49e11b388ddbeb1e.mid
+midi_dir: Track01022/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1880873576252277
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -14.672245759003776
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 73
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.474385434840634
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S02:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -20.706142087643514
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.914269267310996
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.209188660003544
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: classic_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -24.877117670933995
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S07:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -24.783704498146243
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: session_horns_pro_keyswitch_generic_section.nkm
+    program_num: 61
+  S08:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Synth Drum
+    midi_saved: false
+    plugin_name: None
+    program_num: 118
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.120136399019838
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 52
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -17.934839973634112
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -24.168671882648386
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 0
+  S12:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.96635318114826
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 5
+  S13:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -15.762217960116068
+    is_drum: false
+    midi_program_name: Lead 1 (square)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 80
+  S14:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Telephone Ring
+    midi_saved: false
+    plugin_name: None
+    program_num: 124
+  S15:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -13.349738880553408
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_solo.nkm
+    program_num: 40
+target_peak: -1.0

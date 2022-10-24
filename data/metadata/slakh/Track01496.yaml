@@ -1,0 +1,71 @@
+UUID: c227c705a76cd2e87e0674d89e94be19
+audio_dir: Track01496/stems
+lmd_midi_dir: lmd_matched/G/V/H/TRGVHLY12903CDC731/c227c705a76cd2e87e0674d89e94be19.mid
+midi_dir: Track01496/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.20313941246776002
+stems:
+  S00:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S01:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.84518223103053
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.84409733957023
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.845304476353743
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.845000990945792
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.84511301597664
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.845039574317962
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: across_the_pacific.nkm
+    program_num: 91
+target_peak: -1.0

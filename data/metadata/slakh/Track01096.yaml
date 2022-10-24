@@ -1,0 +1,116 @@
+UUID: c3fa7b0f3a5a0565c8313e6e4de2ad0b
+audio_dir: Track01096/stems
+lmd_midi_dir: lmd_matched/F/B/Q/TRFBQNM128F4288E6D/c3fa7b0f3a5a0565c8313e6e4de2ad0b.mid
+midi_dir: Track01096/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18079417473055687
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -15.043011930106816
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.88885152144995
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 18
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -16.12619432980303
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 17
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.135217756192848
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S04:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -23.979536670561682
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_glockenspiel.nkm
+    program_num: 11
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -14.467745819185138
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: house_cat.nkm
+    program_num: 16
+  S06:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.8033464399215
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -12.904359034830831
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 26
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.23079911981843
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.111123083579823
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S11:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.349588230290252
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+target_peak: -1.0

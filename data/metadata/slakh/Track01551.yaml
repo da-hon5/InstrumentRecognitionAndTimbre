@@ -1,0 +1,107 @@
+UUID: 7e0112a89054dc959fac82ce724b6f79
+audio_dir: Track01551/stems
+lmd_midi_dir: lmd_matched/Z/C/D/TRZCDFT128F42636BA/7e0112a89054dc959fac82ce724b6f79.mid
+midi_dir: Track01551/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.16246138313927475
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -20.74348372619318
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -28.236749260501213
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.563427494297793
+    is_drum: false
+    midi_program_name: Flute
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 73
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.462771888321686
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 49
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -18.405915071818043
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_both.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -18.075989453524613
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S06:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -10.695704686635986
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flute_essential.nkm
+    program_num: 78
+  S07:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -28.403369628348177
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.0224690592888
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.50377681826411
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 29
+target_peak: -1.0

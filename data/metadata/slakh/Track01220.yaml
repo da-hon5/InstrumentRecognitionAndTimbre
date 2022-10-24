@@ -1,0 +1,135 @@
+UUID: 04785d5ab8e245e35a50203d2b9e9d0f
+audio_dir: Track01220/stems
+lmd_midi_dir: lmd_matched/R/P/W/TRRPWYU128F92E7A34/04785d5ab8e245e35a50203d2b9e9d0f.mid
+midi_dir: Track01220/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.21698878819518155
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.27133615273996
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: ahoy.nkm
+    program_num: 89
+  S01:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.270915320954227
+    is_drum: false
+    midi_program_name: Pad 4 (choir)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 91
+  S02:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.279730087112767
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.270947663681167
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 0
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.270679381556004
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.27102434457059
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.26986866862173
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.269878601615115
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 30
+  S08:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -26.270910308015992
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: belle_de_jour.nkm
+    program_num: 94
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.270416078655646
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.270615197509816
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 33
+  S11:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -26.270883672643645
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: poly_detuned_lead.nkm
+    program_num: 81
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.269868375582355
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 29
+  S13:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.27101146883951
+    is_drum: false
+    midi_program_name: Soprano Sax
+    midi_saved: true
+    plugin_name: alto_sax_vintage_solo.nkm
+    program_num: 64
+target_peak: -1.0

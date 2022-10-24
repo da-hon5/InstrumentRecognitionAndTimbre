@@ -1,0 +1,107 @@
+UUID: cabbed4c1be897f92bc8c0ed9b095794
+audio_dir: Track00210/stems
+lmd_midi_dir: lmd_matched/Q/G/F/TRQGFOY128F1491F3D/cabbed4c1be897f92bc8c0ed9b095794.mid
+midi_dir: Track00210/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1526123926364271
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -29.32625831329084
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.331591145798136
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -29.33299074521656
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -29.333367865850587
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_2_essential.nkm
+    program_num: 60
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.333392987577778
+    is_drum: false
+    midi_program_name: Synth Strings 2
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 51
+  S05:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -29.33404487566301
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -29.333569565439667
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.330931587265784
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -29.333392166043392
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: harpsichord.nkm
+    program_num: 6
+  S09:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Melodic Tom
+    midi_saved: false
+    plugin_name: None
+    program_num: 117
+  S10:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -29.330931206752762
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 27
+target_peak: -1.0

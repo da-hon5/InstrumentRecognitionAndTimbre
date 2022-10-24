@@ -1,0 +1,99 @@
+UUID: 1785239ed9d5068612a3efd36b5452d7
+audio_dir: Track00068/stems
+lmd_midi_dir: lmd_matched/Z/R/B/TRZRBKS128F426A65D/1785239ed9d5068612a3efd36b5452d7.mid
+midi_dir: Track00068/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18840447117769749
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -15.812128073997515
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.692594408920367
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.099407398191588
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -19.24677097702129
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -16.059587363649694
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 49
+  S05:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -14.20908342852769
+    is_drum: false
+    midi_program_name: French Horn
+    midi_saved: true
+    plugin_name: horn_1_essential.nkm
+    program_num: 60
+  S06:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -14.992948946640736
+    is_drum: false
+    midi_program_name: Pad 2 (warm)
+    midi_saved: true
+    plugin_name: arctic_morning.nkm
+    program_num: 89
+  S07:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -16.29305183795378
+    is_drum: false
+    midi_program_name: Viola
+    midi_saved: true
+    plugin_name: viola_ensemble.nkm
+    program_num: 41
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -23.932771202803035
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -11.949104475645209
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+target_peak: -1.0

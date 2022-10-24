@@ -1,0 +1,63 @@
+UUID: 4fdfedf41b7dd894f39b68f52e46216b
+audio_dir: Track01247/stems
+lmd_midi_dir: lmd_matched/Z/E/C/TRZECES128F9335E61/4fdfedf41b7dd894f39b68f52e46216b.mid
+midi_dir: Track01247/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2103079143760467
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.544533305162904
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: stadium_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.540847988742172
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -26.540879479676608
+    is_drum: false
+    midi_program_name: Vibraphone
+    midi_saved: true
+    plugin_name: hybrid_keys_hot_tropics.nkm
+    program_num: 11
+  S03:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.540724220787826
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.54083513957365
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.541678917047502
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 33
+target_peak: -1.0

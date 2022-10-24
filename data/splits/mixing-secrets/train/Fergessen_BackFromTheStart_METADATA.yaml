@@ -1,0 +1,262 @@
+album: ''
+artist: Fergessen
+composer: ''
+excerpt: 'no'
+genre: ''
+has_bleed: 'no'
+instrumental: 'no'
+mix_filename: Fergessen_BackFromTheStart_MIX.wav
+origin: Mixing Secrets
+producer: ''
+raw_dir: Fergessen_BackFromTheStart_RAW
+stem_dir: Fergessen_BackFromTheStart_STEMS
+stems:
+  S01:
+    component: ''
+    filename: Fergessen_BackFromTheStart_STEM_drums.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 01_KickIn.wav
+        instrument: KickIn
+      R02:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 07_Overheads.wav
+        instrument: Overheads
+      R03:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 09_DrumsRoomMono.wav
+        instrument: DrumsRoomMono
+      R04:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 03_SnareUp.wav
+        instrument: SnareUp
+      R05:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 06_Tom2.wav
+        instrument: Tom
+      R06:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 08_DrumsRoomStereo.wav
+        instrument: DrumsRoomStereo
+      R07:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: kick
+        filename: 02_KickOut.wav
+        instrument: KickOut
+      R08:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: snare
+        filename: 04_SnareDown.wav
+        instrument: SnareDown
+      R09:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: toms
+        filename: 05_Tom1.wav
+        instrument: Tom
+  S02:
+    component: ''
+    filename: 12_Bass.wav
+    instrument: electric bass
+    raw:
+      R01:
+        ++CLASS++: e-bass
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 12_Bass.wav
+        instrument: electric bass
+  S03:
+    component: ''
+    filename: 17_LeadVox.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 17_LeadVox.wav
+        instrument: male singer
+  S04:
+    component: ''
+    filename: 16_AcousticGtr.wav
+    instrument: acoustic guitar
+    raw:
+      R01:
+        ++CLASS++: a-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: null
+        filename: 16_AcousticGtr.wav
+        instrument: acoustic guitar
+  S05:
+    component: ''
+    filename: 15_ElecGtrFar.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 15_ElecGtrFar.wav
+        instrument: clean electric guitar
+  S06:
+    component: ''
+    filename: 13_Rhodes.wav
+    instrument: electric piano
+    raw:
+      R01:
+        ++CLASS++: e-piano
+        ++FAMILY++: key
+        ++SUBCLASS++: null
+        filename: 13_Rhodes.wav
+        instrument: Rhodes
+  S07:
+    component: ''
+    filename: 22_BackingVox5.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 22_BackingVox5.wav
+        instrument: male singer
+  S08:
+    component: ''
+    filename: 18_BackingVox1.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 18_BackingVox1.wav
+        instrument: male singer
+  S09:
+    component: ''
+    filename: 14_ElecGtrClose.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 14_ElecGtrClose.wav
+        instrument: clean electric guitar
+  S10:
+    component: ''
+    filename: 20_BackingVox3.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 20_BackingVox3.wav
+        instrument: male singer
+  S11:
+    component: ''
+    filename: 21_BackingVox4.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 21_BackingVox4.wav
+        instrument: male singer
+  S12:
+    component: ''
+    filename: 19_BackingVox2.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 19_BackingVox2.wav
+        instrument: male singer
+  S13:
+    component: ''
+    filename: 11-130624_1035.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 11-130624_1035.wav
+        instrument: drum set
+  S14:
+    component: ''
+    filename: 10_Percussion.wav
+    instrument: percussion
+    raw:
+      R01:
+        ++CLASS++: unknown
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 10_Percussion.wav
+        instrument: Percussion
+  S15:
+    component: ''
+    filename: 08-130624_1035.wav
+    instrument: drum set
+    raw:
+      R01:
+        ++CLASS++: drums
+        ++FAMILY++: percussion
+        ++SUBCLASS++: unknown
+        filename: 08-130624_1035.wav
+        instrument: drum set
+  S16:
+    component: ''
+    filename: 11_DjembeFX.wav
+    instrument: djembefx
+    raw:
+      R01:
+        ++CLASS++: other
+        ++FAMILY++: percussion
+        ++SUBCLASS++: null
+        filename: 11_DjembeFX.wav
+        instrument: DjembeFX
+  S17:
+    component: ''
+    filename: 15-130624_1040.wav
+    instrument: clean electric guitar
+    raw:
+      R01:
+        ++CLASS++: e-guitar
+        ++FAMILY++: plucked-str
+        ++SUBCLASS++: clean
+        filename: 15-130624_1040.wav
+        instrument: clean electric guitar
+  S18:
+    component: ''
+    filename: 23_BackingVox6.wav
+    instrument: male singer
+    raw:
+      R01:
+        ++CLASS++: singer
+        ++FAMILY++: voice
+        ++SUBCLASS++: male
+        filename: 23_BackingVox6.wav
+        instrument: male singer
+title: BackFromTheStart
+version: '3.0'
+website: ''

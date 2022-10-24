@@ -1,0 +1,106 @@
+UUID: 3815b6300819de1e9efefff18aa94faf
+audio_dir: Track01237/stems
+lmd_midi_dir: lmd_matched/F/D/S/TRFDSIR128F932645A/3815b6300819de1e9efefff18aa94faf.mid
+midi_dir: Track01237/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.24600695918699364
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -25.180850253652064
+    is_drum: false
+    midi_program_name: Slap Bass 2
+    midi_saved: true
+    plugin_name: scarbee_pre_bass.nkm
+    program_num: 37
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -25.181376273730645
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_b3.nkm
+    program_num: 16
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -25.18160623022969
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S03:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S04:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.181538871128414
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 30
+  S05:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -25.181453294490773
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 94
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -25.17989933119441
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 27
+  S07:
+    audio_rendered: false
+    inst_class: Sound effects
+    is_drum: false
+    midi_program_name: Reverse Cymbal
+    midi_saved: false
+    plugin_name: None
+    program_num: 119
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -25.18056172599103
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: funk_kit.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.181388780190073
+    is_drum: false
+    midi_program_name: Harpsichord
+    midi_saved: true
+    plugin_name: ragtime_piano.nkm
+    program_num: 6
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -25.17990282667788
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

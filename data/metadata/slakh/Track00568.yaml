@@ -1,0 +1,117 @@
+UUID: 705cfaa964ffc2e29c4e64566374bcb6
+audio_dir: Track00568/stems
+lmd_midi_dir: lmd_matched/W/R/M/TRWRMZP128F4254E15/705cfaa964ffc2e29c4e64566374bcb6.mid
+midi_dir: Track00568/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18098824645407566
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -13.450534336440644
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 24
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -14.595576148999987
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar.nkm
+    program_num: 25
+  S02:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.99912883923871
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 48
+  S03:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -16.067859982147695
+    is_drum: false
+    midi_program_name: Whistle
+    midi_saved: true
+    plugin_name: flutes_essential.nkm
+    program_num: 78
+  S04:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -14.500951824664245
+    is_drum: false
+    midi_program_name: Pad 7 (halo)
+    midi_saved: true
+    plugin_name: dawn_chorus.nkm
+    program_num: 94
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -8.822079942638375
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: harmonic_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -15.17856494999996
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_essential.nkm
+    program_num: 65
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.58629602880022
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_mm_bass.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.565899890504102
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S09:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -10.541998815285952
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 30
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -18.663904293050862
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 5
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.430744198038624
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_a.nkm
+    program_num: 52
+target_peak: -1.0

@@ -1,0 +1,90 @@
+UUID: 935eff530983d3da6c9cc7037f98b40f
+audio_dir: Track01198/stems
+lmd_midi_dir: lmd_matched/G/H/K/TRGHKNH12903CEEC1B/935eff530983d3da6c9cc7037f98b40f.mid
+midi_dir: Track01198/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18457990297729532
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.677565157947633
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: street_knowledge_kit.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.677544974051898
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S02:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -27.67790623155948
+    is_drum: false
+    midi_program_name: Pad 3 (polysynth)
+    midi_saved: true
+    plugin_name: ambibella.nkm
+    program_num: 90
+  S03:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.678090928902012
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_gentleman.nkm
+    program_num: 1
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.677562486875846
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.676864189753896
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 18
+  S06:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.67533738770275
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 65
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.67746130612628
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 27
+  S08:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -27.677389547035784
+    is_drum: false
+    midi_program_name: Choir Aahs
+    midi_saved: true
+    plugin_name: choir_e.nkm
+    program_num: 52
+target_peak: -1.0

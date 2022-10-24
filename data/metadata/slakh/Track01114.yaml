@@ -1,0 +1,89 @@
+UUID: 2cb02acb19100742ced101ecc8d2fcf6
+audio_dir: Track01114/stems
+lmd_midi_dir: lmd_matched/Y/R/W/TRYRWQI128F930460F/2cb02acb19100742ced101ecc8d2fcf6.mid
+midi_dir: Track01114/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.2098853999885437
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -26.561578942643195
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -26.560395485055803
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.560625007169214
+    is_drum: false
+    midi_program_name: Electric Guitar (clean)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 27
+  S03:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -26.56000192189592
+    is_drum: false
+    midi_program_name: Voice Oohs
+    midi_saved: true
+    plugin_name: choir_o.nkm
+    program_num: 53
+  S04:
+    audio_rendered: true
+    inst_class: Brass
+    integrated_loudness: -26.561414881142742
+    is_drum: false
+    midi_program_name: Brass Section
+    midi_saved: true
+    plugin_name: brass_quartet_essential.nkm
+    program_num: 61
+  S05:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -26.561320211686976
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S06:
+    audio_rendered: false
+    inst_class: Brass
+    is_drum: false
+    midi_program_name: Synth Brass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 62
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -26.561267533212284
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar2.nkm
+    program_num: 28
+  S08:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.561272380867134
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

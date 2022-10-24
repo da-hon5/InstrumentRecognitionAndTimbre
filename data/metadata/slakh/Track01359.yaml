@@ -1,0 +1,108 @@
+UUID: ebdf8b9467a5a7832b17836a094489b8
+audio_dir: Track01359/stems
+lmd_midi_dir: lmd_matched/L/F/C/TRLFCUS128F933B4A9/ebdf8b9467a5a7832b17836a094489b8.mid
+midi_dir: Track01359/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.11276873331593554
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.95863241941306
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 26
+  S01:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -31.959798258403552
+    is_drum: false
+    midi_program_name: Baritone Sax
+    midi_saved: true
+    plugin_name: saxophone_section.nkm
+    program_num: 67
+  S02:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -31.957527213738636
+    is_drum: false
+    midi_program_name: Tenor Sax
+    midi_saved: true
+    plugin_name: tenor_sax.nkm
+    program_num: 66
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -31.956759348807353
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: garage_kit_lite.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.95589659212657
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_pianet.nkm
+    program_num: 4
+  S05:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -31.955581366264564
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: pop_bass.nkm
+    program_num: 33
+  S06:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -31.955289807043204
+    is_drum: false
+    midi_program_name: String Ensemble 2
+    midi_saved: true
+    plugin_name: string_ensemble.nkm
+    program_num: 49
+  S07:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.95504731402687
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: rhythm_rock_guitar.nkm
+    program_num: 29
+  S08:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -31.9574639935194
+    is_drum: false
+    midi_program_name: Guitar harmonics
+    midi_saved: true
+    plugin_name: jazz_guitar.nkm
+    program_num: 31
+  S09:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -31.955586433753336
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: hybrid_keys_futurebells.nkm
+    program_num: 12
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -31.957380029814388
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+target_peak: -1.0

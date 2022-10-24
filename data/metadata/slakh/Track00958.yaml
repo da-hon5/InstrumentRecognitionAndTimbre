@@ -1,0 +1,125 @@
+UUID: dd9df17ad0b513366621eaeb1cb52d00
+audio_dir: Track00958/stems
+lmd_midi_dir: lmd_matched/A/G/H/TRAGHBP128E0793AF7/dd9df17ad0b513366621eaeb1cb52d00.mid
+midi_dir: Track00958/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.14139837770149646
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.385017574474425
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_white_kit_full.nkm
+    program_num: 128
+  S01:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.178537152045195
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 35
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.00594657531439
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S03:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -26.07056716370434
+    is_drum: false
+    midi_program_name: Music Box
+    midi_saved: true
+    plugin_name: hybrid_keys_concert_marimba.nkm
+    program_num: 10
+  S04:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -21.584410995403772
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S05:
+    audio_rendered: false
+    inst_class: Ethnic
+    is_drum: false
+    midi_program_name: Sitar
+    midi_saved: false
+    plugin_name: None
+    program_num: 104
+  S06:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.350099767971614
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S07:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -21.59864017334184
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 4
+  S08:
+    audio_rendered: true
+    inst_class: Pipe
+    integrated_loudness: -15.95805664888187
+    is_drum: false
+    midi_program_name: Pan Flute
+    midi_saved: true
+    plugin_name: piccolo.nkm
+    program_num: 75
+  S09:
+    audio_rendered: true
+    inst_class: Synth Pad
+    integrated_loudness: -14.832715368108543
+    is_drum: false
+    midi_program_name: Pad 6 (metallic)
+    midi_saved: true
+    plugin_name: chrystal.nkm
+    program_num: 93
+  S10:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.910702962591852
+    is_drum: false
+    midi_program_name: Synth Strings 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_traditional.nkm
+    program_num: 50
+  S11:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.255571928869337
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: string_ensemble_essential.nkm
+    program_num: 48
+  S12:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -16.560508163216376
+    is_drum: false
+    midi_program_name: Electric Guitar (muted)
+    midi_saved: true
+    plugin_name: jazz_guitar4.nkm
+    program_num: 28
+target_peak: -1.0

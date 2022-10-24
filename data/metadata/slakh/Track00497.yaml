@@ -1,0 +1,152 @@
+UUID: 02fbb737bc6fa5be83e3c857e2564d3e
+audio_dir: Track00497/stems
+lmd_midi_dir: lmd_matched/N/U/W/TRNUWLX128F4266450/02fbb737bc6fa5be83e3c857e2564d3e.mid
+midi_dir: Track00497/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.1975046432563611
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -23.339767565211133
+    is_drum: false
+    midi_program_name: Electric Guitar (jazz)
+    midi_saved: true
+    plugin_name: funk_guitar.nkm
+    program_num: 26
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -21.783919510811828
+    is_drum: false
+    midi_program_name: Rock Organ
+    midi_saved: true
+    plugin_name: tonewheel_organ_c3.nkm
+    program_num: 18
+  S02:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.878073908177203
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: fever.nkm
+    program_num: 16
+  S03:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.823021097338565
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S04:
+    audio_rendered: true
+    inst_class: Strings (continued)
+    integrated_loudness: -17.490991151167588
+    is_drum: false
+    midi_program_name: String Ensemble 1
+    midi_saved: true
+    plugin_name: session_strings_pro_2_ensemble_modern.nkm
+    program_num: 48
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -24.142302635897593
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -22.7168506153378
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: rock_guitar.nkm
+    program_num: 30
+  S07:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -17.521728394566342
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 87
+  S08:
+    audio_rendered: false
+    inst_class: Percussive
+    is_drum: false
+    midi_program_name: Melodic Tom
+    midi_saved: false
+    plugin_name: None
+    program_num: 117
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -26.333685367652773
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -19.802717591910923
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: the_giant_vibrant.nkm
+    program_num: 1
+  S11:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -16.72491365012323
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 87
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -16.065466377895305
+    is_drum: false
+    midi_program_name: Lead 8 (bass + lead)
+    midi_saved: true
+    plugin_name: hybrid_lead.nkm
+    program_num: 87
+  S13:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -18.34525587642726
+    is_drum: false
+    midi_program_name: Lead 5 (charang)
+    midi_saved: true
+    plugin_name: reamped_lead.nkm
+    program_num: 84
+  S14:
+    audio_rendered: true
+    inst_class: Chromatic Percussion
+    integrated_loudness: -20.484133611178102
+    is_drum: false
+    midi_program_name: Marimba
+    midi_saved: true
+    plugin_name: hybrid_keys_glockenspiel.nkm
+    program_num: 12
+  S15:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -17.393309121393198
+    is_drum: false
+    midi_program_name: Violin
+    midi_saved: true
+    plugin_name: violin_solo.nkm
+    program_num: 40
+target_peak: -1.0

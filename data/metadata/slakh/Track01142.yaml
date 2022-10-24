@@ -1,0 +1,144 @@
+UUID: 20390e37eb9c03e6dd4e32e57ed0e1f3
+audio_dir: Track01142/stems
+lmd_midi_dir: lmd_matched/P/U/Z/TRPUZKI12903CC22A5/20390e37eb9c03e6dd4e32e57ed0e1f3.mid
+midi_dir: Track01142/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.18912912608469046
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.4654882932522
+    is_drum: false
+    midi_program_name: Acoustic Guitar (nylon)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 24
+  S01:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -27.465508100760285
+    is_drum: false
+    midi_program_name: Accordion
+    midi_saved: true
+    plugin_name: transistor_compact.nkm
+    program_num: 21
+  S02:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -27.466074531747548
+    is_drum: false
+    midi_program_name: Electric Bass (pick)
+    midi_saved: true
+    plugin_name: scarbee_jay_bass_slap_both.nkm
+    program_num: 34
+  S03:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.465272948852874
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+  S04:
+    audio_rendered: true
+    inst_class: Strings
+    integrated_loudness: -27.465490998064624
+    is_drum: false
+    midi_program_name: Viola
+    midi_saved: true
+    plugin_name: viola_solo.nkm
+    program_num: 41
+  S05:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.464184674918258
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S06:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.465492259147755
+    is_drum: false
+    midi_program_name: Overdriven Guitar
+    midi_saved: true
+    plugin_name: solo_guitar.nkm
+    program_num: 29
+  S07:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.467269206941985
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+  S08:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.465493742224805
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S09:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.465172865700634
+    is_drum: false
+    midi_program_name: Acoustic Grand Piano
+    midi_saved: true
+    plugin_name: concert_grand.nkm
+    program_num: 0
+  S10:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.465489677848673
+    is_drum: false
+    midi_program_name: Electric Piano 1
+    midi_saved: true
+    plugin_name: scarbee_mark_I.nkm
+    program_num: 4
+  S11:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -27.46543049655428
+    is_drum: false
+    midi_program_name: Electric Piano 2
+    midi_saved: true
+    plugin_name: wurly_ep.nkm
+    program_num: 5
+  S12:
+    audio_rendered: true
+    inst_class: Synth Lead
+    integrated_loudness: -27.465332581746285
+    is_drum: false
+    midi_program_name: Lead 2 (sawtooth)
+    midi_saved: true
+    plugin_name: douglas_lead.nkm
+    program_num: 81
+  S13:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -27.46543164540612
+    is_drum: false
+    midi_program_name: Distortion Guitar
+    midi_saved: true
+    plugin_name: elektrik_guitar.nkm
+    program_num: 30
+  S14:
+    audio_rendered: true
+    inst_class: Reed
+    integrated_loudness: -27.465529733965372
+    is_drum: false
+    midi_program_name: Alto Sax
+    midi_saved: true
+    plugin_name: alto_saxophone.nkm
+    program_num: 65
+target_peak: -1.0

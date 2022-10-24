@@ -1,0 +1,98 @@
+UUID: 22394c099c9dbb35c28f1d8abe5dd353
+audio_dir: Track01159/stems
+lmd_midi_dir: lmd_matched/R/W/Z/TRRWZSR12903CAC5B6/22394c099c9dbb35c28f1d8abe5dd353.mid
+midi_dir: Track01159/MIDI
+normalization_factor: -13.0
+normalized: true
+overall_gain: 0.19039566704801006
+stems:
+  S00:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -25.474854775114807
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S01:
+    audio_rendered: true
+    inst_class: Piano
+    integrated_loudness: -17.69412637284657
+    is_drum: false
+    midi_program_name: Bright Acoustic Piano
+    midi_saved: true
+    plugin_name: upright_piano.nkm
+    program_num: 1
+  S02:
+    audio_rendered: true
+    inst_class: Guitar
+    integrated_loudness: -19.738818367237844
+    is_drum: false
+    midi_program_name: Acoustic Guitar (steel)
+    midi_saved: true
+    plugin_name: nylon_guitar2.nkm
+    program_num: 25
+  S03:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -18.744995628001245
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 17
+  S04:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -17.42558137021319
+    is_drum: false
+    midi_program_name: Drawbar Organ
+    midi_saved: true
+    plugin_name: outta_space.nkm
+    program_num: 16
+  S05:
+    audio_rendered: true
+    inst_class: Organ
+    integrated_loudness: -20.103760210038896
+    is_drum: false
+    midi_program_name: Percussive Organ
+    midi_saved: true
+    plugin_name: organ_kh_grprplenum_manual.nkm
+    program_num: 17
+  S06:
+    audio_rendered: false
+    inst_class: Bass
+    is_drum: false
+    midi_program_name: Synth Bass 1
+    midi_saved: false
+    plugin_name: None
+    program_num: 38
+  S07:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -19.685550825750713
+    is_drum: false
+    midi_program_name: Fretless Bass
+    midi_saved: true
+    plugin_name: scarbee_rickenbacker_bass.nkm
+    program_num: 35
+  S08:
+    audio_rendered: true
+    inst_class: Bass
+    integrated_loudness: -17.559102475293454
+    is_drum: false
+    midi_program_name: Electric Bass (finger)
+    midi_saved: true
+    plugin_name: funk_bass.nkm
+    program_num: 33
+  S09:
+    audio_rendered: true
+    inst_class: Drums
+    integrated_loudness: -27.168099839840327
+    is_drum: true
+    midi_program_name: Drums
+    midi_saved: true
+    plugin_name: ar_modern_sparkle_kit_full.nkm
+    program_num: 128
+target_peak: -1.0

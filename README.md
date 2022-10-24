@@ -1,19 +1,6 @@
-# Multi-Instrument Recognition, Mix-Parameter Estimation and Timbre Characterization using Deep Neural Networks
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Deep Neural Networks for Multi-Instrument Recognition and Timbre Characterization
 
-blablabla ...
-TODO: describe all the preprocessing steps in detail ... when to run which script
-
-## Reference
-
-**put a link to my master thesis here?**
-
-
-
-## Available Models
-- **Harmonic CNN** : Data-Driven Harmonic Filters for Audio Representation Learning, Won et al., 2020 [[pdf](https://ccrma.stanford.edu/~urinieto/MARL/publications/ICASSP2020_Won.pdf)]
-- **Short-chunk CNN** : Prevalent 3x3 CNN. So-called *vgg*-ish model with a small receptieve field.
-- **Short-chunk CNN + Residual** : Short-chunk CNN with residual connections.
+This repo was created in the course of my master's thesis at Graz University of Technology in 2022.
 
 
 ## Requirements
